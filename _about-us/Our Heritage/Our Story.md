@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Our Heritage
 ---
 ### **Our Story**
-<img src="/images/story.jpg" style="width:85%">
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/story.jpg">
+<img style="width:100%" src="/images/story.jpg">
+</a></p>
 
 #### **The Beginning**
 
