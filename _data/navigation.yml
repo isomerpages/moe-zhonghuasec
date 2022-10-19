@@ -3,8 +3,6 @@ links:
   - title: About Us
     url: /about-us/
     sublinks:
-      - title: About Us
-        url: /about-us/
       - title: Principal's Message
         url: /about-us/principals-message/
       - title: Vision, Mission, Values
@@ -33,7 +31,7 @@ links:
     url: /about-us/psg/
     sublinks:
       - title: Members
-        url: /about-us/psg/
+        url: /about-us/psg/members/2022/
       - title: Events
         url: /about-us/psg/events/
       - title: Event Photos
@@ -43,8 +41,6 @@ links:
   - title: Achievements
     url: /achievements/
     sublinks:
-      - title: Achievements
-        url: /achievements/
       - title: Highlights
         url: /achievements/highlights/
       - title: School Achievements
