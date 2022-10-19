@@ -62,30 +62,38 @@ links:
   - title: Departments
     url: /departments/
     sublinks:
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
+      - title: Departments
+        url: /departments/
+      - title: Design & Technology
+        url: /departments/dnt/
+      - title: English Language & Literature
+        url: /departments/english-language-and-literature/
+      - title: Humanities
+        url: /departments/humanities/
+      - title: Infocomm Technology
+        url: /departments/infocomm-technology/
+      - title: Mathematics
+        url: /departments/mathematics/
+      - title: Music
+        url: /departments/music/
+      - title: Mother Tongue Languages
+        url: /departments/mother-tongue-languages/
+      - title: Physical Education
+        url: /departments/physical-education/
+      - title: Science
+        url: /departments/science/
+      - title: Student Development
+        url: /departments/student-development/
+      - title: Visual Art
+        url: /departments/visual-art/
   - title: Programmes
-    url: /programmes/
-    sublinks: []
+    url: /programmes/zhonghua-signature-programmes/
+    sublinks:
+      - title: Zhonghua Signature Programmes
+        url: /programmes/zhonghua-signature-programmes/
+      - title: Talent Development Programme
+        url: /programmes/talent-development-programm/
+      - title: Student Leadership Development
+        url: /programmes/student-leadership-development/
   - title: Contact Us
     url: /contact-us/
