@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Publications.md
       - Calender.md
       - Organisation Chart/.keep
       - Parent Support Group/.keep
