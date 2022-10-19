@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Members
 ---
 ### **2019 PSG Committee**
-![](/images/psg%202019.jpg)
+<img src="/images/psg%202019.jpg" style="width:85%">
