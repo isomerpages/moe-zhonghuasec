@@ -2,6 +2,7 @@ collections:
   virtual-school-tour:
     output: true
     order:
+      - Level 1/Art Gallery.md
       - Level 1/Basketball Court.md
       - Level 1/Cafeteria.md
       - Level 1/Computer Lab.md
