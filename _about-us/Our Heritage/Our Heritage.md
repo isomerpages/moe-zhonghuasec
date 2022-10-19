@@ -9,7 +9,7 @@ third_nav_title: Our Heritage
 
 ![](/images/heritage1.jpg)
 
-Click [here] to enlarge image.
+Click [here](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/heritage1.jpg) to enlarge image.
 
 Click on the following links to find out more about our heritage!
 
