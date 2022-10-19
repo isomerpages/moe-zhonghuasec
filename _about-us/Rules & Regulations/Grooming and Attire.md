@@ -38,8 +38,8 @@ Shoes: All white canvas.
 
 <br clear="left">
 
-<img src="/images/attire2.jpg" style="width:25%;margin-right:15px;" align = "left">Name tag: Present, unmodified.<br>
+<img src="/images/attire2.jpg" style="width:25%;margin-right:15px;" align = "left"><br>Name tag: Present, unmodified.<br>
 Shirt: Tucked in neatly above 1 inchhemline.<br>
-Pants: Straight cut, untapered.<br><br><br>Socks: Above ankle bone.<br>Shoes: All white canvas.
+Pants: Straight cut, untapered.<br><br>Socks: Above ankle bone.<br>Shoes: All white canvas.
 
 <br clear="left">
