@@ -26,4 +26,18 @@ sections:
       description: Direct School Admission Exercise for 2023 intake
       button: click for more info
       url: /admission/dsa-2023/
+  - infopic:
+      title: Facebook Page
+      subtitle: Zhonghua secondary school
+      button: click here
+      url: https://www.facebook.com/zhonghuasec/
+      image: /images/fb.png
+      alt: Image alt text
+  - infopic:
+      title: Instagram
+      subtitle: Zhonghua secondary school
+      button: click here
+      url: https://www.instagram.com/zhonghuasec/
+      image: /images/insta.png
+      alt: Image alt text
 ---
