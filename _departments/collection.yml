@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/Science.md
       - Science/Science Symposium.md
       - Science/.keep
       - Student Development/Student Development.md
