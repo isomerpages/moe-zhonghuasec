@@ -2,6 +2,7 @@ collections:
   event-photos:
     output: true
     order:
+      - 2019 Events/Family Bonding Day 2019.md
       - 2019 Events/Prize Giving Day 2019.md
       - 2019 Events/Teachers' Day Celebration 2019.md
       - 2019 Events/.keep
