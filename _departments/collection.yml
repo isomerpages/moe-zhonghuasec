@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Physical Education.md
       - Science/Science.md
       - Science/Science Symposium.md
       - Science/.keep
