@@ -97,4 +97,4 @@ Value-Add: +2.2
 **Normal Technical**<br>
 100% eligible for ITE
 
-<img src="/images/sch%20achievement%206.png" style="width:700px;height:300px;">
+<img src="/images/sch%20achievement%206.png" style="width:600px;height:300px;">
