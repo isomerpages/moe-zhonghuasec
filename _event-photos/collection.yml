@@ -2,6 +2,7 @@ collections:
   event-photos:
     output: true
     order:
+      - 2019 Events/.keep
       - 2018 Events/.keep
       - 2017 Events/.keep
       - 2016 Events/.keep
