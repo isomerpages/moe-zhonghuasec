@@ -13,4 +13,10 @@ Click [here] to enlarge image.
 
 Click on the following links to find out more about our heritage!
 
-<img src="/images/heritage2.jpg" style="width:20%">
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/our-heritage/our-crest-and-school-uniform/">
+<figure>	
+<img style="width:20%" src="/images/heritage2.jpg">
+<figcaption>  Our Crest & School Uniform
+ </figcaption>
+</figure>	
+</a></p>
