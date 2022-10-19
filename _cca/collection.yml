@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - CCA.md
+      - Clubs & Societies/Art Club.md
       - Clubs & Societies/Chinese Society.md
       - Clubs & Societies/ELDDS.md
       - Clubs & Societies/Library.md
