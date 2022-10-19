@@ -2,6 +2,7 @@ collections:
   virtual-school-tour:
     output: true
     order:
+      - Level 1/Computer Lab.md
       - Level 1/Courtyard.md
       - Level 1/D&T Workshop.md
       - Level 1/General Office.md
