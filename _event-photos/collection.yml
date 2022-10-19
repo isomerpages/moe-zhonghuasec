@@ -1,0 +1,4 @@
+collections:
+  event-photos:
+    output: true
+    order: []
