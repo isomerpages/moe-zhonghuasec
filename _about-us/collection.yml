@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Organisation Chart/.keep
       - Calender.md
+      - Organisation Chart/.keep
       - Parent Support Group/.keep
       - Rules & Regulations/.keep
       - Virtual School Tour/.keep
