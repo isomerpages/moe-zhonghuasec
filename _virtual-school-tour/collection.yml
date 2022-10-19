@@ -1,0 +1,4 @@
+collections:
+  virtual-school-tour:
+    output: true
+    order: []
