@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Student Achievements/.keep
       - Roll of Honour.md
       - Highlights.md
