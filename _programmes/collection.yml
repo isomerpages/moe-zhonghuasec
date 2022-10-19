@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - Zhonghua Signature Programmes/.keep
       - Talent development Programme.md
       - Student Leadership Development.md
