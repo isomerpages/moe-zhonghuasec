@@ -2,5 +2,6 @@ collections:
   parent-support-group:
     output: true
     order:
+      - Events/.keep
       - Event Photos/.keep
       - Join PSG.md
