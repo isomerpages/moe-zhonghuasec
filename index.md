@@ -25,5 +25,5 @@ sections:
       subtitle: Zhonghua Secondary School
       description: Direct School Admission Exercise for 2023 intake
       button: click for more info
-      url: /admission/dsa/
+      url: /admission/dsa-2023/
 ---
