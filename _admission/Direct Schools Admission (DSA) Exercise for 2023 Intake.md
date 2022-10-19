@@ -11,8 +11,6 @@ We welcome all current Primary Six students (or equivalent) to apply for admissi
 
 *   Sports
 *   Performing Arts
-*   Student Leadership
-
-### 
+*   Student Leadership 
 
 To find out more, visit our DSA Information portal at:  [https://staging.d1ph2u5puaqsvh.amplifyapp.com/admission/dsa-2023/](https://staging.d1ph2u5puaqsvh.amplifyapp.com/admission/dsa-2023/)
