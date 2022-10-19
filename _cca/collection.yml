@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - CCA.md
+      - Clubs & Societies/Library.md
       - Clubs & Societies/Infocomm Club.md
       - Clubs & Societies/.keep
       - Performing Arts/Chinese Orchestra.md
