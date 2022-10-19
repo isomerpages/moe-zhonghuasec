@@ -87,7 +87,6 @@ third_nav_title: Organisation Chart
 | Class | Year Head / Form Teacher | Email | Contact |
 |---|---|---|---|
 | Year Head | Mr Ang Chun Hua | [ang_chun_hua@moe.edu.sg](mailto:ang_chun_hua@moe.edu.sg) | 65938-155 |
-|  |  |  |  |
 | 4E1 | Mr Lim Yong Khern | [lim_yong_khern@moe.edu.sg](mailto:lim_yong_khern@moe.edu.sg) | 65938-126 |
 |  | Ms Nurhayati | [nurhayati_binte_muhammad_fauzy@moe.edu.sg](mailto:nurhayati_binte_muhammad_fauzy@moe.edu.sg) | 65938-159 |
 | 4E2 | Mdm Irnisah | [irnisah_mohamad_aripin@moe.edu.sg](mailto:irnisah_mohamad_aripin@moe.edu.sg) | 65938-161 |
