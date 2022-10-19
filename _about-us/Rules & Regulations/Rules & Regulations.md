@@ -98,12 +98,12 @@ The school understands the importance of the mobile phone in this current time a
 <tbody>
   <tr>
     <td class="tg-8145"><span style="color:#333">Monday to Thursday</span></td>
-    <td class="tg-8145" colspan="2"><span style="color:#333">Mobile phones to be switched off totally.</span><br><span style="font-weight:bold">Not to be seen or heard</span></td>
+    <td class="tg-8145" colspan="2"><span style="color:#333">Mobile phones to be switched off totally.</span><br><span style="font-weight:bold;text-decoration:underline">Not to be seen or heard</span></td>
     <td class="tg-8145"><span style="color:#333">Can be switched on to silent or vibration mode and used in canteen only.</span></td>
   </tr>
   <tr>
     <td class="tg-tlx9"><br><span style="color:#333">Friday</span></td>
-    <td class="tg-tlx9"><span style="color:#333">Mobile phones to be switched off totally.</span><br><span style="font-weight:bold">Not to be seen or heard</span></td>
+    <td class="tg-tlx9"><span style="color:#333">Mobile phones to be switched off totally.</span><br><span style="font-weight:bold;text-decoration:underline">Not to be seen or heard</span></td>
     <td class="tg-tlx9" colspan="2"><span style="color:#333">Can be switched on to silent or vibration mode and used in canteen only.</span></td>
   </tr>
   <tr>
