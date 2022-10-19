@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Student Development/Learning and Behavioural Support.md
       - Student Development/Student Leadership.md
       - Student Development/.keep
       - Visual Art.md
