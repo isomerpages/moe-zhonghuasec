@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Members/.keep
+      - Events/Events.md
       - Events/2021 Events.md
       - Events/2020 Events.md
       - Events/2018 Events.md
