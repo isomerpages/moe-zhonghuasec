@@ -2,5 +2,5 @@ collections:
   programmes:
     output: true
     order:
-      - Talent development Programm.md
+      - Talent development Programme.md
       - Student Leadership Development.md
