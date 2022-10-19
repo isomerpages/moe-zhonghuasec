@@ -29,3 +29,17 @@ Spot checks on students’ grooming (hairstyles, nails, uniform etc.) will be co
 
 **Lower Secondary Boys**
 
+<img src="/images/attire1.jpg" style="width:25%;margin-right:15px;" align = "left">
+Name tag: Present, unmodified.<br>
+Shirt: Tucked in neatly above 1 inch hemline.<br>
+Bermudas: At knee level.<br><br><br><br><br><br>
+Socks: Above ankle bone.<br>
+Shoes: All white canvas.
+
+<br clear="left">
+
+<img src="/images/attire2.jpg" style="width:25%;margin-right:15px;" align = "left">Name tag: Present, unmodified.<br>
+Shirt: Tucked in neatly above 1 inchhemline.<br>
+Pants: Straight cut, untapered.<br><br><br>Socks: Above ankle bone.<br>Shoes: All white canvas.
+
+<br clear="left">
