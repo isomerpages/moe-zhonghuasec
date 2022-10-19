@@ -22,9 +22,9 @@ sections:
           description: ""
           url: /infolinks/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: 2023 DSA Intake
+      subtitle: Zhonghua Secondary School
+      description: Direct School Admission Exercise for 2023 intake
+      button: click for more info
+      url: /admission/dsa/
 ---
