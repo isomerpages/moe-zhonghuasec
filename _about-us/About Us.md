@@ -11,9 +11,7 @@ Our school crest takes the shape of the Begonia leaf. The begonia is a red-flowe
 
 <img src="/images/green.jpg" style="width:3%;margin-right:15px;" align = "left">
 The colour green signifies freshness, youth, growth, life, vitality and resilience.
-
 <br clear="left">
-
 <img src="/images/white.jpg" style="width:3%;margin-right:15px;" align = "left">
 The colour white is the emblem of purity, virtue and brightness.
 
@@ -38,4 +36,3 @@ _In whatever we pursue_
 奋发南天，<br>
 爱护我们的山河，<br>
 建设我们的乐园。
-
