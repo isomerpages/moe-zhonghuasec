@@ -4,24 +4,23 @@ title: Zhonghua Secondary School
 description: Brief site description here
 image: /images/logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: Zhonghua Secondary School
+      background: /images/hero.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Highlights
+          description: ""
+          url: /highlights/
+        - title: Announcements
+          description: ""
+          url: /announcements/
+        - title: Infolinks
+          description: ""
+          url: /infolinks/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -29,6 +28,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
-
