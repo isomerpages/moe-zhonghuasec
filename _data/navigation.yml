@@ -33,7 +33,19 @@ links:
         url: /about-us/school-bookshop-and-uniform-supplier/
   - title: Achievements
     url: /achievements/
-    sublinks: []
+    sublinks:
+      - title: Achievements
+        url: /achievements/
+      - title: Highlights
+        url: /achievements/highlights/
+      - title: School Achievements
+        url: /achievements/school-achievements/
+      - title: Staff Awards
+        url: /achievements/staff-awards/
+      - title: Student Achievements
+        url: /achievements/student-achievements/
+      - title: Roll of Honour
+        url: /achievements/roll-of-honour/
   - title: Admission
     url: /admission/
     sublinks: []
