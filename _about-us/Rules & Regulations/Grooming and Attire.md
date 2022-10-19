@@ -32,7 +32,7 @@ Spot checks on students’ grooming (hairstyles, nails, uniform etc.) will be co
 <img src="/images/attire1.jpg" style="width:25%;margin-right:15px;" align = "left">
 Name tag: Present, unmodified.<br>
 Shirt: Tucked in neatly above 1 inch hemline.<br>
-Bermudas: At knee level.<br><br><br><br><br><br>
+Bermudas: At knee level.<br><br><br><br><br>
 Socks: Above ankle bone.<br>
 Shoes: All white canvas.
 
