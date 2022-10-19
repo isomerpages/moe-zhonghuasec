@@ -34,4 +34,9 @@ contacts:
       - email: ""
       - other: Serangoon MRT (North East line NE12) / (Circle line CC13)
     title: Nearest MRT Station
+  - content:
+      - phone: ""
+      - email: ""
+      - other: https://goo.gl/forms/6oDDF5XQKPssDWTh2
+    title: Rate our feedback form
 ---
