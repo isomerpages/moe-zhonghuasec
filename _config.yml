@@ -1,6 +1,6 @@
 title: Zhonghua Secondary School
 url: https://zhonghuasec.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/logo.jpg
 colors:
   primary-color: "#009621"
   secondary-color: "#848689"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1ph2u5puaqsvh.amplifyapp.com
 prod: https://master.d1ph2u5puaqsvh.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/logo.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
