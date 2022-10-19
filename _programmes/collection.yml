@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Zhonghua Signature Programmes/STEAM Research Programme.md
       - Zhonghua Signature Programmes/.keep
       - Talent development Programme.md
       - Student Leadership Development.md
