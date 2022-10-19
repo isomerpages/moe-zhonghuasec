@@ -62,4 +62,28 @@ Pants: Straight cut, untapered.<br><br><br>Socks: Above ankle bone.<br>Shoes: Al
 
 <img src="/images/attire6.jpg" style="width:28%;margin-right:15px;" align = "left"><br>The Student Councilors and Monitor represent the student leadership body of the school; we believe that their grooming and attire would be exemplary.<br><br>They are to adhere to the strict grooming and attire standard of the school and serve as a role model to the rest of the student population.<br><br><img src="/images/attire7.jpg" style="width:28%;margin-right:15px;" align = "left"><br>As recognition of their contribution to the school, councilors and monitors are identified by the school tie.
 
+<br clear="left">
 
+**Student Ambassadors/ Award Winners**
+
+<img src="/images/attire8.jpg" style="width:30%;margin-right:5px;" align = "left">Students who win award at national level or representing the school as student ambassadors are required to put on the school blazers.<br><br>They are trusted to project a dignified image of the school during such functions.<br><br>The school blazers can be drawn from the Teacher-Advisor of the Student Council.
+
+#### **Grooming**
+
+Proper grooming of the students is important to the school as it signifies the pride that students have for themselves. The grooming policies aim to inculcate in our students grooming standards that promote good hygiene as well as to project a proper image of a student to the general public.
+
+**Hair Colour**<br>
+Students are not allowed to dye their hair. Students’ hair should be of natural colour.
+
+**Boys (Hair)**
+
+<img src="/images/hair1.jpg" style="width:33%" align=left>
+<img src="/images/hair2.jpg" style="width:33%" align=left>
+<img src="/images/hair3.jpg" style="width:33%" align=left>
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| **Front**<br><br>- Fringe should not be touching the eyebrows.<br>- Hair colour should be natural.<br>- Moustache, beards, goatees or long sideburns are not allowed. | **Side**<br><br>- Sloped<br>- Sideburn should not be lower than the tragus or the mid-point of the external ear. | **Back**<br><br>- Sloped<br>- Hair should not be touching the collar. |
+|
