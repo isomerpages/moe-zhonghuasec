@@ -34,7 +34,7 @@ The uniform was redesigned in 2002 with major changes to the female uniform.
 
 Currently, Zhonghua female students wear white blouses with the school logo sewn at the left chest level, complemented by a green skirt. The full white uniform for male students was retained, featuring a white shirt with white bermudas for lower secondary levels and white long pants for the upper secondary levels.
 
-<img src="/images/crest%20and%20sch%20uniform%203.png" style="width:85%">
+<img src="/images/crest%20and%20sch%20uniform%203.png" style="width:95%">
 
 #### **Our School Song**
 We, sons and daughters of Zhonghua<br>
