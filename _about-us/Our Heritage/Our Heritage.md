@@ -9,3 +9,8 @@ third_nav_title: Our Heritage
 
 ![](/images/heritage1.jpg)
 
+Click [here] to enlarge image.
+
+Click on the following links to find out more about our heritage!
+
+<img src="/images/heritage2.jpg" style="width:20%">
