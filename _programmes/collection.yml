@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Zhonghua Signature Programmes/Cross Cultural Programme.md
       - Zhonghua Signature Programmes/Data Literacy Programme.md
       - Zhonghua Signature Programmes/Environmental Sustainability Programme.md
       - Zhonghua Signature Programmes/Robotics and Computing Programme.md
