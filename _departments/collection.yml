@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Student Development/Character and Citizenship Education.md
       - Student Development/Counselling.md
       - Student Development/Discipline.md
       - Student Development/Education & Career Guidance.md
