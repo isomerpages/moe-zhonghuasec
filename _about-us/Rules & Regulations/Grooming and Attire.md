@@ -68,6 +68,8 @@ Pants: Straight cut, untapered.<br><br><br><br><br>Socks: Above ankle bone.<br>S
 
 <img src="/images/attire8.jpg" style="width:30%;margin-right:5px;" align = "left">Students who win award at national level or representing the school as student ambassadors are required to put on the school blazers.<br><br>They are trusted to project a dignified image of the school during such functions.<br><br>The school blazers can be drawn from the Teacher-Advisor of the Student Council.
 
+<br clear="left">
+
 #### **Grooming**
 
 Proper grooming of the students is important to the school as it signifies the pride that students have for themselves. The grooming policies aim to inculcate in our students grooming standards that promote good hygiene as well as to project a proper image of a student to the general public.
