@@ -20,3 +20,7 @@ The video below explains what Full SBB is about:
 
 For more information on Full SBB, visit [www.moe.gov.sg/microsites/psle-fsbb](http://www.moe.gov.sg/microsites/psle-fsbb).
 
+#### **What does it look like in Zhonghua Secondary School?**
+In Zhonghua Sec, the implementation takes into consideration the needs, interests and strengths of students. Read on to find out more about FSBB in Zhonghua Sec!
+
+<img src="/images/sbb.png" style="width:85%">
