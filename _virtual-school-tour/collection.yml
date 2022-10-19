@@ -2,6 +2,7 @@ collections:
   virtual-school-tour:
     output: true
     order:
+      - Level 1/NE Walkway.md
       - Level 1/Parade Square.md
       - Level 1/Street Soccer Court.md
       - Level 1/.keep
