@@ -20,3 +20,27 @@ Click on the following links to find out more about our heritage!
  </figcaption>
 </figure>	
 </a></p>
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/our-heritage/our-story/">
+<figure>	
+<img style="width:20%" src="/images/heritage3.jpg">
+<figcaption>  Our Story
+ </figcaption>
+</figure>	
+</a></p>
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/our-heritage/our-voices/">
+<figure>	
+<img style="width:20%" src="/images/heritage4.png">
+<figcaption>  Our Voices
+ </figcaption>
+</figure>	
+</a></p>
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/our-heritage/our-pride/">
+<figure>	
+<img style="width:20%" src="/images/heritage5.jpg">
+<figcaption>  Our Pride
+ </figcaption>
+</figure>	
+</a></p>
