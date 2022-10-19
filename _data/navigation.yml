@@ -31,6 +31,9 @@ links:
         url: /about-us/getting-here/
       - title: Sch Bkshop & Uniform Supplier
         url: /about-us/school-bookshop-and-uniform-supplier/
+  - title: Parent Support Group
+    url: /about-us/psg/
+    sublinks: []
   - title: Achievements
     url: /achievements/
     sublinks:
