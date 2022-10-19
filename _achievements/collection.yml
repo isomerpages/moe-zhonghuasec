@@ -2,12 +2,12 @@ collections:
   achievements:
     output: true
     order:
+      - Highlights.md
       - School Achievements.md
       - Staff Awards.md
+      - Student Achievements/.keep
       - Student Achievements/Student Achievements.md
       - Student Achievements/National Achievement 2019.md
       - Student Achievements/National Achievement 2018.md
       - Student Achievements/National Achievement 2017.md
-      - Student Achievements/.keep
       - Roll of Honour.md
-      - Highlights.md
