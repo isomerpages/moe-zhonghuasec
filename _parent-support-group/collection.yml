@@ -1,4 +1,5 @@
 collections:
   parent-support-group:
     output: true
-    order: []
+    order:
+      - Join PSG.md
