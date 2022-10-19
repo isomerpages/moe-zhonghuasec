@@ -47,13 +47,43 @@ links:
       - title: Roll of Honour
         url: /achievements/roll-of-honour/
   - title: Admission
-    url: /admission/
-    sublinks: []
+    url: /admission/sec-1-posting/
+    sublinks:
+      - title: Secondary 1 Posting
+        url: /admission/sec-1-posting/
+      - title: DSA Exercise for 2023 Intake
+        url: /admission/dsa-2023/
+      - title: Returning Singaporeans
+        url: /admission/returning-singaporeans/
+      - title: International Students
+        url: /admission/international-students/
   - title: CCA
     url: /cca/
   - title: Departments
     url: /departments/
-    sublinks: []
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
   - title: Programmes
     url: /programmes/
     sublinks: []
