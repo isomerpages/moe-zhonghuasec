@@ -6,6 +6,8 @@ third_nav_title: Events
 ---
 ### **2012 Events**
 
+**all video hyperlink unavailable**
+
 | Date | Programme | Links for Event Photos |
 |---|---|---|
 | 07 Jan 2012 | Parents' Forum | [Photos](https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/psg/event-photos/2012/parent-forum/) |
@@ -33,3 +35,4 @@ third_nav_title: Events
 | 10 Nov 2012 | School Open House |  |
 | 21 Dec 2012 | Sec 1 Registration |  |
 |
+
