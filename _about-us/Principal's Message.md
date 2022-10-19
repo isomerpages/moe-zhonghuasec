@@ -8,8 +8,6 @@ description: ""
 
 <img src="/images/principal.jpg" style="width:25%;margin-right:15px;" align = "right">Last year, Zhonghua Secondary School commemorated our 110th anniversary, a milestone only made possible because of the perseverance and hard work of our past and present School Leaders and staff, School Advisory Committee members, alumni, parents and students. The theme for our anniversary, “A Century of Affinity, A Connection to Zhonghua”, \[缘起百年， 情系中华 \], attests to the strong ties that each generation of Zhonghuarians has to the school, in no small part due to the strong culture of care among our staff and students. As we celebrated more than a century of heritage and excellence in the midst of an on-going pandemic, what we have achieved affirms our purpose, and serves as a reminder to the Zhonghua family that we will be able to overcome any challenge so long as we move forward as one.
 
-<br clear="left">
-
 It is with gratitude and hope that we welcome 2022: gratitude for all that we have and have achieved; and hope that we will build on our successes and continue to nurture many more generations of Zhonghuarians who contribute meaningfully to the community and society.   
 
 In our 111th year and beyond, we remain steadfast in our commitment to provide our students with a rich and well-rounded education that develops their interests in academic and broader areas of endeavour, regardless of their backgrounds, needs and strengths. With the nation and world battling COVID-19, the years ahead may be challenging, but they will also bring new possibilities and opportunities. The rich learning for staff and students over these two years, in particular, has given us insights in envisioning the future of education – one where students are empowered to take ownership of their learning, and where the affordances of technology are harnessed to enrich teaching and learning. Drawing on these insights, we have started to review and re-design our programmes and learning experiences for our students so that they are able to develop critical competencies that will serve them well in school, and as they learn for life.    
@@ -36,4 +34,4 @@ Principal
 祝愿大家在2022 身体健康, 幸福快乐!    
   
 刘淑贞<br>
-校长  
+校长
