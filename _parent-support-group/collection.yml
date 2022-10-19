@@ -2,6 +2,7 @@ collections:
   parent-support-group:
     output: true
     order:
+      - Members/2021 PSG Committee.md
       - Members/2020 PSG Committee.md
       - Members/2019 PSG Committee.md
       - Members/2018 PSG Committee.md
