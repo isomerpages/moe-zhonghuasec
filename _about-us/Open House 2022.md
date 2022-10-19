@@ -16,8 +16,7 @@ Experience some of the highlights, such as:
 
 Don’t miss this opportunity to hear from our school leaders, staff and students!
 
-Can't visit us in person? We have put together an e-Open House experience for you at:
-#### [https://go.gov.sg/zhsseopenhouse](https://go.gov.sg/zhsseopenhouse)
+Can't visit us in person? We have put together an e-Open House experience for you at: [https://go.gov.sg/zhsseopenhouse](https://go.gov.sg/zhsseopenhouse)
 
 Do follow our social media pages as well to find out the latest happenings in our school and get the most up-to-date news about our Open House!
 
