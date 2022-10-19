@@ -87,3 +87,42 @@ Students are not allowed to dye their hair. Students’ hair should be of natura
 |:---:|:---:|:---:|
 | **Front**<br><br>- Fringe should not be touching the eyebrows.<br>- Hair colour should be natural.<br>- Moustache, beards, goatees or long sideburns are not allowed. | **Side**<br><br>- Sloped<br>- Sideburn should not be lower than the tragus or the mid-point of the external ear. | **Back**<br><br>- Sloped<br>- Hair should not be touching the collar. |
 |
+
+**Clean-Shaven and Neat Facial Appearance for Male Students**<br>
+Male students must be neat in appearance, clean shaven and no facial hair is allowed. Male students should keep their hair short and tidy. An elaborate hairstyle is not allowed (Eg: Mohawk, overlapped etc)
+
+**Girls (Short Hair)**
+
+<img src="/images/hair4.jpg" style="width:33%" align=left>
+<img src="/images/hair5.jpg" style="width:33%" align=left>
+<img src="/images/hair6.jpg" style="width:33%" align=left>
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| **Front**<br><br>Fringe should not be touching the eyebrows. Hair colour should be natural. | **Side**<br><br>Hair must not touch the shouldersand must be neat. It should not be tied. | **Back**<br><br>Hair should not be touching the collar.|
+|
+
+**Girls (Long Hair)**
+
+<img src="/images/hair7.jpg" style="width:33%" align=left>
+<img src="/images/hair8.jpg" style="width:33%" align=left>
+<img src="/images/hair9.jpg" style="width:33%" align=left>
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| **Front**<br><br>Fringe should not be touching the eyebrows<br><br>Hair colour should be natural | **Side**<br><br>Fringe should be pinned neatly and securely behind the ear.<br><br>A single ponytail is recommended. | **Back**<br><br>Hair should not be touching the collar.|
+|
+
+The school uniform can be purchased at the following retailer:<br>
+**Hong Kong Tat Kee Tailor**<br>
+Factory:<br>
+Blk 3012, #03-2028/2030<br>
+Bedok North Ave 4<br>
+Bedok Industrial Park E<br>
+Singapore 489978<br>
+Tel: 6241 1933<br>
+Fax: 6443 9929
