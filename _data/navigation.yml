@@ -1,2 +1,49 @@
 logo: /images/logo.jpg
-links: []
+links:
+  - title: About Us
+    url: /about-us/
+    sublinks:
+      - title: About Us
+        url: /about-us/
+      - title: Principal's Message
+        url: /about-us/principals-message/
+      - title: Vision, Mission, Values
+        url: /about-us/vision-mission-values/
+      - title: Our Heritage
+        url: /about-us/our-heritage/
+      - title: Full Subject-Based Banding
+        url: /about-us/full-subject-based-banding/
+      - title: Open House 2022
+        url: /about-us/openhouse-2022/
+      - title: Publications
+        url: /about-us/publications/
+      - title: Calender
+        url: /about-us/calender/
+      - title: Organisation Chart
+        url: /about-us/organisation-chart/
+      - title: Parent Support Group
+        url: /about-us/psg/
+      - title: Rules & Regulations
+        url: /about-us/rules-and-regulations/
+      - title: Virtual School Tour
+        url: /about-us/virtual-school-tour/
+      - title: Getting Here
+        url: /about-us/getting-here/
+      - title: Sch Bkshop & Uniform Supplier
+        url: /about-us/school-bookshop-and-uniform-supplier/
+  - title: Achievements
+    url: /achievements/
+    sublinks: []
+  - title: Admission
+    url: /admission/
+    sublinks: []
+  - title: CCA
+    url: /cca/
+  - title: Departments
+    url: /departments/
+    sublinks: []
+  - title: Programmes
+    url: /programmes/
+    sublinks: []
+  - title: Contact Us
+    url: /contact-us/
