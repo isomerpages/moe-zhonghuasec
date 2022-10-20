@@ -10,8 +10,8 @@ Learning and behavioural support is an added aspect of student development that 
 | Intervention Support | Programme or service |
 |---|---|
 | **Tier 1:** General school population | 1.1    Inclusivity and SEN awareness talks |
-| **Tier 2:** Students who need additional help | 2.1    Withdrawal session (small group)<br><br>2.2    Inclusive education targeted for small group<br>2.3    In-class support for skills generalisation |
-| **Tier 3:** Students who need specialized help | 3.1    Withdrawal session (more individualised, more frequent and intensive)<br><br>3.2    Referral to external agencies |
+| **Tier 2:** Students who need additional help | 2.1    Withdrawal session (small group)<br>2.2    Inclusive education targeted for small group<br>2.3    In-class support for skills generalisation |
+| **Tier 3:** Students who need specialized help | 3.1    Withdrawal session (more individualised, more frequent and intensive)<br>3.2    Referral to external agencies |
 |
 
 #### **Needs based support**
