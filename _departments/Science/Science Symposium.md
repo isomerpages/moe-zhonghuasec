@@ -28,17 +28,17 @@ third_nav_title: Science
 | Year 2014/2015 | [Additive Manufacturing] |
 |  | [Spatial Audio Enhancement Techniques] |
 |  | [Google Earth] |
-|  | [Jailbreaking] |
+|  | [Jailbreaking](https://qql/slot/u706/Departments/Science/Science%20Symposium%20Posters/2015%20Poster/4.%20Jailbreaking1.pdf) **broken link** |
 |  | [3D Animation] |
 |  | [Application to Game Analytics] |
 |  | [Phytoremediation] |
 |  | [Isolation of Fungi] |
-|  | [Dietary habits] |
+|  | [Dietary habits](https://www-z/qql/slot/u706/Departments/Science/Science%20Symposium%20Posters/2015%20Poster/9.%20Dietary%20habits1.pdf) **broken link** |
 |  | [Entrepreneurship] |
 |  | [Customer Relations] |
 |  | [IG Bonding] |
 | Year 2013/2014 | [Binge Drinking] |
-|  | [Development of Obstacle Avoidance Capability of Miniature Robot] |
+|  | [Development of Obstacle Avoidance Capability of Miniature Robot]http://https/qql/slot/u706/Departments/Science/Science%20Symposium%20Posters/2014%20Science%20Symposium/Development%20of%20obstacle%20avoidance%20capability%20of%20miniature%20robot.pdf **broken link** |
 |  | [Game Physics] |
 |  | [Investigation into Cytoxicity of Flavonoids of Mammalian Cells] |
 |  | [Miniature Solar Vehicle] |
