@@ -14,6 +14,5 @@ It is compulsory for all Upper Secondary students to take Social Studies, a subj
 
 The department incorporates ICT tools at each level and stream to engage our students and deepen their understanding of the humanities subjects. In addition, our Humanities students participated actively and won accolades in the annual niche Humanities competitions such as the National Stamp Competition, the NUS Geography Challenge and the NLB Historical Scene Investigation Challenge Competition. The department also nominates around 10 passionate and academically inclined students for the exclusive annual Humanities Scholarship Tea Session with MOE.
 
-<img src="/images/humanities1.jpg" style="width:49%" align=left>
-<img src="/images/humanities2.jpg" style="width:49%" align=right>
-
+<img src="/images/humanities1.jpg" style="width:62%" align=left>
+<img src="/images/humanities2.jpg" style="width:34.5%" align=right>
