@@ -4,10 +4,10 @@ permalink: /departments/physical-education/
 description: ""
 ---
 ### **Physical Education**
-<img src="/images/pe1.jpg" style="width:35%;margin-right:15px;" align = "left"><b>
+<img src="/images/pe1.jpg" style="width:35%;margin-right:15px;" align = "left"><b></b>
 #### **Mission**
 	
-</b>The PE department mission is to develop healthy living among students, to equip students with knowledge and skills to pursue a life-long active and healthy lifestyle.
+The PE department mission is to develop healthy living among students, to equip students with knowledge and skills to pursue a life-long active and healthy lifestyle.
 
 #### **Key Programmes**
 <img src="/images/pe2.jpg" style="width:55%;margin-right:15px;" align = "left">**Physical Activity during PE**<br>
