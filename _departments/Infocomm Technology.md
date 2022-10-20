@@ -20,7 +20,7 @@ We seek to equip all Zhonghuarians with relevant ICT skills and learning abiliti
 10\. English portal (English)
 
 <figure>
-<img src="/images/info1.jpg" style="width:75%">
+<img src="/images/info1.jpg" style="width:65%">
 <figcaption>  Sec 2 students working on microbits project
  </figcaption>
 </figure>
@@ -63,7 +63,7 @@ This is an optional subject to train Normal Technical students in the services i
 Students have the opportunity to do industrial attachment at 5-star hotels in Singapore as well as participate in the National Tourism Competition.
 
 <figure>
-<img src="/images/info6.jpg" style="width:75%">
+<img src="/images/info6.jpg" style="width:65%">
 <figcaption> Understudy Tour Guide in Chinatown
  </figcaption>
 </figure>
@@ -77,7 +77,7 @@ This is an optional subject to train Normal Academic students in the business in
 * Practices and procedures applied to represent the owner’s interest
 
 <figure>
-<img src="/images/info7.jpg" style="width:75%">
+<img src="/images/info7.jpg" style="width:65%">
 <figcaption> Zhonghua Sec organised Cluster POA trail
  </figcaption>
 </figure>
