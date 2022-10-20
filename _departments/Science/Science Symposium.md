@@ -25,54 +25,54 @@ third_nav_title: Science
 
 |  |  |
 |:---:|---|
-| Year 2014/2015 | [Additive Manufacturing] |
-|  | [Spatial Audio Enhancement Techniques] |
-|  | [Google Earth] |
+| Year 2014/2015 | [Additive Manufacturing](/files/Symposium1.pdf) |
+|  | [Spatial Audio Enhancement Techniques](/files/Symposium2.pdf) |
+|  | [Google Earth](/files/Symposium3.pdf) |
 |  | [Jailbreaking](https://qql/slot/u706/Departments/Science/Science%20Symposium%20Posters/2015%20Poster/4.%20Jailbreaking1.pdf) **broken link** |
-|  | [3D Animation] |
-|  | [Application to Game Analytics] |
+|  | [3D Animation](/files/Symposium5.pdf) |
+|  | [Application to Game Analytics](/files/Symposium6.pdf) |
 |  | [Phytoremediation] **file greater than 5mb**|
 |  | [Isolation of Fungi] **file greater than 5mb**|
 |  | [Dietary habits](https://www-z/qql/slot/u706/Departments/Science/Science%20Symposium%20Posters/2015%20Poster/9.%20Dietary%20habits1.pdf) **broken link** |
 |  | [Entrepreneurship] **file greater than 5mb**|
-|  | [Customer Relations] |
-|  | [IG Bonding] |
+|  | [Customer Relations](/files/Symposium11.pdf) |
+|  | [IG Bonding](/files/Symposium12.pdf) |
 | Year 2013/2014 | [Binge Drinking] **file greater than 5mb** |
 |  | [Development of Obstacle Avoidance Capability of Miniature Robot](http://https/qql/slot/u706/Departments/Science/Science%20Symposium%20Posters/2014%20Science%20Symposium/Development%20of%20obstacle%20avoidance%20capability%20of%20miniature%20robot.pdf) **broken link** |
 |  | [Game Physics] **file greater than 5mb** |
-|  | [Investigation into Cytoxicity of Flavonoids of Mammalian Cells] |
-|  | [Miniature Solar Vehicle] |
+|  | [Investigation into Cytoxicity of Flavonoids of Mammalian Cells](/files/Symposium16.pdf) |
+|  | [Miniature Solar Vehicle](/files/Symposium17.pdf) |
 |  | [SAP] **file greater than 5mb** |
-|  | [Weight Management] |
+|  | [Weight Management](/files/Symposium19.pdf) |
 |  | [Windows Phone] **file greater than 5mb**|
 | Year 2012/2013 | [Assistive Device for Elderly] **file greater than 5mb**|
-|  | [Benchmarking of tolerance and fit for Rapid Prototyping Process] |
-|  | [Cyberwellness and Education Toolkit] |
-|  | [Energy Consumption Analysis] |
-|  | [HIV Toolkit] |
+|  | [Benchmarking of tolerance and fit for Rapid Prototyping Process](/files/Symposium22.pdf) |
+|  | [Cyberwellness and Education Toolkit](/files/Symposium23.pdf) |
+|  | [Energy Consumption Analysis](/files/Symposium24.pdf) |
+|  | [HIV Toolkit](/files/Symposium25.pdf) |
 |  | [Identification of cancer stem cells inhibitors] **file greater than 5mb**|
-|  | [Isolation and Identification of Bioactive Compounds] |
-|  | [Master Mind Wrestle] |
+|  | [Isolation and Identification of Bioactive Compounds](/files/Symposium27.pdf) |
+|  | [Master Mind Wrestle](/files/Symposium28.pdf) |
 |  | [Microfluidic Gradient Generator] **file greater than 5mb**|
 |  | [Potential Antimicrobial activities in food packaging] **file greater than 5mb**|
-|  | [Windows Phone] |
-| Year 2011/2012 | [Science Symposium Chen Yi Jun & Yeo Tong] |
-|  | [Science Symposium Chia Hui Ning] |
-|  | [Science Symposium Chong Si Qing] |
-|  | [Science Symposium Christabel and Brian Tan] |
+|  | [Windows Phone](/files/Symposium31.pdf) |
+| Year 2011/2012 | [Science Symposium Chen Yi Jun & Yeo Tong](/files/Symposium32.pdf) |
+|  | [Science Symposium Chia Hui Ning](/files/Symposium33.pdf) |
+|  | [Science Symposium Chong Si Qing](/files/Symposium34.pdf) |
+|  | [Science Symposium Christabel and Brian Tan](/files/Symposium35.pdf) |
 |  | [Science Symposium Elizabeth] **file greater than 5mb**|
-|  | [Science Symposium Francis Chan and Germaine Choo] |
-|  | [Science Symposium Grace Chia and Goh Sing Yee] |
+|  | [Science Symposium Francis Chan and Germaine Choo](/files/Symposium36.pdf) |
+|  | [Science Symposium Grace Chia and Goh Sing Yee](/files/Symposium37.pdf) |
 |  | [Science Symposium Jia Min] **file greater than 5mb**|
-|  | [Science Symposium Jolies and Hui Qi] |
+|  | [Science Symposium Jolies and Hui Qi](/files/Symposium38.pdf) |
 |  | [Science Symposium Kay Sheng] **file greater than 5mb**|
-|  | [Science Symposium Rachel Chow] |
+|  | [Science Symposium Rachel Chow](/files/Symposium40.pdf) |
 |  | [Science Symposium Rachel Poon] **file greater than 5mb**|
 |  | [Science Symposium Samuel Tse] **file greater than 5mb**|
-|  | [Science Symposium Wong Weitao and Paul Tan] |
-|  | [Science Symposium Yu Ruo] |
-|  | [Science Symposium Yusof] |
-|  | [Science Symposium Bryan Chin] |
+|  | [Science Symposium Wong Weitao and Paul Tan](/files/Symposium43.pdf) |
+|  | [Science Symposium Yu Ruo](/files/Symposium44.pdf) |
+|  | [Science Symposium Yusof](/files/Symposium45.pdf) |
+|  | [Science Symposium Bryan Chin](/files/Symposium46.pdf) |
 | Year 2010/2011 | [P1 - Managing Your Carbon Footprint] |
 |  | [P2 - Study of Anti-Bacterial Effect of Fungal Extract Using Staphylococcus Aureus] |
 |  | [P3 - Investigation of Bacterial Growth on Rice] |
