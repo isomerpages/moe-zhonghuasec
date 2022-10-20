@@ -85,10 +85,10 @@ third_nav_title: Science
 |  | [P10 - Flights] |
 |  | [P11 - Heat Therapy on Muscles] |
 |  | [P12 - Social Media Trends and Tools] |
-|  | [P13 - Online Mapping Tools] |
+|  | [P13 - Online Mapping Tools](http://h/qql/slot/u706/Departments/Science/Science%20Symposium%20Posters/P13%20-%20ONLINE%20MAPPING%20PORTAL.jpg) **broken link** |
 |  | [P14 - Human Computer Interaction on Sharepoint and Moodle Sites] |
 |  | [P15 - 2D Symbologies Adoption Trends and Application] |
-|  | [P16 - Product Marketing Through Web Analytics Tools and Social Media] |
+|  | [P16 - Product Marketing Through Web Analytics Tools and Social Media](https://www.zhonghuasec.moe.edu.sg/qql/slot/u706/Departments/Science/Science%20Symposium%20Posters/P15%20-%202D%20SYMBOLOGIES%20ADOPTION%20TRENDS%20AND%20APPLICATION.jpg) **broken link** |
 |  | [P17 - Speed Challenge] |
 |  | [P18 - Visual Effect In Films] |
 |
