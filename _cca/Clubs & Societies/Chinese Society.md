@@ -61,4 +61,10 @@ The Chinese Society is a vibrant CCA comprising of Drama, Calligraphy and Chess 
 * 2018
 * 1st National Huichun Calligraphy Competition – 6 Awards of Excellence
 
+<img src="/images/cs1.jpg" style="width:49%" align=left>
+<img src="/images/cs2.jpg" style="width:49%" align=right>
 
+<br clear="left">
+
+<img src="/images/cs3.jpg" style="width:49%" align=left>
+<img src="/images/cs4.jpg" style="width:49%" align=right>
