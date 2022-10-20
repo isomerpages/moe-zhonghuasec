@@ -32,7 +32,7 @@ Counselling Room (at B2-06 – behind the School Hall)
 | Quitline | For smoking cessation services | 1800 438 2000 |
 | Singapore Association for Mental Health | Anyone with psychological, psychiatric, emotional or social issues | 1800 283 7019<br>Mon-Fri: 9am – 6pm |
 | Touchline (TOUCH Youth Services) | For youth aged 12-19 who need someone to talk to | 1800 377 2252<br>Mon-Sat: 10am – 10pm |
-| Audible Hearts | An anonymous online peer support network by youth for youth | [http://audiblehearts.yah.sg](http://audiblehearts.yah.sg) |
+| Audible Hearts | An anonymous online peer support network by youth for youth | [http://audiblehearts.yah.sg](http://audiblehearts.yah.sg) **privacy error** |
 | Parentline<br>(Covenant FSC) | Helps parents - For information and advice on parenting and marital issues) | 62898881<br>Mon – Fri: 9am – 5pm |
 | Parent Advisory Hotline<br>(in Mandarin) | Helps parents on fostering better parent-child relationship | 65557667<br>Mon – Fri: 2-4pm, 7-9pm |
 | National Addictions Management Service | All Addictions Helpline –<br>Problem Gambling Helpline - | 67326837<br>1800 6668 668 |
