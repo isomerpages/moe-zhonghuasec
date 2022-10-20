@@ -21,7 +21,7 @@ third_nav_title: Science
 | Game Analytics |
 |
 
-#### **Science Symposium Posters**
+#### **Science Symposium Posters** 19,21,22,27,30,31,37,40,42,44,45
 
 |  |  |
 |:---:|---|
@@ -31,44 +31,44 @@ third_nav_title: Science
 |  | [Jailbreaking](https://qql/slot/u706/Departments/Science/Science%20Symposium%20Posters/2015%20Poster/4.%20Jailbreaking1.pdf) **broken link** |
 |  | [3D Animation] |
 |  | [Application to Game Analytics] |
-|  | [Phytoremediation] |
-|  | [Isolation of Fungi] |
+|  | [Phytoremediation] **file greater than 5mb**|
+|  | [Isolation of Fungi] **file greater than 5mb**|
 |  | [Dietary habits](https://www-z/qql/slot/u706/Departments/Science/Science%20Symposium%20Posters/2015%20Poster/9.%20Dietary%20habits1.pdf) **broken link** |
-|  | [Entrepreneurship] |
+|  | [Entrepreneurship] **file greater than 5mb**|
 |  | [Customer Relations] |
 |  | [IG Bonding] |
-| Year 2013/2014 | [Binge Drinking] |
+| Year 2013/2014 | [Binge Drinking] **file greater than 5mb** |
 |  | [Development of Obstacle Avoidance Capability of Miniature Robot](http://https/qql/slot/u706/Departments/Science/Science%20Symposium%20Posters/2014%20Science%20Symposium/Development%20of%20obstacle%20avoidance%20capability%20of%20miniature%20robot.pdf) **broken link** |
-|  | [Game Physics] |
+|  | [Game Physics] **file greater than 5mb** |
 |  | [Investigation into Cytoxicity of Flavonoids of Mammalian Cells] |
 |  | [Miniature Solar Vehicle] |
-|  | [SAP] |
+|  | [SAP] **file greater than 5mb** |
 |  | [Weight Management] |
-|  | [Windows Phone] |
-| Year 2012/2013 | [Assistive Device for Elderly] |
+|  | [Windows Phone] **file greater than 5mb**|
+| Year 2012/2013 | [Assistive Device for Elderly] **file greater than 5mb**|
 |  | [Benchmarking of tolerance and fit for Rapid Prototyping Process] |
 |  | [Cyberwellness and Education Toolkit] |
 |  | [Energy Consumption Analysis] |
 |  | [HIV Toolkit] |
-|  | [Identification of cancer stem cells inhibitors] |
+|  | [Identification of cancer stem cells inhibitors] **file greater than 5mb**|
 |  | [Isolation and Identification of Bioactive Compounds] |
 |  | [Master Mind Wrestle] |
-|  | [Microfluidic Gradient Generator] |
-|  | [Potential Antimicrobial activities in food packaging] |
+|  | [Microfluidic Gradient Generator] **file greater than 5mb**|
+|  | [Potential Antimicrobial activities in food packaging] **file greater than 5mb**|
 |  | [Windows Phone] |
 | Year 2011/2012 | [Science Symposium Chen Yi Jun & Yeo Tong] |
 |  | [Science Symposium Chia Hui Ning] |
 |  | [Science Symposium Chong Si Qing] |
 |  | [Science Symposium Christabel and Brian Tan] |
-|  | [Science Symposium Elizabeth] |
+|  | [Science Symposium Elizabeth] **file greater than 5mb**|
 |  | [Science Symposium Francis Chan and Germaine Choo] |
 |  | [Science Symposium Grace Chia and Goh Sing Yee] |
-|  | [Science Symposium Jia Min] |
+|  | [Science Symposium Jia Min] **file greater than 5mb**|
 |  | [Science Symposium Jolies and Hui Qi] |
-|  | [Science Symposium Kay Sheng] |
+|  | [Science Symposium Kay Sheng] **file greater than 5mb**|
 |  | [Science Symposium Rachel Chow] |
-|  | [Science Symposium Rachel Poon] |
-|  | [Science Symposium Samuel Tse] |
+|  | [Science Symposium Rachel Poon] **file greater than 5mb**|
+|  | [Science Symposium Samuel Tse] **file greater than 5mb**|
 |  | [Science Symposium Wong Weitao and Paul Tan] |
 |  | [Science Symposium Yu Ruo] |
 |  | [Science Symposium Yusof] |
