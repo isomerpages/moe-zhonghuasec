@@ -78,8 +78,6 @@ The appointment ceremonies were held at cohort level in Term 1 to appoint and fo
 
 <img src="/images/student%20leadership%204.jpg" style="width:65%">
 
-<img src="/images/student%20leadership%205.jpg" style="width:65%">
-
 The objective of the sports camp was to foster esprit de corps and camaraderie amongst sports leaders and sports CCA members. In addition, it was also an opportunity for Sec 4 & 5 to impart their experience to the Sec 1 to 3 sports leaders and athletes.
 
 **3) Student Council March Induction Camp (for Sec 1 – 5 Student Councillors)**
