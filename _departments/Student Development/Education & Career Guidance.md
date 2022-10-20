@@ -30,17 +30,17 @@ To make an appointment with Ms Catherine Ng (ECG Counsellor), please email her a
 |---|---|---|
 | Joint Intake Exercise (JIE Admission Booklet) | https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2021.pdf **broken link** | 4 Normal (Academic)<br>4 Normal (Technical) |
 | Joint Admission Exercise (JAE information Booklet) | https://beta.moe.gov.sg/uploads/2021-JAE-Information-Booklet.pdf **broken link**| 4 Express<br>5 Normal (Academic) |
-| Poly Foundation Programme (PFP) | https://pfp.polytechnic.edu.sg/PFP/pfp_introduction.html | 4 Normal (Academic) |
-| Direct-entry-scheme to Polytechnic Programme (DPP) | https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/direct-entry-scheme-to-polytechnic-programme | 4 Normal (Academic) |
-| Nanyang Academic of Fine Arts (NAFA) Foundation Programme   | https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/ | 4 Normal (Academic) |
+| Poly Foundation Programme (PFP) | [https://pfp.polytechnic.edu.sg/PFP/pfp_introduction.html](https://pfp.polytechnic.edu.sg/PFP/pfp_introduction.html) | 4 Normal (Academic) |
+| Direct-entry-scheme to Polytechnic Programme (DPP) | [https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/direct-entry-scheme-to-polytechnic-programme](https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/direct-entry-scheme-to-polytechnic-programme) | 4 Normal (Academic) |
+| Nanyang Academic of Fine Arts (NAFA) Foundation Programme   | [https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/](https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/) | 4 Normal (Academic) |
 | Poly Early Admission Exercise (Poly EAE) | https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp<br>https://www.moe.gov.sg/admissions/direct-admissions/eae/ **broken link**| 4 Express<br>5 Normal (Academic) |
 | Direct School Admission – Junior Colleges (DSA-JC) | https://www.moe.gov.sg/admissions/direct-admissions/dsa-jc/overview **broken link** | 4 Express<br>5 Normal (Academic) |
 | ITE Early Admission Exercise (ITE EAE) | https://www.ite.edu.sg/admissions/full-time-courses/nitec/early-admissions-exercise<br>https://www.moe.gov.sg/admissions/direct-admissions/ite-eae **broken link**| 4 Express<br>5 Normal (Academic)<br>4 Normal (Academic)<br>4 Normal (Technical) |
 | Pre-University Information | https://www.moe.gov.sg/education/pre-university **broken link**| 4 Express<br>5 Normal (Academic) |
 | Courses available at the Polytechnics | http://www.polytechnic.edu.sg/introduction/available-courses **broken link**| 4 Express<br>5 Normal (Academic)<br>4 Normal (Academic)<br>4 Normal (Technical) |
-| Courses available at the ITE | https://www.ite.edu.sg/admissions/full-time-courses | 4 Express<br>5 Normal (Academic)<br>4 Normal (Academic)<br>4 Normal (Technical) |
-| La Salle College of the Arts (Diploma) | https://www.lasalle.edu.sg/admissions/diploma-admissions | 4 Express<br>5 Normal (Academic) |
-| Nanyang Academic of Fine Arts (NAFA) Diploma | https://www.nafa.edu.sg/courses/diploma | 4 Express<br>5 Normal (Academic) |
+| Courses available at the ITE | [https://www.ite.edu.sg/admissions/full-time-courses](https://www.ite.edu.sg/admissions/full-time-courses) | 4 Express<br>5 Normal (Academic)<br>4 Normal (Academic)<br>4 Normal (Technical) |
+| La Salle College of the Arts (Diploma) | [https://www.lasalle.edu.sg/admissions/diploma-admissions](https://www.lasalle.edu.sg/admissions/diploma-admissions) | 4 Express<br>5 Normal (Academic) |
+| Nanyang Academic of Fine Arts (NAFA) Diploma | [https://www.nafa.edu.sg/courses/diploma](https://www.nafa.edu.sg/courses/diploma) | 4 Express<br>5 Normal (Academic) |
 |
 
 #### **Other Useful Links**
@@ -53,6 +53,6 @@ To make an appointment with Ms Catherine Ng (ECG Counsellor), please email her a
 | Parent Guide | https://www.moe.gov.sg/microsites/ecg-parent-guide/#p=1 **broken link**| A guide for parents/guardians in ECG |
 | The Next Step Forward | https://www.moe.gov.sg/microsites/next-step-forward/#p=14 **broken link**| An e-book that illustrates how 54 individuals go through diverse education and career pathways |
 | Post-Secondary Education Pathways | https://www.moe.gov.sg/education/post-secondary <br>https://www.moe.gov.sg/docs/default-source/document/education/post-secondary/files/post-secondary-brochure.pdf **broken link**| A list of post-secondary institutions |
-| Joint Polytechnic Admissions Exercise (JPAE) | https://jpae.polytechnic.edu.sg/app | Progression from ITE to Poly |
+| Joint Polytechnic Admissions Exercise (JPAE) | [https://jpae.polytechnic.edu.sg/app](https://jpae.polytechnic.edu.sg/app) | Progression from ITE to Poly |
 | ECG Centre at MOE | https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/education-and-career-guidance/ecg-centre-moe **broken link**  | Students-in-transition and their parents may book an appointment to see an ECG Counsellor at ECG Centre @MOE (Grange Road)   |
 |
