@@ -92,3 +92,20 @@ third_nav_title: Science
 |  | [P17 - Speed Challenge] |
 |  | [P18 - Visual Effect In Films] |
 |
+
+![](/images/scisymposium1.jpg)
+![](/images/scisymposium2.jpg)
+![](/images/scisymposium3.jpg)
+![](/images/scisymposium4.jpg)
+![](/images/scisymposium5.jpg)
+![](/images/scisymposium6.jpg)
+![](/images/scisymposium7.jpg)
+![](/images/scisymposium8.jpg)
+![](/images/scisymposium9.jpg)
+![](/images/scisymposium10.jpg)
+![](/images/scisymposium12.jpg)
+![](/images/scisymposium14.jpg)
+![](/images/scisymposium15.jpg)
+![](/images/scisymposium17.jpg)
+![](/images/scisymposium18.jpg)
+
