@@ -73,52 +73,24 @@ third_nav_title: Science
 |  | [Science Symposium Yu Ruo](/files/Symposium44.pdf) |
 |  | [Science Symposium Yusof](/files/Symposium45.pdf) |
 |  | [Science Symposium Bryan Chin](/files/Symposium46.pdf) |
-| Year 2010/2011 | [P1 - Managing Your Carbon Footprint] |
-|  | [P2 - Study of Anti-Bacterial Effect of Fungal Extract Using Staphylococcus Aureus] |
-|  | [P3 - Investigation of Bacterial Growth on Rice] |
-|  | [P4 - Polymerase Chain Reaction] |
-|  | [P5 - Controlling of pH in Soap Formulation] |
-|  | [P6 - Elderly Emergency Response System] |
-|  | [P7 - Miniature Solar-Fuel Cell Vehicle] |
-|  | [P8 - E-Physiotheraphy Portal] |
-|  | [P9 - Design and Development of Rehabilitation Device For Lower Limbs] |
-|  | [P10 - Flights] |
+| Year 2010/2011 | [P1 - Managing Your Carbon Footprint](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium1.jpg) |
+|  | [P2 - Study of Anti-Bacterial Effect of Fungal Extract Using Staphylococcus Aureus](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium2.jpg) |
+|  | [P3 - Investigation of Bacterial Growth on Rice](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium3.jpg) |
+|  | [P4 - Polymerase Chain Reaction](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium4.jpg) |
+|  | [P5 - Controlling of pH in Soap Formulation](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium5.jpg) |
+|  | [P6 - Elderly Emergency Response System](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium6.jpg) |
+|  | [P7 - Miniature Solar-Fuel Cell Vehicle](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium7.jpg) |
+|  | [P8 - E-Physiotheraphy Portal](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium8.jpg) |
+|  | [P9 - Design and Development of Rehabilitation Device For Lower Limbs](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium9.jpg) |
+|  | [P10 - Flights](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium10.jpg) |
 |  | [P11 - Heat Therapy on Muscles] |
-|  | [P12 - Social Media Trends and Tools] |
+|  | [P12 - Social Media Trends and Tools](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium12.jpg) |
 |  | [P13 - Online Mapping Tools](http://h/qql/slot/u706/Departments/Science/Science%20Symposium%20Posters/P13%20-%20ONLINE%20MAPPING%20PORTAL.jpg) **broken link** |
-|  | [P14 - Human Computer Interaction on Sharepoint and Moodle Sites] |
-|  | [P15 - 2D Symbologies Adoption Trends and Application] |
+|  | [P14 - Human Computer Interaction on Sharepoint and Moodle Sites](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium14.jpg) |
+|  | [P15 - 2D Symbologies Adoption Trends and Application](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium15.jpg) |
 |  | [P16 - Product Marketing Through Web Analytics Tools and Social Media](https://www.zhonghuasec.moe.edu.sg/qql/slot/u706/Departments/Science/Science%20Symposium%20Posters/P15%20-%202D%20SYMBOLOGIES%20ADOPTION%20TRENDS%20AND%20APPLICATION.jpg) **broken link** |
-|  | [P17 - Speed Challenge] |
-|  | [P18 - Visual Effect In Films] |
+|  | [P17 - Speed Challenge](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium17.jpg) |
+|  | [P18 - Visual Effect In Films](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium18.jpg) |
 |
 
-![](/images/scisymposium1.jpg)
-
-![](/images/scisymposium2.jpg)
-
-![](/images/scisymposium3.jpg)
-
-![](/images/scisymposium4.jpg)
-
-![](/images/scisymposium5.jpg)
-
-![](/images/scisymposium6.jpg)
-
-![](/images/scisymposium7.jpg)
-
-![](/images/scisymposium8.jpg)
-
-![](/images/scisymposium9.jpg)
-
-![](/images/scisymposium10.jpg)
-
-![](/images/scisymposium12.jpg)
-
-![](/images/scisymposium14.jpg)
-
-![](/images/scisymposium15.jpg)
-
-![](/images/scisymposium17.jpg)
-
-![](/images/scisymposium18.jpg)
+![](/images/scisymposium11.jpg)
