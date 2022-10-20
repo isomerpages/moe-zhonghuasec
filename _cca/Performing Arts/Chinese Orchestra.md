@@ -27,7 +27,7 @@ third_nav_title: Performing Arts
 | Instructor (Percussion / Yangqin) | Mr Shen Guoqin * |
 |
 
-* : From Singapore Chinese Orchestra (SCO)<br>
+\* : From Singapore Chinese Orchestra (SCO)<br>
 ^ : From Singapore Symphony Orchestra (SSO)
 
 Link to **[2022 CCA Schedule](/files/2022%20cca%20schedule.pdf)**
@@ -60,5 +60,3 @@ We value each member of ZHCO and we ensure that each of them graduate from the s
 
 <img src="/images/co3.jpg" style="width:49%" align=left>
 <img src="/images/co4.jpg" style="width:49%" align=right>
-
-
