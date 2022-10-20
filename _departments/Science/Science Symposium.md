@@ -83,7 +83,7 @@ third_nav_title: Science
 |  | [P8 - E-Physiotheraphy Portal](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium8.jpg) |
 |  | [P9 - Design and Development of Rehabilitation Device For Lower Limbs](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium9.jpg) |
 |  | [P10 - Flights](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium10.jpg) |
-|  | [P11 - Heat Therapy on Muscles] |
+|  | [P11 - Heat Therapy on Muscles](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium11.jpg) |
 |  | [P12 - Social Media Trends and Tools](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium12.jpg) |
 |  | [P13 - Online Mapping Tools](http://h/qql/slot/u706/Departments/Science/Science%20Symposium%20Posters/P13%20-%20ONLINE%20MAPPING%20PORTAL.jpg) **broken link** |
 |  | [P14 - Human Computer Interaction on Sharepoint and Moodle Sites](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium14.jpg) |
@@ -92,5 +92,3 @@ third_nav_title: Science
 |  | [P17 - Speed Challenge](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium17.jpg) |
 |  | [P18 - Visual Effect In Films](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/scisymposium18.jpg) |
 |
-
-![](/images/scisymposium11.jpg)
