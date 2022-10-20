@@ -43,30 +43,30 @@ third_nav_title: Science
 |  | [Investigation into Cytoxicity of Flavonoids of Mammalian Cells](/files/Symposium16.pdf) |
 |  | [Miniature Solar Vehicle](/files/Symposium17.pdf) |
 |  | [SAP] **file greater than 5mb** |
-|  | [Weight Management] |
+|  | [Weight Management] **file greater than 5mb** |
 |  | [Windows Phone] **file greater than 5mb**|
 | Year 2012/2013 | [Assistive Device for Elderly] **file greater than 5mb**|
-|  | [Benchmarking of tolerance and fit for Rapid Prototyping Process] |
+|  | [Benchmarking of tolerance and fit for Rapid Prototyping Process] **file greater than 5mb** |
 |  | [Cyberwellness and Education Toolkit](/files/Symposium23.pdf) |
 |  | [Energy Consumption Analysis](/files/Symposium24.pdf) |
 |  | [HIV Toolkit](/files/Symposium25.pdf) |
 |  | [Identification of cancer stem cells inhibitors] **file greater than 5mb**|
-|  | [Isolation and Identification of Bioactive Compounds] |
+|  | [Isolation and Identification of Bioactive Compounds] **file greater than 5mb** |
 |  | [Master Mind Wrestle](/files/Symposium28.pdf) |
 |  | [Microfluidic Gradient Generator] **file greater than 5mb**|
 |  | [Potential Antimicrobial activities in food packaging] **file greater than 5mb**|
-|  | [Windows Phone] |
+|  | [Windows Phone] **file greater than 5mb**|
 | Year 2011/2012 | [Science Symposium Chen Yi Jun & Yeo Tong](/files/Symposium32.pdf) |
 |  | [Science Symposium Chia Hui Ning](/files/Symposium33.pdf) |
 |  | [Science Symposium Chong Si Qing](/files/Symposium34.pdf) |
 |  | [Science Symposium Christabel and Brian Tan](/files/Symposium35.pdf) |
 |  | [Science Symposium Elizabeth] **file greater than 5mb**|
 |  | [Science Symposium Francis Chan and Germaine Choo](/files/Symposium36.pdf) |
-|  | [Science Symposium Grace Chia and Goh Sing Yee] |
+|  | [Science Symposium Grace Chia and Goh Sing Yee] **file greater than 5mb** |
 |  | [Science Symposium Jia Min] **file greater than 5mb**|
 |  | [Science Symposium Jolies and Hui Qi](/files/Symposium38.pdf) |
 |  | [Science Symposium Kay Sheng] **file greater than 5mb**|
-|  | [Science Symposium Rachel Chow] |
+|  | [Science Symposium Rachel Chow] **file greater than 5mb** |
 |  | [Science Symposium Rachel Poon] **file greater than 5mb**|
 |  | [Science Symposium Samuel Tse] **file greater than 5mb**|
 |  | [Science Symposium Wong Weitao and Paul Tan](/files/Symposium43.pdf) |
