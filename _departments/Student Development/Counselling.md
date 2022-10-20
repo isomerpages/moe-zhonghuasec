@@ -8,9 +8,9 @@ third_nav_title: Student Development
 <img src="/images/counselling.jpg" style="width:55%;margin-right:15px;" align = "left">
 Counselling is a collaborative relationship which provides the student a listening ear and safe space – to explore issues & solutions, develop coping skills, facilitate positive change and improve mental well-being.
 
-Students can request for a counselling appointment with the School Counsellor / Teacher Counsellors. Staff / Parents can also refer student / child for school counselling support.
-
 <br clear="left">
+
+Students can request for a counselling appointment with the School Counsellor / Teacher Counsellors. Staff / Parents can also refer student / child for school counselling support.
 
 **Venue**<br>
 Counselling Room (at B2-06 – behind the School Hall)
