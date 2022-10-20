@@ -100,4 +100,15 @@ description: ""
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/cca/uniformed-group/sjb/">
 <img style="width:20%" src="/images/cca20.jpg" align=left>
-</a></p>	
+</a></p>
+
+<br clear="left">
+
+#### **CCA Guidelines**
+CCAs are a key component of students’ holistic education. **CCA participation is compulsory at the secondary school level**, and every student is expected to participate in a **school-based CCA**. Secondary school students may pursue their interests and participate in external activities, but not in-lieu of a school-based CCA.
+
+The guiding principles of our CCA programme are:<br>
+1\. To build character, team spirit and responsibility<br>
+2\. To provide a broad-based programme with opportunities to specialise<br>
+3\. To be responsive to inculcating national values and skills<br>
+4\. To promote social integration
