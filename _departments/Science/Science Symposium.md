@@ -38,7 +38,7 @@ third_nav_title: Science
 |  | [Customer Relations] |
 |  | [IG Bonding] |
 | Year 2013/2014 | [Binge Drinking] |
-|  | [Development of Obstacle Avoidance Capability of Miniature Robot]http://https/qql/slot/u706/Departments/Science/Science%20Symposium%20Posters/2014%20Science%20Symposium/Development%20of%20obstacle%20avoidance%20capability%20of%20miniature%20robot.pdf **broken link** |
+|  | [Development of Obstacle Avoidance Capability of Miniature Robot](http://https/qql/slot/u706/Departments/Science/Science%20Symposium%20Posters/2014%20Science%20Symposium/Development%20of%20obstacle%20avoidance%20capability%20of%20miniature%20robot.pdf) **broken link** |
 |  | [Game Physics] |
 |  | [Investigation into Cytoxicity of Flavonoids of Mammalian Cells] |
 |  | [Miniature Solar Vehicle] |
