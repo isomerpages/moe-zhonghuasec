@@ -46,10 +46,10 @@ Zwinds has always been one big family. We show care and appreciation to one anot
 * 2019 SYF Arts Presentation – Certificate of Accomplishment [Band – Concert] 
 * 2021 SYF Arts Presentation – Certificate of Distinction [Band – Concert] 
 
-<img src="/images/band1.jpg" style="width:49%" align=left>
-<img src="/images/band2.jpg" style="width:49%" align=right>
+<img src="/images/band1.jpg" style="width:45%" align=left>
+<img src="/images/band2.jpg" style="width:50%" align=right>
 
 <br clear="left">
 
-<img src="/images/band3.jpg" style="width:49%" align=left>
-<img src="/images/band4.jpg" style="width:49%" align=right>
+<img src="/images/band3.jpg" style="width:45%" align=left>
+<img src="/images/band4.jpg" style="width:50%" align=right>
