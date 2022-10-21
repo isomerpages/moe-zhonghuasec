@@ -34,7 +34,7 @@ third_nav_title: Zhonghua Signature Programmes
 
 <br clear="left">
 
-<img style="width:45%" src="/images/zsp7.jpg">
+<img style="width:55%" src="/images/zsp7.jpg">
 
 #### **The Zhonghua Graduate**
 Our future-ready curriculum and signature programmes equip our students with 21st Century Competencies to prepare them to be scholars and leaders of the future with a heart to lead and serve the community. We believe that the Zhonghua Graduate will be:
