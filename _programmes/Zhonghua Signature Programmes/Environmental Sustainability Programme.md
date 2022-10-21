@@ -60,5 +60,5 @@ Some examples of cohort/CCA/class-based environmental activities conducted or pa
 <figure>
 <figcaption><strong> Clean and Green Carnivals
 	</strong></figcaption>
-<img src="/images/esp5.jpg" style="width:70%">
+<img src="/images/esp5.jpg" style="width:80%">
 </figure>
