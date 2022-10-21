@@ -20,7 +20,7 @@ description: ""
 
 -------------------------------------------------------------------------------
 
-**Direct Schools Admission (DSA) Exercise For 2023 Intake** [Read more]
+**Direct Schools Admission (DSA) Exercise For 2023 Intake** [Read more](https://staging.d1ph2u5puaqsvh.amplifyapp.com/admission/dsa-2023/)
 
 -------------------------------------------------------------------------------
 
@@ -32,11 +32,11 @@ description: ""
 
 -------------------------------------------------------------------------------
 
-**2022 Secondary 1 e-Registration Exercise** [Read more]
+**2022 Secondary 1 e-Registration Exercise** [Read more](https://www.zhonghuasec.moe.edu.sg/admission/2022-secondary-1-e-registration-exercise) **broken link**
 
 -------------------------------------------------------------------------------
 
-**Zhonghua Secondary School e-Open House 2021** [Read more]
+**Zhonghua Secondary School e-Open House 2021** [Read more](https://sites.google.com/moe.edu.sg/zhonghuasecschooleopenhouse)
 
 -------------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ description: ""
 
 -------------------------------------------------------------------------------
 
-**HBL for Sec 1 and 2 from 28 to 30 Jun** [Read more]
+**HBL for Sec 1 and 2 from 28 to 30 Jun** [Read more](https://staging.d1ph2u5puaqsvh.amplifyapp.com/announcements/hbl-sec1-and-sec2/)
 
 -------------------------------------------------------------------------------
 
@@ -67,7 +67,7 @@ description: ""
 **Nominations for Inspiring Teacher of English Award 2021** <br>
 Nominations for Inpiring Teacher of English Award 2021 is open! Nomination form for the Teaching Award can be downloaded from [http://goodenglish.org.sg/inpiring-teacher-of-english-award/nomination-information](http://goodenglish.org.sg/inpiring-teacher-of-english-award/nomination-information) **website unavailable** . All students and parents, and teachers are inviated to send in nominations for the Teaching Award. Please email the completed form to zhonghua\_ss@moe.edu.sg with the subject heading "ITEA Nomination" by 6pm on Monday 29 Mar 2021.
 
-[Read more]
+[Read more](https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information)
 
 -------------------------------------------------------------------------------
 
@@ -75,14 +75,12 @@ Nominations for Inpiring Teacher of English Award 2021 is open! Nomination form 
 
 -------------------------------------------------------------------------------
 
-**2021 Term 1 Common Test Timetable** [Read more]
+**2021 Term 1 Common Test Timetable** [Read more](https://www.zhonghuasec.moe.edu.sg/qql/slot/u706/Announcements/2021/2021%20Term%201%20Common%20Test%20Timetable%20v2.pdf) **broken link**
 
 -------------------------------------------------------------------------------
 
-**2021 ZHSS Sec 1 CCA Selection Trials Schedule** [Read more]
+**2021 ZHSS Sec 1 CCA Selection Trials Schedule** [Read more](https://www.zhonghuasec.moe.edu.sg/qql/slot/u706/Announcements/2021/2021%20ZHSS%20Sec%201%20CCA%20Selection%20Trials%20Schedule.pdf) **broken link**
 
 -------------------------------------------------------------------------------
 
 **2021 CCA Training Schedule** [Read more]
-
-
