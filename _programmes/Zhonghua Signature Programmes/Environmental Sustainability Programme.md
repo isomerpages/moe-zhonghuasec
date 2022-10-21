@@ -20,7 +20,7 @@ Students will gain values such as (i) **tolerance and understanding** while in
 
 The ESE committee plans and carries out broad-based and niche environmental activities to raise awareness on environmental issues.
 
-**Broad-Based Environmental Activities**<br>
+##### **Broad-Based Environmental Activities**
 Some examples of school-wide environmental activities conducted annually include:
 * Earth Hour (One Hour Power Down)  
 * Earth Day  
@@ -28,7 +28,7 @@ Some examples of school-wide environmental activities conducted annually include
 * Zero Waste campaigns  
 * Assembly talks by environmental societies
 
-**Niche Environmental Activities**<br>
+##### **Niche Environmental Activities**
 Some examples of cohort/CCA/class-based environmental activities conducted or participated annually include:
 * Secondary Three Stamp Out Dengue in collaboration with NEA and Braddell Heights CC  
 * Southeast Schools’ Clean and Green Week Carnival  
