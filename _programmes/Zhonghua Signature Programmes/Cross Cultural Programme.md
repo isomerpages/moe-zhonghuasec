@@ -6,7 +6,7 @@ third_nav_title: Zhonghua Signature Programmes
 ---
 ### **Cross Cultural Programme**
 
-<img src="/images/ccp1.jpg" style="width:65%">
+<img src="/images/ccp1.jpg" style="width:75%">
 
 #### **Trip for Internationalization Experience (TIE)**
 
