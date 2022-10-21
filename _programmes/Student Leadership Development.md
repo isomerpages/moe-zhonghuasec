@@ -16,7 +16,7 @@ The Student Leadership Programme @ ZHSS programme aims to provide students with 
 #### **Student Leadership Framework**
 In the planning and delivering of student outcomes in leadership training and activities, we follow the 3-Tier Student Leadership Approach.
 
-<img src="/images/sl1.png" style="width:70%">
+<img src="/images/sl1.png" style="width:50%">
 
 Our student leadership framework (above diagram) exemplifies 3-tier approach to nurturing student leaders. The framework is tied to our leadership program where students will be exposed to training and opportunities to allow them to level up their competencies and transit to the next tier. Students will be evaluated from 3 angles: self-evaluation (Sec 1-5), peer evaluation (Sec 1, 3) and teacher evaluation (Sec 2, 4) to measure their growth as a leader and their development in the scholar aspect.
 
