@@ -4,19 +4,19 @@ permalink: /announcements/
 description: ""
 ---
 ### **Announcements**
-**MOE Financial Assistance (FAS) Application Form 2023** [Read more]
+**MOE Financial Assistance (FAS) Application Form 2023** [Read more](/files/a1.pdf)
 
 -------------------------------------------------------------------------------
 
-**Sec 1 to 3 End-of-Year Examination Timetable 2022** [Read more]
+**Sec 1 to 3 End-of-Year Examination Timetable 2022** [Read more](/files/a2.pdf)
 
 -------------------------------------------------------------------------------
 
-**Sec 4/5 O Level Prelim Examination Timetable** [Read more]
+**Sec 4/5 O Level Prelim Examination Timetable** [Read more](/files/a3.pdf)
 
 -------------------------------------------------------------------------------
 
-**2022 Sec 1-3 Term 3 WA3 and Sec 4N 4T Preliminary Timetables** [Read more]
+**2022 Sec 1-3 Term 3 WA3 and Sec 4N 4T Preliminary Timetables** [Read more](/files/a4.pdf)
 
 -------------------------------------------------------------------------------
 
@@ -24,11 +24,11 @@ description: ""
 
 -------------------------------------------------------------------------------
 
-**2022 Sec 2, Sec 4/5 Mid-Year Exam Time Table** [Read more]
+**2022 Sec 2, Sec 4/5 Mid-Year Exam Time Table** [Read more](/files/a6.pdf)
 
 -------------------------------------------------------------------------------
 
-**2022 Weighted Assessment 1 (WA1) Timetable** [Read more]
+**2022 Weighted Assessment 1 (WA1) Timetable** [Read more](/files/a7.pdf)
 
 -------------------------------------------------------------------------------
 
@@ -40,19 +40,19 @@ description: ""
 
 -------------------------------------------------------------------------------
 
-**2021 Sec 1-3 EOY Exam Timetables** [Read more]
+**2021 Sec 1-3 EOY Exam Timetables** [Read more](/files/a10.pdf)
 
 -------------------------------------------------------------------------------
 
-**Zhonghua Secondary School 110th Anniversary Celebration** [Read more]
+**Zhonghua Secondary School 110th Anniversary Celebration** [Read more](/files/a11.pdf)
 
 -------------------------------------------------------------------------------
 
-**2021 4E 4N 5N Prelim Timetable** [Read more]
+**2021 4E 4N 5N Prelim Timetable** [Read more](/files/a12.pdf)
 
 -------------------------------------------------------------------------------
 
-**2021 Sec 4N/4T Prelim Exam & Sec 1-3 Term 3 Common Test Time Tables** [Read more]
+**2021 Sec 4N/4T Prelim Exam & Sec 1-3 Term 3 Common Test Time Tables** [Read more](/files/a13.pdf)
 
 -------------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ description: ""
 
 -------------------------------------------------------------------------------
 
-**2021 Sec 2 & Sec 4/5 Mid-Year Examinations Timetables** [Read more]
+**2021 Sec 2 & Sec 4/5 Mid-Year Examinations Timetables** [Read more](/files/a15.pdf)
 
 -------------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ Nominations for Inpiring Teacher of English Award 2021 is open! Nomination form 
 
 -------------------------------------------------------------------------------
 
-**Chuang Yong Eng Scholarship and Bursary** [Read more]
+**Chuang Yong Eng Scholarship and Bursary** [Read more](/files/a16.pdf)
 
 -------------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ Nominations for Inpiring Teacher of English Award 2021 is open! Nomination form 
 
 -------------------------------------------------------------------------------
 
-**2021 CCA Training Schedule** [Read more]
+**2021 CCA Training Schedule** [Read more](/files/a19.pdf)
