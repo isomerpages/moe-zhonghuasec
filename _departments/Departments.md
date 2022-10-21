@@ -17,7 +17,7 @@ description: ""
 <img style="width:25%" src="/images/dept3.jpg" align=left>
 </a></p>	
 
-<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/departments/infocomm-technology//">
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/departments/infocomm-technology/">
 <img style="width:25%" src="/images/dept4.jpg" align=left>
 </a></p>	
 
@@ -35,7 +35,7 @@ description: ""
 <img style="width:25%" src="/images/dept7.jpg" align=left>
 </a></p>	
 
-<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/departments/physical-education//">
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/departments/physical-education/">
 <img style="width:25%" src="/images/dept8.jpg" align=left>
 </a></p>	
 
@@ -51,5 +51,4 @@ description: ""
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/departments/visual-art/">
 <img style="width:25%" src="/images/dept11.jpg" align=left>
-</a></p>	
-
+</a></p>
