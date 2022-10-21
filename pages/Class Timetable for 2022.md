@@ -13,7 +13,7 @@ description: ""
 | **Sec 3** |  |  |  |  |  |  |  |
 | [3E1]<br>  | [3E2]<br>  | [3E3]<br>  | [3E4]<br>  | [3E5]<br>  | [3N1]<br>  | 3N2<br>  | [3T1]<br>  |
 | **Sec 4** |  |  |  |  |  |  |  |
-| [4E1]<br>  | [4E2]<br>  | [4E3]<br>  | [4E4]<br>  | [4N1]<br>  | [4N2]<br>  | [4T1]<br>  |   |
+| [4E1]<br>  | [4E2]<br>  | [4E3]<br>  | [4E4]<br>  | [4N1]<br>  | [4N2]<br>  | [4T1](https://www.zhonghuasec.moe.edu.sg/qql/slot/u706/Infolinks/202/4T1.pdf) **broken link**<br>  |   |
 | **Sec 5** |  |  |  |  |  |  |  |
 | [5N1]<br>  |  |  |  |  |  |  |  |
 |
