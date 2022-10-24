@@ -112,3 +112,115 @@ Humanities Scholarship Tea Session 2019
  </figcaption>
 </figure>	
 </a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/11/">
+<figure>	
+<img style="width:40%" src="/images/highlights11.jpg" align=left>
+<figcaption><br><br><br>7 May 2019<br>
+ZHSS Chinese Orchestra SYF 2019
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/12/">
+<figure>	
+<img style="width:40%" src="/images/highlights11.jpg" align=left>
+<figcaption><br><br><br>15 Apr 2019<br>
+South Zone B Division Volleyball Championship 2019
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/13/">
+<figure>	
+<img style="width:40%" src="/images/highlights13.jpg" align=left>
+<figcaption><br><br><br>2 Apr 2019<br>
+Hong Kong TIE Trip (2018)
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/14/">
+<figure>	
+<img style="width:40%" src="/images/highlights14.jpg" align=left>
+<figcaption><br><br><br>19 Mar 2019<br>
+ZHSS Open Mic Feb/Mar 2019
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/15/">
+<figure>	
+<img style="width:40%" src="/images/highlights15.jpg" align=left>
+<figcaption><br><br><br>4 Mar 2019<br>
+International Science Youth Forum 2019
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/16/">
+<figure>	
+<img style="width:40%" src="/images/highlights16.jpg" align=left>
+<figcaption><br><br><br>28 Feb 2019<br>
+Visit to Long Men Junior High Taipei
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/17/">
+<figure>	
+<img style="width:40%" src="/images/highlights17.jpg" align=left>
+<figcaption><br><br><br>25 Feb 2019<br>
+Learning Journey to MOE ESTL
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/18/">
+<figure>	
+<img style="width:40%" src="/images/highlights18.jpg" align=left>
+<figcaption><br><br><br>23 Oct 2018<br>
+NRIC Presentation Ceremony 2018
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/19/">
+<figure>	
+<img style="width:40%" src="/images/highlights19.jpg" align=left>
+<figcaption><br><br><br>29 Oct 2018<br>
+Scouts Chief Commissioner's Award 2018
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/2/">
+<figure>	
+<img style="width:40%" src="/images/highlight20.jpg)" align=left>
+<figcaption><br><br><br>26 Oct 2018<br>
+5D4N Scouts and NPCC Overseas Exchange and VIA Programme in Chiang Mai
+ </figcaption>
+</figure>	
+</a></p>
+
+
