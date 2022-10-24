@@ -222,3 +222,442 @@ Scouts Chief Commissioner's Award 2018
  </figcaption>
 </figure>	
 </a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/21/">
+<figure>	
+<img style="width:40%" src="/images/highlights21.jpg" align=left>
+<figcaption><br><br><br>15 Oct 2018<br>
+The Writer's Makeover 2018
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/22/">
+<figure>	
+<img style="width:40%" src="/images/highlights22.jpg" align=left>
+<figcaption><br><br><br>28 Sep 2018<br>
+National Camp Reflections
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/23/">
+<figure>	
+<img style="width:40%" src="/images/highlights23.jpg" align=left>
+<figcaption><br><br><br>25 Sep 2018<br>
+Youth Trailblazers Competition 2018
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/24/">
+<figure>	
+<img style="width:40%" src="/images/highlights24.jpg" align=left>
+<figcaption><br><br><br>21 Sep 2018<br>
+Monitors' Enrichment Programme with Hush
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/25/">
+<figure>	
+<img style="width:40%" src="/images/highlights25.jpg" align=left>
+<figcaption><br><br><br>10 Sep 2018<br>
+NCC Trip to USA from 16 June to 27 June 2018
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/26/">
+<figure>	
+<img style="width:40%" src="/images/highlights26.jpg" align=left>
+<figcaption><br><br><br>31 Aug 2018<br>
+Music Unit: Dialogue with Singapore Symphony Orchestra Guest Conductor Mr Darrell Ang and Yong Siew Toh Conservatory of Music Assistant Prof Chen Zhangyi
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/27/">
+<figure>	
+<img style="width:40%" src="/images/highlights27.jpg" align=left>
+<figcaption><br><br><br>25 May 2018<br>
+Sec 4 Talent Development Program
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/28/">
+<figure>	
+<img style="width:40%" src="/images/highlights28.jpg" align=left>
+<figcaption><br><br><br>14 May 2018<br>
+STEM 2018
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/29/">
+<figure>	
+<img style="width:40%" src="/images/highlights29.jpg" align=left>
+<figcaption><br><br><br>2 Apr 2018<br>
+Secondary One Orientation Camp 2018
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/30/">
+<figure>	
+<img style="width:40%" src="/images/highlights30.jpg" align=left>
+<figcaption><br><br><br>15 Feb 2018<br>
+Student Improvement Project by I&E Monitors
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/31/">
+<figure>	
+<img style="width:40%" src="/images/highlights31.jpg" align=left>
+<figcaption><br><br><br>13 Feb 2018<br>
+International Science Youth Forum (ISYF) 2018
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/32/">
+<figure>	
+<img style="width:40%" src="/images/highlights32.jpg" align=left>
+<figcaption><br><br><br>25 Jan 2018<br>
+2017 Mid-Autumn Festival-cum-School Anniversary Celebrations
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/33/">
+<figure>	
+<img style="width:40%" src="/images/highlights33.jpg" align=left>
+<figcaption><br><br><br>13 Dec 2017<br>
+Secondary 2 AEP Docent Programme with Xinghua Primary School
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/34/">
+<figure>	
+<img style="width:40%" src="/images/highlights34.jpg" align=left>
+<figcaption><br><br><br>24 Nov 2017<br>
+Thong Chai Charity Performance
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/35/">
+<figure>	
+<img style="width:40%" src="/images/highlights35.jpg" align=left>
+<figcaption><br><br><br>24 Nov 2017<br>
+Secondary 2 AEP – Visit to Thow Kwang Pottery
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/36/">
+<figure>	
+<img style="width:40%" src="/images/highlights36.jpg" align=left>
+<figcaption><br><br><br>30 Oct 2017<br>
+Publicity Reflections: Dialogue in the Dark
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/37/">
+<figure>	
+<img style="width:40%" src="/images/highlights37.jpg" align=left>
+<figcaption><br><br><br>27 Sep 2017<br>
+Chief Commissioner’s Award for Scouts
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/38/">
+<figure>	
+<img style="width:40%" src="/images/highlights38.jpg" align=left>
+<figcaption><br><br><br>22 Sep 2017<br>
+TIE Trip – Chiang Mai (2017)
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/39/">
+<figure>	
+<img style="width:40%" src="/images/highlights39.jpg" align=left>
+<figcaption><br><br><br>15 Aug 2017<br>
+Humanities Scholarship Tea Session 2017
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/40/">
+<figure>	
+<img style="width:40%" src="/images/highlights40.jpg" align=left>
+<figcaption><br><br><br>15 Aug 2017<br>
+ZHSS in National Youth Business Challenge 2017
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/41/">
+<figure>	
+<img style="width:40%" src="/images/highlights41.jpg" align=left>
+<figcaption><br><br><br>14 Aug 2017<br>
+Learning Journey to Bank of America Merrill Lynch
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/42/">
+<figure>	
+<img style="width:40%" src="/images/highlights42.jpg" align=left>
+<figcaption><br><br><br>11 Aug 2017<br>
+Reflections for Penang Visual Art Immersion Trip 2017
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/43/">
+<figure>	
+<img style="width:40%" src="/images/highlights43.jpg" align=left>
+<figcaption><br><br><br>11 Aug 2017<br>
+Chung Ling High School International Science and Technology Symposium 2017
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/44/">
+<figure>	
+<img style="width:40%" src="/images/highlights44.jpg" align=left>
+<figcaption><br><br><br>19 Jul 2017<br>
+BB Blaze 2017
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/45/">
+<figure>	
+<img style="width:40%" src="/images/highlights45.jpg" align=left>
+<figcaption><br><br><br>19 Jul 2017<br>
+Dance SYF 2017
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/46/">
+<figure>	
+<img style="width:40%" src="/images/highlights46.jpg" align=left>
+<figcaption><br><br><br>17 Jul 2017<br>
+National Active Agers’ Rummy-O Meet 2017
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/47/">
+<figure>	
+<img style="width:40%" src="/images/highlights47.jpg" align=left>
+<figcaption><br><br><br>17 Jul 2017<br>
+Basketball Season Reflections
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/48/">
+<figure>	
+<img style="width:40%" src="/images/highlights48.jpg" align=left>
+<figcaption><br><br><br>12 Jul 2017<br>
+Stamp-out Dengue Awareness Programme 2017 (Staff’s reflections)
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/49/">
+<figure>	
+<img style="width:40%" src="/images/highlights49.jpg" align=left>
+<figcaption><br><br><br>10 Jul 2017<br>
+BuildingBloCS 2017
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/50/">
+<figure>	
+<img style="width:40%" src="/images/highlights50.png" align=left>
+<figcaption><br><br><br>11 Jun 2017<br>
+Total Defence Day 2017
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/51/">
+<figure>	
+<img style="width:40%" src="/images/highlights51.jpg" align=left>
+<figcaption><br><br><br>11<br>
+Total
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/52/">
+<figure>	
+<img style="width:40%" src="/images/highlights52.jpg" align=left>
+<figcaption><br><br><br>11<br>
+Total
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/53/">
+<figure>	
+<img style="width:40%" src="/images/highlights53.jpg" align=left>
+<figcaption><br><br><br>11<br>
+Total
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/54/">
+<figure>	
+<img style="width:40%" src="/images/highlights54.jpg" align=left>
+<figcaption><br><br><br>11<br>
+Total
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/55/">
+<figure>	
+<img style="width:40%" src="/images/highlights55.jpg" align=left>
+<figcaption><br><br><br>11<br>
+Total
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/56/">
+<figure>	
+<img style="width:40%" src="/images/highlights56.jpg" align=left>
+<figcaption><br><br><br>11<br>
+Total
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/57/">
+<figure>	
+<img style="width:40%" src="/images/highlights57.jpg" align=left>
+<figcaption><br><br><br>11<br>
+Total
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/58/">
+<figure>	
+<img style="width:40%" src="/images/highlights58.jpg" align=left>
+<figcaption><br><br><br>11<br>
+Total
+ </figcaption>
+</figure>	
+</a></p>
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/59/">
+<figure>	
+<img style="width:40%" src="/images/highlights59.jpg" align=left>
+<figcaption><br><br><br>11<br>
+Total
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/60/">
+<figure>	
+<img style="width:40%" src="/images/highlights60.jpg" align=left>
+<figcaption><br><br><br>11<br>
+Total
+ </figcaption>
+</figure>	
+</a></p>
