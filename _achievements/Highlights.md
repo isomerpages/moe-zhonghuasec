@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Highlights**
 
-<p><a href="">
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/1/">
 <figure>	
 <img style="width:40%" src="/images/highlights1.jpg" align=left>
 <figcaption><br> 22 December 2021<br>
@@ -14,3 +14,13 @@ description: ""
 </figure>	
 </a></p>
 
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/2/">
+<figure>	
+<img style="width:40%" src="/images/highlights2.jpg" align=left>
+<figcaption><br> 22 December 2021<br>
+2022 Secondary 1 e-Registration Exercise
+ </figcaption>
+</figure>	
+</a></p>
