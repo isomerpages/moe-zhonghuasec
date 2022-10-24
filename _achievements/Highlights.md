@@ -557,9 +557,9 @@ Total Defence Day 2017
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/51/">
 <figure>	
-<img style="width:40%" src="/images/highlights51.jpg" align=left>
-<figcaption><br><br><br>11<br>
-Total
+<img style="width:40%" src="/images/highlights51.png" align=left>
+<figcaption><br><br><br>11 Jun 2017<br>
+Chinese Orchestra’s Singapore Youth Festival Reflections 2017
  </figcaption>
 </figure>	
 </a></p>
@@ -569,8 +569,8 @@ Total
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/52/">
 <figure>	
 <img style="width:40%" src="/images/highlights52.jpg" align=left>
-<figcaption><br><br><br>11<br>
-Total
+<figcaption><br><br><br>9 Jun 2017<br>
+Choir 2017 Singapore Youth Festival
  </figcaption>
 </figure>	
 </a></p>
@@ -580,8 +580,8 @@ Total
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/53/">
 <figure>	
 <img style="width:40%" src="/images/highlights53.jpg" align=left>
-<figcaption><br><br><br>11<br>
-Total
+<figcaption><br><br><br>22 May 2017<br>
+World Water Day
  </figcaption>
 </figure>	
 </a></p>
@@ -591,8 +591,8 @@ Total
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/54/">
 <figure>	
 <img style="width:40%" src="/images/highlights54.jpg" align=left>
-<figcaption><br><br><br>11<br>
-Total
+<figcaption><br><br><br>28 Apr 2017<br>
+ELDDS’ Singapore Youth Festival Reflections
  </figcaption>
 </figure>	
 </a></p>
@@ -601,9 +601,9 @@ Total
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/55/">
 <figure>	
-<img style="width:40%" src="/images/highlights55.jpg" align=left>
-<figcaption><br><br><br>11<br>
-Total
+<img style="width:40%" src="/images/highlights55.png" align=left>
+<figcaption><br><br><br>20 Apr 2017<br>
+Guzheng’s Reflections for Singapore Youth Festival 2017
  </figcaption>
 </figure>	
 </a></p>
@@ -613,8 +613,8 @@ Total
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/56/">
 <figure>	
 <img style="width:40%" src="/images/highlights56.jpg" align=left>
-<figcaption><br><br><br>11<br>
-Total
+<figcaption><br><br><br>24 Mar 2017<br>
+Chinese Society Performance in Chinese Festival of the Arts
  </figcaption>
 </figure>	
 </a></p>
@@ -624,8 +624,8 @@ Total
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/57/">
 <figure>	
 <img style="width:40%" src="/images/highlights57.jpg" align=left>
-<figcaption><br><br><br>11<br>
-Total
+<figcaption><br><br><br>13 Mar 2017<br>
+Learning Journey to MOE ESTL
  </figcaption>
 </figure>	
 </a></p>
@@ -635,8 +635,8 @@ Total
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/58/">
 <figure>	
 <img style="width:40%" src="/images/highlights58.jpg" align=left>
-<figcaption><br><br><br>11<br>
-Total
+<figcaption><br><br><br>11 Mar 2017<br>
+春到中华迎丰年之校友会团拜会活动
  </figcaption>
 </figure>	
 </a></p>
@@ -645,8 +645,8 @@ Total
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/59/">
 <figure>	
 <img style="width:40%" src="/images/highlights59.jpg" align=left>
-<figcaption><br><br><br>11<br>
-Total
+<figcaption><br><br><br>10 Mar 2017<br>
+ZHSS Chinese New Year 2017
  </figcaption>
 </figure>	
 </a></p>
@@ -656,8 +656,118 @@ Total
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/60/">
 <figure>	
 <img style="width:40%" src="/images/highlights60.jpg" align=left>
-<figcaption><br><br><br>11<br>
-Total
+<figcaption><br><br><br>8 Mar 2017<br>
+2017 SYF Journey - Guzheng Ensemble
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/61/">
+<figure>	
+<img style="width:40%" src="/images/highlights61.jpg" align=left>
+<figcaption><br><br><br>21 Feb 2017<br>
+ZHSS CCA Open House 2017
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/62/">
+<figure>	
+<img style="width:40%" src="/images/highlights62.jpg" align=left>
+<figcaption><br><br><br>21 Feb 2017<br>
+AEP students for the Art @ Mount Alvernia Programme
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/63/">
+<figure>	
+<img style="width:40%" src="/images/highlights63.jpg" align=left>
+<figcaption><br><br><br>9 Feb 2017<br>
+International Cadet Exchange Programme for NCC
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/64/">
+<figure>	
+<img style="width:40%" src="/images/highlights64.jpg" align=left>
+<figcaption><br><br><br>10 Jan 2017<br>
+CCA Reflections 2016
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/65/">
+<figure>	
+<img style="width:40%" src="/images/highlights65.jpg" align=left>
+<figcaption><br><br><br>21 Dec 2016<br>
+Eco Kepalas Programme in Collaboration with NEA South East Regional Office
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/66/">
+<figure>	
+<img style="width:40%" src="/images/highlights66.jpg" align=left>
+<figcaption><br><br><br>21 Dec 2016<br>
+Reflection for Chinese Storytelling Competition
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/67/">
+<figure>	
+<img style="width:40%" src="/images/highlights67.jpg" align=left>
+<figcaption><br><br><br>7 Nov 2016<br>
+Staff-Outreach Programme for the Underprivileged Elderly on 8 Aug 2016
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/68/">
+<figure>	
+<img style="width:40%" src="/images/highlights68.jpg" align=left>
+<figcaption><br><br><br>26 Oct 2016<br>
+Goh Chok Tong NextGen Outstanding Leader Award 2016
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/69/">
+<figure>	
+<img style="width:40%" src="/images/highlights69.jpg" align=left>
+<figcaption><br><br><br>26 Oct 2016<br>
+ASEAN Summit Leadership Workshop
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/70/">
+<figure>	
+<img style="width:40%" src="/images/highlights70.jpg" align=left>
+<figcaption><br><br><br>29 Aug 2016<br>
+Visual Art Trip to Penang
  </figcaption>
 </figure>	
 </a></p>
