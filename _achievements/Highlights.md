@@ -214,13 +214,11 @@ Scouts Chief Commissioner's Award 2018
 
 <br clear="left">
 
-<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/2/">
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/20/">
 <figure>	
-<img style="width:40%" src="/images/highlight20.jpg)" align=left>
+<img style="width:40%" src="/images/highlight20.jpg" align=left>
 <figcaption><br><br><br>26 Oct 2018<br>
 5D4N Scouts and NPCC Overseas Exchange and VIA Programme in Chiang Mai
  </figcaption>
 </figure>	
 </a></p>
-
-
