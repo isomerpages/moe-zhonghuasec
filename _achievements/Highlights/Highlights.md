@@ -4,7 +4,6 @@ permalink: /achievements/highlights/
 description: ""
 third_nav_title: Highlights
 ---
-
 ### **Highlights**
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/1/">
@@ -18,7 +17,7 @@ third_nav_title: Highlights
 
 <br clear="left">
 
-<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/2/">
+<p><a href="https://sites.google.com/moe.edu.sg/zhonghuasecschooleopenhouse">
 <figure>	
 <img style="width:40%" src="/images/highlights2.jpg" align=left>
 <figcaption><br> 13 October 2021<br>
