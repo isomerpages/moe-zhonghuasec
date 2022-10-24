@@ -2,9 +2,9 @@ collections:
   achievements:
     output: true
     order:
-      - Highlights/Highlights.md
-      - Highlights/.keep
       - Achievements.md
+      - Highlights/.keep
+      - Highlights/Highlights.md
       - School Achievements.md
       - Staff Awards.md
       - Student Achievements/.keep
