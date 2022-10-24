@@ -699,7 +699,7 @@ International Cadet Exchange Programme for NCC
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/64/">
 <figure>	
-<img style="width:40%" src="/images/highlights64.jpg" align=left>
+<img style="width:40%" src="/images/highlights64.png" align=left>
 <figcaption><br><br><br>10 Jan 2017<br>
 CCA Reflections 2016
  </figcaption>
@@ -768,6 +768,336 @@ ASEAN Summit Leadership Workshop
 <img style="width:40%" src="/images/highlights70.jpg" align=left>
 <figcaption><br><br><br>29 Aug 2016<br>
 Visual Art Trip to Penang
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/71/">
+<figure>	
+<img style="width:40%" src="/images/highlights71.jpg" align=left>
+<figcaption><br><br><br>29 Aug 2016<br>
+TIE Trip 2016 (ChiangMai) - Reflections
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/72/">
+<figure>	
+<img style="width:40%" src="/images/highlights72.jpg" align=left>
+<figcaption><br><br><br>12 Aug 2016<br>
+St John Day Awards Ceremony
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/73/">
+<figure>	
+<img style="width:40%" src="/images/highlights73.jpg" align=left>
+<figcaption><br><br><br>29 Jul 2016<br>
+Julia Gabriel's Secondary Schools Debating Championships
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/74/">
+<figure>	
+<img style="width:40%" src="/images/highlights74.jpg" align=left>
+<figcaption><br><br><br>5 Jul 2016<br>
+Distinguished Speakers Series: Mr Bob Lee (李欣赏) (26 May 2016)
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/75/">
+<figure>	
+<img style="width:40%" src="/images/highlights75.jpg" align=left>
+<figcaption><br><br><br>27 Jun 2016<br>
+Cyber-Wellness Student Ambassador Programme 2016
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/76/">
+<figure>	
+<img style="width:40%" src="/images/highlights76.jpg" align=left>
+<figcaption><br><br><br>9 Jun 2016<br>
+Distinguished Speakers Series: Ng T.K., President (Asia Pacific region) of Side Effects Software
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/77/">
+<figure>	
+<img style="width:40%" src="/images/highlights77.jpg" align=left>
+<figcaption><br><br><br>7 Jun 2016<br>
+The `Future of Us’ Exhibition
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/78/">
+<figure>	
+<img style="width:40%" src="/images/highlights78.jpg" align=left>
+<figcaption><br><br><br>3 June 2016<br>
+Chinese Society 2016 National Chinese Calligraphy Competition
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/79/">
+<figure>	
+<img style="width:40%" src="/images/highlights79.jpg" align=left>
+<figcaption><br><br><br>19 May 2016<br>
+Jawi Calligraphy Workshop & Learning Journey to Marina Barrage
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/80/">
+<figure>	
+<img style="width:40%" src="/images/highlights80.jpg" align=left>
+<figcaption><br><br><br>16 May 2016<br>
+Science & Technology Research Programme & Science Symposium 2016
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/81/">
+<figure>	
+<img style="width:40%" src="/images/highlights81.jpg" align=left>
+<figcaption><br><br><br>9 May 2016<br>
+THANK YOU for supporting Zhonghua Annual Art Exhibition: Expose 90 2016!
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/82/">
+<figure>	
+<img style="width:40%" src="/images/highlights82.jpg" align=left>
+<figcaption><br><br><br>5 May 2016<br>
+Singapore Hong Kong-Macau Students’ Arts Exhibition 2016
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/83/">
+<figure>	
+<img style="width:40%" src="/images/highlights83.jpg" align=left>
+<figcaption><br><br><br>18 Apr 2016<br>
+Raffles Institution Lecture 2016
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/84/">
+<figure>	
+<img style="width:40%" src="/images/highlights84.jpg" align=left>
+<figcaption><br><br><br>11 Apr 2016<br>
+Sharing by ex-Zhonghuarian, Pang Tien Feng, recipient of the Humanities Scholarship
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/85/">
+<figure>	
+<img style="width:40%" src="/images/highlights85.jpg" align=left>
+<figcaption><br><br><br>4 Apr 2016<br>
+Design & Technology Learning Journey to IKEA
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/86/">
+<figure>	
+<img style="width:40%" src="/images/highlights86.jpg" align=left>
+<figcaption><br><br><br>31 Mar 2016<br>
+Visits to Tertiary Institutions 2016
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/87/">
+<figure>	
+<img style="width:40%" src="/images/highlights87.jpg" align=left>
+<figcaption><br><br><br>23 Mar 2016<br>
+CCA Open House 2016 Reflections
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/88/">
+<figure>	
+<img style="width:40%" src="/images/highlights88.jpg" align=left>
+<figcaption><br><br><br>16 Mar 2016<br>
+Alumni CNY Celebrations 2016
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/89/">
+<figure>	
+<img style="width:40%" src="/images/highlights89.jpg" align=left>
+<figcaption><br><br><br>11 Mar 2016<br>
+Hui Chun Calligraphy 2016
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/90/">
+<figure>	
+<img style="width:40%" src="/images/highlights90.jpg" align=left>
+<figcaption><br><br><br>4 Mar 2016<br>
+Internationalisation Programme: Qiandaohu (Hangzhou), China (9 to 13 Nov 2015)
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/91/">
+<figure>	
+<img style="width:40%" src="/images/highlights91.jpg" align=left>
+<figcaption><br><br><br>2 Mar 2016<br>
+Sec 1 Art Elective Programme Learning Journey 2016
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/92/">
+<figure>	
+<img style="width:40%" src="/images/highlights92.jpg" align=left>
+<figcaption><br><br><br>29 Feb 2016<br>
+Release of 2015 GCE N-Level Results
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/93/">
+<figure>	
+<img style="width:40%" src="/images/highlights93.jpg" align=left>
+<figcaption><br><br><br>16 Feb 2016<br>
+Secondary 1 Orientation Programme 2016
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/94/">
+<figure>	
+<img style="width:40%" src="/images/highlights94.jpg" align=left>
+<figcaption><br><br><br>15 Feb 2016<br>
+Work Experience Programme - Morgan Stanley Asia Pacific Summit 2015
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/95/">
+<figure>	
+<img style="width:40%" src="/images/highlights95.jpg" align=left>
+<figcaption><br><br><br>12 Feb 2016<br>
+ZHSS Internationalisation Programme - Ningbo 2015
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/96/">
+<figure>	
+<img style="width:40%" src="/images/highlights96.jpg" align=left>
+<figcaption><br><br><br>1 Feb 2016<br>
+Release of GCE O-Level Results 2016
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/97/">
+<figure>	
+<img style="width:40%" src="/images/highlights97.jpg" align=left>
+<figcaption><br><br><br>27 Jan 2016<br>
+Write-up of CCA Open House 2016
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/98/">
+<figure>	
+<img style="width:40%" src="/images/highlights98.jpg" align=left>
+<figcaption><br><br><br>19 Jan 2016<br>
+NextGen Youth Seminar 2015
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/99/">
+<figure>	
+<img style="width:40%" src="/images/highlights99.jpg" align=left>
+<figcaption><br><br><br>15 Jan 2016<br>
+MOE SINO-SIN 2015 Student Exchange Trip to Chengdu
+ </figcaption>
+</figure>	
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/100/">
+<figure>	
+<img style="width:40%" src="/images/highlights100.jpg" align=left>
+<figcaption><br><br><br>28 Apr 2015<br>
+Zhonghua Sec has obtained School Distinction Award and 5 MOE Best Practice in 2015 EV.
  </figcaption>
 </figure>	
 </a></p>
