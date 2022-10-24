@@ -16,6 +16,5 @@ That ardor fueled me through the painstaking process of realising the concept. I
   
 My vision of what the IvP external judging would be like was chilling to the bone: cold, scrutinising eyes of judges gleaming in a dimmed auditorium, with my team presenting our idea under the sole light. It was nothing like the warm, brightly lit setting that had turned out to be. I am deeply grateful for the nurturing nature of the IvP and judging, on the basis of seeking to edify the ideas of youth today for the betterment of tomorrow. In the end, I was pleasantly surprised at our acquisition of Distinction in the programme, and immensely thankful for the high recognition of our team’s hard work!    
   
-The final presentation at Zhonghua Virtual STEAM Festival 2020 felt so doable in light of our previous challenges, and I feel in debt to the IvP experience for what it has taught me about innovation, hope, and myself. I feel only happy to fulfill the obligation of sharing my work with my juniors and peers, and I am thrilled to one day see what my juniors will add to our ever-growing world.
-
+The final presentation at Zhonghua Virtual STEAM Festival 2020 felt so doable in light of our previous challenges, and I feel in debt to the IvP experience for what it has taught me about innovation, hope, and myself. I feel only happy to fulfill the obligation of sharing my work with my juniors and peers, and I am thrilled to one day see what my juniors will add to our ever-growing world.<br>
 **Andrea Catedral, 4E4 (2020)**
