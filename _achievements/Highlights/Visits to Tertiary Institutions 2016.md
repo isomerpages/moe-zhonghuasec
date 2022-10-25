@@ -31,7 +31,7 @@ On 12th January 2016, students from the Secondary 4 Express cohort went down to 
 
 “After walking around the campus, I felt that it seems really fun and interesting to be in a JC. Even though the students have to juggle between academics and CCA, they seem to be really enjoying it. The visit has allowed me to understand the difference between Arts stream and Science stream in a JC. I also heard from some students that their J2 year is like being on a bullet train as they are rushing to prepare for their A-levels and so they have mock exams every day. I have also learnt that to prepare for the General Paper exam, I would have to read a lot of newspapers.” **–Yi Wen (4E4)**
 
- “It was an eye opener for me as I got to see for myself the life of a college student. It was also an interesting experience for me as I could see what the JC had to offer, for example the various CCAs and subjects.”** –Raynard (4E5)**
+ “It was an eye opener for me as I got to see for myself the life of a college student. It was also an interesting experience for me as I could see what the JC had to offer, for example the various CCAs and subjects.”**–Raynard (4E5)**
 
 “It was a really enlightening experience. The atmosphere in a JC is extremely different from a polytechnic. A polytechnic has more courses and subjects to consider whereas in JC, the subject combinations offered are not as specific as in a polytechnic. JC also functions more like a secondary school.” **–Yun Xin (4E5)**
 
