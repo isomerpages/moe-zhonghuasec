@@ -13,8 +13,7 @@ Our team followed through the process of creating an Instagram competition fo
 
 This programme allowed us to truly understand the harmful effects of cyber-bullying and the importance of cyber-wellness. We hope our fellow schoolmates were engaged while participating in our carnival and become more discerning of the reliability of messages and news they see on social media as well as become more aware of the roles they can play to prevent cyber-bullying from taking place.
 
-#### **By Zhonghua Cyber-Wellness Warriors**
+**By Zhonghua Cyber-Wellness Warriors**<br>
 Jaymee Tan (2E3), Lim Shi Pei (2E1), Lachelle Lim (2E3) & Lee An Ni (2E3)
 
 <img src="/images/cyberwellness%20carnival.jpg" style="width:65%">
-
