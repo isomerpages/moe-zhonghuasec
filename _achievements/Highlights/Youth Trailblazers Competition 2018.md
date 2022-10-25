@@ -6,7 +6,7 @@ third_nav_title: Highlights
 ---
 ### **Youth Trailblazers Competition 2018**
 
-<img src="/images/youthtrailblazer.jpg" style="width:45%">
+<img src="/images/youthtrailblazer.jpg" style="width:55%">
 
 The Prudential’s Young Trailblazers is a competition that challenges participants to utilise their innovation and entrepreneurial skills to come up with business ideas that are marketable and useful in this advanced, fast-paced and complex society. Three teams of student-leaders took part in the competition and one of the teams made it to the finals, which was held on 7th July 2018. Below are the reflections of students who made it to the finals of the competition.  
   
