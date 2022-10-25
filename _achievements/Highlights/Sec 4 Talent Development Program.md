@@ -9,7 +9,7 @@ third_nav_title: Highlights
 #### **Overview**
 The Secondary 4 Talent Development Programme (TDP) students went to Republic Polytechnic on 29 March 2018 for an Events Management Workshop. Students were taught how to plan a programme for an event in terms of logistics, target audience, budget and publicity.
 
-<img src="/images/tdpsec4.jpg" style="width:65%">
+<img src="/images/tdpsec4.jpg" style="width:55%">
 
 #### **Reflections**
 In this workshop, I learnt about key factors that make up an event and how to ensure the success of an event. I also learnt that managing an event is not an easy feat.  It requires a lot of planning, organising, and of course, management of people.  Hence, I am more appreciative of the events that are organised for us by our teachers and fellow students    Moreover, I like this workshop because there were many hands-on activities and we got to actually plan an event and present our proposal to everyone. It was very interesting to see that every group presented the same event very differently.    
