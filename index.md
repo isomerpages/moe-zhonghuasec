@@ -13,13 +13,13 @@ sections:
       key_highlights:
         - title: Highlights
           description: ""
-          url: /achievements/highlights/
+          url: https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/
         - title: Announcements
           description: ""
-          url: /announcements/
+          url: https://staging.d1ph2u5puaqsvh.amplifyapp.com/announcements/
         - title: Infolinks
           description: ""
-          url: /infolinks/
+          url: https://staging.d1ph2u5puaqsvh.amplifyapp.com/infolinks/
   - infobar:
       title: 2023 DSA Intake
       subtitle: Zhonghua Secondary School
