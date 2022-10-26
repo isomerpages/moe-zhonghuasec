@@ -102,3 +102,5 @@ links:
         url: /programmes/student-leadership-development/
   - title: Contact Us
     url: /contact-us/
+  - title: Menu Title
+    collection: achievements
