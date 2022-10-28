@@ -11,9 +11,9 @@ sections:
       background: /images/hero.gif
       url: /contact-us/
       key_highlights:
-        - title: Highlights
+        - title: Contact Us
           description: ""
-          url: /achievements/highlights/
+          url: /contact-us/
         - title: Announcements
           description: ""
           url: /announcements/
@@ -21,10 +21,16 @@ sections:
           description: ""
           url: /infolinks/
   - infobar:
+      title: Highlights
+      subtitle: Zhonghua Secondary School
+      description: Find out what's going on in Zhonghua Secondary!
+      button: click here
+      url: /achievements/highlights/
+  - infobar:
       title: 2023 DSA Intake
       subtitle: Zhonghua Secondary School
       description: Direct School Admission Exercise for 2023 intake
-      button: click for more info
+      button: click here
       url: /admission/dsa-2023/
   - infopic:
       title: Facebook Page
