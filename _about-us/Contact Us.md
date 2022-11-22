@@ -5,7 +5,7 @@ description: ""
 ---
 ## Contact Us
 
-<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7977.423017443206!2d103.869336!3d1.349609!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6899c53da30f2d3c!2sSerangoon%20MRT%20Station%20(CC13)!5e0!3m2!1sen!2sus!4v1669105085628!5m2!1sen!2sus"></iframe>
+<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7115080671692!2d103.86714691475409!3d1.3496093990156803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da17a0b1194b8d%3A0xae86acd815e43387!2sZhonghua%20Secondary%20School!5e0!3m2!1sen!2ssg!4v1669121789525!5m2!1sen!2ssg"></iframe>
 
 ZHONGHUA SECONDARY SCHOOL  
 13 Serangoon Avenue 3 Singapore 556123  
