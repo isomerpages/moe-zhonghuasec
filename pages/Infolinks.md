@@ -6,7 +6,7 @@ description: ""
 ### **Infolinks**
 
 
-
+<img src="/images/Gmail.png">
 
 
 |  | STUDENTS |  | PARENTS/PARTNERS |  | TEACHERS |
