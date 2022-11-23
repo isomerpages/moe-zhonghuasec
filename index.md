@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Zhonghua Secondary School
       background: /images/hero.gif
-      url: /contact-us/
+      url: /about-us/contact-us/
       key_highlights:
         - title: Contact Us
           description: ""
