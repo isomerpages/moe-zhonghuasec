@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Contact Us
           description: ""
-          url: /contact-us/
+          url: /about-us/contact-us/
         - title: Announcements
           description: ""
           url: /announcements/
