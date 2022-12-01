@@ -34,13 +34,13 @@ sections:
       subtitle: Zhonghua secondary school
       button: click here
       url: https://www.facebook.com/zhonghuasec/
-      image: /images/fb.png
+      image: /images/fbsmallicon.png
       alt: Image alt text
   - infopic:
       title: Instagram
       subtitle: Zhonghua secondary school
       button: click here
       url: https://www.instagram.com/zhonghuasec/
-      image: /images/insta.png
+      image: /images/igsmall.png
       alt: Image alt text
 ---
