@@ -23,24 +23,4 @@ sections:
         - title: Contact Us
           description: ""
           url: /about-us/contact-us/
-  - infobar:
-      title: Highlights
-      subtitle: Zhonghua Secondary School
-      description: Find out what's going on in Zhonghua Secondary!
-      button: click here
-      url: /achievements/highlights/
-  - infopic:
-      title: Facebook Page
-      subtitle: Zhonghua secondary school
-      button: click here
-      url: https://www.facebook.com/zhonghuasec/
-      image: /images/fbsmallicon.png
-      alt: Image alt text
-  - infopic:
-      title: Instagram
-      subtitle: Zhonghua secondary school
-      button: click here
-      url: https://www.instagram.com/zhonghuasec/
-      image: /images/igsmall.png
-      alt: Image alt text
 ---
