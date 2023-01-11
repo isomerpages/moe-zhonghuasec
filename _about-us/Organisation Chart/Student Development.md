@@ -18,8 +18,7 @@ third_nav_title: Organisation Chart
 | Mr Christopher Lim | Assistant Year Head - Lower Sec<br>VIA Coordinator  | [christopher_lim_wei_chern@moe.edu.sg](mailto:christopher_lim_wei_chern@moe.edu.sg) | 65938-135 |
 | Mr Vincent Loh | Subject Head - Student Well-being | [loh_guan_wee_vincent@moe.edu.sg](mailto:loh_guan_wee_vincent@moe.edu.sg) | 65938-150 |
 | Mrs Ho-Tam Mee Fong | Sexuality Education Coordinator | [tam_mee_fong@moe.edu.sg](mailto:tam_mee_fong@moe.edu.sg) | 65938-136 |
-| Mr Ivan Lee | School Counsellor | [lee_thiam_hin_ivan@moe.edu.sg](mailto:lee_thiam_hin_ivan@moe.edu.sg) | 65938-154 |
-| Mr Marcel Lee | Teacher Counsellor | [marcel_lee@moe.edu.sg](mailto:marcel_lee@moe.edu.sg) | 65938-122 |
+| Mr Ivan Lee | Senior School Counsellor | [lee_thiam_hin_ivan@moe.edu.sg](mailto:lee_thiam_hin_ivan@moe.edu.sg) | 65938-154 |
 | Ms Nur Asyurah | AED - LBS | [nur_asyurah_rosle@moe.edu.sg](mailto:nur_asyurah_rosle@moe.edu.sg) | 65938-147 |
 | Ms Suziliana Salleh | AED - LBS | [suziliana_salleh@moe.edu.sg](mailto:suziliana_salleh@moe.edu.sg) | 65938-125 |
 | Mr Chalice Lin | AED - Student Development | [lin_longjie_chalice@moe.edu.sg](mailto:lin_longjie_chalice@moe.edu.sg) | 65938-124 |
