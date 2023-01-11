@@ -10,7 +10,7 @@ third_nav_title: Organisation Chart
 
 | Class | Year Head / Form Teacher | Email | Contact |
 |---|---|---|---|
-| Year Head | Ms Estee Teo | [teo_kexin_estee@moe.edu.sg](mailto:teo_kexin_estee@moe.edu.sg) | 65938-177 |
+| Year Head | Mr Ang Chun Hua | [ang_chun_hua@moe.edu.sg](mailto:ang_chun_hua@moe.edu.sg) | 65938-155|
 | Asst Year Head | Mr Christopher Lim | [christopher_lim_wei_chern@moe.edu.sg](mailto:christopher_lim_wei_chern@moe.edu.sg) | 65938-135 |
 | 1E1 | Ms Nadia Zhong | [zhong_meixuan_nadia@moe.edu.sg](mailto:zhong_meixuan_nadia@moe.edu.sg) | 65938-129 |
 |  | Ms Nur Nasyrah | [nur_nasyrah_ahmad@moe.edu.sg](mailto:nur_nasyrah_ahmad@moe.edu.sg) | 65938-140 |
