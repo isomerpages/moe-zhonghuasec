@@ -15,6 +15,8 @@ third_nav_title: Clubs & Societies
 | Mdm Indra Devi | [indra_devi_k_velayuthan@moe.edu.sg](mailto:indra_devi_k_velayuthan@moe.edu.sg) |
 |
 
+Link to **[2023 CCA Schedule](/files/2023%20CCA%20Schedule.pdf)**
+
 #### **Trainers:**
 Mr Joshua Wong Tje Hua – ICT Tools<br>
 Mr Matthew Chia Wei Sheng – Artificial Intelligence
@@ -56,4 +58,3 @@ ICC members serve the school as Audio Visual (AV) crew during school events. The
 
 <img src="/images/infocomm3.jpg" style="width:49%" align=left>
 <img src="/images/infocomm4.jpg" style="width:49%" align=right>
-
