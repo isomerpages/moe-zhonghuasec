@@ -61,25 +61,26 @@ third_nav_title: Organisation Chart
 
 | Class | Year Head / Form Teacher | Email | Contact |
 |---|---|---|---|
-| Year Head | Mr Ang Chun Hua | [ang_chun_hua@moe.edu.sg](mailto:ang_chun_hua@moe.edu.sg) | 65938-155 |
-| Asst Year Head | Ms Rozianna | [rozianna_mohammed_affendi@moe.edu.sg](mailto:rozianna_mohammed_affendi@moe.edu.sg) | 65938-144 |
-| 3E1 | Mr Tan Li Chun | [tan_li_chun@moe.edu.sg](mailto:tan_li_chun@moe.edu.sg) | 65938-131 |
-|   | Ms Lee Sock Kee | [lee_sock_kee@moe.edu.sg](mailto:lee_sock_kee@moe.edu.sg) | 65938-164 |
-| 3E2 | Mr David Wong | [wong_wei_shu_david@moe.edu.sg](mailto:wong_wei_shu_david@moe.edu.sg) | 65938-160 |
-|   | Miss June Leow | [june_leow_xin_yi@moe.edu.sg](mailto:june_leow_xin_yi@moe.edu.sg) | 65938-157 |
-| 3E3 | Mr Gavin Swee | [swee_wei_ming_gavin@moe.edu.sg](mailto:swee_wei_ming_gavin@moe.edu.sg) | 65938-150 |
-|   | Ms Xiao Yue | [xiao_yue@moe.edu.sg](mailto:xiao_yue@moe.edu.sg) | 65938-146 |
-| 3E4 | Ms Anna Yeo | [yeo_li_min_anna@moe.edu.sg](mailto:yeo_li_min_anna@moe.edu.sg) | 65938-158 |
-|   | Mr Richmond Su | [su_jiahao_richmond@moe.edu.sg](mailto:su_jiahao_richmond@moe.edu.sg) | 65938-167 |
-| 3E5 | Ms Julia Yeo | [yeo_yun_fang_julia@moe.edu.sg](mailto:yeo_yun_fang_julia@moe.edu.sg) | 65938-166 |
-|   | Miss Ratiporn Tasanawinyou | [ratiporn_tasanawinyou@moe.edu.sg](mailto:ratiporn_tasanawinyou@moe.edu.sg)| 65938-145 |
-| 3N1 | Mr Ezzy Chan | [chan_weng_cheong_ezzy@moe.edu.sg](mailto:chan_weng_cheong_ezzy@moe.edu.sg) | 65938-139 |
-|   | Ms Wong Li Qing | [wong_li_qing_c@moe.edu.sg](mailto:wong_li_qing_c@moe.edu.sg) | 65938-161 |
-| 3N2 | Mr John Kok | [john_kok_heng_kwai@moe.edu.sg](mailto:john_kok_heng_kwai@moe.edu.sg) | 65938-127 |
-|   | Miss Amanda Tan | [tan_si_hui_amanda@moe.edu.sg](mailto:tan_si_hui_amanda@moe.edu.sg) | 65938-152 |
-| 3T1 | Mr Goh Tze Mian | [goh_tze_mian@moe.edu.sg](mailto:goh_tze_mian@moe.edu.sg)| 65938-146 |
-|   | Ms Isabelle Chua | [chua_fang_yee_isabelle@moe.edu.sg](mailto:chua_fang_yee_isabelle@moe.edu.sg) | 65938-148 |
-|   | Mr Chalice Lin | [lin_longjie_chalice@moe.edu.sg](mailto:lin_longjie_chalice@moe.edu.sg) | 65938-125 |
+| Year Head | Ms Estee Teo | [teo_kexin_estee@moe.edu.sg](mailto:teo_kexin_estee@moe.edu.sg) | 65938-177 |
+| Asst Year Head  | Ms Rozianna  | [rozianna_mohammed_affendi@moe.edu.sg](mailto:rozianna_mohammed_affendi@moe.edu.sg) | 65938-144 |
+| 3R1 | Mrs Maybrie Ang | [maybrie_ang_mai_mai@moe.edu.sg](mailto:maybrie_ang_mai_mai@moe.edu.sg) | 65938-128 |
+|  | Mr Ardy Taniwan | [ardy_taniwan@moe.edu.sg](mailto:ardy_taniwan@moe.edu.sg) | 65938-160 |
+|   | Ms Koh Kia Li Charmaine  | [koh_kia_li_charmaine@moe.edu.sg](mailto:koh_kia_li_charmaine@moe.edu.sg) | 65938-105 |
+| 3R2 | Ms Leow Kai Yin | [leow_kai_yin@moe.edu.sg](mailto:leow_kai_yin@moe.edu.sg)| 65938-143 |
+|  | Ms Tan Wen Li Vanessa | [tan_wen_li_vanessa@moe.edu.sg](mailto:tan_wen_li_vanessa@moe.edu.sg) | 65938-203 |
+| 3R3 | Mr Chen Yit Chien | [chen_yit_chien@moe.edu.sg](mailto:chen_yit_chien@moe.edu.sg) | 65938-125 |
+|  | Ms Yeo Li Min Anna | [yeo_li_min_anna@moe.edu.sg](mailto:yeo_li_min_anna@moe.edu.sg) | 65938-158 |
+| 3R4 | Ms Yeo Shu Ling | [yeo_shu_ling@moe.edu.sg](mailto:yeo_shu_ling@moe.edu.sg) | 65938-128 |
+|  | Mr Brandon Choy Wai Keong | [brandon_choy_wai_keong@moe.edu.sg](mailto:brandon_choy_wai_keong@moe.edu.sg) | 65938-149 |
+| 3R5 | Mr Ang Lee Chun, Lionel | [ang_lee_chun_lionel@moe.edu.sg](mailto:ang_lee_chun_lionel@moe.edu.sg)| 65938-138 |
+|  | Ms Janice Loo Zhi Min | [janice_loo_zhi_min@moe.edu.sg](mailto:janice_loo_zhi_min@moe.edu.sg) | 65938-163 |
+| 3R6 | Mr Adam Ang | [kah_chin_adam_ang@moe.edu.sg](mailto:[kah_chin_adam_ang@moe.edu.sg) | 65938-133 |
+|  | Ms Teo Jing Zhi | [teo_jing_zhi@moe.edu.sg](mailto:teo_jing_zhi@moe.edu.sg ) | 65938-205 |
+| 3R7 | Mr Zafir Bin Said | [zafir_said@moe.edu.sg](mailto:zafir_said@moe.edu.sg) | 65938-172 |
+|  | Mrs Cheryl Chew | [lim_pei_chen_cheryl@moe.edu.sg](mailto:lim_pei_chen_cheryl@moe.edu.sg) | 65938-159 |
+| 3R8 | Mr Calvin Heng | [heng_siang_boon_calvin@moe.edu.sg](mailto:heng_siang_boon_calvin@moe.edu.sg ) | 65938-141 |
+|  | Ms Chong Wai Fun | [chong_wai_fun@moe.edu.sg](mailto:chong_wai_fun@moe.edu.sg) | 65938-130 |
+
 
 #### **Secondary 4 & 5**
 
