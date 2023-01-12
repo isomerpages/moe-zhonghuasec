@@ -19,7 +19,7 @@ third_nav_title: Clubs & Societies
 Mr Danny Jow (Drama)<br>
 Ms Stacy Lee (Debate)
 
-Link to **[2022 CCA Schedule](/files/2022%20cca%20schedule.pdf)**
+Link to **[2023 CCA Schedule](/files/2023%20CCA%20Schedule.pdf)**
 
 #### **Student Leaders:**
 
@@ -40,4 +40,3 @@ In 2021, the Drama Club took part in the Singapore Youth Festival Arts Presentat
 
 <img src="/images/eldss1.jpg" style="width:49%" align=left>
 <img src="/images/eldss2.jpg" style="width:49%" align=right>
-
