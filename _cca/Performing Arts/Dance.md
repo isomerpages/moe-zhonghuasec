@@ -17,7 +17,7 @@ third_nav_title: Performing Arts
 #### **Instructor:**
 Ms Leong Siew Yeng
 
-Link to **[2022 CCA Schedule](/files/2022%20cca%20schedule.pdf)**
+Link to **[2023 CCA Schedule](/files/2023%20CCA%20Schedule.pdf)**
 
 #### **Student Leaders:**
 
