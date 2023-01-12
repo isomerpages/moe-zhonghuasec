@@ -46,16 +46,16 @@ third_nav_title: Organisation Chart
 | 2I3 | Ms Nurul 'Ain Binte Sahat | [nurul_ain_sahat@moe.edu.sg](mailto:nurul_ain_sahat@moe.edu.sg) | 65938-149  |
 |  | Mr Ho Teng Kui Gabriel | [ho_teng_kui_gabriel@moe.edu.sg](mailto:ho_teng_kui_gabriel@moe.edu.sg) | 65938-151  |
 | 2I4 | Mr Eswaran | [eswaran_ramachandran@moe.edu.sg](mailto:eswaran_ramachandran@moe.edu.sg)| 65938-141  |
-|  | Ms Woo Wenhui, Majella | woo_wenhui_majella@moe.edu.sg | 65938-129 |
-| 2I5 | Ms Noorlizah Bte Suriyap | noorlizah_suriyap@moe.edu.sg | 65938-130 |
-|  | Mr Pang Hong Ming | pang_hong_ming@moe.edu.sg | 65938-125 |
-| 2I6 | Ms Sitinur Azreen Bte Halil | sitinur_azreen_halil@moe.edu.sg | 65938-126 |
-|  | Ms Tai Jia Hui | tai_jia_hui@moe.edu.sg | 65938-134 |
-| 2I7 | Ms Tan Bee Yeng Magdalene | tan_bee_yeng_magdalene@moe.edu.sg | 65938-181 |
-|  | Mr Imaduddin Ahmad | imaduddin_ahmad_chevi_rafiudin@moe.edu.sg | 65938-140 |
+|  | Ms Woo Wenhui, Majella | [woo_wenhui_majella@moe.edu.sg](mailto:woo_wenhui_majella@moe.edu.sg) | 65938-129 |
+| 2I5 | Ms Noorlizah Bte Suriyap | [noorlizah_suriyap@moe.edu.sg](mailto:noorlizah_suriyap@moe.edu.sg) | 65938-130 |
+|  | Mr Pang Hong Ming | [pang_hong_ming@moe.edu.sg](mailto:pang_hong_ming@moe.edu.sg) | 65938-125 |
+| 2I6 | Ms Sitinur Azreen Bte Halil | [sitinur_azreen_halil@moe.edu.sg](mailto:sitinur_azreen_halil@moe.edu.sg) | 65938-126 |
+|  | Ms Tai Jia Hui | [tai_jia_hui@moe.edu.sg](mailto:tai_jia_hui@moe.edu.sg)| 65938-134 |
+| 2I7 | Ms Tan Bee Yeng Magdalene | [tan_bee_yeng_magdalene@moe.edu.sg](mailto:tan_bee_yeng_magdalene@moe.edu.sg)| 65938-181 |
+|  | Mr Imaduddin Ahmad | [imaduddin_ahmad_chevi_rafiudin@moe.edu.sg](mailto:imaduddin_ahmad_chevi_rafiudin@moe.edu.sg)| 65938-140 |
 |   | Ms Goh Xin Yi Megan |   | 65938-207 |
-| 2I8 | Mr Loh Guan Wee Vincent | loh_guan_wee_vincent@moe.edu.sg | 65938-150 |
-|   | Mdm Indra Devi  | indra_devi_k_velayuthan@moe.edu.sg | 65938-164 |
+| 2I8 | Mr Loh Guan Wee Vincent | [loh_guan_wee_vincent@moe.edu.sg](mailto:loh_guan_wee_vincent@moe.edu.sg)| 65938-150 |
+|   | Mdm Indra Devi  | [indra_devi_k_velayuthan@moe.edu.sg](mailto:indra_devi_k_velayuthan@moe.edu.sg) | 65938-164 |
 
 #### **Secondary 3**
 
