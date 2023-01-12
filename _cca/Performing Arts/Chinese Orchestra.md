@@ -30,7 +30,7 @@ third_nav_title: Performing Arts
 \* : From Singapore Chinese Orchestra (SCO)<br>
 ^ : From Singapore Symphony Orchestra (SSO)
 
-Link to **[2022 CCA Schedule](/files/2022%20cca%20schedule.pdf)**
+Link to **[2023 CCA Schedule](/files/2023%20CCA%20Schedule.pdf)**
 
 #### **Student Leaders:**
 
