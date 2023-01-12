@@ -23,7 +23,7 @@ Mr Xu Li Ya (Calligraphy)<br>
 Mr Chuah Chee Hiong (Chess - Weiqi)<br>
 Mr Leong Mun Kit, Ryan (Chess - Xiangqi)
 
-Link to **[2022 CCA Schedule](/files/2022%20cca%20schedule.pdf)**
+Link to **[2022 CCA Schedule](/files/2023%20CCA%20Schedule.pdf)**
 
 #### **Student Leaders:**
 
