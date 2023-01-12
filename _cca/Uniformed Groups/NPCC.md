@@ -15,7 +15,7 @@ third_nav_title: Uniformed Groups
 | Mr Chalice Lin | [lin_longjie_chalice@moe.edu.sg](mailto:lin_longjie_chalice@moe.edu.sg) |
 |
 
-Link to **[2022 CCA Schedule](/files/2022%20cca%20schedule.pdf)**
+Link to **[2023 CCA Schedule](/files/2023%20CCA%20Schedule.pdf)**
 
 #### **Val/Cadet Officers:**
 Fong Zhan Xin (HO)<br>
@@ -64,6 +64,3 @@ Cadets have shown great resilience in adapting to face the challenges posed by t
 
 <img src="/images/npcc3.jpg" style="width:49%" align=left>
 <img src="/images/npcc4.jpg" style="width:49%" align=right>
-
-
-
