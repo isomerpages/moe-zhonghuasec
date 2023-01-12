@@ -13,7 +13,7 @@ third_nav_title: Organisation Chart
 | Year Head | Mr Ang Chun Hua | [ang_chun_hua@moe.edu.sg](mailto:ang_chun_hua@moe.edu.sg) | 65938-155 |
 | Asst Year Head | Mr Christopher Lim Wei Chern | [christopher_lim_wei_chern@moe.edu.sg](mailto:christopher_lim_wei_chern@moe.edu.sg) | 65938-135 |
 | 1C1   | Ms Ang Hwee Chin | [ang_hwee_chin@moe.edu.sg](mailto:ang_hwee_chin@moe.edu.sg) | 65938-181 |
-|  | Ms Nurliza Bte Yusof | [nurliza_yusof@moe.edu.sg](mailto:(mailto:nurliza_yusof@moe.edu.sg) | 65938-165 |
+|  | Ms Nurliza Bte Yusof | [nurliza_yusof@moe.edu.sg](mailto:mailto:nurliza_yusof@moe.edu.sg) | 65938-165 |
 |  | Ms Joy Eu Li Xin  | [joy_eu_li_xin@moe.edu.sg](mailto:joy_eu_li_xin@moe.edu.sg)  | 65938-206  |
 | 1C2 | Ms Chew Lixian | [lixian_chew@moe.edu.sg](mailto:lixian_chew@moe.edu.sg) | 65938-135 |
 |  | Mr Ng Thiam Seng | [ng_thiam_seng@moe.edu.sg](mailto:ng_thiam_seng@moe.edu.sg) | 65938-153 |
