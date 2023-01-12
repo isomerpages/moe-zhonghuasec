@@ -18,7 +18,7 @@ third_nav_title: Uniformed Groups
 #### **VAL/Cadet Officer:**
 **Captain Lam Wee Woon**
 
-Link to **[2022 CCA Schedule](/files/2022%20cca%20schedule.pdf)**
+Link to **[2023 CCA Schedule](/files/2023%20CCA%20Schedule.pdf)**
 
 #### **Student Leaders**
 
@@ -60,4 +60,3 @@ In the 48th Company Boys’ Brigade, the boys get to experience a wide range of 
 
 <img src="/images/bb3.jpg" style="width:49%" align=left>
 <img src="/images/bb4.jpg" style="width:49%" align=right>
-
