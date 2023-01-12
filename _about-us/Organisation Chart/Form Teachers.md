@@ -18,7 +18,7 @@ third_nav_title: Organisation Chart
 | 1C2 | Ms Chew Lixian | [lixian_chew@moe.edu.sg](mailto:lixian_chew@moe.edu.sg) | 65938-135 |
 |  | Mr Ng Thiam Seng | [ng_thiam_seng@moe.edu.sg](mailto:ng_thiam_seng@moe.edu.sg) | 65938-153 |
 | 1C3 | Mr Eddie Pang Kar Loon | [pang_kar_loon_eddie@moe.edu.sg](mailto:pang_kar_loon_eddie@moe.edu.sg) | 65938-172 |
-|  | Ms Loh Julian | loh_julian@moe.edu.sg | 65938-165 |
+|  | Ms Loh Julian | [loh_julian@moe.edu.sg](mailto:loh_julian@moe.edu.sg) | 65938-165 |
 | 1C4 | Mr Jerome Ong Lin Xiong | [jerome_ong_lin_xiong@moe.edu.sg](mailto:jerome_ong_lin_xiong@moe.edu.sg) | 65938-148 |
 |  | Ms June Yeo Yah Hwee | [yeo_yah_hwee_june@moe.edu.sg](mailto:yeo_yah_hwee_june@moe.edu.sg) | 65938-162 |
 | 1C5 | Mdm Tan Teing Im | [tan_teing_im@moe.edu.sg](mailto:tan_teing_im@moe.edu.sg) | 65938-137 |
