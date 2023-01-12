@@ -20,7 +20,7 @@ Mr Terrence Toh<br>
 Ms Sherilyn Lim<br>
 Mr Alden Pong
 
-Link to **[2022 CCA Schedule](/files/2022%20cca%20schedule.pdf)**
+Link to **[2023 CCA Schedule](/files/2023%20CCA%20Schedule.pdf)**
 
 #### **Student Leaders :**
 
@@ -57,4 +57,3 @@ Choir activities and performances foster in our choristers teamwork, respect, tr
 
 <img src="/images/choir3.jpg" style="width:49%" align=left>
 <img src="/images/choir4.jpg" style="width:49%" align=right>
-
