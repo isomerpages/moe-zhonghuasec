@@ -4,8 +4,7 @@ permalink: /cca/uniformed-group/ncdcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-### **St John Brigade (SJB)**
+### **National Civil Defence Cadet Corps (NCDCC)**
 #### **Teachers in Charge:**
 
 |  |  |
@@ -66,6 +65,3 @@ SJB activities seek to inculcate an all-rounded education by developing personal
 
 <img src="/images/sjb3.jpg" style="width:49%" align=left>
 <img src="/images/sjb4.jpg" style="width:49%" align=right>
-
-
-
