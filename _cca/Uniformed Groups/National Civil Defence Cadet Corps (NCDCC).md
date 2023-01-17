@@ -16,52 +16,23 @@ third_nav_title: Uniformed Groups
 |
 
 #### **VAL/Cadet Officers:**
-Keath Nip Ming Feng<br>
-Yin Xin Min<br>
-Yeow Xin Tong Amanda<br>
-Ng Jing Wen 
+Ng Zi Hang
 
 Link to **[2023 CCA Schedule](/files/2023%20CCA%20Schedule.pdf)**
 
 #### **Student Leaders:**
 
-| Position | Name |
-|---|---|
-| Corps Chairperson | Advait Chidambaram (3E5 2022) |
-| Corps Deputy Chairperson  | Tan Jia Xuan Jessica (3E1 2022) |
-| Treasurer | Alicia Cheong Xi Qi (3N1 2022) |
-| Logistics IC | Keon Ong Chen En (3N2 2022)<br>Lee Yu Xian (3E1 2022)  |
-| First Aid IC | Advait Chidambaram (3E5 2022)<br>Felicia Pang Kai Ting (3E4 2022)<br>Tan Yew Shyan (3E4 2022) |
-| Home Nursing IC | Fu Rui Jia (3E4 2022)<br>Nur Qistina Binte Muhammad Ridzuan (3N1 2022) |
-| Foot Drill IC | Tan Yew Shyan (3E4 2022)<br>Sueyoshi Takeru (3E5 2022)<br>Dmitry Jared Tan (3T1 2022) |
-| Transportation of Casualty IC | Johnathan Lim Wei Kang (3E1  2022)<br>Jacob Chia Zhe Bin (3N1 2022) |
-| Physical Training IC | Dmitry Jared Tan (3T1 2022)<br>Muhammad Fawwaz Aiiq Bin Muhammad Faidzol (3E1 2022) |
-| Public Duty IC | Chan Yue Xuan Celest (3N2 2022) |
-| Welfare IC | Jacob Chia Zhe Bin (3N1 2022)<br>Felicia Pang Kai Ting (3E4 2022) |
-| Cadet Proficiency Badge IC | Heng Maegan (3N1 2022) |
+| Unit Sergeant Major (USM) | Advait Chidambaram (4E5 2023) |
+|:---:|:---:|
+| **Assistant Sergeant Major (ASM)** | Tan Jia Xuan Jessica (4E1 2023) |
+| **Head of Training** | Tan Yew Shyan (4E4 2023) |
+| **First Aid Instructors** | Advait Chidambaram (4E5 2023)<br>Felicia Pang Kai Ting (4E4 2023)<br>Tan Yew Shyan (4E4 2023) |
+| **Fire Safety Instructors** | Fu Rui Jia (4E4 2023)<br>Nur Qistina Binte Muhammad Ridzuan (4E6 2023) |
+| **Rescue Instructors** | Johnathan Lim Wei Kang (4E1 2023)<br>Jacob Chia Zhe Bin (4E6 2023) |
+| **Foot Drill Instructors** | Tan Yew Shyan (4E4 2023)<br>Sueyoshi Takeru (4E5 2023)<br>Dmitry Jared Tan (4E8 2023) |
+| **Physical Training Instructors** | Dmitry Jared Tan (4E8 2023)<br>Muhammad Fawwaz Aiiq Bin Muhammad Faidzol (4E1 2023) |
+| **Welfare ICs** | Chan Yue Xuan Celest (4E6 2023)<br>Jacob Chia Zhe Bin (4E6 2023)<br>Felicia Pang Kai Ting (4E4 2023) |
+| **Publicity IC** | Alicia Cheong Xi Qi (4E6 2023) |
+| **Public Duty IC** | Chan Yue Xuan Celest (4E6 2023)<br>Heng Maegan (4E7 2023) |
+| **Logistics IC** | Keon Ong Chen En (4E7 2023)<br>Lee Yu Xian (4E1 2023)  |
 |
-
-Zhonghua Secondary School’s St. John Brigade (SJB) was founded on 25th July 1961. The core focus of SJB is to develop the character and leadership qualities of cadets, in addition to imparting First Aid knowledge. 
-
-SJB activities seek to inculcate an all-rounded education by developing personal skills and expanding knowledge of First Aid through weekly trainings, training camps and outdoor activities. Cadets are taught to be self-disciplined, responsible, persevering and to display team spirit. Our trainings equip cadets in knowledge and skills on First Aid, Transportation of Casualty, Home Nursing and Foot Drills. During these training sessions, our cadets are given the opportunity to hone their leadership skills. Our cadets provide First Aid services during school events and to the community. These public duties enable our cadets to put their knowledge to practice, and allow them to gain more experience, thus becoming more confident first aiders.
-
-#### **Key Programmes:**
-* SJB HQ National First Aid Competition 
-* SJB HQ National Brigade Drill Instructor Course 
-* SJB HQ Basic Cardiac Life Support + AED Course and Cardiopulmonary Resuscitation + AED Course
-* Non-Commissioned Officer Course (NCOC)
-* Cadet Proficiency Badge Scheme (CPBS) 
-
-#### **Significant Achievements:**
-* 13 consecutive Corps Achievement Award (Gold)
-* 2021: 9 Secondary Four cadets conferred the Chief Commissioner’s Badge
-* 2019: Zone 5 First Aid Competition –Champion for Ambulance and Nursing
-* 2019: National First Aid and Home Nursing Competition – Best for Transportation of Casualty, 3rd in Nursing
-
-<img src="/images/sjb1.jpg" style="width:49%" align=left>
-<img src="/images/sjb2.jpg" style="width:49%" align=right>
-
-<br clear="left">
-
-<img src="/images/sjb3.jpg" style="width:49%" align=left>
-<img src="/images/sjb4.jpg" style="width:49%" align=right>
