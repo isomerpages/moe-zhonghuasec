@@ -23,7 +23,7 @@ Link to **[2023 CCA Schedule](/files/2023%20CCA%20Schedule.pdf)**
 #### **Student Leaders:**
 
 | Unit Sergeant Major (USM) | Advait Chidambaram (4E5 2023) |
-|:---:|:---:|
+|---|---|
 | **Assistant Sergeant Major (ASM)** | Tan Jia Xuan Jessica (4E1 2023) |
 | **Head of Training** | Tan Yew Shyan (4E4 2023) |
 | **First Aid Instructors** | Advait Chidambaram (4E5 2023)<br>Felicia Pang Kai Ting (4E4 2023)<br>Tan Yew Shyan (4E4 2023) |
