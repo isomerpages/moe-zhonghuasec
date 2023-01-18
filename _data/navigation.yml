@@ -34,14 +34,10 @@ links:
   - title: Parent Support Group
     url: /about-us/psg/
     sublinks:
-      - title: Members
-        url: /about-us/psg/members/2022/
       - title: Events
         url: /about-us/psg/events/
       - title: Event Photos
         url: /about-us/psg/event-photos/2019/
-      - title: Join PSG
-        url: /about-us/psg/join-psg/
   - title: Achievements
     url: /achievements/
     sublinks:
