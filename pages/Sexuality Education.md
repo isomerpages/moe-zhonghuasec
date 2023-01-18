@@ -49,8 +49,8 @@ b. Character and Citizenship Education (CCE)
 |  |  |  |
 |---|---|---|
 | Topics/Lessons | Programme Learning Objectives | Time Period (e.g. Term 3 Week 9) |
-| Mass Talk by HPB appointed vendor | * Awareness of the different STIs and HIV/AIDS * Modes of transmission * Modes of protection, specifically on how the condoms is used  * Consequences and impact of STIs/HIV | Term 2 Week 6 |
-| Classroom-based Lesson | * Learn to negotiate their way out of risky situation by applying skills of assertiveness and responsible decision-making | Term 2 Week 6 |
+| Mass Talk by HPB appointed vendor | * Awareness of the different STIs and HIV/AIDS * Modes of transmission * Modes of protection, specifically on how the condoms is used  * Consequences and impact of STIs/HIV | Term 4 Week 2 |
+| Classroom-based Lesson | * Learn to negotiate their way out of risky situation by applying skills of assertiveness and responsible decision-making | Term 4 Week 2 |
 |
 
 #### **Information for Parents** 
