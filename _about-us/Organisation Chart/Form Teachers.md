@@ -70,7 +70,7 @@ third_nav_title: Organisation Chart
 |  | Ms Tan Wen Li Vanessa | [tan_wen_li_vanessa@moe.edu.sg](mailto:tan_wen_li_vanessa@moe.edu.sg) | 65938-203 |
 | 3R3 | Mr Chen Yit Chien | [chen_yit_chien@moe.edu.sg](mailto:chen_yit_chien@moe.edu.sg) | 65938-125 |
 |  | Ms Yeo Li Min Anna | [yeo_li_min_anna@moe.edu.sg](mailto:yeo_li_min_anna@moe.edu.sg) | 65938-158 |
-| 3R4 | Ms Yeo Shu Ling | [yeo_shu_ling@moe.edu.sg](mailto:yeo_shu_ling@moe.edu.sg) | 65938-128 |
+| 3R4 | Ms Yeo Shu Ling | [jalene_yeo_shu_ling@moe.edu.sg](mailto:jalene_yeo_shu_ling@moe.edu.sg) | 65938-128 |
 |  | Mr Brandon Choy Wai Keong | [brandon_choy_wai_keong@moe.edu.sg](mailto:brandon_choy_wai_keong@moe.edu.sg) | 65938-149 |
 | 3R5 | Mr Ang Lee Chun, Lionel | [ang_lee_chun_lionel@moe.edu.sg](mailto:ang_lee_chun_lionel@moe.edu.sg)| 65938-138 |
 |  | Ms Janice Loo Zhi Min | [janice_loo_zhi_min@moe.edu.sg](mailto:janice_loo_zhi_min@moe.edu.sg) | 65938-163 |
