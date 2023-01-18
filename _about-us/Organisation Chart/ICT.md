@@ -22,4 +22,5 @@ third_nav_title: Organisation Chart
 | Ms K Saraswathi | Teacher | [k_saraswathi@moe.edu.sg](mailto:k_saraswathi@moe.edu.sg) | 65938-168 |
 | Mr Louis Wang | Teacher  | [wang_xianglin@moe.edu.sg](mailto:wang_xianglin@moe.edu.sg) | 65938-147 |
 | Ms Ratiporn Tasanawinyou |  Teacher | [ratiporn_tasanawinyou@moe.edu.sg](mailto:ratiporn_tasanawinyou@moe.edu.sg) | 65938-145 |
-|
+|Ms Arifah Azman| ICT Associate | [arifah_azman@moe.edu.sg](mailto:arifah_azman@moe.edu.sg)| 65938-171|
+|Mr Muhammad Mustaqim|ICT Executive| [muhammad_mustaqim_abd_karim@moe.edu.sg](mailto:muhammad_mustaqim_abd_karim@moe.edu.sg)|65938-170|
