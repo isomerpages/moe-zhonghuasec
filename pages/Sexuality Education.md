@@ -20,11 +20,11 @@ description: ""
 (ii) Build positive relationships based on love and respect (which are the foundation for strong families); <br>
 (iii) Make responsible decisions for yourself, your family and society; and <br>
 (iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.   
-You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) more information on MOE Sexuality Education.
+You may click **[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)** more information on MOE Sexuality Education.
 
 #### **Overview of Zhonghua Secondary School's Sexuality Education Programme for 2023**
 
-4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
+4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click **[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)** for more information on the scope of Sexuality Education in the school curriculum.
 
 5\. The subjects that incorporate topics on sexuality include: <br>
 a. Science <br>
