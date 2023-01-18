@@ -31,13 +31,6 @@ links:
         url: /about-us/contact-us/
       - title: "Infolinks "
         url: /about-us/infolinkstest/
-  - title: Parent Support Group
-    url: /about-us/psg/
-    sublinks:
-      - title: Events
-        url: /about-us/psg/events/
-      - title: Event Photos
-        url: /about-us/psg/event-photos/2019/
   - title: Achievements
     url: /achievements/
     sublinks:
