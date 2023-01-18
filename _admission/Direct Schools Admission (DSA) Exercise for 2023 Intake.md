@@ -13,4 +13,4 @@ We welcome all current Primary Six students (or equivalent) to apply for admissi
 *   Performing Arts
 *   Student Leadership 
 
-To find out more, visit our DSA Information portal at:  [https://staging.d1ph2u5puaqsvh.amplifyapp.com/admission/dsa-2023/](https://staging.d1ph2u5puaqsvh.amplifyapp.com/admission/dsa-2023/)
+To find out more, visit our DSA Information portal at:  [https://go.gov.sg/zhonghuasec-dsa](https://go.gov.sg/zhonghuasec-dsa)
