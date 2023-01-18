@@ -20,4 +20,4 @@ Learned, enlightened and discerning. Zhonghuarians will be highly regarded for t
 #### **Values & Motto**
 
 <img src="/images/visionmissionvalues3.jpg" style="width:35%">
-<img src="/images/visionmissionvalues4.png" style="width:85%">
+<img src="/images/school motto.png" style="width:85%">
