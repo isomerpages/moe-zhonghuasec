@@ -9,20 +9,27 @@ description: ""
 Zhonghua Secondary School Parent Support Group was set up in September 2001 with the blessing of the school.
 
 <figure>
-<img src="/images/psg.jpeg" style="width:75%">
+<img src="/images/PSG 2022.jpg" style="width:%">
 <figcaption><strong>  ZHSS PSG Committee
 	</strong></figcaption>
 </figure>
 
 #### **Vision**
-School and parents collaborate in the PSG, share a common vision and goal with the school.
-
-A Network of Support<br>
-PSG creates a network of links for the parents, school and the community.
+School and parents work in partnership to support our students’ learning and well-being
 
 #### **Objectives**
-* To provide a supportive network for parents to communicate with each other as well as with the school.
-* To provide opportunities for parents to be involved in school programmes and activities.
-* To help explain and disseminate school policies to parents.
-* To encourage parents to contribute to the school by way of tapping on their skills, professional knowledge or other resources so as to organize enrichment classes or workshops for students or parents.
-* To help parents feel that they are part of the school family/community.
+* To provide a supportive network for parents
+* To work in partnership with school to enhance learning experiences for students
+* To be a bridge between parents and school by providing feedback and facilitating the school’s communication to parents
+
+#### **PSG Microsite**
+Do visit the Zhonghua Parent Support Group Microsite for PSG events and photos:
+[https://sites.google.com/view/zhsspsg/home](https://sites.google.com/view/zhsspsg/home)
+
+<img src="/images/PSG Microsite 2022.jpg" style="width:50%">
+
+#### **Join PSG**
+Please sign up using this link:
+[https://tinyurl.com/zhsspsg](https://tinyurl.com/zhsspsg)
+
+Alternatively, you may contact PSG: [zhonghuasecpsg@gmail.com](mailto:zhonghuasecpsg@gmail.com)
