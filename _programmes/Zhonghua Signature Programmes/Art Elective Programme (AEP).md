@@ -35,4 +35,4 @@ Since 2012, Zhonghua AEP adopted and weaved the Lincoln Centre Education (LCE) a
 |
 
 To find out more about the AEP in general, visit the MOE Art Elective Programme website at this URL:<br>
-[https://beta.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Special%20Art%20Programmes](https://beta.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Special%20Art%20Programmes) **privacy error**
+[https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec](https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec)
