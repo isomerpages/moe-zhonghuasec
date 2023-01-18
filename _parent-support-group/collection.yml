@@ -2,6 +2,5 @@ collections:
   parent-support-group:
     output: true
     order:
-      - Events/2012 Events.md
       - Events/.keep
       - Event Photos/.keep
