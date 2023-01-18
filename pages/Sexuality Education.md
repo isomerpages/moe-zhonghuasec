@@ -37,7 +37,7 @@ b. Character and Citizenship Education (CCE)
 
 #### **At Zhonghua Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2023:**
 
-**Click [here](/files/SE%20Lessons.pdf) for the lessons details.**
+
 
 ##### **_eTeens_ Programme**:
 8\. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.  
