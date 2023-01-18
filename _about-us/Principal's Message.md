@@ -3,8 +3,8 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-### **Principal's Message**
-##### **Principal's Message for 2023**
+### **Principal's Message for 2023**
+
 
 <img src="/images/principal.jpg" style="width:25%;margin-right:15px;" align = "right">
 
