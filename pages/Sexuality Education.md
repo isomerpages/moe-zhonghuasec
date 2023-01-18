@@ -36,15 +36,18 @@ b. Character and Citizenship Education (CCE)
 7\. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
 #### **At Zhonghua Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2023:**
-
-
+<img src="/images/SEC 1.png">
+<img src="/images/SEC 2.png">
+<img src="/images/SEC 3.png">
+<img src="/images/SEC 4.png">
+<img src="/images/SEC 5.png">
 
 ##### **_eTeens_ Programme**:
 8\. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.  
   
 9\. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
-#####  **At Zhonghua Secondary School, the eTeens programme will be implemented as follows in 2022:**
+#####  **At Zhonghua Secondary School, the eTeens programme will be implemented as follows in 2023:**
 
 |  |  |  |
 |---|---|---|
