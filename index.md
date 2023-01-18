@@ -22,5 +22,5 @@ sections:
           url: /infolinks/
         - title: Contact Us
           description: ""
-          url: /about-us/contact-us/
+          url: /contact-us/
 ---
