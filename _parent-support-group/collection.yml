@@ -3,12 +3,6 @@ collections:
     output: true
     order:
       - Parent Support Group.md
-      - Members/2022 PSG Committee.md
-      - Members/2021 PSG Committee.md
-      - Members/2020 PSG Committee.md
-      - Members/2019 PSG Committee.md
-      - Members/2018 PSG Committee.md
-      - Members/.keep
       - Events/Events.md
       - Events/2021 Events.md
       - Events/2020 Events.md
