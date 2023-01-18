@@ -14,7 +14,6 @@ third_nav_title: Organisation Chart
 | Asst Year Head | Mr Christopher Lim Wei Chern | [christopher_lim_wei_chern@moe.edu.sg](mailto:christopher_lim_wei_chern@moe.edu.sg) | 65938-135 |
 | 1C1   | Ms Ang Hwee Qin | [ang_hwee_qin@moe.edu.sg](mailto:ang_hwee_qin@moe.edu.sg) | 65938-181 |
 |  | Ms Nurliza Bte Yusof | [nurliza_yusof@moe.edu.sg](mailto:mailto:nurliza_yusof@moe.edu.sg) | 65938-165 |
-|  | Ms Joy Eu Li Xin  | [joy_eu_li_xin@moe.edu.sg](mailto:joy_eu_li_xin@moe.edu.sg)  | 65938-206  |
 | 1C2 | Ms Chew Lixian | [lixian_chew@moe.edu.sg](mailto:lixian_chew@moe.edu.sg) | 65938-135 |
 |  | Mr Ng Thiam Seng | [ng_thiam_seng@moe.edu.sg](mailto:ng_thiam_seng@moe.edu.sg) | 65938-153 |
 | 1C3 | Mr Eddie Pang Kar Loon | [pang_kar_loon_eddie@moe.edu.sg](mailto:pang_kar_loon_eddie@moe.edu.sg) | 65938-172 |
@@ -29,9 +28,6 @@ third_nav_title: Organisation Chart
 |  | Ms Wang Sichuan | [wang_sichuan@moe.edu.sg](mailto:wang_sichuan@moe.edu.sg) | 65938-204 |
 | 1C8   | Ms Shafillah Begum | [shafillah_begum@moe.edu.sg](mailto:shafillah_begum@moe.edu.sg) | 65938-168 |
 |  | Mrs Gwen Ng-Toh Xiao Qi | [toh_xiao_qi@moe.edu.sg](mailto:toh_xiao_qi@moe.edu.sg) | 65938-142 |
-|  | Mr Teo Ang Guan  | [teo_ang_guan@moe.edu.sg](mailto:teo_ang_guan@moe.edu.sg)  | 65938-206 |
-
-
 
 #### **Secondary 2**
 
