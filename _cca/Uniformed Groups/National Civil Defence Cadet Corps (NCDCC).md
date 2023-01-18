@@ -9,11 +9,9 @@ third_nav_title: Uniformed Groups
 
 |  |  |
 |---|---|
-| Ms Lim Fong Choon  (I/C) | [lim_fong_choon@moe.edu.sg](mailto:lim_fong_choon@moe.edu.sg) |
-| Mr Lee Ming Hui Kelvin | [ming_hui_kelvin_lee@moe.edu.sg](mailto:ming_hui_kelvin_lee@moe.edu.sg) |
-| Mr Adam Ang | [kah_chin_adam_ang@moe.edu.sg](mailto:kah_chin_adam_ang@moe.edu.sg) |
+| Mr Adam Ang (I/C)| [kah_chin_adam_ang@moe.edu.sg](mailto:kah_chin_adam_ang@moe.edu.sg) |
 | Mr Imaduddin Ahmad | [imaduddin_ahmad_chevi_rafiudin@moe.edu.sg](mailto:imaduddin_ahmad_chevi_rafiudin@moe.edu.sg) |
-|
+|Ms Vanessa Tan|[tan_wen_li_vanessa@moe.edu.sg](mailto:tan_wen_li_vanessa@moe.edu.sg)
 
 #### **VAL/Cadet Officers:**
 Ng Zi Hang
