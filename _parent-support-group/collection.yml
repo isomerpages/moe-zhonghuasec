@@ -2,7 +2,6 @@ collections:
   parent-support-group:
     output: true
     order:
-      - Events/2018 Events.md
       - Events/2017 Events.md
       - Events/2016 Events.md
       - Events/2015 Events.md
