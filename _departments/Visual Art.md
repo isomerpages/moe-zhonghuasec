@@ -17,6 +17,6 @@ For more artistically inclined students, the 4-year Art Elective Programme (AEP)
 [/programmes/zhonghua-signature-programmes/aep/](/programmes/zhonghua-signature-programmes/aep/)
 
 To find out more about the AEP, visit the MOE Art Elective Programme website at this URL:<br>
-[https://beta.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Special%20Art%20Programmes](https://beta.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Special%20Art%20Programmes) **privacy error**
+[https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec](https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec)
 
 ![](/images/va1.jpg)
