@@ -5,25 +5,16 @@ description: ""
 third_nav_title: Student Development
 ---
 ### **Discipline**
-#### **Discipline Framework**
-The discipline framework in Zhonghua Secondary School is one that is not punitive but more of developing the child holistically.
+#### **Discipline Approach**
+The discipline approach in Zhonghua Secondary School is one that is not punitive but of developing the child holistically. We are disciplinarians who aim to support the child and educate him/her of any wrongdoing. As the saying goes, “it takes a village to raise a child”. Thus, we will involve parents when necessary to support and educate the child as we recognise that parents play an important role in the upbringing of the child. We will also re-direct every child’s focus from “not doing it wrong” to “doing it right”.
 
-We as disciplinarians aimed to support the child and educate him/her of any wrongdoing. As the saying goes “it takes a village to raise a child”. Thus, we will involve parents when necessary to support and educate the child as we recognize that parents are our important stakeholders and play an important part in upbringing the child. We will also re-direct every child’s focus from “not doing it wrong” to “doing it right”.
+  
 
 The Discipline Committee’s main objective is to ensure that the school is a safe and conducive environment for both teachers and students so that teaching and learning can take place in the classroom.
 
-#### **Discipline Committee**
-
-|  |  |  |
-|---|---|---|
-| Mr Ron Low | HOD Discipline | [low_yao_ming@moe.edu.sg](mailto:low_yao_ming@moe.edu.sg) |
-| Ms Cher Huey Miin | Discipline Teacher | [cher_huey_miin@moe.edu.sg](mailto:cher_huey_miin@moe.edu.sg) |
-| Ms Lim Fong Choon | Discipline Teacher | [lim_fong_choon@moe.edu.sg](mailto:lim_fong_choon@moe.edu.sg) |
-| Ms Lum Shu Wei | Discipline Teacher | [lum_shu_wei@moe.edu.sg](mailto:lum_shu_wei@moe.edu.sg) |
-|
-
 <img src="/images/discipline1.png" style="width:85%">
-Students who used their mobile phones irresponsibly will have their mobile phones confiscated. The mobile phones will be returned to them subject to good behaviour at the end of the academic term.
+
+Students who use their mobile phones irresponsibly will have their mobile phones confiscated. The mobile phones will be returned to them, subject to good behaviour, at the end of the academic term.
 
 #### **Expected Grooming and Attire Standards**
 1\. All students’ hair should be of natural colour.<br>
