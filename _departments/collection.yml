@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science.md
       - Departments.md
       - Design & Technology.md
       - English Language & Literature.md
