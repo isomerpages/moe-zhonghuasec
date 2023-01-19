@@ -47,7 +47,7 @@ To make an appointment with Ms Catherine Ng (ECG Counsellor), please email her a
 
 | Title  | Links | Remarks<br>  |
 |---|---|---|
-| My-Skills-Future Portal (Secondary) | https://www.myskillsfuture.sg/content/student/en/secondary.html **broken link** | ECG Portal to explore the world of work and plan education pathways |
+| My-Skills-Future Portal (Secondary) | [https://www.myskillsfuture.gov.sg/content/student/en/secondary.html](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html) | ECG Portal to explore the world of work and plan education pathways |
 | Explore different industries  (videos) | https://www.myskillsfuture.sg/content/student/en/secondary/world-of-work/industry-landscape/industry-videos.html **broken link**| An introduction to job roles in the various industries in Singapore |
 | ECG Resources | https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/education-and-career-guidance/ecg-resources **broken link**| A collection of ECG Resources, from e-book to resource guide |
 | Parent Guide | https://www.moe.gov.sg/microsites/ecg-parent-guide/#p=1 **broken link**| A guide for parents/guardians in ECG |
