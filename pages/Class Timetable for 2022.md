@@ -14,7 +14,7 @@ description: ""
 | **Sec 3** |  |  |  |  |  |  |  |
 | [3R1](/files/3E1.pdf) | [3R2](/files/3E2.pdf) | [3R3](/files/3E3.pdf) | [3R4](/files/3E4.pdf) | [3R5](/files/3E5.pdf) | [3R6](/files/3N1.pdf) | [3R7](/files/3N2.pdf) | [3R8](/files/3T1.pdf) |
 | **Sec 4** |  |  |  |  |  |  |  |
-| [4E1](/files/4E1.pdf) | [4E2](/files/4E2.pdf) | [4E3](/files/4E3.pdf) | [4E4](/files/4E4.pdf) | | [4N1](/files/4N1.pdf) | [4N2](/files/4N2.pdf) | [4T1](https://www.zhonghuasec.moe.edu.sg/qql/slot/u706/Infolinks/202/4T1.pdf) **broken link** |
+| [4E1](/files/4E1.pdf) | [4E2](/files/4E2.pdf) | [4E3](/files/4E3.pdf) | [4E4](/files/4E4.pdf) | [4E5]| [4E6](/files/4N1.pdf) | [4E7](/files/4N2.pdf) | [4E8] |
 | **Sec 5** |  |  |  |  |  |  |  |
 | [5N1](/files/5N1.pdf) |
 |
