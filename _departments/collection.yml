@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Science.md
       - Departments.md
       - Design & Technology.md
       - English Language & Literature.md
@@ -12,7 +11,9 @@ collections:
       - Music.md
       - Mother Tongue Languages.md
       - Physical Education.md
+      - Science.md
       - Science/.keep
+      - Student Development/.keep
       - Student Development/Student Development.md
       - Student Development/Character and Citizenship Education.md
       - Student Development/Counselling.md
@@ -20,5 +21,4 @@ collections:
       - Student Development/Education & Career Guidance.md
       - Student Development/Learning and Behavioural Support.md
       - Student Development/Student Leadership.md
-      - Student Development/.keep
       - Visual Art.md
