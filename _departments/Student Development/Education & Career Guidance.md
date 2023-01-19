@@ -28,7 +28,7 @@ To make an appointment with Ms Catherine Ng (ECG Counsellor), please email her a
 
 | Title | Links | Stream |
 |---|---|---|
-| Joint Intake Exercise (JIE Admission Booklet) | https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2021.pdf **broken link** | 4 Normal (Academic)<br>4 Normal (Technical) |
+| Joint Intake Exercise (JIE Admission Booklet) | https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf?sfvrsn=182e5d54_2 | 4 Normal (Academic)<br>4 Normal (Technical) |
 | Joint Admission Exercise (JAE information Booklet) | https://beta.moe.gov.sg/uploads/2021-JAE-Information-Booklet.pdf **broken link**| 4 Express<br>5 Normal (Academic) |
 | Poly Foundation Programme (PFP) | [https://pfp.polytechnic.edu.sg/PFP/pfp_introduction.html](https://pfp.polytechnic.edu.sg/PFP/pfp_introduction.html) | 4 Normal (Academic) |
 | Direct-entry-scheme to Polytechnic Programme (DPP) | [https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/direct-entry-scheme-to-polytechnic-programme](https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/direct-entry-scheme-to-polytechnic-programme) | 4 Normal (Academic) |
