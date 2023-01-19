@@ -10,7 +10,7 @@ description: ""
 
 |  | STUDENTS |  | PARENTS/PARTNERS |  | TEACHERS |
 |---|:---:|---|:---:|---|:---:|
-| <img src="/images/Icon.png"> | [Students iCON login](https://workspace.google.com/dashboard) | ![](/images/p1.bmp) | [Parent Support Group (PSG)](https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/psg/) |<img src="/images/Icon.png"> | [ICON](https://icon.moe.edu.sg/) |
+| <img src="/images/Icon.png"> | [Students iCON login](https://workspace.google.com/dashboard) | <img src="/images/PSG.png">  | [Parent Support Group (PSG)](https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/psg/) |<img src="/images/Icon.png"> | [ICON](https://icon.moe.edu.sg/) |
 | <img src="/images/s2.png"> | [ACE-LEARNING](https://www.ace-learning.com/) | ![](/images/p2.png) | [Sexuality Education](https://staging.d1ph2u5puaqsvh.amplifyapp.com/sex-edu) | ![](/images/OPAL.png) | [Opal2.0](https://www.opal2.moe.edu.sg/app/learner) |
 | <img src="/images/s3.png">| [Class Timetable](https://staging.d1ph2u5puaqsvh.amplifyapp.com/announcements/class-timetable-for-202/) | ![](/images/p3.png) | [SG SCH SPORTS COUNCIL](https://nsg.moe.edu.sg/sssc) | ![](/images/t3.png) | [Cockpit](https://schoolcockpit.moe.gov.sg/)  |
 |<img src="/images/SLS.png"> | [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/) | ![](/images/p4.png) | [MOE Website](https://www.moe.gov.sg/) | ![](/images/Outlook.png) | [Web-based Outlook](https://schools.gov.sg) |
