@@ -36,7 +36,7 @@ To make an appointment with Ms Catherine Ng (ECG Counsellor), please email her a
 | Poly Early Admission Exercise (Poly EAE) | [https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)| 4 Express<br>5 Normal (Academic) |
 | Direct School Admission – Junior Colleges (DSA-JC) | [https://www.moe.gov.sg/post-secondary/admissions/dsa](https://www.moe.gov.sg/post-secondary/admissions/dsa) | 4 Express<br>5 Normal (Academic) |
 | ITE Early Admission Exercise (ITE EAE) | [https://www.ite.edu.sg/admissions/full-time-courses/early-admissions-exercise](https://www.ite.edu.sg/admissions/full-time-courses/early-admissions-exercise)| 4 Express<br>5 Normal (Academic)<br>4 Normal (Academic)<br>4 Normal (Technical) |
-| Pre-University Information | https://www.moe.gov.sg/education/pre-university **broken link**| 4 Express<br>5 Normal (Academic) |
+| Pre-University Information | [https://www.moe.gov.sg/education-in-sg/our-programmes/pre-university](https://www.moe.gov.sg/education-in-sg/our-programmes/pre-university)| 4 Express<br>5 Normal (Academic) |
 | Courses available at the Polytechnics | http://www.polytechnic.edu.sg/introduction/available-courses **broken link**| 4 Express<br>5 Normal (Academic)<br>4 Normal (Academic)<br>4 Normal (Technical) |
 | Courses available at the ITE | [https://www.ite.edu.sg/admissions/full-time-courses](https://www.ite.edu.sg/admissions/full-time-courses) | 4 Express<br>5 Normal (Academic)<br>4 Normal (Academic)<br>4 Normal (Technical) |
 | La Salle College of the Arts (Diploma) | [https://www.lasalle.edu.sg/admissions/diploma-admissions](https://www.lasalle.edu.sg/admissions/diploma-admissions) | 4 Express<br>5 Normal (Academic) |
