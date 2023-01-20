@@ -9,7 +9,7 @@ locations:
       - Singapore 556123
       - ""
     operating_hours: []
-    maps_link: ""
+    maps_link: https://goo.gl/maps/MzZtfcbwe1VNHa1z5
     title: Address
 contacts:
   - content:
