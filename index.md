@@ -17,10 +17,4 @@ sections:
         - title: Highlights
           description: ""
           url: /achievements/highlights/
-        - title: Infolinks
-          description: ""
-          url: /infolinks/
-        - title: Contact Us
-          description: ""
-          url: /contact-us/
 ---
