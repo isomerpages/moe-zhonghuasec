@@ -15,6 +15,8 @@ links:
         url: /about-us/calender/
       - title: Organisation Chart
         url: /about-us/organisation-chart/
+      - title: Parent Support Group
+        url: /about-us/psg
       - title: Rules & Regulations
         url: /about-us/rules-and-regulations/
       - title: Virtual School Tour
@@ -25,8 +27,6 @@ links:
         url: /about-us/school-bookshop-and-uniform-supplier/
       - title: "Infolinks "
         url: /about-us/infolinkstest/
-      - title: Parent Support Group
-        url: /about-us/psg
   - title: Achievements
     url: /achievements/
     sublinks:
