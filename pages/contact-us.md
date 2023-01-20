@@ -37,6 +37,6 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: https://goo.gl/forms/6oDDF5XQKPssDWTh2
-    title: Rate our feedback form
+      - other: https://docs.google.com/forms/d/e/1FAIpQLScLairk1r2wfGsv17hwZBhEm0M87B_NgR75-7BXDwi4yh1clg/viewform
+    title: Rate our Website
 ---
