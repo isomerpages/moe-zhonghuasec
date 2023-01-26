@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Event Photos/.keep
-      - About Us.md
       - Principal's Message.md
       - Vision, Mission, Values.md
       - Our Heritage/.keep
