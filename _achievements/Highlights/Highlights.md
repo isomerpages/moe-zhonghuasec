@@ -9,8 +9,8 @@ third_nav_title: Highlights
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/1/">
 <figure>	
 <img style="width:40%" src="/images/highlights1.jpg" align=left>
-<figcaption><br> 22 December 2021<br>
-2022 Secondary 1 e-Registration Exercise
+<figcaption><br> 24 November 2022<br>
+Zhonghua Secondary School Guided Tour 2022
  </figcaption>
 </figure>	
 </a></p>
@@ -20,8 +20,8 @@ third_nav_title: Highlights
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/2/">
 <figure>	
 <img style="width:40%" src="/images/highlights2.jpg" align=left>
-<figcaption><br> 13 October 2021<br>
-Zhonghua Secondary School e-Open House
+<figcaption><br> 12 November 2022<br>
+Zhonghua Secondary School Open House 2022
  </figcaption>
 </figure>	
 </a></p>
