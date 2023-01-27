@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Achievements.md
-      - Highlights/Zhonghua Secondary School Guided Tour.md
       - Highlights/.keep
       - Highlights/Highlights.md
+      - Highlights/Zhonghua Secondary School Guided Tour.md
       - Highlights/Zhonghua Secondary School eOpen House.md
       - Highlights/2022 Secondary 1 eRegistration Exercise.md
       - Highlights/Virtual Steam Festival 2020.md
