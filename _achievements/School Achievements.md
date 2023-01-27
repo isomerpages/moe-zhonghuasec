@@ -24,7 +24,6 @@ description: ""
 89.4% of Sec 4 Express students eligible for JC/MI
 
 100% of Sec 4 Express students eligible for Polytechnic
-
   
 
 17.4% of Sec 5 Normal Academic students eligible for JC/MI
