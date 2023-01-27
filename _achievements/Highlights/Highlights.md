@@ -30,7 +30,7 @@ Zhonghua Secondary School Open House 2022
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/4/">
 <figure>	
-<img style="width:40%" src="/images/highlights3.jpg" align=left>
+<img style="width:40%" src="/images/button_Steam_Fest.jpg" align=left>
 <figcaption><br><br><br> 22 September 2020<br>
 Virtual Steam Festival 2020
  </figcaption>
