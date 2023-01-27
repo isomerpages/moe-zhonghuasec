@@ -8,7 +8,7 @@ third_nav_title: Highlights
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/1/">
 <figure>	
-<img style="width:40%" src="/images/highlights1.jpg" align=left>
+<img style="width:40%" src="/images/Guided Tours 2022.jpg" align=left>
 <figcaption><br> 24 November 2022<br>
 Zhonghua Secondary School Guided Tour 2022
  </figcaption>
@@ -19,7 +19,7 @@ Zhonghua Secondary School Guided Tour 2022
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/2/">
 <figure>	
-<img style="width:40%" src="/images/highlights2.jpg" align=left>
+<img style="width:40%" src="/images/Open House 2022.jpg" align=left>
 <figcaption><br> 12 November 2022<br>
 Zhonghua Secondary School Open House 2022
  </figcaption>
