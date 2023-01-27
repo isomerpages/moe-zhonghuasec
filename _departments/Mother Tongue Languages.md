@@ -37,7 +37,7 @@ Para pelajar juga berpeluang mengambil bahagian dalam Bengkel Budaya dan Kembara
 
 ##### **Malay Special Programme in ZHSS**
 **Background**<br>
-MSP is one of the Ministry of Education’s 3rd language programme. It used to be a Programme that is offered only to the top 30% of the PSLE cohort but has been expanded to anyone with the interest and inclination to do so beginning year 2006. This programme is offered to non-Malay students as a third language. Zhonghua Secondary School is the centre for schools in the South Zone.
+MSP is one of the Ministry of Education’s 3rd language programme. It used to be a Programme that is offered only to the top 30% of the PSLE cohort but has been expanded to anyone with the interest and inclination to do. This programme is offered to non-Malay students as a third language. Zhonghua Secondary School is the centre for schools in the South Zone.
 
 A student who passes M(SP) at the GCE O-Level Examination and who qualifies for admission to a JC/MI will be given a concession of two points in his application to the JC/MI of his/her choice. A student who offers M(SP) in the GCE O-Level Examination will be allowed to use the M(SP) grade in lieu of a Humanities subject grade for admission to the JC/MI.
 
@@ -67,4 +67,3 @@ MSP Lesson is held once a week, 3 hours per lesson in the afternoon. The program
 
 <img src="/images/mtl1.jpg" style="width:49%" align=left>
 <img src="/images/mtl2.jpg" style="width:49%" align=right>
-
