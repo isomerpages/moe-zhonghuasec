@@ -14,4 +14,4 @@ third_nav_title: Parent Support Group
 
 <img style="width:50" src="/images/Prize Giving.jpeg"> [Prize Giving Day](/about-us/psg/event-photos/2019/prize-giving-day/)
 
-![](/images/Teachers'%20Day.jpg)[Teachers' Day Celebration](/about-us/psg/event-photos/2019/teachers-day-celebration/)
+<img style="width:50" src="/images/Teachers' Day.jpg"> [Teachers' Day Celebration](/about-us/psg/event-photos/2019/teachers-day-celebration/)
