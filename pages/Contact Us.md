@@ -24,5 +24,3 @@ Serangoon MRT (North East line NE12) / (Circle line CC13)
 #### **Feedback**
 
 Please click&nbsp;[here](https://forms.cwp.gov.sg/zhonghuasec/FormG6VMT)&nbsp;to send us your feedback.
-
-Please click&nbsp;[here](https://goo.gl/forms/6oDDF5XQKPssDWTh2)&nbsp;to rate this website.
