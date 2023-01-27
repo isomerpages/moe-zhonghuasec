@@ -36,7 +36,7 @@ description: ""
     <td class="tg-2rp9">He Ziyu (2017) </td>
   </tr>
   <tr>
-    <td class="tg-v8el" colspan="2"><span style="background-color:#E7E6E6">2020</span></td>
+		<td class="tg-v8el" colspan="2"><span style="background-color:#E7E6E6">2020</span></td>
   </tr>
   <tr>
     <td class="tg-2rp9"> Raffles Medical Group Scholarship</td>
@@ -129,6 +129,7 @@ description: ""
   </tr>
 </tbody>
 </table>
+
 
 #### **Awards**
 
