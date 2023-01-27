@@ -17,7 +17,7 @@ third_nav_title: Organisation Chart
 | Mdm Zhang Yan | Teacher | [zhang_yan_a@moe.edu.sg](mailto:zhang_yan_a@moe.edu.sg) | 65938-135 |
 | Ms Lim Fong Choon | Teacher | [lim_fong_choon@moe.edu.sg](mailto:lim_fong_choon@moe.edu.sg) | 65938-131 |
 | Mr Ng Thiam Seng | Teacher | [ng_thiam_seng@moe.edu.sg](mailto:ng_thiam_seng@moe.edu.sg) | 65938-153 |
-| Ms Xiao Yue | Teacher | [xiao_yue@moe.edu.sg](mailto:xiao_yue@moe.edu.sg) | 65938-150 |
+| Ms Xiao Yue | Teacher | [xiao_yue@moe.edu.sg](mailto:xiao_yue@moe.edu.sg) | 65938-146 |
 | Ms Tai Jia Hui | Teacher | [tai_jia_hui@moe.edu.sg](mailto:tai_jia_hui@moe.edu.sg) |  65938-134 |
 | Ms Sitinur Azreen | Teacher | [sitinur_azreen_halil@moe.edu.sg](mailto:sitinur_azreen_halil@moe.edu.sg) | 65938-126 |
 | Ms Nurliza Bte Yusof | Teacher | [nurliza_yusof@moe.edu.sg](mailto:nurliza_yusof@moe.edu.sg) | 65938-162 |
