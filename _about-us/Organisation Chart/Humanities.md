@@ -25,3 +25,4 @@ third_nav_title: Organisation Chart
 | Mrs Cheryl Chew | Teacher | [lim_pei_chen_cheryl@moe.edu.sg](mailto:lim_pei_chen_cheryl@moe.edu.sg) | 65938-159  |
 | Ms Wang Sichuan | Teacher | [wang_sichuan@moe.edu.sg](mailto:wang_sichuan@moe.edu.sg) | 65938-204  |
 | Ms Koh Kia Li Charmaine | Teacher | [koh_kia_li_charmaine@moe.edu.sg](mailto:koh_kia_li_charmaine@moe.edu.sg) | 65938-205  |
+| Mdm Poh Li Pin | Flexi-Adjunct | [poh_li_pin_a@moe.edu.sg](mailto:poh_li_pin_a@moe.edu.sg) | 65938-189  |
