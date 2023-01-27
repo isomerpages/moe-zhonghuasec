@@ -4,7 +4,6 @@ permalink: /achievements/Highlights/1/
 description: ""
 third_nav_title: Highlights
 ---
-  
 Did you miss our School Open House on 12th November?
 
 We will be opening our doors on **24th November (Thursday), 9am to 3pm** for Primary 6 students and their parents to have a guided tour around the school and engage in conversation with staff & students.
