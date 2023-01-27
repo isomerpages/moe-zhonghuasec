@@ -8,3 +8,5 @@ third_nav_title: Highlights
 
 
 Click [here](https://sites.google.com/moe.edu.sg/zhonghuasecschooleopenhouse?pli=1) for more information!
+
+![](/images/Open%20House%202022.jpg)
