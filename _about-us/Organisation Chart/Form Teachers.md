@@ -49,7 +49,6 @@ third_nav_title: Organisation Chart
 |  | Ms Tai Jia Hui | [tai_jia_hui@moe.edu.sg](mailto:tai_jia_hui@moe.edu.sg)| 65938-134 |
 | 2I7 | Ms Tan Bee Yeng Magdalene | [tan_bee_yeng_magdalene@moe.edu.sg](mailto:tan_bee_yeng_magdalene@moe.edu.sg)| 65938-181 |
 |  | Mr Imaduddin Ahmad | [imaduddin_ahmad_chevi_rafiudin@moe.edu.sg](mailto:imaduddin_ahmad_chevi_rafiudin@moe.edu.sg)| 65938-140 |
-|   | Ms Goh Xin Yi Megan |   | 65938-207 |
 | 2I8 | Mr Loh Guan Wee Vincent | [loh_guan_wee_vincent@moe.edu.sg](mailto:loh_guan_wee_vincent@moe.edu.sg)| 65938-150 |
 |   | Mdm Indra Devi  | [indra_devi_k_velayuthan@moe.edu.sg](mailto:indra_devi_k_velayuthan@moe.edu.sg) | 65938-164 |
 
@@ -101,4 +100,3 @@ third_nav_title: Organisation Chart
 | 4E8 | Mr Goh Tze Mian | [goh_tze_mian@moe.edu.sg](mailto:goh_tze_mian@moe.edu.sg) | 65938-146 |
 |  | Ms Isabelle Chua | [chua_fang_yee_isabelle@moe.edu.sg](mailto:chua_fang_yee_isabelle@moe.edu.sg) | 65938-148 |
 | 5E1 | Mr Lim Yong Khern  | [lim_yong_khern@moe.edu.sg](mailto:lim_yong_khern@moe.edu.sg)  | 65938-126 |
-| 5E2  | Mdm Zhang Yan | [zhang_yan_a@moe.edu.sg](mailto:zhang_yan_a@moe.edu.sg) | 65938-162 |
