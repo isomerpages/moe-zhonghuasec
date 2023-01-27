@@ -4,6 +4,8 @@ permalink: /achievements/Highlights/1/
 description: ""
 third_nav_title: Highlights
 ---
+#### **Zhonghua Secondary School Guided Tour 2022**
+
 ![](/images/Guided%20Tours%202022%20(1).jpg)
 
 Did you miss our School Open House on 12th November?
