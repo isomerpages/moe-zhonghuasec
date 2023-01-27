@@ -90,7 +90,7 @@ Student Council Induction Camp is held every year in March to induct Sec 1 – 3
 
 <img src="/images/student%20leadership%207.jpg" style="width:65%">
 
-Every year, monitors will embark on a meaningful enrichment activity where they learn the importance of empathy, a critical skill for leaders. They will experience it first-hand by participating in the programme _Dialogue in the Dark_ which seeks to raise awareness about the visually impaired in Singapore. In addition, they will also be trained as Peer Support leaders to promote a culture of care and inclusivity in the classroom.
+Every year, monitors will embark on a meaningful enrichment activity where they learn the importance of empathy, a critical skill for leaders. They will experience it first-hand by participating in the programme _Dialogue in the Dark_, which seeks to raise awareness about the visually impaired in Singapore. In addition, they will also be trained as Peer Support leaders to promote a culture of care and inclusivity in the classroom.
 
 **5) Cohort Leadership Training (for all Sec 1** **– 3** **students)**
 
