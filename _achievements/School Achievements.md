@@ -18,9 +18,7 @@ description: ""
 | People Developer Standard (PDS) | Validity period: 28 Feb 17 – 28 Feb 2023 |
 |
 
-## **2022 National Exam Results**
-------------------------
-
+### **2022 National Exam Results**
 #### **2022 GCE O-Level Results** 
 
 89.4% of Sec 4 Express students eligible for JC/MI
@@ -52,9 +50,9 @@ description: ""
 
 100% eligible for ITE
 
-## **2021 National Exam Results**
---------------------------
+***
 
+### **2021 National Exam Results**
 #### **2021 GCE O-Level Results**
 
 89.7% of Sec 4 Express students eligible for JC/MI
@@ -85,8 +83,10 @@ description: ""
 
 100% eligible for ITE
 
-#### **2020 National Exam Results**
-##### **2020 GCE O-Level Results**
+***
+
+### **2020 National Exam Results**
+#### **2020 GCE O-Level Results**
 90.6% of Sec 4 Express students eligible for JC/MI<br>
 100% of Sec 4 Express students eligible for Polytechnic<br>
 Value-Add: +0.9
