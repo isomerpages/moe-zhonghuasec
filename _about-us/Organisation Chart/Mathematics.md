@@ -17,7 +17,6 @@ third_nav_title: Organisation Chart
 | Mr Brandon Choy | Subject Head – Data Management | [brandon_choy_wai_keong@moe.edu.sg](mailto:brandon_choy_wai_keong@moe.edu.sg) | 65938-150 |
 | Mrs See Yan Nee | Teacher | [lim_yan_nee@moe.edu.sg](mailto:lim_yan_nee@moe.edu.sg) |  65938-152 |
 | Ms Josephine Peh | Teacher  | [josephine_peh_meng_yin@moe.edu.sg](mailto:josephine_peh_meng_yin@moe.edu.sg) | 65938-132 |
-| Ms Lim U-Shan | Teacher | [lim_u-shan@moe.edu.sg](mailto:lim_u-shan@moe.edu.sg) | 65938-133 |
 | Mrs Gwen Ng | Teacher | [toh_xiao_qi@moe.edu.sg](mailto:toh_xiao_qi@moe.edu.sg) | 65938-142 |
 | Mr Ardy Taniwan | Teacher | [ardy_taniwan@moe.edu.sg](mailto:ardy_taniwan@moe.edu.sg) | 65938-160 |
 | Mrs Koh-Tan Siok Hoon | Teacher | [tan_siok_hoon_a@moe.edu.sg](mailto:tan_siok_hoon_a@moe.edu.sg) | 65938-167 |
@@ -30,5 +29,9 @@ third_nav_title: Organisation Chart
 | Ms Ratiporn Tasanawinyou | Teacher | [ratiporn_tasanawinyou@moe.edu.sg](mailto:ratiporn_tasanawinyou@moe.edu.sg) |  65938-145 |
 | Ms Ho Yieng Yieng  | Teacher |  [ho_yieng_yieng@moe.edu.sg](mailto:ho_yieng_yieng@moe.edu.sg) | 65938-139  |
 | Mr Gabriel Ho  | Teacher | [ho_teng_kui_gabriel@moe.edu.sg](mailto:ho_teng_kui_gabriel@moe.edu.sg) | 65938-151 |
+| Ms Chew Lixian| Teacher | [lixian_chew@moe.edu.sg](mailto:lixian_chew@moe.edu.sg) | 65938-135 |
+| Mr Pang Hong Ming | Teacher | [pang_hong_ming@moe.edu.sg](mailto:pang_hong_ming@moe.edu.sg) | 65938-125 |
+| Ms Tan Teing Im | Teacher | [tan_teing_im@moe.edu.sg](mailto:tan_teing_im@moe.edu.sg) | 65938-137 |
+| Mr Ezzy Chan | Teacher | [chan_weng_cheong_ezzy@moe.edu.sg](mailto:chan_weng_cheong_ezzy@moe.edu.sg) | 65938-139 |
 | Ms Leong Pei Szu | Flexi-Adjunct Teacher | [leong_pei_szu@moe.edu.sg](mailto:leong_pei_szu@moe.edu.sg) | 65938-169 |
 |
