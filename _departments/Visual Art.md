@@ -5,7 +5,10 @@ description: ""
 ---
 ### **Visual Art**
 #### **Vision**
-Nurturing Zhonghuarians to be passionate artists in pursuit of artistic excellence; dynamic and resilient leaders in the artistic arena with a passion for innovation in fine arts, design, and digital media; cultured and caring citizens with a global outlook, developing relevant artistic, design and media skills and capacities for the 21st-century economy.
+Nurturing Zhonghuarians to be 
+- passionate artists in pursuit of artistic excellence;
+- dynamic and resilient leaders in the artistic arena with a passion for innovation in fine arts, design, and digital media; and
+- cultured and caring citizens with a global outlook, developing relevant artistic, design and media skills, and capacities for the 21st-century economy.
 
 #### **Key Programmes**
 **Visual Art Curriculum**<br>
