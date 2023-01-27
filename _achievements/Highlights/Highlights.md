@@ -28,7 +28,7 @@ Zhonghua Secondary School Open House 2022
 
 <br clear="left">
 
-<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/3/">
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/4/">
 <figure>	
 <img style="width:40%" src="/images/highlights3.jpg" align=left>
 <figcaption><br><br><br> 22 September 2020<br>
@@ -39,7 +39,7 @@ Virtual Steam Festival 2020
 
 <br clear="left">
 
-<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/4/">
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/5/">
 <figure>	
 <img style="width:40%" src="/images/highlights4.jpg" align=left>
 <figcaption><br><br><br>24 March 2020<br>
@@ -50,7 +50,7 @@ Open Mic (Feb 2020)
 
 <br clear="left">
 
-<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/5/">
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/6/">
 <figure>	
 <img style="width:40%" src="/images/highlights5.jpg" align=left>
 <figcaption><br><br><br>20 March 2020<br>
