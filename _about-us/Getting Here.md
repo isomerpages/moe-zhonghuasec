@@ -8,14 +8,16 @@ Please click on the video to find out how to get to Zhonghua Secondary School fr
 
 Sit back and enjoy!
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7YcwEVYItEtJivd_4hf0XP1BIRnXyk50w03i7OWL_oZ1btZN476_6eJBO1rSFaXNM5ypyuYwqwtXp/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR7YcwEVYItEtJivd_4hf0XP1BIRnXyk50w03i7OWL_oZ1btZN476_6eJBO1rSFaXNM5ypyuYwqwtXp/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 
 #### **Contact Us**
+<iframe loading="lazy" allowfullscreen="" style="border:0;" height="300" width="500" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3988.7110035069713!2d103.869284!3d1.349917!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xae86acd815e43387!2sZhonghua%20Secondary%20School!5e0!3m2!1sen!2ssg!4v1674789456564!5m2!1sen!2ssg"></iframe>
+
 ZHONGHUA SECONDARY SCHOOL  
 13 Serangoon Avenue 3  
 Singapore 556123  
-Tel: 6282 4339&nbsp; &nbsp; Fax: 6282 3472  
-Email:&nbsp;[zhonghua\_ss@moe.edu.sg](mailto:zhonghua_ss@moe.edu.sg)  
+Tel: 6282 4339 Fax: 6282 3472  
+Email: [zhonghua_ss@moe.edu.sg](mailto:zhonghua_ss@moe.edu.sg)  
   
 **Bus Services**  
 *   B1 (No: 66389): 45, 58, 105, 109, 133, 135  
