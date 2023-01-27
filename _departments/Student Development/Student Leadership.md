@@ -7,7 +7,7 @@ third_nav_title: Student Development
 ### **Student Leadership**
 
 #### **Student Leadership Boards @ ZHSS**
-The Student Leadership Committee is led by Ms Tan Chye I (HOD Student Leadership)  and advised by Mrs Lim-Neo Lay Pin (VP Student Development).
+The Student Leadership Committee is led by Ms Tan Chye I (HOD Student Leadership) and advised by VP Student Development.
 
 The Student Leadership Committee is supported by the following student leadership boards:
 
