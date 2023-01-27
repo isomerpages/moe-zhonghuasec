@@ -13,7 +13,6 @@ third_nav_title: Organisation Chart
 | Mr David Wong | Teacher | [wong_wei_shu_david@moe.edu.sg](mailto:wong_wei_shu_david@moe.edu.sg) | 65938-160 |
 | Mr Eswaran | Teacher | [eswaran_ramachandran@moe.edu.sg](mailto:eswaran_ramachandran@moe.edu.sg) | 65938-141 |
 | Mr John Kok | Teacher  | [john_kok_heng_kwai@moe.edu.sg](mailto:john_kok_heng_kwai@moe.edu.sg) | 65938-127 |
-| Mr Louis Wang | Teacher | [wang_xianglin@moe.edu.sg](mailto:wang_xianglin@moe.edu.sg) | 65938-147 |
 | Mr Jerome Ong | Teacher | [jerome_ong_lin_xiong@moe.edu.sg](mailto:jerome_ong_lin_xiong@moe.edu.sg) | 65938-148 |
 | Ms Ho Yieng Yieng  | Teacher | [ho_yieng_yieng@moe.edu.sg](mailto:ho_yieng_yieng@moe.edu.sg) | 65938-139 |
 | Mr Gabriel Ho | Teacher | [ho_teng_kui_gabriel@moe.edu.sg](mailto:ho_teng_kui_gabriel@moe.edu.sg) | 65938-151  |
