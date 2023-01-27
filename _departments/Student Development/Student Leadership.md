@@ -66,7 +66,7 @@ The Student Leadership Committee is supported by the following student leadershi
 
 <img src="/images/student%20leadership%201.jpg" style="width:65%">
 
-Zhonghua Secondary School always strives to give every student an opportunity to be a leader and our vision is for all Zhonghuarians to be dynamic and resilient leaders in their own right. With our core values – Responsibility, Integrity, Care and Excellence – and our school motto - 礼 义 廉 耻 - in mind, we aim to nurture forward-looking leaders with integrity and commitment to serve the school, the community and the nation. The Monitor Board is one avenue for our students to be trained as leaders and also to showcase their leadership potential.
+Zhonghua Secondary School always strives to give every student an opportunity to be a leader and our vision is for all Zhonghuarians to be dynamic and resilient leaders in their own right. With our core values – Resilience, Integrity, Care and Excellence – and our school motto - 礼 义 廉 耻 - in mind, we aim to nurture forward-looking leaders with integrity and commitment to serve the school, the community and the nation. The Monitor Board is one avenue for our students to be trained as leaders and also to showcase their leadership potential.
 
 <img src="/images/student%20leadership%202.jpg" style="width:65%">
 
