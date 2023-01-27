@@ -78,7 +78,7 @@ description: ""
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/cca/uniformed-group/bb/">
 <img style="width:20%" src="/images/cca15.jpg" align=left>
-</a></p>	
+</a></p>
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/cca/uniformed-group/gb/">
 <img style="width:20%" src="/images/cca16.jpg" align=left>
