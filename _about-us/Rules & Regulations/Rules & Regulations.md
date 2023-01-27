@@ -66,7 +66,7 @@ third_nav_title: Rules & Regulations
 *   Post-exam activities may be conducted.
 *   Students must come to school for their lessons/ post-exam activities.
 
-#### **Religious artifacts**
+#### **Religious Artifacts**
 *   Religious artifacts can be worn provided they cannot be seen from the outside.
 
 #### **Jewellery**
