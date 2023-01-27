@@ -9,7 +9,7 @@ The Character & Citizenship Education (CCE) curriculum in Zhonghua aims to nurt
 
 |  |  |
 |---|---|
-| CCE Lessons | - The Leader Within<br>- Being a Positive Influence<br>- Thinking Hearts, Feeling Minds<br>- Family Our Foundation<br>- U & I in Community<br>This Is Home, Truly<br>- The World in Singapore |
+| CCE Lessons | - The Leader Within<br>- Being a Positive Influence<br>- Thinking Hearts, Feeling Minds<br>- Family Our Foundation<br>- U & I in Community<br>- This Is Home, Truly<br>- The World in Singapore |
 | Guidance Modules | - Cyber Wellness (CW)<br>- Education & Career Guidance (ECG)<br>- Sexuality Education (SEd) |
-| School-based CCE | - Values-In-Action (VIA) Programme<br>- Weekly Assembly Programme<br>Post-Exam Programme<br>- Cohort Activities<br>- National Education Commemorative Events |
+| School-based CCE | - Values-In-Action (VIA) Programme<br>- Weekly Assembly Programme<br>- Post-Exam Programme<br>- Cohort Activities<br>- National Education Commemorative Events |
 |
