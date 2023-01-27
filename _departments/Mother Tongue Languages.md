@@ -43,12 +43,12 @@ A student who passes M(SP) at the GCE O-Level Examination and who qualifies for 
 
 **Objectives of the Programme**<br>
 At the end of the 4 years programme, students will be able to:
-* Be comfortably conversant in Malay language,
-* Communicate clearly in various situations and different target audience, in both oral and written form,
-* Understand the Malay culture and traditions,
-* Acquire the linguistic skills in listening, speaking, reading and writing.
+* be comfortably conversant in Malay language;
+* communicate clearly in various situations and different target audience, in both oral and written form;
+* understand the Malay culture and traditions; and
+* acquire the linguistic skills in listening, speaking, reading and writing.
 
-**Eligibility Students are eligible to offer MSP if they:**<br>
+**Students are eligible to offer MSP if they:**<br>
 * Have not offered Malay Language or Higher Malay Language at PSLE
 * Are offering a Mother Tongue Language which is not Malay Language or Higher Malay Language in secondary school
 
