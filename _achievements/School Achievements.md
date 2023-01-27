@@ -12,11 +12,8 @@ description: ""
 *   Best Practice  (Staff Well-Being and Development)
 *   Best Practice  (Partnership)
 
-|  |  |
-|---|---|
 | Singapore Quality Class (SQC) | Validity period: 28 Feb 17 – 28 Feb 2023 |
-| People Developer Standard (PDS) | Validity period: 28 Feb 17 – 28 Feb 2023 |
-|
+<br>| People Developer Standard (PDS) | Validity period: 28 Feb 17 – 28 Feb 2023 |
 
 ### **2022 National Exam Results**
 #### **2022 GCE O-Level Results** 
