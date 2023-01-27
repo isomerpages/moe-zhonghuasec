@@ -20,7 +20,7 @@ The Student Leadership Committee is supported by the following student leadershi
 
 *   Looks into the welfare of the **general student body**
 *   Assists in student discipline
-*   Support school-wide events
+*   Supports school-wide events
 *   Plans and organises certain key school events (e.g. Teachers’ Day)
 *   Key ambassadors of the school
 
