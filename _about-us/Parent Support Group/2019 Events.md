@@ -6,12 +6,12 @@ third_nav_title: Parent Support Group
 ---
 #### **2019 Events**
 
-<img style="width:50" src="/images/IMG_8627.jpg">[Breakfast Talk](/about-us/psg/event-photos/2019/breakfast-talk/)
+<img style="width:50" src="/images/IMG_8627.jpg"> [Breakfast Talk](/about-us/psg/event-photos/2019/breakfast-talk/)
 
-![](/images/Sports%20Carnival.jpeg)[Sports Carnival](/about-us/psg/event-photos/2019/sports-carnival/)
+<img style="width:50" src="/images/Sports Carnival.jpeg">[Sports Carnival](/about-us/psg/event-photos/2019/sports-carnival/)
 
-![](/images/Family%20Bonding.jpeg)[Family Bonding Day](/about-us/psg/event-photos/2019/family-bonding-day/)
+<img style="width:50" src="/images/Family Bonding.jpeg"> [Family Bonding Day](/about-us/psg/event-photos/2019/family-bonding-day/)
 
-![](/images/Prize%20Giving.jpeg)[Prize Giving Day](/about-us/psg/event-photos/2019/prize-giving-day/)
+<img style="width:50" src="/images/Prize Giving.jpeg"> [Prize Giving Day](/about-us/psg/event-photos/2019/prize-giving-day/)
 
 ![](/images/Teachers'%20Day.jpg)[Teachers' Day Celebration](/about-us/psg/event-photos/2019/teachers-day-celebration/)
