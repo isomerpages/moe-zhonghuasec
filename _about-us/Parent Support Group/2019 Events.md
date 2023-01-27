@@ -12,6 +12,6 @@ third_nav_title: Parent Support Group
 
 ![](/images/Family%20Bonding.jpeg)[Family Bonding Day](/about-us/psg/event-photos/2019/family-bonding-day/)
 
-![]()[Prize Giving Day](/about-us/psg/event-photos/2019/prize-giving-day/)
+![](/images/Prize%20Giving.jpeg)[Prize Giving Day](/about-us/psg/event-photos/2019/prize-giving-day/)
 
-![]()[Teachers' Day Celebration](/about-us/psg/event-photos/2019/teachers-day-celebration/)
+![](/images/Teachers'%20Day.jpg)[Teachers' Day Celebration](/about-us/psg/event-photos/2019/teachers-day-celebration/)
