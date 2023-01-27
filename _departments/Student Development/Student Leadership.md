@@ -34,8 +34,8 @@ The Student Leadership Committee is supported by the following student leadershi
 *   Looks into all **class matters**
 *   Manages & leads class committee
 *   Drives CCE programmes through CCE Monitor
-*   Involved in School Improvement Projects & Student I.C.E. Suggestions
-*   Support school-wide events that require additional support (e.g. School Open House, Parents’ Forum)
+*   Involves in School Improvement Projects & Student I.C.E. Suggestions
+*   Supports school-wide events that require additional support (e.g. School Open House, Parents’ Forum)
 
 **(C) Sports Leaders Board**
 
@@ -47,7 +47,7 @@ The Student Leadership Committee is supported by the following student leadershi
 *   Looks into all **sports-related matters**
 *   Assists in sports-related programmes (daily duties, e.g. FAC training, NAPFA testing, Recreational Day)
 *   Plans and organises Sports Carnival
-*   Support school-wide events that require additional support (e.g. School Open House, Parents’ Forum)
+*   Supports school-wide events that require additional support (e.g. School Open House, Parents’ Forum)
 
 **(D) Board of CCA Leaders**
 
