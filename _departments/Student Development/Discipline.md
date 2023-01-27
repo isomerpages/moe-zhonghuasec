@@ -20,7 +20,7 @@ Students who use their mobile phones irresponsibly will have their mobile phones
 1\. All students’ hair should be of natural colour.<br>
 2\. Boys’ hair should not be funky or of inappropriate hairstyle such as overlapped, Mohawk etc.<br>
 3\. Girls’ hair should be tied neatly with a brown/black hair band or hair clips.<br>
-4\. Strictly no tongue studs due to safety reasons<br>
+4\. Strictly no tongue studs due to safety reasons.<br>
 5\. Girls are allowed to wear one pair of identical earrings/studs of simple black/dark colored design. It should be small sized and a non-dangle earring. There should not be earrings/studs on extra ear holes.<br>
 6\. Strictly NO Ear Accessories for BOYS – Including ear sticks, straws etc.<br>
 7\. Students should wear white canvas shoes and white school socks to school.<br>
