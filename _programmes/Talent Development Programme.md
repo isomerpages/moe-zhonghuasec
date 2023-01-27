@@ -3,7 +3,6 @@ title: Talent Development Programme
 permalink: /programmes/talent-development-programme/
 description: ""
 ---
-
 ### **Talent Development Programme**
 Zhonghua Talent Development Programme is a 4-year enriched curriculum customised and differentiated for selected students who show great aptitude, strong interest and motivation in the cognitive domain. Riding on the national push for STEM education, curated programmes are tailored to stretch students for exposure to disciplines and areas of interest in alignment with Zhonghua’s vision of cultivating Scholars ● Leaders.
 
