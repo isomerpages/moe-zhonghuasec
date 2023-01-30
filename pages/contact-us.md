@@ -2,31 +2,36 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Zhonghua Secondary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - 13 Serangoon Avenue 3
+      - Singapore 556123
+      - ""
+    operating_hours: []
+    maps_link: https://goo.gl/maps/MzZtfcbwe1VNHa1z5
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6282 4339
+      - email: zhonghua_ss@moe.edu.sg
+      - other: ""
+    title: General Enquiries & Feedback
+  - content:
+      - phone: +65 6282 3472
+      - email: ""
+      - other: ""
+    title: Fax
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "- B1 (No: 66389): 45, 58, 105, 109, 133, 135 <br>-  B2 (No: 66381): 45,
+          58, 133, 135 <br> - B3 (No: 66419): 58, 105 <br> - B4 (No: 66411): 58,
+          105"
+    title: Bus Services
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Serangoon MRT (North East line NE12) / (Circle line CC13)
+    title: Nearest MRT Station
 ---

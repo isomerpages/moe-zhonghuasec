@@ -1,0 +1,33 @@
+collections:
+  virtual-school-tour:
+    output: true
+    order:
+      - Virtual School Tour.md
+      - Level 1/AEP Building.md
+      - Level 1/Amphitheatre.md
+      - Level 1/Art Gallery.md
+      - Level 1/Basketball Court.md
+      - Level 1/Cafeteria.md
+      - Level 1/Computer Lab.md
+      - Level 1/Courtyard.md
+      - Level 1/D&T Workshop.md
+      - Level 1/General Office.md
+      - Level 1/Indoor Sports Hall.md
+      - Level 1/NE Walkway.md
+      - Level 1/Parade Square.md
+      - Level 1/Street Soccer Court.md
+      - Level 1/.keep
+      - Level 2/Auditorium.md
+      - Level 2/Hall.md
+      - Level 2/Heritage Walkway.md
+      - Level 2/Food and Consumer Education Lab.md
+      - Level 2/IT Special Room.md
+      - Level 2/Science Laboratory.md
+      - Level 2/.keep
+      - Level 3/Band Room.md
+      - Level 3/Dance Studio.md
+      - Level 3/Edified Room.md
+      - Level 3/Library.md
+      - Level 3/Seminar Room 2.md
+      - Level 3/Teachers' Learning Centre.md
+      - Level 3/.keep

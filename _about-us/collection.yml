@@ -1,0 +1,40 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Vision, Mission, Values.md
+      - Our Heritage/.keep
+      - Our Heritage/Our Heritage.md
+      - Our Heritage/Our Crest & School Uniform.md
+      - Our Heritage/Our Story.md
+      - Our Heritage/Our Voices.md
+      - Our Heritage/Our Pride.md
+      - Full Subject Based Banding @ Zhonghua.md
+      - Calendar.md
+      - Organisation Chart/.keep
+      - Organisation Chart/Management.md
+      - Organisation Chart/Executive & Administration.md
+      - Organisation Chart/Form Teachers.md
+      - Organisation Chart/Art & Aesthetics.md
+      - Organisation Chart/Design & Technology.md
+      - Organisation Chart/English Language.md
+      - Organisation Chart/Humanities.md
+      - Organisation Chart/ICT.md
+      - Organisation Chart/Mathematics.md
+      - Organisation Chart/Mother Tongue Languages.md
+      - Organisation Chart/Physical Education.md
+      - Organisation Chart/Science.md
+      - Organisation Chart/Student Development.md
+      - Parent Support Group/.keep
+      - Parent Support Group/Parent Support Group.md
+      - Parent Support Group/Events.md
+      - Parent Support Group/2021 Events.md
+      - Parent Support Group/2020 Events.md
+      - Parent Support Group/2019 Events.md
+      - Rules & Regulations/.keep
+      - Rules & Regulations/Rules & Regulations.md
+      - Rules & Regulations/Grooming and Attire.md
+      - Virtual School Tour/.keep
+      - Getting Here.md
+      - School Bookshop & Uniform Supplier.md

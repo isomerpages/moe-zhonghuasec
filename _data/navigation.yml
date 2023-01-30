@@ -1,15 +1,93 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.jpg
 links:
+  - title: About Us
+    url: /about-us/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message/
+      - title: Vision, Mission, Values
+        url: /about-us/vision-mission-values/
+      - title: Our Heritage
+        url: /about-us/our-heritage/
+      - title: Full Subject-Based Banding
+        url: /about-us/full-subject-based-banding/
+      - title: Calendar
+        url: /about-us/calender/
+      - title: Organisation Chart
+        url: /about-us/organisation-chart/
+      - title: Parent Support Group
+        url: /about-us/psg
+      - title: Rules & Regulations
+        url: /about-us/rules-and-regulations/
+      - title: Virtual School Tour
+        url: /about-us/virtual-school-tour/
+      - title: Getting Here
+        url: /about-us/getting-here/
+      - title: Bookshop & Uniform Supplier
+        url: /about-us/school-bookshop-and-uniform-supplier/
+  - title: Achievements
+    url: /achievements/
+    sublinks:
+      - title: Highlights
+        url: /achievements/highlights/
+      - title: School Achievements
+        url: /achievements/school-achievements/
+      - title: Staff Awards
+        url: /achievements/staff-awards/
+      - title: Student Achievements
+        url: /achievements/student-achievements/
+      - title: Roll of Honour
+        url: /achievements/roll-of-honour/
+  - title: Admission
+    url: /admission/sec-1-posting/
+    sublinks:
+      - title: Secondary 1 Posting
+        url: /admission/sec-1-posting/
+      - title: DSA Exercise for 2023 Intake
+        url: /admission/dsa-2023/
+      - title: Returning Singaporeans
+        url: /admission/returning-singaporeans/
+      - title: International Students
+        url: /admission/international-students/
+  - title: CCA
+    url: /cca/
+  - title: Departments
+    url: /departments/
+    sublinks:
+      - title: Departments
+        url: /departments/
+      - title: Design & Technology
+        url: /departments/dnt/
+      - title: English Language & Literature
+        url: /departments/english-language-and-literature/
+      - title: Humanities
+        url: /departments/humanities/
+      - title: Infocomm Technology
+        url: /departments/infocomm-technology/
+      - title: Mathematics
+        url: /departments/mathematics/
+      - title: Music
+        url: /departments/music/
+      - title: Mother Tongue Languages
+        url: /departments/mother-tongue-languages/
+      - title: Physical Education
+        url: /departments/physical-education/
+      - title: Science
+        url: /departments/science/
+      - title: Student Development
+        url: /departments/student-development/
+      - title: Visual Art
+        url: /departments/visual-art/
+  - title: Programmes
+    url: /programmes/zhonghua-signature-programmes/
+    sublinks:
+      - title: Zhonghua Signature Programmes
+        url: /programmes/zhonghua-signature-programmes/
+      - title: Talent Development Programme
+        url: /programmes/talent-development-programme/
+      - title: Student Leadership Development
+        url: /programmes/student-leadership-development/
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: /contactus/
+  - title: Infolinks
+    url: /infolinks/

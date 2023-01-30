@@ -1,0 +1,23 @@
+collections:
+  departments:
+    output: true
+    order:
+      - Departments.md
+      - Design & Technology.md
+      - English Language & Literature.md
+      - Humanities.md
+      - Infocomm Technology.md
+      - Mathematics.md
+      - Music.md
+      - Mother Tongue Languages.md
+      - Physical Education.md
+      - Science.md
+      - Student Development/.keep
+      - Student Development/Student Development.md
+      - Student Development/Character and Citizenship Education.md
+      - Student Development/Counselling.md
+      - Student Development/Discipline.md
+      - Student Development/Education & Career Guidance.md
+      - Student Development/Learning and Behavioural Support.md
+      - Student Development/Student Leadership.md
+      - Visual Art.md
