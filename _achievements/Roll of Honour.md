@@ -3,8 +3,8 @@ title: Roll of Honour
 permalink: /achievements/roll-of-honour/
 description: ""
 ---
-### **Roll of Honour**
-#### **Scholarships**
+<h3>Roll of Honour</h3>
+<h4>Scholarships</h4>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -131,7 +131,7 @@ description: ""
 </table>
 
 
-#### **Awards**
+<h4>Awards</h4>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -317,4 +317,4 @@ description: ""
 
 
 
-We express our sincerest apologies if any scholar's name is inadvertently left out from the above list. Corrections and queries may be sent to [teo\_kexin\_estee@moe.edu.sg](mailto:teo_kexin_estee@moe.edu.sg)
+We express our sincerest apologies if any scholar's name is inadvertently left out from the above list. Corrections and queries may be sent to <a href="mailto:teo_kexin_estee@moe.edu.sg">teo_kexin_estee@moe.edu.sg</a>
