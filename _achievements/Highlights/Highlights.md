@@ -6,7 +6,7 @@ third_nav_title: Highlights
 ---
 ### **Highlights**
 
-<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/Highlights/1/">
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/1/">
 <figure>	
 <img style="width:40%" src="/images/Guided Tours 2022.jpg" align=left>
 <figcaption><br> 24 November 2022<br>
