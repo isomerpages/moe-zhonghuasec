@@ -315,6 +315,4 @@ description: ""
 </tbody>
 </table>
 
-
-
 We express our sincerest apologies if any scholar's name is inadvertently left out from the above list. Corrections and queries may be sent to <a href="mailto:teo_kexin_estee@moe.edu.sg">teo_kexin_estee@moe.edu.sg</a>
