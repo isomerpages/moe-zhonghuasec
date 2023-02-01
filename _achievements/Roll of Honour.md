@@ -16,6 +16,7 @@ description: ""
 .tg .tg-v8el{background-color:#E7E6E6;color:#333;text-align:center;vertical-align:middle}
 .tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
 </style>
+
 <table class="tg">
 <thead>
   <tr>
@@ -311,7 +312,6 @@ description: ""
     <td class="tg-2rp9">Diploma in Media &amp; Communication (Singapore Polytechnic Scholarship) Low Guan Onn Gold Medal<br>Asia Fund Space Gold Medal<br>SP Institutional Medalist</td>
     <td class="tg-2rp9">Chong Han Lyn (2012)</td>
   </tr>
-  <tr>
 </tbody>
 </table>
 
