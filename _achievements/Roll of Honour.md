@@ -5,16 +5,6 @@ description: ""
 ---
 <h3>Roll of Honour</h3>
 <h4>Scholarships</h4>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-v8el{background-color:#E7E6E6;color:#333;text-align:center;vertical-align:middle}
-.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
-</style>
 
 <table class="tg">
 <thead>
