@@ -8,7 +8,7 @@ description: ""
 | | | | | | | | | 
 |---|---|---|---|---|---|---|---|
 | **Sec 1** |  |  |  |  |  |  |  |
-| [1C1](/files/1E1.pdf) | [1C2](/files/1E2.pdf) | [1C3](/files/1E3.pdf) | [1C4](/files/1E4.pdf) | [1C5](/files/1E5.pdf) | [1C6](/files/1N1.pdf) | [1C7](/files/1N2.pdf) | [1C8](/files/1T1.pdf) |
+| [1C1](/files/Term 1 1C1.pdf) | [1C2](/files/Term 1 1C2.pdf) | [1C3](/files/Term 1 1C3.pdf) | [1C4](/files/Term 1 1C4.pdf) | [1C5](/files/Term 1 1C5.pdf) | [1C6](/files/Term 1 1C6.pdf) | [1C7](/files/Term 1 1C7.pdf) | [1C8](/files/Term 1 1C8.pdf) |
 | **Sec 2** |  |  |  |  |  |  |  |
 | [2I1](/files/2E1.pdf) | [2I2](/files/2E2.pdf) | [2I3](/files/2E3.pdf) | [2I4](/files/2E4.pdf) | [2I5](/files/2E5.pdf) | [2I6](/files/2N1.pdf) | [2I7](/files/2N2.pdf) | [2I8](/files/2T1.pdf) |
 | **Sec 3** |  |  |  |  |  |  |  |
