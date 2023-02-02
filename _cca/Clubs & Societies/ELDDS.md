@@ -10,9 +10,9 @@ third_nav_title: Clubs & Societies
 
 |  |  |
 |---|---|
-| Ms Crystal Ling Yuet Ping |  |
+| Ms Crystal Ling Yuet Ping | [crystal_ling_yuet_ping@moe.edu.sg](mailto:crystal_ling_yuet_ping@moe.edu.sg)  |
 | Ms Julian Loh | [loh_julian@moe.edu.sg](mailto:loh_julian@moe.edu.sg) |
-| Ms Wang Sichuan |  |
+| Ms Wang Sichuan | [wang_sichuan@moe.edu.sg](mailto:wang_sichuan@moe.edu.sg) |
 |
 
 #### **Trainer:**
