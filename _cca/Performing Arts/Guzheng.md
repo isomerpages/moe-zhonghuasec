@@ -10,8 +10,9 @@ third_nav_title: Performing Arts
 |  |  |
 |---|---|
 | Mrs Ho-Tam Mee Fong | [tam_mee_fong@moe.edu.sg](mailto:tam_mee_fong@moe.edu.sg) |
-| Ms Julia Yeo | [yeo_yun_fang_julia@moe.edu.sg](mailto:yeo_yun_fang_julia@moe.edu.sg) |
-| Ms Koh Yu Qi | [koh_yu_qi@moe.edu.sg](mailto:koh_yu_qi@moe.edu.sg) |
+| Ms Yeo Shu Ling | 
+| Ms Koh Kia Li Charmaine| 
+|Ms Julia Yeo | [yeo_yun_fang_julia@moe.edu.sg](mailto:yeo_yun_fang_julia@moe.edu.sg) |
 |
 
 #### **Trainers:**
