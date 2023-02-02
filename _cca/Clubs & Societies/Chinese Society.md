@@ -11,7 +11,7 @@ third_nav_title: Clubs & Societies
 |---|---|
 | Ms Xiao Yue | [xiao_yue@moe.edu.sg](mailto:xiao_yue@moe.edu.sg) |
 |  Ms Lee Jie Li       | [lee_jie_li@moe.edu.sg](mailto:lee_jie_li@moe.edu.sg)  |
-| Mdm Jiang Yuwei  | [jiang_yuwei@schools.gov.sg](mailto:jiang_yuwei@schools.gov.sg) |
+| Mdm Jiang Yuwei  | [jiang_yuwei@moe.edu.sg](mailto:jiang_yuwei@moe.edu.sg) |
 |
 
 #### **Trainers:**
