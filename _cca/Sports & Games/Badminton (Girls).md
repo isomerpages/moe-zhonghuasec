@@ -12,7 +12,7 @@ third_nav_title: Sports & Games
 | Ms Noorlizah Suriyap | [noorlizah_suriyap@moe.edu.sg](mailto:noorlizah_suriyap@moe.edu.sg) |
 | Ms Isabelle Chua | [chua_fang_yee_isabelle@moe.edu.sg](mailto:chua_fang_yee_isabelle@moe.edu.sg) |
 | Mrs Gwen Ng | [toh_xiao_qi@moe.edu.sg](mailto:toh_xiao_qi@moe.edu.sg) | 
-Mrs Lin Jiaxuan | 
+Mrs Li Jiaxuan | [li_jiaxuan@moe.edu.sg](mailto:li_jiaxuan@schools.gov.sg)
 | 
 
 #### **Coaches:**
