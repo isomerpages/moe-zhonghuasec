@@ -9,9 +9,9 @@ third_nav_title: Uniformed Groups
 
 |  |  |
 |---|---|
-| Mr Zafir Said (I/C) | [zafir_said@moe.edu.sg](mailto:zafir_said@moe.edu.sg) |
-| Ms Lee Yi Ern | |
-| Ms Teo Jing Zhi | |
+| Mr Zafir Said | [zafir_said@moe.edu.sg](mailto:zafir_said@moe.edu.sg) |
+| Ms Lee Yi Ern | [yi_ern@moe.edu.sg](mailto:yi_ern@moe.edu.sg)  |
+| Ms Teo Jing Zhi | [teo_jing_zhi@moe.edu.sg](mailto:teo_jing_zhi@moe.edu.sg) |
 | Mr Vincent Loh | [loh_guan_wee_vincent@moe.edu.sg](mailto:loh_guan_wee_vincent@moe.edu.sg) |
 
 
