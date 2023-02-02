@@ -11,7 +11,6 @@ third_nav_title: Uniformed Groups
 |---|---|
 | Mr Ang Lee Chun Lionel | [Ang_lee_chun_lionel@moe.edu.sg](mailto:Ang_lee_chun_lionel@moe.edu.sg) |
 | Mr Tan Jun Hong | [Tan_jun_hong@moe.edu.sg](mailto:Tan_jun_hong@moe.edu.sg) |
-| Ms Nurhayati | [Nurhayati_binte_muhammad_fauzy@moe.edu.sg](mailto:Nurhayati_binte_muhammad_fauzy@moe.edu.sg) |
 | Ms Amanda Tan | [Tan_si_hui_amanda@moe.edu.sg](mailto:Tan_si_hui_amanda@moe.edu.sg) |
 |
 
