@@ -57,19 +57,19 @@ description: ""
 #### **Sports & Games**
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/cca/sports/badminton/">
-<img style="width:20%" src="/images/cca11.jpg" align=left>
+<img style="width:20%" src="/images/badminton.png" align=left>
 </a></p>	
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/cca/sports/basketball/">
-<img style="width:20%" src="/images/cca12.jpg" align=left>
+<img style="width:21%" src="/images/basketball.png" align=left>
 </a></p>	
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/cca/sports/volleyball/">
-<img style="width:20%" src="/images/cca13.jpg" align=left>
+<img style="width:20%" src="/images/tabletennis.png" align=left>
 </a></p>	
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/cca/sports/table-tennis/">
-<img style="width:20%" src="/images/cca14.jpg" align=left>
+<img style="width:21%" src="/images/volleyball.png" align=left>
 </a></p>	
 
 <br clear="left">
@@ -77,29 +77,29 @@ description: ""
 #### **Uniformed Groups**
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/cca/uniformed-group/bb/">
-<img style="width:20%" src="/images/cca15.jpg" align=left>
+<img style="width:22%" src="/images/boysbrigade.png" align=left>
 </a></p>
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/cca/uniformed-group/gb/">
-<img style="width:20%" src="/images/cca16.jpg" align=left>
+<img style="width:22%" src="/images/girlsbrigade.png" align=left>
 </a></p>	
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/cca/uniformed-group/ncc/">
-<img style="width:20%" src="/images/cca17.jpg" align=left>
+<img style="width:22%" src="/images/ncc.png" align=left>
 </a></p>	
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/cca/uniformed-group/npcc/">
-<img style="width:20%" src="/images/cca18.jpg" align=left>
+<img style="width:22%" src="/images/npcc.png" align=left>
 </a></p>	
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/cca/uniformed-group/scouts/">
-<img style="width:20%" src="/images/cca19.jpg" align=left>
+<img style="width:22%" src="/images/scouts.png" align=left>
 </a></p>	
 
 <br clear="left">
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/cca/uniformed-group/ncdcc/">
-<img style="width:20%" src="/images/cca20.jpg" align=left>
+<img style="width:23%" src="/images/ncdcc.png" align=left>
 </a></p>
 
 <br clear="left">
