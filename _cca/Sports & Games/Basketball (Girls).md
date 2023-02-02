@@ -9,11 +9,12 @@ third_nav_title: Sports & Games
 
 |  |  |
 |---|---|
+|  Ms Ho Yieng Yieng (I/C) |  [ho_yieng_yieng@moe.edu.sg](mailto:ho_yieng_yieng@moe.edu.sg) |
 | Ms Lum Shu Wei | [lum_shu_wei@moe.edu.sg](mailto:lum_shu_wei@moe.edu.sg) |
 |  Ms Nurul 'Ain |  [nurul_ain_sahat@moe.edu.sg](mailto:nurul_ain_sahat@moe.edu.sg) |
-|  Ms Ho Yieng Yieng |  [ho_yieng_yieng@moe.edu.sg](mailto:ho_yieng_yieng@moe.edu.sg) |
-|  Ms Teresa Lin (Advisor) |  [lin_xianwan_teresa@moe.edu.sg](mailto:lin_xianwan_teresa@moe.edu.sg) |
 |
+ 
+
 
 #### **Coach:**
 Mr Andre Wong Hwee Liak
