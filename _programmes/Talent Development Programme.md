@@ -20,7 +20,7 @@ Selected students will then go through an interview before confirmation in the p
 #### **Programmes for TDP students**
 Students in TDP are given opportunities to be mentored and coached in activities that broaden their learning.
 
-<img src="/images/tdp1.png" style="width:75%">
+<img src="/images/tdp1.png" style="width:100%">
 
 ##### **Zhonghua STEAM Research Programme**
 
