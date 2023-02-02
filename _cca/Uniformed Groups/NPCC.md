@@ -10,10 +10,10 @@ third_nav_title: Uniformed Groups
 |  |  |
 |---|---|
 | Mr Zafir Said (I/C) | [zafir_said@moe.edu.sg](mailto:zafir_said@moe.edu.sg) |
-| Ms Cher Huey Min | [cher_huey_miin@moe.edu.sg](mailto:cher_huey_miin@moe.edu.sg) |
+| Ms Lee Yi Ern | |
+| Ms Teo Jing Zhi | |
 | Mr Vincent Loh | [loh_guan_wee_vincent@moe.edu.sg](mailto:loh_guan_wee_vincent@moe.edu.sg) |
-| Mr Chalice Lin | [lin_longjie_chalice@moe.edu.sg](mailto:lin_longjie_chalice@moe.edu.sg) |
-|
+
 
 Link to **[2023 CCA Schedule](/files/2023%20CCA%20Schedule.pdf)**
 
