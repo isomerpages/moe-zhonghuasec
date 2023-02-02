@@ -9,9 +9,8 @@ third_nav_title: Clubs & Societies
 
 |  |  |
 |---|---|
-| Mrs Crystal Tan | [crystal_ling_yuet_ping@moe.edu.sg](mailto:crystal_ling_yuet_ping@moe.edu.sg) |
+| Mrs Cheryl Lim Pei Chen |  |
 | Ms Janice Tan | [tan_bee_choo_janice@moe.edu.sg](mailto:tan_bee_choo_janice@moe.edu.sg) |
-| Ms Farah Musfirah | [farah_musfirah_mohd_sani@moe.edu.sg](mailto:farah_musfirah_mohd_sani@moe.edu.sg) |
 |
 
 Link to **[2023 CCA Schedule](/files/2023%20CCA%20Schedule.pdf)**
