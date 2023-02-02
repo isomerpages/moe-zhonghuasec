@@ -11,8 +11,7 @@ third_nav_title: Clubs & Societies
 |---|---|
 | Ms Xiao Yue | [xiao_yue@moe.edu.sg](mailto:xiao_yue@moe.edu.sg) |
 |  Ms Lee Jie Li       | [lee_jie_li@moe.edu.sg](mailto:lee_jie_li@moe.edu.sg)  |
-| Ms Virginia Koek   | [koek_shin_virginia@moe.edu.sg](mailto:koek_shin_virginia@moe.edu.sg) |
-| Mdm Koh Lee Keng (Advisor) | [koh_lee_keng@moe.edu.sg](mailto:koh_lee_keng@moe.edu.sg)  |
+| Mdm Jiang Yuwei  |  |
 |
 
 #### **Trainers:**
