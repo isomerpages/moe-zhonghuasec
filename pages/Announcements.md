@@ -19,6 +19,6 @@ description: ""
 -------------------------------------------------------------------------------
 
 **Zhonghua Secondary School Guided Tour 2022**
-<br> [Read more](https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/Highlights/1/)
+<br> [Read more](https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/1/)
 
 -------------------------------------------------------------------------------
