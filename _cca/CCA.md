@@ -77,29 +77,29 @@ description: ""
 #### **Uniformed Groups**
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/cca/uniformed-group/bb/">
-<img style="width:22%" src="/images/boysbrigade.png" align=left>
+<img style="width:20%" src="/images/boysbrigade.png" align=left>
 </a></p>
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/cca/uniformed-group/gb/">
-<img style="width:22%" src="/images/girlsbrigade.png" align=left>
+<img style="width:20%" src="/images/girlsbrigade.png" align=left>
 </a></p>	
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/cca/uniformed-group/ncc/">
-<img style="width:22%" src="/images/ncc.png" align=left>
+<img style="width:20%" src="/images/ncc.png" align=left>
 </a></p>	
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/cca/uniformed-group/npcc/">
-<img style="width:22%" src="/images/npcc.png" align=left>
+<img style="width:20%" src="/images/npcc.png" align=left>
 </a></p>	
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/cca/uniformed-group/scouts/">
-<img style="width:22%" src="/images/scouts.png" align=left>
+<img style="width:20%" src="/images/scouts.png" align=left>
 </a></p>	
 
 <br clear="left">
 
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/cca/uniformed-group/ncdcc/">
-<img style="width:23%" src="/images/ncdcc.png" align=left>
+<img style="width:20%" src="/images/ncdcc.png" align=left>
 </a></p>
 
 <br clear="left">
