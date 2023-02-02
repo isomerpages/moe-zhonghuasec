@@ -11,7 +11,7 @@ third_nav_title: Performing Arts
 |---|---|
 | Ms Sitinur Azreen Halil | [sitinur_azreen_halil@moe.edu.sg](mailto:sitinur_azreen_halil@moe.edu.sg) |
 | Mdm Jennifer Ng | [ng_jennifer@moe.edu.sg](mailto:ng_jennifer@moe.edu.sg) | 
-| Ms Josephine Peh Meng Yin | |
+| Ms Josephine Peh Meng Yin | [josephine_peh_meng_yin@moe.edu.sg](mailto:josephine_peh_meng_yin@moe.edu.sg)|
 |
 
 #### **Instructor:**
