@@ -4,13 +4,12 @@ permalink: /cca/uniformed-group/ncdcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 ### **NCDCC**
 #### **Teachers in Charge:**
 
 |  |  |
 |---|---|
-| Mr Adam Ang (I/C)| [kah_chin_adam_ang@moe.edu.sg](mailto:kah_chin_adam_ang@moe.edu.sg) |
+| Mr Adam Ang| [kah_chin_adam_ang@moe.edu.sg](mailto:kah_chin_adam_ang@moe.edu.sg) |
 | Mr Imaduddin Ahmad | [imaduddin_ahmad_chevi_rafiudin@moe.edu.sg](mailto:imaduddin_ahmad_chevi_rafiudin@moe.edu.sg) |
 |Ms Vanessa Tan|[tan_wen_li_vanessa@moe.edu.sg](mailto:tan_wen_li_vanessa@moe.edu.sg)
 
