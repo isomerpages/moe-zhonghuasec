@@ -9,9 +9,10 @@ third_nav_title: Uniformed Groups
 
 |  |  |
 |---|---|
-| Mr Terence Tan (IC) | [Tan_eu-yi@moe.edu.sg](mailto:Tan_eu-yi@moe.edu.sg) |
+| Mr Terence Tan | [Tan_eu-yi@moe.edu.sg](mailto:Tan_eu-yi@moe.edu.sg) |
 | Mr Tan Li Chun | [Tan_li_chun@moe.edu.sg](mailto:Tan_li_chun@moe.edu.sg) |
 | Mr Eddie Pang | [Pang_kar_loon_eddie@moe.edu.sg](mailto:Pang_kar_loon_eddie@moe.edu.sg) |
+| Mr Pang Hong Ming | 
 |
 
 #### **Cadet Officers:**
