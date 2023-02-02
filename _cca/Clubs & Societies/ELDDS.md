@@ -10,9 +10,9 @@ third_nav_title: Clubs & Societies
 
 |  |  |
 |---|---|
-| Ms Irnisah | [Irnisah_mohamad_aripin@moe.edu.sg](mailto:Irnisah_mohamad_aripin@moe.edu.sg) |
+| Ms Crystal Ling Yuet Ping |  |
 | Ms Julian Loh | [loh_julian@moe.edu.sg](mailto:loh_julian@moe.edu.sg) |
-| Mrs Ng Kiat Bee (Advisor) | [lee_kiat_bee@moe.edu.sg](mailto:lee_kiat_bee@moe.edu.sg) |
+| Ms Wang Sichuan |  |
 |
 
 #### **Trainer:**
