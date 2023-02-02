@@ -13,7 +13,7 @@ third_nav_title: Clubs & Societies
 | Mr Ardy Taniwan | [ardy_taniwan@moe.edu.sg](mailto:ardy_taniwan@moe.edu.sg) |
 | Mr Calvin Heng | [heng_siang_boon_calvin@moe.edu.sg](mailto:heng_siang_boon_calvin@moe.edu.sg) |
 | Mdm Indra Devi | [indra_devi_k_velayuthan@moe.edu.sg](mailto:indra_devi_k_velayuthan@moe.edu.sg) |
-| Mr Su Jiahao Richmond| |
+| Mr Su Jiahao Richmond| [su_jiahao_richmond@moe.edu.sg](mailto:su_jiahao_richmond@moe.edu.sg) |
 |
 
 Link to **[2023 CCA Schedule](/files/2023%20CCA%20Schedule.pdf)**
