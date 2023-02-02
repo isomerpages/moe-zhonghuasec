@@ -3,19 +3,9 @@ title: Roll of Honour
 permalink: /achievements/roll-of-honour/
 description: ""
 ---
-### **Roll of Honour**
-#### **Scholarships**
+<h3>Roll of Honour</h3>
+<h4>Scholarships</h4>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-v8el{background-color:#E7E6E6;color:#333;text-align:center;vertical-align:middle}
-.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -131,7 +121,7 @@ description: ""
 </table>
 
 
-#### **Awards**
+<h4>Awards</h4>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -311,10 +301,7 @@ description: ""
     <td class="tg-2rp9">Diploma in Media &amp; Communication (Singapore Polytechnic Scholarship) Low Guan Onn Gold Medal<br>Asia Fund Space Gold Medal<br>SP Institutional Medalist</td>
     <td class="tg-2rp9">Chong Han Lyn (2012)</td>
   </tr>
-  <tr>
 </tbody>
 </table>
 
-
-
-We express our sincerest apologies if any scholar's name is inadvertently left out from the above list. Corrections and queries may be sent to [teo\_kexin\_estee@moe.edu.sg](mailto:teo_kexin_estee@moe.edu.sg)
+<p>We express our sincerest apologies if any scholar's name is inadvertently left out from the above list. Corrections and queries may be sent to <a href="mailto:teo_kexin_estee@moe.edu.sg">teo_kexin_estee@moe.edu.sg</a></p>

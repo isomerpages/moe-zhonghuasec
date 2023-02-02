@@ -9,9 +9,10 @@ third_nav_title: Sports & Games
 
 |  |  |
 |---|---|
+| Ms Suziyanti Bte Jepto | [suziyanti_jepto@moe.edu.sg](mailto:suziyanti_jepto@moe.edu.sg) |
 | Mr Goh Tze Mian | [goh_tze_mian@moe.edu.sg](mailto:goh_tze_mian@moe.edu.sg) |
 | Mr Chen Yit Chien | [chen_yit_chien@moe.edu.sg](mailto:chen_yit_chien@moe.edu.sg) |
-| Ms Suziyanti Bte Jepto | [suziyanti_jepto@moe.edu.sg](mailto:suziyanti_jepto@moe.edu.sg) |
+Mr Teo Ang Guan | 
 |
 
 ### **Coaches:**

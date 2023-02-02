@@ -9,9 +9,9 @@ third_nav_title: Clubs & Societies
 
 |  |  |
 |---|---|
-| Ms Ang Hwee Qin | [ang_hwee_qin@moe.edu.sg](mailto:ang_hwee_qin@moe.edu.sg) |
 | Ms Magdalene Tan | [tan_bee_yeng_magdalene@moe.edu.sg](mailto:tan_bee_yeng_magdalene@moe.edu.sg)  |
-| Ms Tham Qi Ying   | [tham_qi_ying@moe.edu.sg](mailto:tham_qi_ying@moe.edu.sg)   |
+| Ms Ang Hwee Qin | [ang_hwee_qin@moe.edu.sg](mailto:ang_hwee_qin@moe.edu.sg) |
+| Ms Yeo Li Min Anna | [yeo_li_min_anna@moe.edu.sg](mailto:yeo_li_min_anna@moe.edu.sg)   |
 |
 
 Link to **[2023 CCA Schedule](/files/2023%20CCA%20Schedule.pdf)**

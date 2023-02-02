@@ -11,7 +11,8 @@ third_nav_title: Uniformed Groups
 |---|---|
 | Mrs Koh-Tan Siok Hoon | [tan_siok_hoon_a@moe.edu.sg](mailto:tan_siok_hoon_a@moe.edu.sg) |
 | Ms Ratiporn Tasanawinyou | [ratiporn_tasanawinyou@moe.edu.sg](mailto:ratiporn_tasanawinyou@moe.edu.sg) |
-| Ms June Leow | [june_leow_xin_yi@moe.edu.sg](mailto:june_leow_xin_yi@moe.edu.sg) |
+| Ms June Leow | [june_leow_xin_yi@moe.edu.sg](mailto:june_leow_xin_yi@moe.edu.sg) | 
+| Ms Joy Eu Li Xin | 
 |
 
 #### **Officers:**

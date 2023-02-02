@@ -12,8 +12,6 @@ third_nav_title: Sports & Games
 | Mr Gabriel Ho | [ho_teng_kui_gabriel@moe.edu.sg](mailto:ho_teng_kui_gabriel@moe.edu.sg)  |
 | Mr Eswaran  | [eswaran_ramachandran@moe.edu.sg](mailto:eswaran_ramachandran@moe.edu.sg) |
 | Mdm Zhang Yan | [zhang_yan_a@moe.edu.sg](mailto:zhang_yan_a@moe.edu.sg) |
-| Mr Ezzy Chan | [chan_weng_cheong_ezzy@moe.edu.sg](mailto:chan_weng_cheong_ezzy@moe.edu.sg) |
-|  Mr Ron Low (Advisor) | [low_yao_ming@moe.edu.sg](mailto:low_yao_ming@moe.edu.sg)  |
 |
 
 #### **Coaches:**

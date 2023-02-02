@@ -1,9 +1,10 @@
 ---
 title: Zhonghua Secondary School Guided Tour 2022
-permalink: /achievements/Highlights/1/
+permalink: /achievements/highlights/1/
 description: ""
 third_nav_title: Highlights
 ---
+
 #### **Zhonghua Secondary School Guided Tour 2022**
 
 ![](/images/Guided%20Tours%202022%20(1).jpg)

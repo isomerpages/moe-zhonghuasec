@@ -10,7 +10,7 @@ To nurture Scholar-Musicians passionate in the pursuit of artistic excellence; d
 #### **Key Programme**
 The Music Programme seeks to nurture a life-long passion in music through the establishment of key musical ideas and concepts that are core to our discipline that have a lasting value beyond the classroom. The Enduring Understandings that we aim to nurture in our students are as follows:
 
-<img src="/images/music1.png" style="width:85%">
+<img src="/images/Music1.png" style="width:85%">
 
 The Lower Secondary Music Syllabus is offered to Secondary 1 and 2 students. At Secondary 1, students understand and learn about basic elements and concepts of rhythm and harmony through music creation, appreciation and performance. The curriculum culminates in the formation of a collaborative vocal-instrumental band where students create original music and covers of Singaporean songs and songs across different cultures.    
   
