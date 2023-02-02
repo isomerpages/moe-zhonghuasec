@@ -9,9 +9,9 @@ third_nav_title: Uniformed Groups
 
 |  |  |
 |---|---|
-| Mr. John Kok | [john_kok_heng_kwai@moe.edu.sg](mailto:john_kok_heng_kwai@moe.edu.sg) |
-| Mr. Jerome Ong | [jerome_ong_lin_xiong@moe.edu.sg](mailto:jerome_ong_lin_xiong@moe.edu.sg) |
-| Mr. Chan Weng Cheong Ezzy |
+| Mr John Kok | [john_kok_heng_kwai@moe.edu.sg](mailto:john_kok_heng_kwai@moe.edu.sg) |
+| Mr Jerome Ong | [jerome_ong_lin_xiong@moe.edu.sg](mailto:jerome_ong_lin_xiong@moe.edu.sg) |
+| Mr Chan Weng Cheong Ezzy |
 |
 
 #### **VAL/Cadet Officer:**
