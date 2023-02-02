@@ -12,7 +12,7 @@ third_nav_title: Performing Arts
 |---|---|
 | Mdm Tan Teing Im | [tan_teing_im@moe.edu.sg](mailto:tan_teing_im@moe.edu.sg) 
 | Ms Nur Nasyrah Ahmad | [nur_nasyrah_ahmad@moe.edu.sg](mailto:nur_nasyrah_ahmad@moe.edu.sg) |
-| Ms Tai Jia Hui | 
+| Ms Tai Jia Hui | [tai_jia_hui@moe.edu.sg](mailto:tai_jia_hui@moe.edu.sg) 
 | Ms Lee Sock Kee | [lee_sock_kee@moe.edu.sg](mailto:lee_sock_kee@moe.edu.sg) |
 |
 
