@@ -10,10 +10,10 @@ third_nav_title: Performing Arts
 
 |  |  |
 |---|---|
-| Ms Wong Li Qing | [wong_li_qing_c@moe.edu.sg](mailto:wong_li_qing_c@moe.edu.sg) |
-| Ms Lee Sock Kee | [lee_sock_kee@moe.edu.sg](mailto:lee_sock_kee@moe.edu.sg) |
+| Mdm Tan Teing Im | 
 | Ms Nur Nasyrah Ahmad | [nur_nasyrah_ahmad@moe.edu.sg](mailto:nur_nasyrah_ahmad@moe.edu.sg) |
-| Ms Rozianna Mohammed Affendi | [rozianna_mohammed_affendi@moe.edu.sg](mailto:rozianna_mohammed_affendi@moe.edu.sg) |
+| Ms Tai Jia Hui | 
+| Ms Lee Sock Kee | [lee_sock_kee@moe.edu.sg](mailto:lee_sock_kee@moe.edu.sg) |
 |
 
 #### **Trainers:**
