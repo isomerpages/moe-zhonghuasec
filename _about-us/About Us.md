@@ -5,9 +5,9 @@ description: ""
 ---
 <img src="/images/logo.jpg" style="width:50%">  Our school crest takes the shape of the Begonia leaf. The begonia is a red-flowering plant with dark green leaves. It is hardy and survives in almost any kind of condition. Students are encouraged at all times to emulate the enduring qualities of the Begonia.
 
-<img src="/images/green.jpg" style="width:10%" align=left> The colour green signifies freshness, youth, growth, life, vitality and resilience.
+<img src="/images/green.jpg" style="width:5%" align=left> The colour green signifies freshness, youth, growth, life, vitality and resilience.
 
-<img src="/images/white.jpg" style="width:10%" align=left>
+<img src="/images/white.jpg" style="width:5%" align=left>
 The colour white is the emblem of purity, virtue and brightness.
 
   
