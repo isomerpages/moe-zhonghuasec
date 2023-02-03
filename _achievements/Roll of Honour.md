@@ -115,7 +115,6 @@ description: ""
   <tr>
     <td class="tg-2rp9">UK Chevening Scholarship (MPhil/Conversation Leadership, Cambridge University)</td>
     <td class="tg-2rp9">Cheo Pei Rong (2005)</td>
-  </td>
   </tr>
 </tbody>
 </table>
