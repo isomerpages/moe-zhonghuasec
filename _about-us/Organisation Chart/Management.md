@@ -35,6 +35,7 @@ third_nav_title: Organisation Chart
 | Mr Vincent Loh | Subject Head – Student Well-being | [loh_guan_wee_vincent@moe.edu.sg](mailto:loh_guan_wee_vincent@moe.edu.sg) |
 | Mrs Crystal Tan | Subject Head - Character & Citizenship Education  | [crystal_ling_yuet_ping@moe.edu.sg](mailto:crystal_ling_yuet_ping@moe.edu.sg) |
 | Mr Brandon Choy | Subject Head - Data Management  | [brandon_choy_wai_keong@moe.edu.sg](mailto:brandon_choy_wai_keong@moe.edu.sg) |
+| Ms Lum Shu Wei | Subject Head - Literature  | [lum_shu_wei@moe.edu.sg](mailto:lum_shu_wei@moe.edu.sg) |
 | Ms Rozianna Mohammed Affendi  | Assistant Year Head – Upper Sec | [rozianna_mohammed_affendi@moe.edu.sg](mailto:rozianna_mohammed_affendi@moe.edu.sg) |
 | Mr Christopher Lim | Assistant Year Head – Lower Sec | [christopher_lim_wei_chern@moe.edu.sg](mailto:christopher_lim_wei_chern@moe.edu.sg) |
 |
