@@ -12,8 +12,8 @@ description: ""
 4. [MOE Student GPA NTUC Insurance Claim Form](/files/admin%20form5.pdf)<br>
 5. [HBL Letter to S1 to S5 Parents](/files/admin%20form8.pdf) <br>
 6. [Application Form for Leave of Absence](/files/loaform.pdf)<br>
-7. [The Straits Times School Pocket Money for Newly Sec 1 Students 2023 (Submission due on 01 Feb 2023, Wednesday)](/files/annexa2023.pdf) <br>
-* [Annex B](/files/annexb2023.pdf)
+7. [The Straits Times School Pocket Money for Newly Sec 1 Students 2023 (Submission due on 01 Feb 2023, Wednesday)](/files/annexa2023.pdf) 
+<br> --- [Annex B](/files/annexb2023.pdf)
 
 
 #### **Book Lists 2023**
