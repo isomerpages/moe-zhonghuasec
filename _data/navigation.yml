@@ -54,8 +54,6 @@ links:
   - title: Departments
     url: /departments/
     sublinks:
-      - title: Departments
-        url: /departments/
       - title: Design & Technology
         url: /departments/dnt/
       - title: English Language & Literature
