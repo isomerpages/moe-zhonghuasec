@@ -1,10 +1,10 @@
 ---
-title: National Achievement 2019
-permalink: /achievements/student-achievements/national-achievement-2019/
+title: Student Achievement 2019
+permalink: /achievements/student-achievements/student-achievement-2019/
 description: ""
 third_nav_title: Student Achievements
 ---
-### **National Achievements 2019**
+### **Student Achievements 2019**
 
 #### **Aesthetics Domain**
 

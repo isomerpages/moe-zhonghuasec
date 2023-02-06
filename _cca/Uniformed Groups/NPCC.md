@@ -13,6 +13,7 @@ third_nav_title: Uniformed Groups
 | Ms Lee Yi Ern | [yi_ern@moe.edu.sg](mailto:yi_ern@moe.edu.sg)  |
 | Ms Teo Jing Zhi | [teo_jing_zhi@moe.edu.sg](mailto:teo_jing_zhi@moe.edu.sg) |
 | Mr Vincent Loh | [loh_guan_wee_vincent@moe.edu.sg](mailto:loh_guan_wee_vincent@moe.edu.sg) |
+|
 
 
 Link to **[2023 CCA Schedule](/files/2023%20CCA%20Schedule.pdf)**

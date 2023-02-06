@@ -4,7 +4,6 @@ permalink: /about-us/psg/events/2020/
 description: ""
 third_nav_title: Parent Support Group
 ---
-
 ### **2020 Events**
 
 
@@ -27,7 +26,7 @@ third_nav_title: Parent Support Group
 </figure>
 
 <figure>
-<img src="/images/2020event4.jpg" style="width:75%">
+<img src="/images/2020event41.jpg" style="width:75%">
 <figcaption>  Chinese New Year Celebration 2020
  </figcaption>
 </figure>

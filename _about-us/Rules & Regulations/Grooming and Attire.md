@@ -6,7 +6,7 @@ third_nav_title: Rules & Regulations
 ---
 ### **Grooming and Attire**
 #### **School Uniform**
-##### **Grooming and attire philosophy**
+##### **Grooming and Attire Philosophy**
 We believe that Zhonghuarians are proud of their school and are willing to wear their school uniform with pride.
 
 Hence the school grooming and attire policy is one that is aimed at educating Zhonghuarians to look smart, decent and presentable at all times.  
@@ -29,7 +29,7 @@ Spot checks on students’ grooming (hairstyles, nails, uniform etc.) will be co
 
 **Lower Secondary Boys**
 
-<img src="/images/attire1.jpg" style="width:28%;margin-right:15px;" align = "left">
+<img src="/images/boyslower.jpg" style="width:28%;margin-right:15px;" align = "left">
 Name tag: Present, unmodified.<br>
 Shirt: Tucked in neatly above 1 inch hemline.<br>
 Bermudas: At knee level.<br><br><br><br><br>
@@ -40,7 +40,7 @@ Shoes: All white canvas.
 
 **Upper Secondary Boys**
 
-<img src="/images/attire2.jpg" style="width:28%;margin-right:15px;" align = "left">Name tag: Present, unmodified.<br>
+<img src="/images/boysupper.jpg" style="width:28%;margin-right:15px;" align = "left">Name tag: Present, unmodified.<br>
 Shirt: Tucked in neatly above 1 inchhemline.<br>
 Pants: Straight cut, untapered.<br><br><br><br><br>Socks: Above ankle bone.<br>Shoes: All white canvas.
 
@@ -48,25 +48,25 @@ Pants: Straight cut, untapered.<br><br><br><br><br>Socks: Above ankle bone.<br>S
 
 **Upper and Lower Secondary Girls**
 
-<img src="/images/attire3.jpg" style="width:30%;margin-right:5px;" align = "left">Name tag: Present, unmodified.<br>Skirt: To be covering the knee bone.<br><br><br><br><br><br>Socks: Above ankle bone.<br>Shoes: All white canvas.
+<img src="/images/girlsul.jpg" style="width:30%;margin-right:5px;" align = "left">Name tag: Present, unmodified.<br>Skirt: To be covering the knee bone.<br><br><br><br><br><br>Socks: Above ankle bone.<br>Shoes: All white canvas.
 
 <br clear="left">
 
 **PE Attire**
 
-<img src="/images/attire4.jpg" style="width:28%;margin-right:15px;" align = "left">Should be worn only during PE lesson.<br><br><br>Students are allowed to wear half uniform (PE T-shirt with school bermudas, pants or skirt) for flag raising on days where they have PE lessons before recess.<br><br><br><br><br><br><img src="/images/attire5.jpg" style="width:28%;margin-right:15px;" align = "left"><br>After their PE lessons, students are to change to their half uniform while in the class.<br><br>Student should change back to their full uniform after recess<br><br>Top must be tucked in neatly
+<img src="/images/peattire1.jpg" style="width:28%;margin-right:15px;" align = "left">Should be worn only during PE lesson.<br><br><br>Students are allowed to wear half uniform (PE T-shirt with school bermudas, pants or skirt) for flag raising on days where they have PE lessons before recess.<br><br><br><br><br><br><img src="/images/peattire2.jpg" style="width:28%;margin-right:15px;" align = "left"><br>After their PE lessons, students are to change to their half uniform while in the class.<br><br>Student should change back to their full uniform after recess<br><br>Top must be tucked in neatly
 
 <br clear="left">
 
 **Student Councilors and Monitors**
 
-<img src="/images/attire6.jpg" style="width:28%;margin-right:15px;" align = "left"><br>The Student Councilors and Monitor represent the student leadership body of the school; we believe that their grooming and attire would be exemplary.<br><br>They are to adhere to the strict grooming and attire standard of the school and serve as a role model to the rest of the student population.<br><br><br><br><img src="/images/attire7.jpg" style="width:28%;margin-right:15px;" align = "left"><br>As recognition of their contribution to the school, councilors and monitors are identified by the school tie.
+<img src="/images/scm2.jpg" style="width:28%;margin-right:15px;" align = "left"><br>The Student Councilors and Monitor represent the student leadership body of the school; we believe that their grooming and attire would be exemplary.<br><br>They are to adhere to the strict grooming and attire standard of the school and serve as a role model to the rest of the student population.<br><br><br><br><img src="/images/scm1.jpg" style="width:28%;margin-right:15px;" align = "left"><br>As recognition of their contribution to the school, councilors and monitors are identified by the school tie.
 
 <br clear="left">
 
 **Student Ambassadors/ Award Winners**
 
-<img src="/images/attire8.jpg" style="width:30%;margin-right:5px;" align = "left">Students who win award at national level or representing the school as student ambassadors are required to put on the school blazers.<br><br>They are trusted to project a dignified image of the school during such functions.<br><br>The school blazers can be drawn from the Teacher-Advisor of the Student Council.
+<img src="/images/sa.jpg" style="width:30%;margin-right:5px;" align = "left">Students who win award at national level or representing the school as student ambassadors are required to put on the school blazers.<br><br>They are trusted to project a dignified image of the school during such functions.<br><br>The school blazers can be drawn from the Teacher-Advisor of the Student Council.
 
 <br clear="left">
 
@@ -79,9 +79,9 @@ Students are not allowed to dye their hair. Students’ hair should be of natura
 
 **Boys (Hair)**
 
-<img src="/images/hair1.jpg" style="width:33%" align=left>
-<img src="/images/hair2.jpg" style="width:33%" align=left>
-<img src="/images/hair3.jpg" style="width:33%" align=left>
+<img src="/images/boyshair1.jpg" style="width:33%" align=left>
+<img src="/images/boyshair2.jpg" style="width:34%" align=left>
+<img src="/images/boyshair3.jpg" style="width:33%" align=left>
 
 <br clear="left">
 
@@ -95,9 +95,9 @@ Male students must be neat in appearance, clean shaven and no facial hair is all
 
 **Girls (Short Hair)**
 
-<img src="/images/hair4.jpg" style="width:33%" align=left>
-<img src="/images/hair5.jpg" style="width:33%" align=left>
-<img src="/images/hair6.jpg" style="width:33%" align=left>
+<img src="/images/girlshairshort1.jpg" style="width:34%" align=left>
+<img src="/images/girlshairshort2.jpg" style="width:34%" align=left>
+<img src="/images/girlshairshort3.jpg" style="width:32%" align=left>
 
 <br clear="left">
 
@@ -108,9 +108,9 @@ Male students must be neat in appearance, clean shaven and no facial hair is all
 
 **Girls (Long Hair)**
 
-<img src="/images/hair7.jpg" style="width:33%" align=left>
-<img src="/images/hair8.jpg" style="width:33%" align=left>
-<img src="/images/hair9.jpg" style="width:33%" align=left>
+<img src="/images/girlshairlong1.jpg" style="width:33%" align=left>
+<img src="/images/girlshairlong2.jpg" style="width:33%" align=left>
+<img src="/images/girlshairlong3.jpg" style="width:33%" align=left>
 
 <br clear="left">
 

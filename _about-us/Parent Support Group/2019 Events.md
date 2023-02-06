@@ -6,12 +6,42 @@ third_nav_title: Parent Support Group
 ---
 #### **2019 Events**
 
-<img style="width:50" src="/images/IMG_8627.jpg"> [Breakfast Talk](/about-us/psg/event-photos/2019/breakfast-talk/)
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/psg/event-photos/2019/breakfast-talk/">
+<figure>	
+<img style="width:75%" src="/images/IMG_8627.jpg">
+<figcaption>  Breakfast Talk
+ </figcaption>
+</figure>	
+</a></p>
 
-<img style="width:50" src="/images/Sports Carnival.jpeg">[Sports Carnival](/about-us/psg/event-photos/2019/sports-carnival/)
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/psg/event-photos/2019/sports-carnival/">
+<figure>	
+<img style="width:75%" src="/images/Sports Carnival.jpeg">
+<figcaption> Sports Carnival
+ </figcaption>
+</figure>	
+</a></p>
 
-<img style="width:50" src="/images/Family Bonding.jpeg"> [Family Bonding Day](/about-us/psg/event-photos/2019/family-bonding-day/)
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/psg/event-photos/2019/family-bonding-day/">
+<figure>	
+<img style="width:75%" src="/images/Family Bonding.jpeg">
+<figcaption> Family Bonding
+ </figcaption>
+</figure>	
+</a></p>
 
-<img style="width:50" src="/images/Prize Giving.jpeg"> [Prize Giving Day](/about-us/psg/event-photos/2019/prize-giving-day/)
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/psg/event-photos/2019/prize-giving-day/">
+<figure>	
+<img style="width:75%" src="/images/Prize Giving.jpeg">
+<figcaption> Prize Giving
+ </figcaption>
+</figure>	
+</a></p>
 
-<img style="width:50" src="/images/Teachers' Day.jpg"> [Teachers' Day Celebration](/about-us/psg/event-photos/2019/teachers-day-celebration/)
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/psg/event-photos/2019/teachers-day-celebration/">
+<figure>	
+<img style="width:75%" src="/images/Teachers' Day.jpg">
+<figcaption> Teachers' Day Celebration
+ </figcaption>
+</figure>	
+</a></p>

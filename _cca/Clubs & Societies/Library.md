@@ -9,7 +9,7 @@ third_nav_title: Clubs & Societies
 
 |  |  |
 |---|---|
-| Mrs Cheryl Lim Pei Chen |  |
+| Mrs Cheryl Lim Pei Chen | [lim_pei_chen_cheryl@moe.edu.sg](mailto:lim_pei_chen_cheryl@moe.edu.sg) |
 | Ms Janice Tan | [tan_bee_choo_janice@moe.edu.sg](mailto:tan_bee_choo_janice@moe.edu.sg) |
 |
 

@@ -19,8 +19,6 @@ links:
         url: /about-us/psg
       - title: Rules & Regulations
         url: /about-us/rules-and-regulations/
-      - title: Virtual School Tour
-        url: /about-us/virtual-school-tour/
       - title: Getting Here
         url: /about-us/getting-here/
       - title: Bookshop & Uniform Supplier
@@ -54,8 +52,6 @@ links:
   - title: Departments
     url: /departments/
     sublinks:
-      - title: Departments
-        url: /departments/
       - title: Design & Technology
         url: /departments/dnt/
       - title: English Language & Literature

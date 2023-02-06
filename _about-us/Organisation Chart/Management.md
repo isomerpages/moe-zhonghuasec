@@ -19,8 +19,8 @@ third_nav_title: Organisation Chart
 | Ms Noraini Mohamed | HOD – Special Education Needs | [noraini_mohamed@moe.edu.sg](mailto:noraini_mohamed@moe.edu.sg) |
 | Mr Ron Low | HOD – Student Management | [low_yao_ming@moe.edu.sg](mailto:low_yao_ming@moe.edu.sg) |
 | Ms Tan Chye I | HOD – Student Leadership & Partnership | [tan_chye_i@moe.edu.sg](mailto:tan_chye_i@moe.edu.sg) |
-| Ms Estee Teo | Year Head – Lower Sec | [teo_kexin_estee@moe.edu.sg](mailto:teo_kexin_estee@moe.edu.sg) |
-| Mr Ang Chun Hua | Year Head – Upper Sec | [ang_chun_hua@moe.edu.sg](mailto:ang_chun_hua@moe.edu.sg) |
+| Ms Estee Teo | Year Head – Upper Sec | [teo_kexin_estee@moe.edu.sg](mailto:teo_kexin_estee@moe.edu.sg) |
+| Mr Ang Chun Hua | Year Head – Lower Sec | [ang_chun_hua@moe.edu.sg](mailto:ang_chun_hua@moe.edu.sg) |
 | Ms Subathra Shugumaran | HOD – Character & Citizenship Education | [subathra_shugumaran@moe.edu.sg](mailto:subathra_shugumaran@moe.edu.sg) |
 | Ms Teresa Lin | HOD – PE & CCA | [lin_xianwan_teresa@moe.edu.sg](mailto:lin_xianwan_teresa@moe.edu.sg) |
 | Mr Lawrence Tang | Lead Teacher – Physics | [lawrence_tang_kok_onn@moe.edu.sg](mailto:lawrence_tang_kok_onn@moe.edu.sg) |
@@ -35,6 +35,7 @@ third_nav_title: Organisation Chart
 | Mr Vincent Loh | Subject Head – Student Well-being | [loh_guan_wee_vincent@moe.edu.sg](mailto:loh_guan_wee_vincent@moe.edu.sg) |
 | Mrs Crystal Tan | Subject Head - Character & Citizenship Education  | [crystal_ling_yuet_ping@moe.edu.sg](mailto:crystal_ling_yuet_ping@moe.edu.sg) |
 | Mr Brandon Choy | Subject Head - Data Management  | [brandon_choy_wai_keong@moe.edu.sg](mailto:brandon_choy_wai_keong@moe.edu.sg) |
+| Ms Lum Shu Wei | Subject Head - Literature  | [lum_shu_wei@moe.edu.sg](mailto:lum_shu_wei@moe.edu.sg) |
 | Ms Rozianna Mohammed Affendi  | Assistant Year Head – Upper Sec | [rozianna_mohammed_affendi@moe.edu.sg](mailto:rozianna_mohammed_affendi@moe.edu.sg) |
 | Mr Christopher Lim | Assistant Year Head – Lower Sec | [christopher_lim_wei_chern@moe.edu.sg](mailto:christopher_lim_wei_chern@moe.edu.sg) |
 |
