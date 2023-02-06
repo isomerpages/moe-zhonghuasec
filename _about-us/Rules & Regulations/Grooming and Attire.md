@@ -95,9 +95,9 @@ Male students must be neat in appearance, clean shaven and no facial hair is all
 
 **Girls (Short Hair)**
 
-<img src="/images/girlshairshort1.jpg" style="width:33%" align=left>
-<img src="/images/girlshairshort2.jpg" style="width:33%" align=left>
-<img src="/images/girlshairshort3.jpg" style="width:33%" align=left>
+<img src="/images/girlshairshort1.jpg" style="width:34%" align=left>
+<img src="/images/girlshairshort2.jpg" style="width:34%" align=left>
+<img src="/images/girlshairshort3.jpg" style="width:32%" align=left>
 
 <br clear="left">
 
