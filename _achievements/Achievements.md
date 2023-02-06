@@ -3,22 +3,20 @@ title: Achievements
 permalink: /achievements/
 description: ""
 ---
-
-
 ### **Achievements**
 
 | School Distinction Award (2015 - 2020) |  |  |
 |:---:|:---:|:---:|
 |
 
-<img src="/images/achievement1.jpg" style="width:20%">
+<img src="/images/sda.png" style="width:50%">
 
 The SDA recognises high-achieving schools with exemplary school processes and practices. Schools that achieve SDA have put in place well-defined processes that lead to sustained achievement in student outcomes.
 
 
 | Singapore Quality Class (2015 - 2020) |  | People Developer (2015 - 2020) |
 |:---:|:---:|:---:|
-|<img src="/images/achievement2.jpg" style="width:35%"> |  | <img src="/images/achievement3.jpg" style="width:60%">|
+|<img src="/images/SQC.jpg" style="width:50%"> |  | <img src="/images/pd.png" style="width:">|
 
 | Best Practice (2015 -2020) |  |  |
 |:---:|:---:|:---:|
