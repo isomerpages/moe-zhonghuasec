@@ -9,14 +9,14 @@ description: ""
 |:---:|:---:|:---:|
 |
 
-<img src="/images/sda.png" style="width:50%">
+<img src="/images/sda.png" style="width:25%">
 
 The SDA recognises high-achieving schools with exemplary school processes and practices. Schools that achieve SDA have put in place well-defined processes that lead to sustained achievement in student outcomes.
 
 
 | Singapore Quality Class (2015 - 2020) |  | People Developer (2015 - 2020) |
 |:---:|:---:|:---:|
-|<img src="/images/SQC.jpg" style="width:50%"> |  | <img src="/images/pd.png" style="width:">|
+|<img src="/images/SQC.jpg" style="width:30%"> |  | <img src="/images/pd.png" style="width:">|
 
 | Best Practice (2015 -2020) |  |  |
 |:---:|:---:|:---:|
