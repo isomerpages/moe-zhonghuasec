@@ -80,7 +80,7 @@ Students are not allowed to dye their hair. Students’ hair should be of natura
 **Boys (Hair)**
 
 <img src="/images/boyshair1.jpg" style="width:33%" align=left>
-<img src="/images/boyshair2.jpg" style="width:33%" align=left>
+<img src="/images/boyshair2.jpg" style="width:34%" align=left>
 <img src="/images/boyshair3.jpg" style="width:33%" align=left>
 
 <br clear="left">
