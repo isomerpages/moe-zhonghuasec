@@ -79,9 +79,9 @@ Students are not allowed to dye their hair. Students’ hair should be of natura
 
 **Boys (Hair)**
 
-<img src="/images/hair1.jpg" style="width:33%" align=left>
-<img src="/images/hair2.jpg" style="width:33%" align=left>
-<img src="/images/hair3.jpg" style="width:33%" align=left>
+<img src="/images/boyshair1.jpg" style="width:33%" align=left>
+<img src="/images/boyshair2.jpg" style="width:33%" align=left>
+<img src="/images/boyshair3.jpg" style="width:33%" align=left>
 
 <br clear="left">
 
@@ -95,9 +95,9 @@ Male students must be neat in appearance, clean shaven and no facial hair is all
 
 **Girls (Short Hair)**
 
-<img src="/images/hair4.jpg" style="width:33%" align=left>
-<img src="/images/hair5.jpg" style="width:33%" align=left>
-<img src="/images/hair6.jpg" style="width:33%" align=left>
+<img src="/images/girlshairshort1.jpg" style="width:33%" align=left>
+<img src="/images/girlshairshort2.jpg" style="width:33%" align=left>
+<img src="/images/girlshairshort3.jpg" style="width:33%" align=left>
 
 <br clear="left">
 
@@ -108,9 +108,9 @@ Male students must be neat in appearance, clean shaven and no facial hair is all
 
 **Girls (Long Hair)**
 
-<img src="/images/hair7.jpg" style="width:33%" align=left>
-<img src="/images/hair8.jpg" style="width:33%" align=left>
-<img src="/images/hair9.jpg" style="width:33%" align=left>
+<img src="/images/girlshairlong1.jpg" style="width:33%" align=left>
+<img src="/images/girlshairlong2.jpg" style="width:33%" align=left>
+<img src="/images/girlshairlong3.jpg" style="width:33%" align=left>
 
 <br clear="left">
 
