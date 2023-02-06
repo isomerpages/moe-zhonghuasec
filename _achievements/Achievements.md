@@ -16,7 +16,7 @@ The SDA recognises high-achieving schools with exemplary school processes and pr
 
 | Singapore Quality Class (2015 - 2020) |  | People Developer (2015 - 2020) |
 |:---:|:---:|:---:|
-|<img src="/images/SQC.jpg" style="width:30%"> |  | <img src="/images/pd.png" style="width:">|
+|<img src="/images/SQC.jpg" style="width:25%"> |  | <img src="/images/pd.png" style="width:">|
 
 | Best Practice (2015 -2020) |  |  |
 |:---:|:---:|:---:|
@@ -40,11 +40,11 @@ The Best Practice recognises a school for its effective practices and systems th
 |:---:|:---:|:---:|
 |
 
-<img src="/images/achievement9.jpg" style="width:15%;margin-right:60px;" align = "left">
+<img src="/images/achievement9.jpg" style="width:15%;margin-right:70px;" align = "left">
 
 <img src="/images/achievement10.jpg" style="width:20%;margin-right:15px;" align = "left">
 
-<img src="/images/tda.jpg" style="width:25%;margin-right:60px;" align = "right">
+<img src="/images/tda.jpg" style="width:25%;margin-right:50px;" align = "right">
 
 <br clear="left">
 
