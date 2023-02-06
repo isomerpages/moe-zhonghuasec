@@ -27,10 +27,10 @@ Infocomm Club | Design Thinking with Robotics and Computational Thinking (DrCT) 
 |  |  |
 |---|---|
 | Singapore Youth Festival Art Exhibition 2022 | Certificate of Recognition X 2 |
-Children and Youth Art Competition - Courage, Hope and Love in the time of a pandemic | Excellence Prize Winner | 
+Children and Youth Art Competition - Courage, Hope and Love in the Time of a Pandemic | Excellence Prize Winner | 
 Singapore Mathematical Olympiad (SMO) | Junior Section: 4 Honourable Mention <br> Senior Section: 1 Bronze, 3 Honourable Mention | 
 Singapore and Asian Schools Math Olympiad (SASMO) | 2 Gold Awards, 4 Silver Awards, 8 Bronze Awards, 2 Honourable Mention | 
-All Singapore Secondary Mathematics Competition for Normal Course students | 3rd - Top 20 (NT)| 
+All Singapore Secondary Mathematics Competition for Normal Course Students | 3rd - Top 20 (NT)| 
 Biology Olympiad | 2 Bronze Awards and 1 Honourable Mention
 Chemistry Olympiad | 2 Merits and 1 Bronze Award |
 Upper Secondary A* Star Award | 2 winners | 
