@@ -54,7 +54,7 @@ Pants: Straight cut, untapered.<br><br><br><br><br>Socks: Above ankle bone.<br>S
 
 **PE Attire**
 
-<img src="/images/peattire1.jpg" style="width:28%;margin-right:15px;" align = "left">Should be worn only during PE lesson.<br><br><br>Students are allowed to wear half uniform (PE T-shirt with school bermudas, pants or skirt) for flag raising on days where they have PE lessons before recess.<br><br><br><br><br><br><img src="/images/attire5.jpg" style="width:28%;margin-right:15px;" align = "left"><br>After their PE lessons, students are to change to their half uniform while in the class.<br><br>Student should change back to their full uniform after recess<br><br>Top must be tucked in neatly
+<img src="/images/peattire1.jpg" style="width:28%;margin-right:15px;" align = "left">Should be worn only during PE lesson.<br><br><br>Students are allowed to wear half uniform (PE T-shirt with school bermudas, pants or skirt) for flag raising on days where they have PE lessons before recess.<br><br><br><br><br><br><img src="/images/peattire2.jpg" style="width:28%;margin-right:15px;" align = "left"><br>After their PE lessons, students are to change to their half uniform while in the class.<br><br>Student should change back to their full uniform after recess<br><br>Top must be tucked in neatly
 
 <br clear="left">
 
