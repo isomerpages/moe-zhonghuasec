@@ -14,7 +14,13 @@ third_nav_title: Parent Support Group
 </figure>	
 </a></p>
 
-<img style="width:75%" src="/images/Sports Carnival.jpeg">[Sports Carnival](/about-us/psg/event-photos/2019/sports-carnival/)
+<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/psg/event-photos/2019/sports-carnival/">
+<figure>	
+<img style="width:75%" src="/images/Sports Carnival.jpeg">
+<figcaption> Sports Carnival
+ </figcaption>
+</figure>	
+</a></p>
 
 <img style="width:75%" src="/images/Family Bonding.jpeg"> [Family Bonding Day](/about-us/psg/event-photos/2019/family-bonding-day/)
 
