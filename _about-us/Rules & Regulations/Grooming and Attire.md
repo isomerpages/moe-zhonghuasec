@@ -29,7 +29,7 @@ Spot checks on students’ grooming (hairstyles, nails, uniform etc.) will be co
 
 **Lower Secondary Boys**
 
-<img src="/images/attire1.jpg" style="width:28%;margin-right:15px;" align = "left">
+<img src="/images/boyslower.jpg" style="width:28%;margin-right:15px;" align = "left">
 Name tag: Present, unmodified.<br>
 Shirt: Tucked in neatly above 1 inch hemline.<br>
 Bermudas: At knee level.<br><br><br><br><br>
@@ -40,7 +40,7 @@ Shoes: All white canvas.
 
 **Upper Secondary Boys**
 
-<img src="/images/attire2.jpg" style="width:28%;margin-right:15px;" align = "left">Name tag: Present, unmodified.<br>
+<img src="/images/boysupper.jpg" style="width:28%;margin-right:15px;" align = "left">Name tag: Present, unmodified.<br>
 Shirt: Tucked in neatly above 1 inchhemline.<br>
 Pants: Straight cut, untapered.<br><br><br><br><br>Socks: Above ankle bone.<br>Shoes: All white canvas.
 
@@ -48,7 +48,7 @@ Pants: Straight cut, untapered.<br><br><br><br><br>Socks: Above ankle bone.<br>S
 
 **Upper and Lower Secondary Girls**
 
-<img src="/images/attire3.jpg" style="width:30%;margin-right:5px;" align = "left">Name tag: Present, unmodified.<br>Skirt: To be covering the knee bone.<br><br><br><br><br><br>Socks: Above ankle bone.<br>Shoes: All white canvas.
+<img src="/images/girlsul.jpg" style="width:30%;margin-right:5px;" align = "left">Name tag: Present, unmodified.<br>Skirt: To be covering the knee bone.<br><br><br><br><br><br>Socks: Above ankle bone.<br>Shoes: All white canvas.
 
 <br clear="left">
 
