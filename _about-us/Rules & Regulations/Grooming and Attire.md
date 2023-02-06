@@ -6,7 +6,7 @@ third_nav_title: Rules & Regulations
 ---
 ### **Grooming and Attire**
 #### **School Uniform**
-##### **Grooming and attire philosophy**
+##### **Grooming and Attire Philosophy**
 We believe that Zhonghuarians are proud of their school and are willing to wear their school uniform with pride.
 
 Hence the school grooming and attire policy is one that is aimed at educating Zhonghuarians to look smart, decent and presentable at all times.  
