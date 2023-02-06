@@ -6,8 +6,14 @@ third_nav_title: Parent Support Group
 ---
 #### **2019 Events**
 
-<img style="width:75%" src="/images/IMG_8627.jpg"> [Breakfast Talk](/about-us/psg/event-photos/2019/breakfast-talk/)
-		
+<p><a href="/about-us/psg/event-photos/2019/breakfast-talk/">
+<figure>	
+<img style="width:75%" src="/images/IMG_8627.jpg">
+<figcaption>  Breakfast Talk
+ </figcaption>
+</figure>	
+</a></p>
+
 <img style="width:75%" src="/images/Sports Carnival.jpeg">[Sports Carnival](/about-us/psg/event-photos/2019/sports-carnival/)
 
 <img style="width:75%" src="/images/Family Bonding.jpeg"> [Family Bonding Day](/about-us/psg/event-photos/2019/family-bonding-day/)
