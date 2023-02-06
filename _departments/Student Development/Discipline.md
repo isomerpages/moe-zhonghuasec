@@ -12,7 +12,7 @@ The discipline approach in Zhonghua Secondary School is one that is not punitive
 
 The Discipline Committee’s main objective is to ensure that the school is a safe and conducive environment for both teachers and students so that teaching and learning can take place in the classroom.
 
-<img src="/images/discipline1.png" style="width:85%">
+<img src="/images/mobilephone.png" style="width:75%">
 
 Students who use their mobile phones irresponsibly will have their mobile phones confiscated. The mobile phones will be returned to them, subject to good behaviour, at the end of the academic term.
 
