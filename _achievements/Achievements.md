@@ -6,18 +6,18 @@ description: ""
 ### **Achievements**
 
 | School Distinction Award (2015 - 2020) |
-|:---:|
+|---|
 
 <img src="/images/sda.png" style="width:25%">
 
 The SDA recognises high-achieving schools with exemplary school processes and practices. Schools that achieve SDA have put in place well-defined processes that lead to sustained achievement in student outcomes.
 
 | Singapore Quality Class<br>(2015 - 2020) | People Developer<br>(2015 - 2020) |
-|:---:|:---:|
+|---|---|
 |<img src="/images/SQC.jpg" style="width:25%"> | <img src="/images/pd.png" style="width:">|
 
 | Best Practice (2015 -2020) |
-|:---:|
+|---|
 
 | <img src="/images/achievement4.jpg" style="width:80%" align=right> | <img src="/images/achievement5.jpg" style="width:80%" align=right> | <img src="/images/achievement6.jpg" style="width:80%" align=right> | 
 |---|---|---|
@@ -37,7 +37,7 @@ The Best Practice recognises a school for its effective practices and systems th
 * Partnership
 
 | Other Awards |
-|:---:|
+|---|
 
 | <img src="/images/achievement9.jpg" style="width:20%" align=right> | <img src="/images/achievement10.jpg" style="width:80%" align=right> | <img src="/images/achievement11.jpg" style="width:80%" align=right> | 
 |---|---|---|
