@@ -16,7 +16,7 @@ The SDA recognises high-achieving schools with exemplary school processes and pr
 |---|---|
 |<img src="/images/SQC.jpg" style="width:25%" align=left> | <img src="/images/pd.png">|
 
-| Best Practice (2015 -2020) | |
+| Best Practice (2015 -2020) |   |
 |---|---|
 
 | <img src="/images/achievement4.jpg" style="width:80%" align=right> | <img src="/images/achievement5.jpg" style="width:80%" align=right> | <img src="/images/achievement6.jpg" style="width:80%" align=right> | 
