@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Achievements**
 
-| School Distinction Award (2015 - 2020) |   |
+|School Distinction Award (2015 - 2020) |  |
 |---|---|
 
 <img src="/images/sda.png" style="width:25%">
