@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Achievements**
 
-**School Distinction Award (2015 - 2020)**|
+| School Distinction Award (2015 - 2020) |
 |:---:|
 
 <img src="/images/sda.png" style="width:25%">
@@ -16,7 +16,7 @@ The SDA recognises high-achieving schools with exemplary school processes and pr
 |:---:|:---:|
 |<img src="/images/SQC.jpg" style="width:25%"> | <img src="/images/pd.png" style="width:">|
 
-| **Best Practice (2015 -2020)** |
+| Best Practice (2015 -2020) |
 |:---:|
 
 | <img src="/images/achievement4.jpg" style="width:80%" align=right> | <img src="/images/achievement5.jpg" style="width:80%" align=right> | <img src="/images/achievement6.jpg" style="width:80%" align=right> | 
@@ -36,9 +36,9 @@ The Best Practice recognises a school for its effective practices and systems th
 * Character and Citizenship Education
 * Partnership
 
-**Other Awards** |
+| Other Awards |
 |:---:|
 
-| <img src="/images/achievement9.jpg" style="width:80%" align=right> | <img src="/images/achievement10.jpg" style="width:80%" align=right> | <img src="/images/achievement11.jpg" style="width:80%" align=right> | 
+| <img src="/images/achievement9.jpg" style="width:40%" align=right> | <img src="/images/achievement10.jpg" style="width:80%" align=right> | <img src="/images/achievement11.jpg" style="width:80%" align=right> | 
 |---|---|---|
 | National Arts Education <br> Glow Award	 |  SEC Lotus Sustained <br> Achievement Award | Total Defence Award (Employees) <br> Distinguished Defence Partner Award |
