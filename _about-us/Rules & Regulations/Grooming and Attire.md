@@ -87,7 +87,7 @@ Students are not allowed to dye their hair. Students’ hair should be of natura
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Front**<br><br>Fringe should not be touching <br> the eyebrows.<br><br>Hair colour should be natural.<br><br>Moustache, beards, goatees or <br> long sideburns are not allowed. | **Side**<br><br>Sloped.<br><br>Sideburn should not be lower than<br> the tragus or the mid-point <br> of the external ear. | **Back**<br><br>Sloped.<br><br>Hair should not be touching the collar. |
+| **Front**<br><br>Fringe should not be touching <br> the eyebrows.<br><br>Hair colour should be natural.<br><br>Moustache, beards, goatees or <br> long sideburns are not allowed. | **Side**<br><br>Sloped.<br><br><br>Sideburn should not be lower than<br> the tragus or the mid-point <br> of the external ear. | **Back**<br><br>Sloped.<br><br><br>Hair should not be touching the collar. |
 |
 
 **Clean-Shaven and Neat Facial Appearance for Male Students**<br>
