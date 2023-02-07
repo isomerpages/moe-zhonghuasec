@@ -40,7 +40,7 @@ The Best Practice recognises a school for its effective practices and systems th
 |:---:|:---:|:---:|
 |
 
-<img src="/images/achievement9.jpg" style="width:15%;margin-right:80px;" align = "left">
+<img src="/images/achievement9.jpg" style="width:15%;margin-right:70px;" align = "left">
 
 <img src="/images/achievement10.jpg" style="width:20%;margin-right:15px;" align = "left">
 
