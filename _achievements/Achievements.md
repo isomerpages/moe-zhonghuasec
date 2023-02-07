@@ -36,7 +36,7 @@ The Best Practice recognises a school for its effective practices and systems th
 * Character and Citizenship Education
 * Partnership
 
-| Other Awards | |
+| Other Awards |   |
 |---|---|
 
 | <img src="/images/achievement9.jpg" style="width:20%"> | <img src="/images/achievement10.jpg" style="width:60%"> | <img src="/images/achievement11.jpg" style="width:80%"> | 
