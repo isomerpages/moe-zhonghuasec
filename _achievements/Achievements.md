@@ -23,7 +23,7 @@ The SDA recognises high-achieving schools with exemplary school processes and pr
 |---|---|---|
 |Teaching & Learning	 |  Student All-Around Development | Staff Well-Being and Development |
 
-| <img src="/images/achievement7.jpg" style="width:50%"> | <img src="/images/achievement8.jpg" style="width:43%" align=left> |
+| <img src="/images/achievement7.jpg" style="width:50%"> | <img src="/images/achievement8.jpg" style="width:43%"> |
 |---|---|
 | Character and Citizenship Education | Partnership |
 
@@ -39,6 +39,6 @@ The Best Practice recognises a school for its effective practices and systems th
 | Other Awards |
 |---|
 
-| <img src="/images/achievement9.jpg" style="width:20%" align=right> | <img src="/images/achievement10.jpg" style="width:80%" align=right> | <img src="/images/achievement11.jpg" style="width:80%" align=right> | 
+| <img src="/images/achievement9.jpg" style="width:20%" align=right> | <img src="/images/achievement10.jpg" style="width:60%" align=right> | <img src="/images/achievement11.jpg" style="width:80%" align=right> | 
 |---|---|---|
 | National Arts Education <br> Glow Award	 |  SEC Lotus Sustained <br> Achievement Award | Total Defence Award (Employees) <br> Distinguished Defence Partner Award |
