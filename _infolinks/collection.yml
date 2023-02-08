@@ -2,7 +2,7 @@ collections:
   infolinks:
     output: true
     order:
+      - Infolinks.md
       - Admin Forms & Book Lists for Students.md
       - Class Timetable for 2023.md
-      - Infolinks.md
       - Sexuality Education.md
