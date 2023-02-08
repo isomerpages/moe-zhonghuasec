@@ -2,5 +2,6 @@ collections:
   infolinks:
     output: true
     order:
+      - Admin Forms & Book Lists for Students.md
       - Sexuality Education.md
       - Infolinks.md
