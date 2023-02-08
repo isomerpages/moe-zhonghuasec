@@ -38,10 +38,18 @@ The Best Practice recognises a school for its effective practices and systems th
 * Character and Citizenship Education
 * Partnership
 
-| Other Awards |   |
-|---|---|
-|  |  | 
+| Other Awards |  |  |
+|:---:|:---:|:---:|
+|
 
-| <img src="/images/achievement9.jpg" style="width:20%" align=right> | <img src="/images/achievement10.jpg" style="width:60%" align=center> | <img src="/images/achievement11.jpg" style="width:80%" align=left> | 
-|---|---|---|
-| National Arts Education Glow Award	 |  SEC Lotus Sustained Achievement Award | Total Defence Award (Employees) Distinguished Defence Partner Award |
+<img src="/images/achievement9.jpg" style="width:15%;margin-right:60px;" align = "left">
+
+<img src="/images/achievement10.jpg" style="width:20%;margin-right:15px;" align = "left">
+
+<img src="/images/tda.jpg" style="width:25%;margin-right:60px;" align = "right">
+
+<br clear="left">
+
+| | | |
+|:---:|:---:|:---:|
+| National Arts Education<br>Glow Award | SEC Lotus Sustained<br>Achievement Award | Total Defence Award (Employees)<br>Distinguished Defence Partner Award |
