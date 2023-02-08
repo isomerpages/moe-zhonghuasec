@@ -1,4 +1,5 @@
 collections:
   infolinks:
     output: true
-    order: []
+    order:
+      - Infolinks.md
