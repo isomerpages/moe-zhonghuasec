@@ -2,4 +2,5 @@ collections:
   infolinks:
     output: true
     order:
+      - Sexuality Education.md
       - Infolinks.md
