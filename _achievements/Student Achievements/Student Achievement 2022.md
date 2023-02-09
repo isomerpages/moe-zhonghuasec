@@ -4,14 +4,12 @@ permalink: /achievements/Student-Achievements/student-achievement-2022/
 description: ""
 third_nav_title: Student Achievements
 ---
-
 ### **Student Achievements 2022**
 
 #### **Co-Curricular Activities**
 
-|  |  |
+| Uniformed Groups  |  |
 |---|---|
-**Uniformed Groups** | |
 | Boys' Brigade | Gold (14th) |
 | Girls' Brigade | Gold (15th) |
 | National Cadet Corps | Gold (27th) |

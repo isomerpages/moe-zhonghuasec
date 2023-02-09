@@ -80,14 +80,14 @@ Students are not allowed to dye their hair. Students’ hair should be of natura
 **Boys (Hair)**
 
 <img src="/images/boyshair1.jpg" style="width:33%" align=left>
-<img src="/images/boyshair2.jpg" style="width:34%" align=left>
+<img src="/images/boyshair2.jpg" style="width:33%" align=left>
 <img src="/images/boyshair3.jpg" style="width:33%" align=left>
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Front**<br><br>- Fringe should not be touching the eyebrows.<br>- Hair colour should be natural.<br>- Moustache, beards, goatees or long sideburns are not allowed. | **Side**<br><br>- Sloped<br>- Sideburn should not be lower than the tragus or the mid-point of the external ear. | **Back**<br><br>- Sloped<br>- Hair should not be touching the collar. |
+| **Front**<br><br>Fringe should not be touching <br> the eyebrows.<br><br>Hair colour should be natural.<br><br>Moustache, beards, goatees or <br> long sideburns are not allowed. | **Side**<br><br>Sloped.<br><br><br>Sideburn should not be lower than<br> the tragus or the mid-point <br> of the external ear. | **Back**<br><br>Sloped.<br><br><br>Hair should not be touching the collar. |
 |
 
 **Clean-Shaven and Neat Facial Appearance for Male Students**<br>
@@ -95,15 +95,15 @@ Male students must be neat in appearance, clean shaven and no facial hair is all
 
 **Girls (Short Hair)**
 
-<img src="/images/girlshairshort1.jpg" style="width:34%" align=left>
-<img src="/images/girlshairshort2.jpg" style="width:34%" align=left>
-<img src="/images/girlshairshort3.jpg" style="width:32%" align=left>
+<img src="/images/girlshairshort1.jpg" style="width:33%" align=left>
+<img src="/images/girlshairshort2.jpg" style="width:33%" align=left>
+<img src="/images/girlshairshort3.jpg" style="width:33%" align=left>
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Front**<br><br>Fringe should not be touching the eyebrows. Hair colour should be natural. | **Side**<br><br>Hair must not touch the shouldersand must be neat. It should not be tied. | **Back**<br><br>Hair should not be touching the collar.|
+| **Front**<br><br>Fringe should not be touching<br>the eyebrows.<br><br>Hair colour should be natural. | **Side**<br><br>Hair must not touch the shoulders <br>and must be neat.<br><br>It should not be tied. | **Back**<br><br>Hair should not be touching the collar.|
 |
 
 **Girls (Long Hair)**
@@ -116,7 +116,7 @@ Male students must be neat in appearance, clean shaven and no facial hair is all
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Front**<br><br>Fringe should not be touching the eyebrows<br><br>Hair colour should be natural | **Side**<br><br>Fringe should be pinned neatly and securely behind the ear.<br><br>A single ponytail is recommended. | **Back**<br><br>Hair should not be touching the collar.|
+| **Front**<br><br>Fringe should not be touching the eyebrows.<br><br>Hair colour should be natural. | **Side**<br><br>Fringe should be pinned neatly<br>and securely behind the ear.<br><br>A single ponytail is recommended. | **Back**<br><br>Hair should not be touching the collar.|
 |
 
 The school uniform can be purchased at the following retailer:<br>

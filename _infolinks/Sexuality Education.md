@@ -1,8 +1,10 @@
 ---
 title: Sexuality Education
-permalink: /sex-edu/
+permalink: /infolinks/sex-edu/
 description: ""
 ---
+
+
 ### **Sexuality Education**
 
 #### **Zhonghua Secondary School**
