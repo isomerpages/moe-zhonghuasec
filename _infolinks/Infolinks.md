@@ -7,7 +7,7 @@ description: ""
 
 |  | STUDENTS |  | PARENTS/PARTNERS |  | TEACHERS |
 |---|:---:|---|:---:|---|:---:|
-| <img src="/images/Icon.png"> | [Students iCON login](https://workspace.google.com/dashboard) | <img src="/images/PSG.png" style="width:50%">  | [Parent Support Group (PSG)](https://www.zhonghuasec.moe.edu.sg/about-us/psg/) |<img src="/images/Icon.png" style="width:50%"> | [ICON](https://icon.moe.edu.sg/) |
+| <img src="/images/Icon.png"> | [Students iCON login](https://workspace.google.com/dashboard) | <img src="/images/PSG.png" style="width:50%">  | [Parent Support Group (PSG)](https://www.zhonghuasec.moe.edu.sg/about-us/psg/) |<img src="/images/Icon.png" style="width:60%"> | [ICON](https://icon.moe.edu.sg/) |
 | <img src="/images/s2.png"> | [ACE-LEARNING](https://www.ace-learning.com/) |<img src="/images/SE.png" style="width:50%">  | [Sexuality Education](https://www.zhonghuasec.moe.edu.sg/infolinks/sex-edu/) | <img src="/images/OPAL.png">  | [Opal2.0](https://www.opal2.moe.edu.sg/app/learner) |
 | <img src="/images/s3.png">| [Class Timetable](https://www.zhonghuasec.moe.edu.sg/infolinks/class-timetable-for-2023/) |<img src="/images/SSSC.png" style="width:50%"> | [SG SCH SPORTS COUNCIL](https://nsg.moe.edu.sg/sssc) | <img src= "/images/t3.png"> | [Cockpit](https://schoolcockpit.moe.gov.sg/)  |
 |<img src="/images/SLS.png"> | [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/) | <img src="/images/MOE.png" style="width:50%"> | [MOE Website](https://www.moe.gov.sg/) | <img src="/images/Outlook.png" style="width:65%">  | [Web-based Outlook](https://schools.gov.sg) |
