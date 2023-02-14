@@ -1,8 +1,9 @@
 ---
-title: Class Timetable for 2023
+title: Class Timetable
 permalink: /infolinks/class-timetable-for-2023/
 description: ""
 ---
+
 
 
 ### **Class Timetable for 2023**

@@ -10,4 +10,4 @@ description: ""
 4\) [Students Guide to using Zoom for HBL](/files/ahbl3.pdf)<br>
 5\) [Student Guide to using Google Classroom](/files/ahbl4.pdf)<br>
 6\) [List of teachers’ email addresses](https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/organisation-chart/form-teachers/)<br>
-7\) Students iCON url : [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)
+7\) [Students iCon](https://workspace.google.com/dashboard)
