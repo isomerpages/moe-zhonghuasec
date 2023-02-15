@@ -43,7 +43,7 @@ The Best Practice recognises a school for its effective practices and systems th
 |---|---|
 |
 
-<img src="/images/otherawards.png" style="width:85%">
+<img src="/images/otherawards.png" style="width:80%">
 
 | | | |
 |---|---|---|
