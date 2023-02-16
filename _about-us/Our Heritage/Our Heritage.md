@@ -13,7 +13,7 @@ Click [here](https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/heritage1.jpg)
 
 Click on the following links to find out more about our heritage!
 
-<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/our-heritage/our-crest-and-school-uniform/">
+<p><a href="https://www.zhonghuasec.moe.edu.sg/about-us/our-heritage/our-crest-and-school-uniform/">
 <figure>	
 <img style="width:20%" src="/images/heritage2.jpg">
 <figcaption>  Our Crest & School Uniform
@@ -21,7 +21,7 @@ Click on the following links to find out more about our heritage!
 </figure>	
 </a></p>
 
-<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/our-heritage/our-story/">
+<p><a href="https://www.zhonghuasec.moe.edu.sg/about-us/our-heritage/our-story/">
 <figure>	
 <img style="width:20%" src="/images/heritage3.jpg">
 <figcaption>  Our Story
@@ -29,7 +29,7 @@ Click on the following links to find out more about our heritage!
 </figure>	
 </a></p>
 
-<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/our-heritage/our-voices/">
+<p><a href="https://www.zhonghuasec.moe.edu.sg/about-us/our-heritage/our-voices/">
 <figure>	
 <img style="width:20%" src="/images/heritage4.png">
 <figcaption>  Our Voices
@@ -37,7 +37,7 @@ Click on the following links to find out more about our heritage!
 </figure>	
 </a></p>
 
-<p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/our-heritage/our-pride/">
+<p><a href="https://www.zhonghuasec.moe.edu.sg/about-us/our-heritage/our-pride/">
 <figure>	
 <img style="width:20%" src="/images/heritage5.jpg">
 <figcaption>  Our Pride
