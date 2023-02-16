@@ -44,7 +44,3 @@ The Best Practice recognises a school for its effective practices and systems th
 |
 
 <img src="/images/otherawards.png" style="width:80%">
-
-| | | |
-|---|---|---|
-| National Arts Education Glow Award | SEC Lotus Sustained Achievement Award | Total Defence Award (Employees) Distinguished Defence Partner Award |
