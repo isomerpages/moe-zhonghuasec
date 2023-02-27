@@ -33,7 +33,7 @@ Students who are able to influence on a CCA or school level will be empowered to
 
 Tier 3 student leaders are also exposed to leadership training platforms which offer opportunities to exchange ideas and experiences, and thus gain a better understanding of how they can contribute to society besides allowing the students to network with other youth leaders.
 
-Read more about Student Leadership @ ZHSS [here](https://staging.d1ph2u5puaqsvh.amplifyapp.com/departments/student-development/student-leadership/).
+Read more about Student Leadership @ ZHSS [here](https://www.zhonghuasec.moe.edu.sg/departments/student-development/student-leadership/).
 
 <img src="/images/sl2.jpg" style="width:32%;margin-right:15px;" align = "left">
 <img src="/images/sl3.png" style="width:29%;margin-right:15px;" align = "left">
