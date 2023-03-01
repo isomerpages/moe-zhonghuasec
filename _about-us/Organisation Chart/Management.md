@@ -4,8 +4,6 @@ permalink: /about-us/organisation-chart/
 description: ""
 third_nav_title: Organisation Chart
 ---
-### **Management**
-
 | Name | Designation | Email Address |
 |---|---|---|
 | Ms Cindy Low | Principal | [Cindy_LOW@schools.gov.sg](mailto:Cindy_LOW@schools.gov.sg) |
