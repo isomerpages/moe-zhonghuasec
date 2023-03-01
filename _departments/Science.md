@@ -3,8 +3,6 @@ title: Science
 permalink: /departments/science/
 description: ""
 ---
-
-### **Science**
 #### **Mission** 
 To nurture Zhonghuarians to be Scholars and Leaders through a rigorous science education that involves the acquisition of scientific knowledge, development of science process skills and cultivation of important attitudes required of a scientist.
 
