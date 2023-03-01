@@ -4,9 +4,6 @@ permalink: /achievements/highlights/5/
 description: ""
 third_nav_title: Highlights
 ---
-
-### **Open Mic (Feb 2020)**
-
 <img src="/images/open%20mic.jpg" style="width:65%">
 
 Through my very first Open Mic experience, I have learnt to appreciate music even more as I conscientiously took note to express the emotions and meaning behind the performance piece. To me, music communicates these deeper layers, instead of just plain notes or words. This experience has also taught me the importance of building greater self-confidence, as it was one huge leap for me in overcoming stage fright which I have been facing since young. All in all, I have come to recognise that new opportunities always seem to teach you something unexpected along the way, and we should remain open towards trying out new things to keep our lives more fruitful.<br>
