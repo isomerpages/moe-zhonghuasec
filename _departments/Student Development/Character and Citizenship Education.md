@@ -4,7 +4,6 @@ permalink: /departments/student-development/cce/
 description: ""
 third_nav_title: Student Development
 ---
-### **Character and Citizenship Education**
 The Character & Citizenship Education (CCE) curriculum in Zhonghua aims to nurture Zhonghuarians of good character, who will contribute actively to Singapore as responsible citizens. The CCE Committee oversees the implementation of the CCE curriculum through lessons as well as customised school-based CCE delivered through weekly assembly programmes, student-initiated Values-in-Action (VIA) projects and other cohort-based experiences.  Students acquire relevant knowledge, skills and values through purposeful planning of CCE lessons adapted from MOE prescribed modules.
 
 |  |  |
