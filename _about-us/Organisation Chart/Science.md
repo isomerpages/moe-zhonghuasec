@@ -4,8 +4,6 @@ permalink: /about-us/organisation-chart/science/
 description: ""
 third_nav_title: Organisation Chart
 ---
-### **Science**
-
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
 | Mr Tan Jun Hong | Subject Head – Physics | [tan_jun_hong@moe.edu.sg](mailto:tan_jun_hong@moe.edu.sg) |  65938-151 |
