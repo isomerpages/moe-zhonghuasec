@@ -3,7 +3,6 @@ title: Secondary 1 Posting
 permalink: /admission/sec-1-posting/
 description: ""
 ---
-### **Secondary 1 Posting**
 #### **Our Sec 1 Cut-off Points**
 
 |  |  |
