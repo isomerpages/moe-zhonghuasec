@@ -4,7 +4,6 @@ permalink: /cca/clubs-and-societies/art/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-### **Art Club**
 #### **Teachers in Charge:**
 
 |  |  |
