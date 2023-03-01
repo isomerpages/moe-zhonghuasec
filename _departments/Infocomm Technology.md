@@ -3,7 +3,6 @@ title: Infocomm Technology
 permalink: /departments/infocomm-technology/
 description: ""
 ---
-### **Infocomm Technology**
 #### **Mission**
 We seek to equip all Zhonghuarians with relevant ICT skills and learning abilities through our wide array of ICT programmes and experiences.
 
