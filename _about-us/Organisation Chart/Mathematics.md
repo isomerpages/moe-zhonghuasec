@@ -4,8 +4,6 @@ permalink: /about-us/organisation-chart/mathematics/
 description: ""
 third_nav_title: Organisation Chart
 ---
-### **Mathematics**
-
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
 | Mr Francis Tan | HOD – Mathematics | [tan_chih_siang_francis@moe.edu.sg](mailto:tan_chih_siang_francis@moe.edu.sg) | 65938-162 |
