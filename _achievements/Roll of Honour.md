@@ -3,7 +3,6 @@ title: Roll of Honour
 permalink: /achievements/roll-of-honour/
 description: ""
 ---
-<h3>Roll of Honour</h3>
 <h4>Scholarships</h4>
 
 <table class="tg">
