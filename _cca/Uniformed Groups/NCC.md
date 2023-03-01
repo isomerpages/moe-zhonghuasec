@@ -4,7 +4,6 @@ permalink: /cca/uniformed-group/ncc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-### **NCC**
 #### **Teachers in Charge:**
 
 |  |  |
