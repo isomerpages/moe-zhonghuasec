@@ -4,9 +4,6 @@ permalink: /achievements/highlights/6/
 description: ""
 third_nav_title: Highlights
 ---
-
-### **Total Defence Day 2020**
-
 <img src="/images/totaldefenceday.jpg" style="width:65%">
 
 Murmurs arise within the classrooms about the latest news on the novel coronavirus, Covid-19, almost indistinguishable from the candid conversations that typically fill such classrooms in the mornings. I usually arrive in school under the cover of darkness, but a mysterious shroud now hides the future to come. Times of uncertainty indeed, I would think to myself. Above the constantly weary eye bags that the students would normally don, lie fearful and ruminative eyes, reflecting the gravity of the situation through them. Yet, life must go on. It has to ... even though a lingering threat hovers in the air, so surreal. 
