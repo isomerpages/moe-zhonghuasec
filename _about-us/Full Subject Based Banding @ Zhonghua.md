@@ -3,7 +3,6 @@ title: Full Subject Based Banding @ Zhonghua
 permalink: /about-us/full-subject-based-banding/
 description: ""
 ---
-### **Full Subject-Based Banding @Zhonghua**
 Zhonghua Secondary School is one of 30+ secondary schools which will implement Full Subject-Based Banding (Full SBB) from 2023.
 
 #### **Why Full SBB?**
