@@ -4,10 +4,6 @@ permalink: /about-us/psg/
 description: ""
 third_nav_title: Parent Support Group
 ---
-
-
-### **Parent Support Group**
-
 #### **Welcome!**
 Zhonghua Secondary School Parent Support Group was set up in September 2001 with the blessing of the school.
 
