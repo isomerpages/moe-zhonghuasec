@@ -3,8 +3,6 @@ title: English Language & Literature
 permalink: /departments/english-language-and-literature/
 description: ""
 ---
-### **English Language & Literature**
-
 #### **Mission** 
 The English Department aims to develop innovative and critical thinkers who are independent, avid readers with a global outlook, and an appreciation and love of the English language.   Key Programmes   Developing confident and effective communicators Developing effective and confident communicators is a strong focus of the department.  Students are given opportunities to hone their oral presentation skills through oral presentation practices, alternative oral assessment at lower secondary, and class debates on gender, social, sports, environment, ethical issues, particularly related to science, at upper secondary.  Other than raising critical awareness of language use and other methods of persuasion, the learning of useful public speaking skills and techniques also help students to express themselves with poise and confidence.
 
