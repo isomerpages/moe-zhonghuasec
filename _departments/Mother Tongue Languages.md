@@ -3,7 +3,6 @@ title: Mother Tongue Languages
 permalink: /departments/mother-tongue-languages/
 description: ""
 ---
-### **Mother Tongue Languages**
 #### **华文部**
 ##### **任务**
 中 华 学 子 　掌 握 语 文
