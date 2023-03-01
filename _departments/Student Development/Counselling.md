@@ -4,7 +4,6 @@ permalink: /departments/student-development/counselling/
 description: ""
 third_nav_title: Student Development
 ---
-### **Counselling**
 <img src="/images/counselling.jpg" style="width:55%;margin-right:15px;" align = "left">
 Counselling is a collaborative relationship which provides the student a listening ear and safe space – to explore issues & solutions, develop coping skills, facilitate positive change and improve mental well-being.
 
