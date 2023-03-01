@@ -4,7 +4,6 @@ permalink: /departments/student-development/learning-and-behavioural-support/
 description: ""
 third_nav_title: Student Development
 ---
-### **Learning and Behavioural Support**
 Learning and behavioural support is an added aspect of student development that aims to provide special educational support to students with learning challenges. The support encompasses needs based interventions and participation of stakeholders involving parents, school personnel and external agencies.
 
 | Intervention Support | Programme or service |
