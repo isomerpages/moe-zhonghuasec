@@ -4,8 +4,6 @@ permalink: /about-us/organisation-chart/executive-and-administration/
 description: ""
 third_nav_title: Organisation Chart
 ---
-### **Executive & Administration**
-
 | Name | Designation | Email Address |
 |---|---|---|
 | Mr Tham Peng Seng | Administration Manager | [tham_peng_seng@moe.edu.sg](mailto:tham_peng_seng@moe.edu.sg) |
