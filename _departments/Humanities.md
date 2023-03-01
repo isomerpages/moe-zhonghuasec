@@ -3,7 +3,6 @@ title: Humanities
 permalink: /departments/humanities/
 description: ""
 ---
-### **Humanities**
 #### **Mission**
 Nurturing students into self-directed and passionate learners, critical thinkers, caring and cultured citizens.
 
