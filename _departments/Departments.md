@@ -3,8 +3,6 @@ title: Departments
 permalink: /departments/
 description: ""
 ---
-### **Departments**
-
 <p><a href="https://www.zhonghuasec.moe.edu.sg/departments/dnt/">
 <img style="width:25%" src="/images/dept1.jpg" align=left>
 </a></p>	
