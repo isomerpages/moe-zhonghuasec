@@ -3,7 +3,6 @@ title: Music
 permalink: /departments/music/
 description: ""
 ---
-### **Music**
 #### **Mission** 
 To nurture Scholar-Musicians passionate in the pursuit of artistic excellence; dynamic and resilient Servant-Leaders with a passion for musical innovation; cultured and caring citizens with a global outlook in Music and the Arts.
 
