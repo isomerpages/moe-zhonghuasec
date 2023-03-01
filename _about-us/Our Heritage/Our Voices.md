@@ -4,7 +4,6 @@ permalink: /about-us/our-heritage/our-voices/
 description: ""
 third_nav_title: Our Heritage
 ---
-### **Our Voices**
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/voice1.jpg">
 <img style="width:85%" src="/images/voice1.jpg">
 </a></p>
