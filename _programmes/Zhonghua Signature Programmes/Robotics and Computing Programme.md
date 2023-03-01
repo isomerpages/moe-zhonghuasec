@@ -4,7 +4,6 @@ permalink: /programmes/zhonghua-signature-programmes/robotics-and-computing-prog
 description: ""
 third_nav_title: Zhonghua Signature Programmes
 ---
-### **Robotics and Computing Programme**
 To ride of the current global wave for STEM (Science, Technology, Engineering and Mathematics) education, the school has positioned Robotics and Computing to strengthen the curriculum offering for applied learning.
 
 #### **Robotics Strand**
