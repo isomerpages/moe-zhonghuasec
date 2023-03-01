@@ -3,7 +3,6 @@ title: Mathematics
 permalink: /departments/mathematics/
 description: ""
 ---
-### **Mathematics**
 #### **Mission**
 To provide students with an enriching Mathematics education so as to instil creative problem-solving skills.
 
