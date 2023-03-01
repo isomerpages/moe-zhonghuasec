@@ -3,7 +3,6 @@ title: School Bookshop & Uniform Supplier
 permalink: /about-us/school-bookshop-and-uniform-supplier/
 description: ""
 ---
-### **School Bookshop & Uniform Supplier**
 #### **School Bookshop**
 **Pacific Bookstores Pte Ltd**<br>
 [https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)<br>
