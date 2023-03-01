@@ -4,8 +4,6 @@ permalink: /about-us/organisation-chart/mtl/
 description: ""
 third_nav_title: Organisation Chart
 ---
-### **Mother Tongue Languages**
-
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
 | Mdm Koh Lee Keng | HOD – Mother Tongue | [koh_lee_keng@moe.edu.sg](mailto:koh_lee_keng@moe.edu.sg) | 65938-120 |
