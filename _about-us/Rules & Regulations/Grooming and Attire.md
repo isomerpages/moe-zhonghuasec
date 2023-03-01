@@ -4,7 +4,6 @@ permalink: /about-us/rules-and-regulations/grooming-and-attire/
 description: ""
 third_nav_title: Rules & Regulations
 ---
-### **Grooming and Attire**
 #### **School Uniform**
 ##### **Grooming and Attire Philosophy**
 We believe that Zhonghuarians are proud of their school and are willing to wear their school uniform with pride.
