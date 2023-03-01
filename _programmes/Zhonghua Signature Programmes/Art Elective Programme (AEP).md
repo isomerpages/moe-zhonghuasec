@@ -4,7 +4,6 @@ permalink: /programmes/zhonghua-signature-programmes/aep/
 description: ""
 third_nav_title: Zhonghua Signature Programmes
 ---
-### **Art Elective Programme (AEP)**
 Zhonghua Secondary School started the first batch of AEP in 2010. Now it is an established AEP school that offers an exciting and rigorous 4-year art programme for our Zhonghuarians. Through contextualised learning experiences, students learn to apply their art skills on real-world issues and situations. This is further underpinned by the theoretical knowledge of the development and roles of art in different contexts of culture and time.
 
 ![](/images/aep1.jpg)
