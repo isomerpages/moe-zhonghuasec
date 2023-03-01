@@ -4,7 +4,6 @@ permalink: /departments/student-development/
 description: ""
 third_nav_title: Student Development
 ---
-### **Student Development**
 #### **Mission**
 To develop Zhonghuarians to be future-ready citizens of good character, possessing resilience and socio-emotional well-being and contributing actively to society.
 
