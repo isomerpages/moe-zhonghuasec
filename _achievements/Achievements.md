@@ -3,8 +3,6 @@ title: Achievements
 permalink: /achievements/
 description: ""
 ---
-### **Achievements**
-
 |School Distinction Award (2015 - 2020) |  |
 |---|---|
 |  |  |
