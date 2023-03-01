@@ -4,9 +4,6 @@ permalink: /about-us/psg/events/2021/
 description: ""
 third_nav_title: Parent Support Group
 ---
-
-### **2021 Events**
-
 |  |  |
 |---|---|
 | 16 January  | Sec 1 Parents eForum |
