@@ -4,8 +4,6 @@ permalink: /about-us/organisation-chart/humanities/
 description: ""
 third_nav_title: Organisation Chart
 ---
-### **Humanities**
-
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
 | Mr Hazry Hamzah | HOD – Humanities <br> School Staff Developer (Covering) | [hazry_hamzah@moe.edu.sg](mailto:hazry_hamzah@moe.edu.sg) | 65938-118 |
