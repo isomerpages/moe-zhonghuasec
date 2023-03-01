@@ -3,7 +3,6 @@ title: Visual Art
 permalink: /departments/visual-art/
 description: ""
 ---
-### **Visual Art**
 #### **Vision**
 Nurturing Zhonghuarians to be 
 - passionate artists in pursuit of artistic excellence;
