@@ -4,8 +4,6 @@ permalink: /about-us/organisation-chart/pe/
 description: ""
 third_nav_title: Organisation Chart
 ---
-### **Physical Education**
-
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
 | Ms Teresa Lin | HOD – PE & CCA | [lin_xianwan_teresa@moe.edu.sg](mailto:lin_xianwan_teresa@moe.edu.sg) | 65938-121 |

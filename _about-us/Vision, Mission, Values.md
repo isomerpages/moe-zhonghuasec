@@ -3,7 +3,6 @@ title: Vision, Mission, Values
 permalink: /about-us/vision-mission-values/
 description: ""
 ---
-### **Vision, Mission, Values**
 #### **Vision**
 <img src="/images/visionmissionvalues1.jpg" style="width:35%">
 

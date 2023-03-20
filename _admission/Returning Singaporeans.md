@@ -3,7 +3,6 @@ title: Returning Singaporeans
 permalink: /admission/returning-singaporeans/
 description: ""
 ---
-### **Returning Singaporeans**
 #### **Returning Singaporean Admission**
 To assist families intending to go for an overseas posting, the Ministry of Education (MOE) has put in place the Leave of Absence Scheme and the Boarding Award Scheme. MOE also assists returning Singaporeans in school admission to Singapore schools.
 

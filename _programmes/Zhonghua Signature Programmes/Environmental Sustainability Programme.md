@@ -4,7 +4,6 @@ permalink: /programmes/zhonghua-signature-programmes/environmental-sustainabilit
 description: ""
 third_nav_title: Zhonghua Signature Programmes
 ---
-### **Environmental Sustainability Programme**
 <img src="/images/esp1.jpg" style="width:25%">
 
 The Environmental Sustainability Programme aims to heighten Zhonghuarians’ awareness of issues that can affect the environment that everyone depends on.  With the use of current context, students learn through various measures taken by our local community to address the environmental issues and provides a platform for the students to act as problem solvers to take actions to improve the environment that they live in.  

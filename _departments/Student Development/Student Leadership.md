@@ -4,8 +4,6 @@ permalink: /departments/student-development/student-leadership/
 description: ""
 third_nav_title: Student Development
 ---
-### **Student Leadership**
-
 #### **Student Leadership Boards @ ZHSS**
 The Student Leadership Committee is led by Ms Tan Chye I (HOD Student Leadership) and advised by VP Student Development.
 

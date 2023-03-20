@@ -4,8 +4,6 @@ permalink: /achievements/student-achievements/student-achievement-2019/
 description: ""
 third_nav_title: Student Achievements
 ---
-### **Student Achievements 2019**
-
 #### **Aesthetics Domain**
 
 |  |  |

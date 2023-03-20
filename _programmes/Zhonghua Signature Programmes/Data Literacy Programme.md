@@ -4,7 +4,6 @@ permalink: /programmes/zhonghua-signature-programmes/data-literacy-programme/
 description: ""
 third_nav_title: Zhonghua Signature Programmes
 ---
-### **Data Literacy Programme**
 Data Analytics or Business Analytics is a new and “hot” topic, especially in businesses, since the publication of the research report, “Analytics: The Widening Divide,” in the MIT Sloan Management Review in November 2011. Data literacy, the ability to read and write effectively with “data”— is critical to success in the 21st century.
 
 As part of curriculum innovation, the Data Literacy trans-disciplinary team was formed in 2018, consisting of teachers from different departments (Humanities, EL, Math, Science and Computing) who have a common interest to equip our Zhonghua students to be data-literate. The team completed the development of the Data Literacy module, and implemented it in 2019 to all Sec 2 Express students.
@@ -27,4 +26,3 @@ The skills used are also transferable to the different subject areas. Examples i
 <img src="/images/dlp1.png" style="width:65%">
 
 <img src="/images/dlp2.png" style="width:65%">
-

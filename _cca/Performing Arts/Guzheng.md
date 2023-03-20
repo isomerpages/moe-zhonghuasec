@@ -4,7 +4,6 @@ permalink: /cca/performing-arts/guzheng/
 description: ""
 third_nav_title: Performing Arts
 ---
-### **Guzheng**
 #### **Teachers in Charge:**
 
 |  |  |

@@ -4,7 +4,6 @@ permalink: /programmes/zhonghua-signature-programmes/steam-research/
 description: ""
 third_nav_title: Zhonghua Signature Programmes
 ---
-### **STEAM Research Programme**
 STEAM represents STEM (Science, Technology, Engineering and Math) plus the arts – Humanities, Language Arts, Music, Visual Arts, Design Thinking, New Media, Creativity and Communication Skills. Technological innovation remains tightly coupled with Science, Technology, Engineering and Math – the STEM subjects. Art, design and creativity are poised to transform our economy in the 21st century just as science and technology did in the last century. We need to add A to the equation — to transform STEM into STEAM.
 
 <img src="/images/stem.png" style="width:75%">

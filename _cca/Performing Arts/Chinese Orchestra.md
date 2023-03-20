@@ -4,15 +4,13 @@ permalink: /cca/performing-arts/chinese-orchestra/
 description: ""
 third_nav_title: Performing Arts
 ---
-### **Chinese Orchestra**
-
 #### **Teachers in Charge:**
 
 |  |  |
 |---|---|
 | Mr Ng Thiam Seng | [ng_thiam_seng@moe.edu.sg](mailto:ng_thiam_seng@moe.edu.sg) |
 | Mdm Jiang Ruifang | [jiang_ruifang@moe.edu.sg](mailto:jiang_ruifang@moe.edu.sg) |
-| Ms Chew Lixian | [chew_lixian@moe.edu.sg](mailto:chew_lixian@moe.edu.sg) |
+| Ms Chew Lixian | [lixian_chew@moe.edu.sg](mailto:lixian_chew@moe.edu.sg) |
 Ms Janice Loo Zhi Min | [janice_loo_zhi_min@moe.edu.sg](mailto:janice_loo_zhi_min@moe.edu.sg)
 |
 

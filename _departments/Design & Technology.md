@@ -3,8 +3,6 @@ title: Design & Technology
 permalink: /departments/dnt/
 description: ""
 ---
-### **Design & Technology**
-
 #### **Mission**
 To nurture Zhonghuarians to be passionate learners in pursuit of excellence, dynamic and resilient leaders with a passion for innovation, and cultured and caring citizens who place importance in sustaining the environment.
 

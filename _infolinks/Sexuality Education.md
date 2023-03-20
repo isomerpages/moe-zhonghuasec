@@ -3,10 +3,6 @@ title: Sexuality Education
 permalink: /infolinks/sex-edu/
 description: ""
 ---
-
-
-### **Sexuality Education**
-
 #### **Zhonghua Secondary School**
 
 ##### **MOE Sexuality Education in Schools** 

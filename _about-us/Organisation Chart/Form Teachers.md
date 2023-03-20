@@ -4,8 +4,6 @@ permalink: /about-us/organisation-chart/form-teachers/
 description: ""
 third_nav_title: Organisation Chart
 ---
-### **Form Teachers**
-
 #### **Secondary 1**
 
 | Class | Year Head / Form Teacher | Email | Contact |

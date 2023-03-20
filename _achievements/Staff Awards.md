@@ -3,8 +3,6 @@ title: Staff Awards
 permalink: /achievements/staff-awards/
 description: ""
 ---
-### **Staff Awards**
-
 |  |  |
 |---|---|
 | <br>National Day Awards 2022 | Mrs Ho-Tam Mee Fong (Commendation Medal)<br>Mdm Tan Teing Im (Long Service Medal)<br>Mr Lim Yong Khern (Long Service Medal) |

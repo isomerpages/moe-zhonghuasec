@@ -3,7 +3,6 @@ title: Student Leadership Development
 permalink: /programmes/student-leadership-development/
 description: ""
 ---
-### **Student Leadership Development**
 The Student Leadership Programme @ ZHSS programme aims to provide students with a roadmap of the school's intent to develop essential attributes and competencies that future leaders should embody. This roadmap clearly defines our vision, mission, belief, framework, and our approach to ensure every student is given the opportunity to grow as a leader in their 4 or 5 year journey with us.
 
 |  |  |

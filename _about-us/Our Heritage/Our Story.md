@@ -4,7 +4,6 @@ permalink: /about-us/our-heritage/our-story/
 description: ""
 third_nav_title: Our Heritage
 ---
-### **Our Story**
 <p><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/images/story.jpg">
 <img style="width:85%" src="/images/story.jpg">
 </a></p>

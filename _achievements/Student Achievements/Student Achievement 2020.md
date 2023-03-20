@@ -4,8 +4,6 @@ permalink: /achievements/Student-Achievements/student-achievement-2020/
 description: ""
 third_nav_title: Student Achievements
 ---
-### **Student Achievements 2020**
-
 #### **Co-Curricular Activities**
 
 | Uniformed Groups |  |

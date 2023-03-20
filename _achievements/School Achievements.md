@@ -3,7 +3,6 @@ title: School Achievements
 permalink: /achievements/school-achievements/
 description: ""
 ---
-### **School Achievements**
 #### **Ministry of Education Awards (2015 - 2020)**
 *   School Distinction Award
 *   Best Practice  (Teaching & Learning)

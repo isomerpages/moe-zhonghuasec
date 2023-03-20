@@ -4,8 +4,6 @@ permalink: /programmes/zhonghua-signature-programmes/
 description: ""
 third_nav_title: Zhonghua Signature Programmes
 ---
-### **Zhonghua Signature Programmes**
-
 <p><a href="https://www.zhonghuasec.moe.edu.sg/programmes/zhonghua-signature-programmes/aep/">
 <img style="width:33%" src="/images/zsp1.jpg" align=left>
 </a></p>	

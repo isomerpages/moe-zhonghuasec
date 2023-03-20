@@ -4,7 +4,6 @@ permalink: /about-us/rules-and-regulations/
 description: ""
 third_nav_title: Rules & Regulations
 ---
-### **Rules & Regulations**
 #### **Punctuality** 
 *   Students must be punctual for school, lessons, CCA and any other activities organised by the school.
 *   Music will be played at 7.15 am as a signal for students to make their way to the assembly area.

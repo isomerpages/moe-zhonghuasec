@@ -3,10 +3,7 @@ title: CCA
 permalink: /cca/
 description: ""
 ---
-### **CCA**
-
 #### **Clubs & Societies**
-
 
 <p><a href="https://www.zhonghuasec.moe.edu.sg/cca/clubs-and-societies/art/">
 <img style="width:19%" src="/images/cca1.jpg" align=left>

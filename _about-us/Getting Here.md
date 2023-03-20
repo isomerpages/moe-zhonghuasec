@@ -3,7 +3,6 @@ title: Getting Here
 permalink: /about-us/getting-here/
 description: ""
 ---
-### **Getting Here**
 Please click on the video to find out how to get to Zhonghua Secondary School from Serangoon MRT Station and Bus Interchange.
 
 Sit back and enjoy!

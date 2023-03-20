@@ -3,9 +3,6 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-
-
-### **Announcements**
 **MOE Financial Assistance (FAS) Application Form 2023** [Read more](/files/a1.pdf)
 
 -------------------------------------------------------------------------------

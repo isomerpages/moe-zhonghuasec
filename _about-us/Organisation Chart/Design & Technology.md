@@ -4,8 +4,6 @@ permalink: /about-us/organisation-chart/dnt/
 description: ""
 third_nav_title: Organisation Chart
 ---
-### **Design & Technology**
-
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
 | Mr Terence Tan | Subject Head - D&T | [tan_eu-yi@moe.edu.sg](mailto:tan_eu-yi@moe.edu.sg) | 65938-172 |

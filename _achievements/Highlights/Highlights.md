@@ -4,8 +4,6 @@ permalink: /achievements/highlights/
 description: ""
 third_nav_title: Highlights
 ---
-### **Highlights**
-
 <p><a href="https://www.zhonghuasec.moe.edu.sg/achievements/highlights/1/">
 <figure>	
 <img style="width:40%" src="/images/Guided Tours 2022.jpg" align=left>

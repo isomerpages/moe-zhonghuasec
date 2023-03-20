@@ -4,7 +4,6 @@ permalink: /departments/student-development/discipline/
 description: ""
 third_nav_title: Student Development
 ---
-### **Discipline**
 #### **Discipline Approach**
 The discipline approach in Zhonghua Secondary School is one that is not punitive but of developing the child holistically. We are disciplinarians who aim to support the child and educate him/her of any wrongdoing. As the saying goes, “it takes a village to raise a child”. Thus, we will involve parents when necessary to support and educate the child as we recognise that parents play an important role in the upbringing of the child. We will also re-direct every child’s focus from “not doing it wrong” to “doing it right”.
 

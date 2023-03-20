@@ -4,7 +4,6 @@ permalink: /about-us/our-heritage/our-crest-and-school-uniform/
 description: ""
 third_nav_title: Our Heritage
 ---
-### **Our Crest & School Uniform**
 #### **Our School Crest**
 
 <img src="/images/crest%20and%20sch%20uniform%201.png" style="width:65%">
