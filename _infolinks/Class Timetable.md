@@ -10,7 +10,7 @@ description: ""
 | **Sec 1** |  |  |  |  |  |  |  |
 | [1C1](/files/1C1.pdf) | [1C2](/files/1C2.pdf) | [1C3](/files/1C3.pdf) | [1C4](/files/1C4.pdf) | [1C5](/files/1C5.pdf) | [1C6](/files/1C6.pdf) | [1C7](/files/1C7.pdf) | [1C8](/files/1C8.pdf) |
 | **Sec 2** |  |  |  |  |  |  |  |
-| [2I1](/files/Term 1 2I1.pdf) | [2I2](/files/Term 1 2I2.pdf) | [2I3](/files/Term 1 2I3.pdf) | [2I4](/files/Term 1 2I4.pdf) | [2I5](/files/Term 1 2I5.pdf) | [2I6](/files/Term 1 2I6.pdf) | [2I7](/files/Term 1 2I7.pdf) | [2I8](/files/Term 1 2I8.pdf) |
+| [2I1](/files/2I1.pdf) | [2I2](/files/2I2.pdf) | [2I3](/files/2I3.pdf)| [2I4](/files/2I4.pdf) | [2I5](/files/2I5.pdf) | [2I6](/files/2I6.pdf) | [2I7](/files/2I7.pdf) | [2I8](/files/2I8.pdf)|
 | **Sec 3** |  |  |  |  |  |  |  |
 | [3R1](/files/Term 1 3R1.pdf) | [3R2](/files/Term 1 3R2.pdf) | [3R3](/files/Term 1 3R3.pdf) | [3R4](/files/Term 1 3R4.pdf) | [3R5](/files/Term 1 3R5.pdf) | [3R6](/files/Term 1 3R6.pdf) | [3R7](/files/Term 1 3R7.pdf) | [3R8](/files/Term 1 3R8.pdf) |
 | **Sec 4** |  |  |  |  |  |  |  |
