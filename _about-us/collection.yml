@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Stakeholders/.keep
       - About Us.md
       - Principal's Message.md
       - Our Vision, Mission, Values.md
@@ -26,6 +25,7 @@ collections:
       - Our People/Science.md
       - Our People/Student Development.md
       - Our People/Executive & Administration.md
+      - Our Stakeholders/.keep
       - Parent Support Group/.keep
       - Parent Support Group/Parent Support Group.md
       - Parent Support Group/Events.md
