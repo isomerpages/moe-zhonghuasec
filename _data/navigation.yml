@@ -5,18 +5,16 @@ links:
     sublinks:
       - title: Principal's Message
         url: /about-us/principals-message/
-      - title: Vision, Mission, Values
+      - title: Our Vision, Mission, Values
         url: /about-us/vision-mission-values/
       - title: Our Heritage
         url: /about-us/our-heritage/
-      - title: Full Subject-Based Banding
-        url: /about-us/full-subject-based-banding/
+      - title: Our People
+        url: /about-us/organisation-chart/
+      - title: Our Stakeholders
+        url: /about-us/our-stakeholders/sac/
       - title: Calendar
         url: /about-us/calendar/
-      - title: Organisation Chart
-        url: /about-us/organisation-chart/
-      - title: Parent Support Group
-        url: /about-us/psg
       - title: Rules & Regulations
         url: /about-us/rules-and-regulations/
       - title: Getting Here
@@ -83,6 +81,8 @@ links:
         url: /programmes/talent-development-programme/
       - title: Student Leadership Development
         url: /programmes/student-leadership-development/
+      - title: Full Subject Based Banding
+        url: /programmes/full-subject-based-banding/
   - title: Contact Us
     url: /contactus/
   - title: Infolinks
