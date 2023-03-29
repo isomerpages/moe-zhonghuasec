@@ -11,7 +11,8 @@ third_nav_title: Our People
 | Year Head | Mr Ang Chun Hua | [ang_chun_hua@moe.edu.sg](mailto:ang_chun_hua@moe.edu.sg) | 65938-155 |
 | Asst Year Head | Mr Christopher Lim Wei Chern | [christopher_lim_wei_chern@moe.edu.sg](mailto:christopher_lim_wei_chern@moe.edu.sg) | 65938-135 |
 | 1C1   | Ms Ang Hwee Qin | [ang_hwee_qin@moe.edu.sg](mailto:ang_hwee_qin@moe.edu.sg) | 65938-181 |
-|  | Ms Nurliza Bte Yusof | [nurliza_yusof@moe.edu.sg](mailto:mailto:nurliza_yusof@moe.edu.sg) | 65938-165 |
+|  | Ms Nurliza Bte Yusof | [nurliza_yusof@moe.edu.sg](mailto:nurliza_yusof@moe.edu.sg) | 65938-165 |
+| | Ms Joy Eu Li Xin | [joy_eu_li_xin@moe.edu.sg](mailto:joy_eu_li_xin@moe.edu.sg) | 65938-206 |
 | 1C2 | Ms Chew Lixian | [lixian_chew@moe.edu.sg](mailto:lixian_chew@moe.edu.sg) | 65938-135 |
 |  | Mr Ng Thiam Seng | [ng_thiam_seng@moe.edu.sg](mailto:ng_thiam_seng@moe.edu.sg) | 65938-153 |
 | 1C3 | Mr Eddie Pang Kar Loon | [pang_kar_loon_eddie@moe.edu.sg](mailto:pang_kar_loon_eddie@moe.edu.sg) | 65938-172 |
@@ -47,6 +48,7 @@ third_nav_title: Our People
 |  | Ms Tai Jia Hui | [tai_jia_hui@moe.edu.sg](mailto:tai_jia_hui@moe.edu.sg)| 65938-134 |
 | 2I7 | Ms Tan Bee Yeng Magdalene | [tan_bee_yeng_magdalene@moe.edu.sg](mailto:tan_bee_yeng_magdalene@moe.edu.sg)| 65938-181 |
 |  | Mr Imaduddin Ahmad | [imaduddin_ahmad_chevi_rafiudin@moe.edu.sg](mailto:imaduddin_ahmad_chevi_rafiudin@moe.edu.sg)| 65938-140 |
+| | Mr Teo Ang Guan | [teo_ang_guan@moe.edu.sg](mailto:teo_ang_guan@moe.edu.sg) | 65938-206 |
 | 2I8 | Mr Loh Guan Wee Vincent | [loh_guan_wee_vincent@moe.edu.sg](mailto:loh_guan_wee_vincent@moe.edu.sg)| 65938-150 |
 |   | Mdm Indra Devi  | [indra_devi_k_velayuthan@moe.edu.sg](mailto:indra_devi_k_velayuthan@moe.edu.sg) | 65938-164 |
 
