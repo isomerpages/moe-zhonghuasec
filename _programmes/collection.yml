@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Full Subject Based Banding @ Zhonghua.md
       - Zhonghua Signature Programmes/Zhonghua Signature Programmes.md
       - Zhonghua Signature Programmes/Art Elective Programme (AEP).md
       - Zhonghua Signature Programmes/Cross Cultural Programme.md
