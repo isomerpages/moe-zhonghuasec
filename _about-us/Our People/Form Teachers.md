@@ -103,5 +103,3 @@ third_nav_title: Our People
 |
 
 #### **Non Form Teachers**
-| Class | Year Head / Form Teacher | Email | Contact |
-|---|---|---|---|
