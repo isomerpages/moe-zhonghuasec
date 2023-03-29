@@ -4,7 +4,6 @@ permalink: /about-us/organisation-chart/form-teachers/
 description: ""
 third_nav_title: Our People
 ---
-
 #### **Secondary 1**
 
 | Class | Year Head / Form Teacher | Email | Contact |
@@ -99,3 +98,8 @@ third_nav_title: Our People
 | 4E8 | Mr Goh Tze Mian | [goh_tze_mian@moe.edu.sg](mailto:goh_tze_mian@moe.edu.sg) | 65938-146 |
 |  | Ms Isabelle Chua | [chua_fang_yee_isabelle@moe.edu.sg](mailto:chua_fang_yee_isabelle@moe.edu.sg) | 65938-148 |
 | 5E1 | Mr Lim Yong Khern  | [lim_yong_khern@moe.edu.sg](mailto:lim_yong_khern@moe.edu.sg)  | 65938-126 |
+|
+
+#### **Non Form Teachers**
+| Class | Year Head / Form Teacher | Email | Contact |
+|---|---|---|---|
