@@ -4,3 +4,5 @@ permalink: /about-us/our-stakeholders/sac/
 description: ""
 third_nav_title: Our Stakeholders
 ---
+The School Advisory Committee plays an active role in providing guidance to the school through the collective wealth of experience of its members with diverse backgrounds such as professionals, businessmen and grassroots leaders. Needy students also benefit from financial assistance provided by the School Advisory Committee. Our School Advisory Committee comprises the following personnel:
+
