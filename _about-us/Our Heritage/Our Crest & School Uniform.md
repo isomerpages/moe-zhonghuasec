@@ -1,5 +1,5 @@
 ---
-title: Our Crest & School Uniform
+title: Our Crest &amp; School Uniform
 permalink: /about-us/our-heritage/our-crest-n-school-uniform/
 description: ""
 third_nav_title: Our Heritage
@@ -8,7 +8,7 @@ third_nav_title: Our Heritage
 
 <img src="/images/crest%20and%20sch%20uniform%201.png" style="width:65%">
 
-The school adopted a school crest in the shape of a Begonia leaf. The Begonia is a very hardy plant with red flowers and dark green leaves. Its ability to survive naturally in almost any kind of condition represents Chung Hwa’s adaptability and flexibility to changes, and hence, its ability to survive against all odds.    
+The school adopted a school crest in the shape of a Begonia leaf. The Begonia is a very hardy plant with red flowers and dark green leaves. Its ability to survive naturally in almost any kind of condition represents Chung Hwa’s adaptability and flexibility to changes, and hence, its ability to survive against all odds.&nbsp;&nbsp;  
   
 The colour GREEN signifies freshness, youth, growth, life, vitality and resilience.  
 The colour WHITE is the emblem of purity, virtue and brightness.

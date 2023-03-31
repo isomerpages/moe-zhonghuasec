@@ -51,7 +51,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-2rp9"> A*STAR National Science Scholarship (Imperial College London)</td>
-    <td class="tg-2rp9">Clare  Clare Xie Yijia (2015)</td>
+    <td class="tg-2rp9">Clare Xie Yijia (2015)</td>
   </tr>
   <tr>
     <td class="tg-2rp9">MOE Humanities Scholarship</td>
