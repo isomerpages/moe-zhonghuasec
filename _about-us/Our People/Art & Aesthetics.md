@@ -1,10 +1,9 @@
 ---
 title: Art & Aesthetics
-permalink: /about-us/organisation-chart/art-and-aesthetics/
+permalink: /about-us/our-people/art-and-aesthetics/
 description: ""
 third_nav_title: Our People
 ---
-
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
 | Ms Ang Hwee Qin | Art Coordinator | [ang_hwee_qin@moe.edu.sg](mailto:ang_hwee_qin@moe.edu.sg) | 65938-181 |

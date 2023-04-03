@@ -1,10 +1,9 @@
 ---
-title: 2021 Events
-permalink: /about-us/psg/events/2021/
+title: PSG 2021 Events
+permalink: /about-us/our-stakeholders/psg/events/2021/
 description: ""
 third_nav_title: Our Stakeholders
 ---
-
 |  |  |
 |---|---|
 | 16 January  | Sec 1 Parents eForum |

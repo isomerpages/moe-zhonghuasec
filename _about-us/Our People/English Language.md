@@ -1,10 +1,9 @@
 ---
 title: English Language
-permalink: /about-us/organisation-chart/eng/
+permalink: /about-us/our-people/eng/
 description: ""
 third_nav_title: Our People
 ---
-
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
 | Mrs Ng Kiat Bee | HOD – English Language & Literature | [lee_kiat_bee@moe.edu.sg](mailto:lee_kiat_bee@moe.edu.sg) | 65938-123 |

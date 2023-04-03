@@ -1,10 +1,9 @@
 ---
-title: 2020 Events
-permalink: /about-us/psg/events/2020/
+title: PSG 2020 Events
+permalink: /about-us/our-stakeholders/psg/events/2020/
 description: ""
 third_nav_title: Our Stakeholders
 ---
-
 <figure>
 <img src="/images/2020event1.png" style="width:75%">
 <figcaption> Breakfast Talk with Principal on 11 Aug 2020  

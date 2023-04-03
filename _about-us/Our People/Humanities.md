@@ -1,10 +1,9 @@
 ---
 title: Humanities
-permalink: /about-us/organisation-chart/humanities/
+permalink: /about-us/our-people/humanities/
 description: ""
 third_nav_title: Our People
 ---
-
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
 | Mr Hazry Hamzah | HOD – Humanities <br> School Staff Developer (Covering) | [hazry_hamzah@moe.edu.sg](mailto:hazry_hamzah@moe.edu.sg) | 65938-118 |

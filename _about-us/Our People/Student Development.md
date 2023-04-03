@@ -1,10 +1,9 @@
 ---
 title: Student Development
-permalink: /about-us/organisation-chart/student-development/
+permalink: /about-us/our-people/student-development/
 description: ""
 third_nav_title: Our People
 ---
-
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
 | Mr Ang Chun Hua | Year Head - Lower Sec | [ang_chun_hua@moe.edu.sg](mailto:ang_chun_hua@moe.edu.sg) | 65938-155 |

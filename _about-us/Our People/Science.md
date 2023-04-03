@@ -1,10 +1,9 @@
 ---
 title: Science
-permalink: /about-us/organisation-chart/science/
+permalink: /about-us/our-people/science/
 description: ""
 third_nav_title: Our People
 ---
-
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
 | Mr Tan Jun Hong | Subject Head – Physics | [tan_jun_hong@moe.edu.sg](mailto:tan_jun_hong@moe.edu.sg) |  65938-151 |

@@ -1,10 +1,9 @@
 ---
 title: Parent Support Group
-permalink: /about-us/psg/
+permalink: /about-us/our-stakeholders/psg/
 description: ""
 third_nav_title: Our Stakeholders
 ---
-
 #### **Welcome!**
 Zhonghua Secondary School Parent Support Group was set up in September 2001 with the blessing of the school.
 
@@ -32,4 +31,4 @@ Do visit the Zhonghua Parent Support Group Microsite for PSG events and photos:
 Please sign up using this link:
 [https://tinyurl.com/zhsspsg](https://tinyurl.com/zhsspsg)
 
-Alternatively, you may contact PSG: [zhonghuasecpsg@gmail.com](mailto:zhonghuasecpsg@gmail.com)
+Alternatively, you may&nbsp;contact PSG: [zhonghuasecpsg@gmail.com](mailto:zhonghuasecpsg@gmail.com)

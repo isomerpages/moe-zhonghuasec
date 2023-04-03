@@ -1,10 +1,9 @@
 ---
 title: ICT
-permalink: /about-us/organisation-chart/ict/
+permalink: /about-us/our-people/ict/
 description: ""
 third_nav_title: Our People
 ---
-
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
 | Mr Low Kee Ley | HOD – ICT | [low_kee_ley@moe.edu.sg](mailto:low_kee_ley@moe.edu.sg) | 65938-115 |

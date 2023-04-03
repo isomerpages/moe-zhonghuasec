@@ -1,10 +1,9 @@
 ---
 title: Executive & Administration
-permalink: /about-us/organisation-chart/executive-and-administration/
+permalink: /about-us/our-people/executive-and-administration/
 description: ""
 third_nav_title: Our People
 ---
-
 | Name | Designation | Email Address |
 |---|---|---|
 | Mr Tham Peng Seng | Administration Manager | [tham_peng_seng@moe.edu.sg](mailto:tham_peng_seng@moe.edu.sg) |

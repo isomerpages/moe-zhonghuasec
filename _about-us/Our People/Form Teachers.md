@@ -1,6 +1,6 @@
 ---
 title: Form Teachers
-permalink: /about-us/organisation-chart/form-teachers/
+permalink: /about-us/our-people/form-teachers/
 description: ""
 third_nav_title: Our People
 ---

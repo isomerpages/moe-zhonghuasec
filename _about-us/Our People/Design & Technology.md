@@ -1,10 +1,9 @@
 ---
 title: Design & Technology
-permalink: /about-us/organisation-chart/dnt/
+permalink: /about-us/our-people/dnt/
 description: ""
 third_nav_title: Our People
 ---
-
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
 | Mr Terence Tan | Subject Head - D&T | [tan_eu-yi@moe.edu.sg](mailto:tan_eu-yi@moe.edu.sg) | 65938-172 |

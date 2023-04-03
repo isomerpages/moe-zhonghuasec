@@ -1,10 +1,9 @@
 ---
 title: Mother Tongue Languages
-permalink: /about-us/organisation-chart/mtl/
+permalink: /about-us/our-people/mtl/
 description: ""
 third_nav_title: Our People
 ---
-
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
 | Mdm Koh Lee Keng | HOD – Mother Tongue | [koh_lee_keng@moe.edu.sg](mailto:koh_lee_keng@moe.edu.sg) | 65938-120 |
