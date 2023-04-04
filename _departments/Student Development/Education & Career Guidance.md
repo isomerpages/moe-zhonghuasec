@@ -1,5 +1,5 @@
 ---
-title: Education & Career Guidance
+title: Education &amp; Career Guidance
 permalink: /departments/student-development/ecg/
 description: ""
 third_nav_title: Student Development
@@ -18,7 +18,7 @@ Students learn to:
 
 Zhonghua Sec has an ECG Counsellor to provide support to students (individually or in small groups). Students who would like to explore more in areas such as subject choices, course options or to find out more about their strengths and interests can have a chat with our school’s ECG Counsellor.
 
-To make an appointment with Ms Catherine Ng (ECG Counsellor), please email her at [Ng\_Hui\_Fong\_Catherine@Schools.gov.sg](mailto:Ng_Hui_Fong_Catherine@Schools.gov.sg).
+To make an appointment with Ms Catherine Ng (ECG Counsellor), please email her at&nbsp;[Ng\_Hui\_Fong\_Catherine@Schools.gov.sg](mailto:Ng_Hui_Fong_Catherine@Schools.gov.sg).
 
 <img src="/images/ecg.jpg" style="width:75%">
 
@@ -27,7 +27,7 @@ To make an appointment with Ms Catherine Ng (ECG Counsellor), please email her a
 | Title | Links | Stream |
 |---|---|---|
 | Joint Intake Exercise (JIE Admission Booklet) | [https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf?sfvrsn=182e5d54_2 ](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf?sfvrsn=182e5d54_2 ) | 4 Normal (Academic)<br>4 Normal (Technical) |
-| Joint Admission Exercise (JAE information Booklet) | [https://www.moe.gov.sg/-/media/files/post-secondary/2023-jae/2023-jae-booklet.ashx?la=en&hash=AEC48D61A122C8011AD4CAE0E978567828BB1EDB](https://www.moe.gov.sg/-/media/files/post-secondary/2023-jae/2023-jae-booklet.ashx?la=en&hash=AEC48D61A122C8011AD4CAE0E978567828BB1EDB)| 4 Express<br>5 Normal (Academic) |
+| Joint Admission Exercise (JAE information Booklet) | [https://www.moe.gov.sg/-/media/files/post-secondary/2023-jae/2023-jae-booklet.ashx?la=en&amp;hash=AEC48D61A122C8011AD4CAE0E978567828BB1EDB](https://www.moe.gov.sg/-/media/files/post-secondary/2023-jae/2023-jae-booklet.ashx?la=en&amp;hash=AEC48D61A122C8011AD4CAE0E978567828BB1EDB)| 4 Express<br>5 Normal (Academic) |
 | Poly Foundation Programme (PFP) | [https://pfp.polytechnic.edu.sg/PFP/pfp_introduction.html](https://pfp.polytechnic.edu.sg/PFP/pfp_introduction.html) | 4 Normal (Academic) |
 | Direct-entry-scheme to Polytechnic Programme (DPP) | [https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/direct-entry-scheme-to-polytechnic-programme](https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/direct-entry-scheme-to-polytechnic-programme) | 4 Normal (Academic) |
 | Nanyang Academic of Fine Arts (NAFA) Foundation Programme   | [https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/](https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/) | 4 Normal (Academic) |
@@ -38,7 +38,7 @@ To make an appointment with Ms Catherine Ng (ECG Counsellor), please email her a
 | Courses available at the Polytechnics | [https://pfp.polytechnic.edu.sg/PFP/pfp_courses.html](https://pfp.polytechnic.edu.sg/PFP/pfp_courses.html)| 4 Express<br>5 Normal (Academic)<br>4 Normal (Academic)<br>4 Normal (Technical) |
 | Courses available at the ITE | [https://www.ite.edu.sg/admissions/full-time-courses](https://www.ite.edu.sg/admissions/full-time-courses) | 4 Express<br>5 Normal (Academic)<br>4 Normal (Academic)<br>4 Normal (Technical) |
 | La Salle College of the Arts (Diploma) | [https://www.lasalle.edu.sg/admissions/diploma-admissions](https://www.lasalle.edu.sg/admissions/diploma-admissions) | 4 Express<br>5 Normal (Academic) |
-| Nanyang Academic of Fine Arts (NAFA) Diploma | [https://www.nafa.edu.sg/courses/diploma](https://www.nafa.edu.sg/courses/diploma) | 4 Express<br>5 Normal (Academic) |
+| Nanyang Academic of Fine Arts (NAFA) Diploma | [https://www.nafa.edu.sg/admissions/diploma-admissions](https://www.nafa.edu.sg/admissions/diploma-admissions) | 4 Express<br>5 Normal (Academic) |
 |
 
 #### **Other Useful Links**
@@ -48,8 +48,8 @@ To make an appointment with Ms Catherine Ng (ECG Counsellor), please email her a
 | My-Skills-Future Portal (Secondary) | [https://www.myskillsfuture.gov.sg/content/student/en/secondary.html](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html) | ECG Portal to explore the world of work and plan education pathways |
 | Explore different industries  (videos) | [https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape.html](https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape.html)| An introduction to job roles in the various industries in Singapore |
 | ECG Resources | [https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview)| A collection of ECG Resources, from e-book to resource guide |
-| Parent Guide | [https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx?la=en&hash=83A2BEF8FAA9394B79F1E4F8ED145A562BB240F8](https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx?la=en&hash=83A2BEF8FAA9394B79F1E4F8ED145A562BB240F8)| A guide for parents/guardians in ECG |
-| The Next Step Forward | [https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&hash=861D380E656F90365A6CB50CB53383232AEF1972](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&hash=861D380E656F90365A6CB50CB53383232AEF1972)| An e-book that illustrates how 54 individuals go through diverse education and career pathways |
+| Parent Guide | [https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx?la=en&amp;hash=83A2BEF8FAA9394B79F1E4F8ED145A562BB240F8](https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx?la=en&amp;hash=83A2BEF8FAA9394B79F1E4F8ED145A562BB240F8)| A guide for parents/guardians in ECG |
+| The Next Step Forward | [https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&amp;hash=861D380E656F90365A6CB50CB53383232AEF1972](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&amp;hash=861D380E656F90365A6CB50CB53383232AEF1972)| An e-book that illustrates how 54 individuals go through diverse education and career pathways |
 | Post-Secondary Education Pathways | [https://www.moe.gov.sg/post-secondary](https://www.moe.gov.sg/post-secondary) <br>[https://www.moe.gov.sg/post-secondary/admissions](https://www.moe.gov.sg/post-secondary/admissions)| A list of post-secondary institutions |
 | Joint Polytechnic Admissions Exercise (JPAE) | [https://jpae.polytechnic.edu.sg/app](https://jpae.polytechnic.edu.sg/app) | Progression from ITE to Poly |
 | ECG Centre at MOE | [https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview)| Students-in-transition and their parents may book an appointment to see an ECG Counsellor at ECG Centre @MOE (Grange Road)   |
