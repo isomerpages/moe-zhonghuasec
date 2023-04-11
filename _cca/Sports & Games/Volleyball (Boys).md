@@ -2,33 +2,8 @@
 title: Volleyball (Boys)
 permalink: /cca/sports/volleyball/
 description: ""
-third_nav_title: Sports & Games
+third_nav_title: Sports &amp; Games
 ---
-#### **Teachers in Charge:**
-
-|  |  |
-|---|---|
-| Mr Gabriel Ho | [ho_teng_kui_gabriel@moe.edu.sg](mailto:ho_teng_kui_gabriel@moe.edu.sg)  |
-| Mr Eswaran  | [eswaran_ramachandran@moe.edu.sg](mailto:eswaran_ramachandran@moe.edu.sg) |
-| Mdm Zhang Yan | [zhang_yan_a@moe.edu.sg](mailto:zhang_yan_a@moe.edu.sg) |
-|
-
-#### **Coaches:**
-
-|  |  |
-|---|---|
-| B Division<br>C Division | Mr Lew Chin Onn<br>Mr Chang Kok Whye |
-|
-
-Link to **[2023 CCA Schedule](/files/2023%20CCA%20Schedule.pdf)**
-
-#### **Student Leaders:**
-
-|  |  |  |
-|---|---|---|
-| B Division<br> | Captain<br>Vice-Captain<br>Vice-Captain | Leow Wen Ze (3E2 2022)<br>Chia Kai En Champion (3E3 2022)<br>Goh Yu Jie (3E4 2022) |
-|
-
 At Volleyball in Zhonghua, members are trained in the areas of:<br>
 (a) Game Technique (ball skills – set, spike, dig);<br>
 (b) Physical Fitness (strength, speed, endurance, agility, power, flexibility);<br>
@@ -46,10 +21,10 @@ Volleyball members also benefit from a range of experiential learning opportunit
 * 2019 South Zone B Division Volleyball Championship – 2nd Position
 * 2021 South Zone B Division Volleyball Championship – 4th Position
 
-<img src="/images/volleyball1.jpg" style="width:49%" align=left>
-<img src="/images/volleyball2.jpg" style="width:49%" align=right>
+<img src="/images/volleyball1.jpg" style="width:49%" align="left">
+<img src="/images/volleyball2.jpg" style="width:49%" align="right">
 
 <br clear="left">
 
-<img src="/images/volleyball3.jpg" style="width:49%" align=left>
-<img src="/images/volleyball4.jpg" style="width:49%" align=right>
+<img src="/images/volleyball3.jpg" style="width:49%" align="left">
+<img src="/images/volleyball4.jpg" style="width:49%" align="right">

@@ -4,30 +4,6 @@ permalink: /cca/uniformed-group/scouts/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-#### **Teachers in Charge:**
-
-|  |  |
-|---|---|
-| Mr Ang Lee Chun Lionel | [Ang_lee_chun_lionel@moe.edu.sg](mailto:Ang_lee_chun_lionel@moe.edu.sg) |
-| Mr Tan Jun Hong | [Tan_jun_hong@moe.edu.sg](mailto:Tan_jun_hong@moe.edu.sg) |
-| Ms Amanda Tan | [Tan_si_hui_amanda@moe.edu.sg](mailto:Tan_si_hui_amanda@moe.edu.sg) |
-|
-
-#### **VAL/Cadet Officers:**
-Chia Xin Yang (Assistant Group Scout Leader)<br>
-Clarrance Seah (Rover) <br>
-Ramses Yap (Rover)
-
-Link to **[2023 CCA Schedule](/files/2023%20CCA%20Schedule.pdf)**
-
-#### **Student Leaders:**
-
-|  |  |
-|---|---|
-| Position | Name |
-| <br><br>Patrol Leaders | Neo Kai Yang Joel (3E5 2022)<br>Zander Ong (3E4 2022)<br>Khoo Kai Yang (3E4 2022)<br>James Khor Er Wen (3E1 2022)<br>Rafiqah Binte Mohamad Redzuan (3N1 2022)<br>Belinda Leong Fong Mei (3N2 2022)<br>Lim Jia Xin (3E3 2022) |
-|
-
 Why Scouting? Scouting is about fun, adventure, and discovery. Scouting is also about achievements, brotherhood and sisterhood, friendship and leadership. 
 
 The Zhonghua Scout Group was started in 2000, with our first intake of Girl Scouts in 2011.
@@ -49,9 +25,9 @@ Our Scout group has performed well over the years. We have won the Bronze, Silve
 2018    Frank Cooper Sands Award – Gold<br>
 2019    Frank Cooper Sands Award – Gold
 
-<img src="/images/scouts1.jpg" style="width:49%" align=left>
-<img src="/images/scouts2.jpg" style="width:49%" align=right>
+<img src="/images/scouts1.jpg" style="width:49%" align="left">
+<img src="/images/scouts2.jpg" style="width:49%" align="right">
 
 <br clear="left">
 
-<img src="/images/scouts3.jpg" style="width:49%" align=left>
+<img src="/images/scouts3.jpg" style="width:49%" align="left">

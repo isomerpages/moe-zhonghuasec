@@ -4,43 +4,6 @@ permalink: /cca/performing-arts/guzheng/
 description: ""
 third_nav_title: Performing Arts
 ---
-#### **Teachers in Charge:**
-
-|  |  |
-|---|---|
-| Mrs Ho-Tam Mee Fong | [tam_mee_fong@moe.edu.sg](mailto:tam_mee_fong@moe.edu.sg) |
-| Ms Yeo Shu Ling | [jalene_yeo_shu_ling@moe.edu.sg](mailto:jalene_yeo_shu_ling@moe.edu.sg) 
-| Ms Koh Kia Li Charmaine| [koh_kia_li_charmaine@moe.edu.sg](mailto:koh_kia_li_charmaine@moe.edu.sg) 
-|Ms Julia Yeo | [yeo_yun_fang_julia@moe.edu.sg](mailto:yeo_yun_fang_julia@moe.edu.sg) |
-|
-
-#### **Trainers:**
-Ms Cui Jingyi<br>
-Ms Wang Jing
-
-Link to **[2023 CCA Schedule](/files/2023%20CCA%20Schedule.pdf)**
-
-#### **Student Leaders:**
-
-| Position | Name |
-|---|---|
-| President | Yeo Hui Wen Charlene (3N2 2022) |
-|  | Yvette Tieu Kiu Lin (3E4 2022) |
-| Vice-Presidents | Yeo Eng Eng Donna (3E3 2022) |
-|  | Lee Yi Xin Gisele (3E2 2022) |
-| Student Conductor | Sarah Lim Wan Yu (3E3 2022) |
-|  | Low Rui En Raeann (3E5 2022) |
-| Sectional Leaders | Thongsavai Asaraya (3E5 2022) |
-|  | Yong Qian Le (3E1 2022) |
-| Secretary / Treasurer | Law Jia Hian (3E1 2022) |
-|  | Tricia Goh Lok Yee (3E1 2022) |
-| Event Leaders | Phoebe Chua (3N1 2022) |
-|  | Alazne Chua Wan Yun (3E5 2022) |
-|  | Chua Jia En (3E1 2022) |
-| Logistic Leaders | Amelia Koh Shuzhen (3E2 2022) |
-|  | Vanessa Tau Yee Chun (3E5 2022) |
-|
-
 The Zhonghua Guzheng Ensemble currently boasts a strength of 70 members. We aim to cultivate an appreciation of and interest in Guzheng, and also to promote zheng music among our members.  
 
 Under the guidance of Ms Cui Jingyi, the Ensemble has grown from strength to strength in the past 18 years.
@@ -52,10 +15,10 @@ Guzheng Ensemble members showcase their skills and talents in school events and 
 * Singapore Youth Festival Arts Presentation 2019 – Certificate of Distinction
 * Singapore Youth Festival Arts Presentation 2021 – Certificate of Distinction
 
-<img src="/images/guzheng1.jpg" style="width:49%" align=left>
-<img src="/images/guzheng2.jpg" style="width:49%" align=right>
+<img src="/images/guzheng1.jpg" style="width:49%" align="left">
+<img src="/images/guzheng2.jpg" style="width:49%" align="right">
 
 <br clear="left">
 
-<img src="/images/guzheng3.jpg" style="width:49%" align=left>
-<img src="/images/guzheng4.jpg" style="width:49%" align=right>
+<img src="/images/guzheng3.jpg" style="width:49%" align="left">
+<img src="/images/guzheng4.jpg" style="width:49%" align="right">
