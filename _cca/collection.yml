@@ -2,29 +2,29 @@ collections:
   cca:
     output: true
     order:
-      - CCA Schedule & Email Addresses.md
       - CCA.md
+      - CCA Schedule & Email Addresses.md
+      - Clubs & Societies/.keep
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/Chinese Society.md
       - Clubs & Societies/ELDDS.md
       - Clubs & Societies/Library.md
       - Clubs & Societies/Infocomm Club.md
-      - Clubs & Societies/.keep
+      - Performing Arts/.keep
       - Performing Arts/Chinese Orchestra.md
       - Performing Arts/Choir.md
       - Performing Arts/Dance.md
       - Performing Arts/Guzheng.md
       - Performing Arts/Symphonic Band.md
-      - Performing Arts/.keep
       - Sports & Games/.keep
       - Sports & Games/Badminton (Girls).md
       - Sports & Games/Basketball (Girls).md
       - Sports & Games/Table Tennis (Boys).md
       - Sports & Games/Volleyball (Boys).md
+      - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/Girls' Brigade.md
       - Uniformed Groups/NCC.md
       - Uniformed Groups/NPCC.md
       - Uniformed Groups/Scouts.md
       - Uniformed Groups/NCDCC.md
-      - Uniformed Groups/.keep
