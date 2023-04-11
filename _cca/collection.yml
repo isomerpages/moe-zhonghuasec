@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA Schedule & Email Addresses.md
       - CCA.md
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/Chinese Society.md
