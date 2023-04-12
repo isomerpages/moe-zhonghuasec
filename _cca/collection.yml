@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA.md
-      - CCA Schedule & Teachers' Emails.md
       - Clubs & Societies/.keep
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/Chinese Society.md
@@ -28,3 +27,4 @@ collections:
       - Uniformed Groups/NPCC.md
       - Uniformed Groups/Scouts.md
       - Uniformed Groups/NCDCC.md
+      - CCA Schedule & Teachers' Emails.md
