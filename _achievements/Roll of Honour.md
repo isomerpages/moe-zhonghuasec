@@ -139,7 +139,15 @@ description: ""
     <th class="tg-apyk">Awardee (Year of Graduation)</th>
   </tr>
 </thead>
-<tbody>
+	<tbody>
+  <tr>
+    <td class="tg-v8el" colspan="2"><span style="background-color:#E7E6E6">2022</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9"> MOE Teaching Award</td>
+    <td class="tg-2rp9">Phoon Yong Jun (2016) </td>
+  </tr>
+</tbody><tbody>
   <tr>
     <td class="tg-v8el" colspan="2"><span style="background-color:#E7E6E6">2021</span></td>
   </tr>
@@ -302,4 +310,4 @@ description: ""
 </tbody>
 </table>
 
-<p>We express our sincerest apologies if any scholar's name is inadvertently left out from the above list. Corrections and queries may be sent to <a href="mailto:teo_kexin_estee@moe.edu.sg">teo_kexin_estee@moe.edu.sg</a></p>
+<p>We express our sincerest apologies if any scholar's name is inadvertently left out from the above list. Corrections and queries may be sent to&nbsp;<a href="mailto:teo_kexin_estee@moe.edu.sg">teo_kexin_estee@moe.edu.sg</a></p>
