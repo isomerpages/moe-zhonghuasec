@@ -14,7 +14,7 @@ Zhonghua Secondary School Parent Support Group was set up in September 2001 with
 </figure>
 
 #### **Vision**
-School and parents work in partnership to support our students’ learning and well-being
+School and parents working in partnership to support our students’ learning and well-being.
 
 #### **Objectives**
 * To provide a supportive network for parents
