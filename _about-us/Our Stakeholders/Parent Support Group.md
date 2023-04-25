@@ -14,7 +14,7 @@ Zhonghua Secondary School Parent Support Group was set up in September 2001 with
 </figure>
 
 #### **Vision**
-School and parents work in partnership to support our students’ learning and well-being
+School and parents working in partnership to support our students’ learning and well-being.
 
 #### **Objectives**
 * To provide a supportive network for parents
@@ -25,10 +25,24 @@ School and parents work in partnership to support our students’ learning and w
 Do visit the Zhonghua Parent Support Group Microsite for PSG events and photos:
 [https://sites.google.com/view/zhsspsg/home](https://sites.google.com/view/zhsspsg/home)
 
-<img src="/images/PSG Microsite 2022.jpg" style="width:50%">
+<img src="/images/PSG Microsite 2022.jpg" style="width:40%">
 
 #### **Join PSG**
 Please sign up using this link:
 [https://tinyurl.com/zhsspsg](https://tinyurl.com/zhsspsg)
+Alternatively, you may&nbsp;contact PSG at [zhonghuasecpsg@gmail.com](mailto:zhonghuasecpsg@gmail.com)
 
-Alternatively, you may&nbsp;contact PSG: [zhonghuasecpsg@gmail.com](mailto:zhonghuasecpsg@gmail.com)
+#### **Calendar of Events**
+| Month | Programme |
+|---|---|
+| January/February | PSG Welcome Tea Party |
+| February | Total Defence Day |
+| February | PSG Breakfast Talk with Principal (1) |
+|  May | Sports Carnival  |
+|  May/June | Family Bonding Day  |
+|  July | PSG Breakfast Talk with Principal (2) |
+|  July | Racial Harmony Day  |
+|  September | Teachers' Day Celebration  |
+|  November |  School Open House |
+|  November |  Sec 4&amp;5 Graduation Night |
+|

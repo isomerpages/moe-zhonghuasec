@@ -11,7 +11,7 @@ third_nav_title: Highlights
 Zhonghua Secondary School Guided Tour 2022
  </figcaption>
 </a></figure><a href="https://www.zhonghuasec.moe.edu.sg/achievements/highlights/1/">	
-</a><p></p>
+</a>
 
 <br clear="left">
 
@@ -22,9 +22,6 @@ Zhonghua Secondary School Guided Tour 2022
 Zhonghua Secondary School Open House 2022
  </figcaption>
 </a></figure><a href="https://www.zhonghuasec.moe.edu.sg/achievements/highlights/2/">	
-</a><p></p>
+</a>
 
 <br clear="left">
-
-
-
