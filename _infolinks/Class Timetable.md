@@ -1,6 +1,6 @@
 ---
 title: Class Timetable
-permalink: /infolinks/class-timetable-for-2023/
+permalink: /infolinks/class-timetable/
 description: ""
 ---
 ### **Class Timetable for 2023**
