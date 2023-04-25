@@ -12,3 +12,5 @@ We welcome all current Primary Six students (or equivalent) to apply for admissi
 *   Student Leadership 
 
 To find out more, visit our DSA Information portal at:  [https://go.gov.sg/zhonghuasec-dsa](https://go.gov.sg/zhonghuasec-dsa)
+
+***(There is no change to the DSA Talent Area for 2024. The updated DSA information for 2024 will be published following the MOE press release on 3 May 2023.)***
