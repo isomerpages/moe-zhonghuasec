@@ -33,6 +33,12 @@ Please sign up using this link:
 Alternatively, you may&nbsp;contact PSG at [zhonghuasecpsg@gmail.com](mailto:zhonghuasecpsg@gmail.com)
 
 #### **Calendar of Events**
+
+| Month | Programme |
+| -------- | -------- | 
+| January/February     | PSG Welcome Tea Party     | 
+
+
 | Month | Programme |
 |---|---|
 | January/February | PSG Welcome Tea Party |
