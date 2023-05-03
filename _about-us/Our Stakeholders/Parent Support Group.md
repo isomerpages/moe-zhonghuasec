@@ -37,7 +37,8 @@ Alternatively, you may&nbsp;contact PSG at [zhonghuasecpsg@gmail.com](mailto:zho
 | Month | Programme |
 | -------- | -------- | 
 | January/February     | PSG Welcome Tea Party     | 
-
+| February     | Total Defence Day     | 
+| February     | PSG Breakfast Talk with Principal (1)     | 
 
 | Month | Programme |
 |---|---|
