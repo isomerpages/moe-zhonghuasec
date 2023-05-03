@@ -39,17 +39,10 @@ Alternatively, you may&nbsp;contact PSG at [zhonghuasecpsg@gmail.com](mailto:zho
 | January/February     | PSG Welcome Tea Party     | 
 | February     | Total Defence Day     | 
 | February     | PSG Breakfast Talk with Principal (1)     | 
-
-| Month | Programme |
-|---|---|
-| January/February | PSG Welcome Tea Party |
-| February | Total Defence Day |
-| February | PSG Breakfast Talk with Principal (1) |
-|  May | Sports Carnival  |
-|  May/June | Family Bonding Day  |
-|  July | PSG Breakfast Talk with Principal (2) |
-|  July | Racial Harmony Day  |
-|  September | Teachers' Day Celebration  |
-|  November |  School Open House |
-|  November |  Sec 4&amp;5 Graduation Night |
-|
+| May     | Sports Carnival     | 
+| May/June     | Family Bonding Day    | 
+| July     | PSG Breakfast Talk with Principal (2)    | 
+| July     | Racial Harmony Day    | 
+| September     | Teachers' Day Celebration   | 
+| November     | School Open House   | 
+| November     | Sec 4&amp;5 Graduation Night  | 
