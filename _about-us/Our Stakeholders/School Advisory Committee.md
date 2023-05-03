@@ -11,7 +11,7 @@ The School Advisory Committee plays an active role in providing guidance to the 
 |---|---|
 | Mr Lim Guan Lee | Chairman | 
 | Mr Low Theng Whee | Vice-Chairman | 
-| Ms Cindy Low | Honorary Secretary/<br>Principal |
+| Ms Cindy Low | Honorary Secretary/Principal |
 | Mr Leow Kim Siang | Treasurer | 
 | Mr Edmund Chong | Member | 
 | Ms Lim Lay Choo | Member | 
