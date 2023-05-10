@@ -4,21 +4,24 @@ permalink: /cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
-The Zhonghua Secondary School Choir comprises of about 60 young and enthusiastic singers, who share the passion for music. During our twice-weekly practices, our choristers learn a diverse repertoire of music pieces ranging from the soundtracks of well-known musicals to songs of different languages and genres. 
+The Zhonghua Secondary School Choir comprises of young and enthusiastic singers who are all passionate about music and singing. Our choristers sing a diverse repertoire, ranging from soundtracks of well-known musicals to songs from different languages and genres. The Choir is a valuable platform for students to express themselves confidently and develop musicianship.
 
-In 2020, the choir took part in the SYF-NDP 2020 Combined Choir, and performed in the 'Be the Light' music video. In 2021, the choir performed as a virtual choir for our school’s 110th anniversary virtual event. The choir typically performs on numerous occasions, such as during the school’s National Day concert and the annual Prize Giving Day. The choir also participates in the biannual Singapore Youth Festival Arts Presentation.
+**Key Programmes:**
+* Chorale Singing
+* Music theory lessons
+* Performances at school events and celebrations
+* Performances at community and national events
+* Choir Exchange Programme
+* Team bonding activities
 
-Choir activities and performances foster in our choristers teamwork, respect, trust and communication.
+**Recent Achievements:**
+* Singapore Youth Festival Arts Presentation 2023 - Certificate of Accomplishment
+* Singapore Youth Festival Arts Presentation 2019 - Certificate of Distinction
 
-#### **Significant Achievements:**
-
-* Singapore Youth Festival Arts Presentation 2019 – Certificate of Distinction
-* Singapore Youth Festival 2021 – Special Provision 
-
-<img src="/images/choir1.jpg" style="width:49%" align="left">
-<img src="/images/choir2.jpg" style="width:49%" align="right">
+<img src="" style="width:49%" align="left">
+<img src="" style="width:49%" align="right">
 
 <br clear="left">
 
-<img src="/images/choir3.jpg" style="width:49%" align="left">
-<img src="/images/choir4.jpg" style="width:49%" align="right">
+<img src="" style="width:49%" align="left">
+<img src="" style="width:49%" align="right">
