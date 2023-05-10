@@ -40,3 +40,8 @@ Debate Club members learn the art of persuasive argumentation, critical thinking
 
 <img src="" style="width:49%" align="left">
 <img src="" style="width:49%" align="right">
+
+<br clear="left">
+
+<img src="" style="width:49%" align="left">
+<img src="" style="width:49%" align="right">
