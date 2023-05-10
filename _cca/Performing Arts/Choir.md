@@ -25,3 +25,5 @@ The Zhonghua Secondary School Choir comprises of young and enthusiastic singers 
 
 <img src="" style="width:49%" align="left">
 <img src="" style="width:49%" align="right">
+
+Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
