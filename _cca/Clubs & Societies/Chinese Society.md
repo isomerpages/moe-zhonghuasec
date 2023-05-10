@@ -4,7 +4,7 @@ permalink: /cca/clubs-and-societies/chinese-society/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-中文学会希望成为培养学生认识与热爱华族文化艺术的园地。学会成员在校期间主要学习华文戏剧表演技巧，并根据自己的兴趣学习书法及中国棋，同时也有机会参加跟传统文化艺术相关的课程，从而提升学生的综合素质以及文化素养。&nbsp;&nbsp;
+中文学会希望成为培养学生认识与热爱华族文化艺术的园地。学会成员在校期间主要学习华文戏剧表演技巧，并根据自己的兴趣学习书法及中国棋，同时也有机会参加跟传统文化艺术相关的课程，从而提升学生的综合素质以及文化素养。
 
 The Chinese Society is a vibrant CCA comprising of Drama, Calligraphy and Chess sub-groups. The Society hopes to develop students’ interest in Chinese culture and improve their skills in the Chinese Language. Members and teachers of the Society seek to excel in our various art forms and share our passion for the Chinese arts and culture with the school and community.
 
