@@ -32,3 +32,5 @@ ZWinds has always been one big family. We show care and appreciation to one anot
 
 <img src="" style="width:50%" align="left">
 <img src="" style="width:50%" align="right">
+
+Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
