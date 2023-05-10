@@ -32,4 +32,6 @@ Our Scout Group has performed well in national competitions over the years. We h
 <img src="" style="width:49%" align="left">
 <img src="" style="width:49%" align="right">
 
+<br clear="left">
+
 Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
