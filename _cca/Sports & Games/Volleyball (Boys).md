@@ -2,29 +2,28 @@
 title: Volleyball (Boys)
 permalink: /cca/sports/volleyball/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
-At Volleyball in Zhonghua, members are trained in the areas of:<br>
-(a) Game Technique (ball skills – set, spike, dig);<br>
-(b) Physical Fitness (strength, speed, endurance, agility, power, flexibility);<br>
-(c) Mental Attributes and Values (concentration, positive attitude, confidence, self-control, motivation);<br>
-(d) Social skills (teamwork, supporting others).
+Zhonghua Secondary School’s Volleyball CCA encourages discipline, commitment and high standards of play and sportsmanship. Through rigorous training sessions, our boys are constantly motivated to better their personal performances.&nbsp; Every year, we strive to achieve excellence in the National School Games Volleyball competitions. Members forge strong bonds with their peers, and support each other both in and out of the court.
 
-Volleyball members also benefit from a range of experiential learning opportunities such as participation in friendly games with other schools, competitions, day camps, sports enrichment programmes and Values in Action (VIA) projects.
+The CCA also offers a range of experiential learning opportunities through participation in friendly games with other schools, camps and competitions as well as Values-in-Action (VIA) activities.
 
-#### **Significant Achievements:**
-* 2017 South Zone B Division Volleyball Championships – 2nd Position
-* 2017 South Zone C Division Volleyball Championships – 2nd Position
-* 2017 Nationals C Division Volleyball Championship – Top 8
-* 2018 South Zone B Division Volleyball Championship – 3rd Position
-* 2018 South Zone C Division Volleyball Championship – 4th Position
-* 2019 South Zone B Division Volleyball Championship – 2nd Position
-* 2021 South Zone B Division Volleyball Championship – 4th Position
+**Key Programmes :**
+* Teambuilding Activities
+* National School Games ‘B’ and ‘C’ Division Competitions
+* Friendly Matches
 
-<img src="/images/volleyball1.jpg" style="width:49%" align="left">
-<img src="/images/volleyball2.jpg" style="width:49%" align="right">
+**Recent Achievements:**
+* 2022 National School Games ‘C’ Division Volleyball Championship – 4th Position in South Zone
+* 2021 National School Games ‘B’ Division Volleyball Championship – 4th Position in South Zone
+* 2019 National School Games ‘B’ Division Volleyball Championship – 2nd Position in South Zone
+
+<img src="" style="width:49%" align="left">
+<img src="" style="width:49%" align="right">
 
 <br clear="left">
 
-<img src="/images/volleyball3.jpg" style="width:49%" align="left">
-<img src="/images/volleyball4.jpg" style="width:49%" align="right">
+<img src="" style="width:49%" align="left">
+<img src="" style="width:49%" align="right">
+
+Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
