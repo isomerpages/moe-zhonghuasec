@@ -34,4 +34,6 @@ Congratulations to all our NCC Cadets for flying the Zhonghua flag high again th
 <img src="" style="width:49%" align="left">
 <img src="" style="width:49%" align="right">
 
+<br clear="left">
+
 Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
