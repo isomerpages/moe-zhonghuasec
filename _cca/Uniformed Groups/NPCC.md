@@ -31,4 +31,6 @@ Cadets undergo various programmes and activities which equip them with the knowl
 <img src="" style="width:49%" align="left">
 <img src="" style="width:49%" align="right">
 
+<br clear="left">
+
 Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
