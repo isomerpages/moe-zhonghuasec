@@ -15,3 +15,8 @@ As an additional CCA, the Zhonghua Secondary School Library Club seeks to develo
 
 <img src="" style="width:49%" align="left">
 <img src="" style="width:49%" align="right">
+
+<br clear="left">
+
+<img src="" style="width:49%" align="left">
+<img src="" style="width:49%" align="right">
