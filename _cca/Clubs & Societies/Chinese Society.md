@@ -36,3 +36,5 @@ The Chinese Society is a vibrant CCA comprising of Drama, Calligraphy and Chess 
 
 <img src="" style="width:49%" align="left">
 <img src="" style="width:49%" align="right">
+
+Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
