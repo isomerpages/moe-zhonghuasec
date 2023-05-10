@@ -25,10 +25,10 @@ ZWinds has always been one big family. We show care and appreciation to one anot
 * 2021 Singapore Youth Festival Arts Presentation – Certificate of Distinction (Band – Percussion Ensemble)
 * 2019 Singapore Youth Festival Arts Presentation – Certificate of Accomplishment (Band – Concert)
 
-<img src="" style="width:45%" align="left">
+<img src="" style="width:50%" align="left">
 <img src="" style="width:50%" align="right">
 
 <br clear="left">
 
-<img src="" style="width:45%" align="left">
+<img src="" style="width:50%" align="left">
 <img src="" style="width:50%" align="right">
