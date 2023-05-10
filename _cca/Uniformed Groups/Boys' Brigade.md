@@ -4,27 +4,27 @@ permalink: /cca/uniformed-group/bb/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-Zhonghua Secondary School National Cadet Corps (NCC) unit has achieved a Unit Recognition Award – Distinction for 27 consecutive years. This is a testament to the dedication and hard work of our cadets and teacher officers over the years.
+The Boys’ Brigade is one of the oldest uniformed groups in Singapore. Members of the Boys’ Brigade at Zhonghua Secondary School engage in meaningful programmes which build their strengths at leading and serving. With a strong emphasis on leadership development, team building, life skills, adventure activities, and community service, the boys enjoy a plethora of fun, meaningful and challenging programmes for their holistic development centered on good character-building values passed down from a Christian tradition.
 
-Far from focusing solely on regimentation, the Zhonghua NCC unit nurtures our cadets to become leaders with resilient minds, fit bodies and committed hearts. Our unit’s programmes build our cadets’ confidence and social skills. Activities such as airsoft rifle firing, dragon boating, 1-star kayak certification, orienteering, camouflage hide-and-seek, outfield cooking, and reconnaissance and surveillance keep our cadets active and engaged.
-
-Our cadets participate actively in fitness events organised by HQ NCC, such as Fitness Challenge and NCC Sports and Games day. These activities also allow cadets forge a sense of camaraderie and teamwork.
-
-Congratulations to all our NCC Cadets for flying the Zhonghua flag high again this year!
+In the 48th Company Boys’ Brigade, the boys get to experience a wide range of activities that challenge them to leave their comfort zones and grow in character and leadership qualities. They are also encouraged through to grow a global mindset, and consider and execute solutions to world issues. We have a tradition of boys mentoring boys, building a camaraderie of brotherhood that encourages giving back after receiving guidance from seniors.
 
 **Key Programmes:**
-* CAMP FORGE (for Junior Cadets)
-* CAMP STEEL (for Senior Cadets)
-* Specialist Course § Senior Specialist Course
-* Total Defence Bronze, Silver and Gold
-* Basic Trainfire Package
+* BB Blaze
+* Character Quest
+* Annual camp
+* Kayaking 1-star
+* Musketry
+* Archery
+* BB Cares
+* BB Share-a-gift
+* Christmas Lightup
+* Bonding activities (eg, Laser tag)
 
 **Recent Achievements:**
-* Unit Recognition Award (2022) – Distinction
-* NCC Land Orientation Competition (2022) – First Place in assigned route
-* NCC Sports and Games 2022 (Captain’s Ball) – First Place
-* Unit Recognition Award (2021) – Distinction
-* Unit Recognition Award (2020) – Distinction
+* BB Blaze Competition – Gold Honour Roll (2022)
+* Character Quest Competition – Silver Honour Roll (2022)
+* JM Fraser Award for Excellence – Gold (2021)
+
 
 <img src="" style="width:49%" align="left">
 <img src="" style="width:49%" align="right">
