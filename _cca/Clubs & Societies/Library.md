@@ -2,13 +2,16 @@
 title: Library
 permalink: /cca/clubs-and-societies/library/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
 ---
-In the Library Society, Student Librarians perform the basic duties of book shelving, loaning and returning of books, and ensure that the library is pleasant and conducive for all. Our Student Librarians also promote reading activities through such initiatives as book reviews and a dedicated Bookstagram account. 
+As an additional CCA, the Zhonghua Secondary School Library Club seeks to develop servant leaders with effective leadership, organisational and communication skills. In rendering service to the school community, student librarians contribute to the curation of the library collection, and the cultivation of a valuable learning and community space. The Library Club and our student librarians are passionate about fostering an ideal reading culture among Zhonghuarians. Participation in the Library Club develops leadership, organisational, and communication skills and dispositions in our student librarians.
 
-The Zhonghua Library contains the latest and most popular fiction titles, with regular acquisitions to cater to the teaching and learning needs of our staff and students, as well as their interests. 
+**Key Programmes:**
+* Assembly book talks and presentations
+* Bookstagram posts
+* Canteen book bazaar
+* Donation drives and service to non-profit organisations
+* Environmental awareness and advocacy
 
-The Library Society hopes to continue serving the school and grow lifelong readers amongst the school population.
-
-<img src="/images/lib1.jpg" style="width:49%" align="left">
-<img src="/images/lib2.jpg" style="width:49%" align="right">
+<img src="" style="width:49%" align="left">
+<img src="" style="width:49%" align="right">
