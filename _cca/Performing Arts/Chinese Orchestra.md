@@ -31,3 +31,5 @@ The Orchestra has performed consistently well in major music competitions since 
 
 <img src="" style="width:49%" align="left">
 <img src="" style="width:49%" align="right">
+
+Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
