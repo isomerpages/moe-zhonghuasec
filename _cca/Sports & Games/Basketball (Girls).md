@@ -2,24 +2,31 @@
 title: Basketball (Girls)
 permalink: /cca/sports/basketball/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
-In 2022, our ‘B’ Division basketball girls took part in the South Zone ‘B’ Division Girls National School Games 2022. They trained rigorously and persevered through every match. Their immense support for each other helped them through the challenging season. Their resilience and tenacity are highly commendable, and these are values which the ‘C’ Division basketball girls certainly aspire to emulate.
+With a history dating back to the 1960s, Zhonghua’s Basketball Girls’ team is more than just a female basketball team. Our members strive to embody the school's core values of resilience, integrity, care, and excellence. The team emphasises a caring environment that encourages our members to support and encourage one another, while learning to respect and appreciate each other's strengths and talents.
 
-Besides the camaraderie and teamwork forged on the court, the basketball team engages regularly in teambuilding and team-bonding activities. A highlight of the 2022 basketball day camp was an invigorating kayaking experience at the Pandan Reservoir.
+Recognising that every girl who joins the team will bring with her unique combinations strengths, our coaches, teachers and student leaders strive to provide each player with appropriate guidance and training for her to pursue excellence.
 
-In 2021 and 2020, the National School Games for Basketball were cancelled. Undeterred, E-CCA programmes were conducted in lieu of face-to-face training. In 2021, the basketball girls also held their first intra-CCA Basketball CCA tournament.
+Hard work and determination are key ingredients to improve and succeed in sports. By practicing and working together as a team, our members learn the values persistence and resilience. At the same time, they learn to care for each other and support each other’s overall well-being.
 
-#### **Significant Achievements:**
-* 2019 South Zone Basketball Competition ‘C’ Division – 3rd Place
-* 2018 South Zone Basketball Competition ‘C’ Division – 2rd Place 
-* 2017 South Zone Basketball Competition ‘C’ Division – 2rd Place
-* 2019 South Zone Basketball Competition ‘B’ Division – 2nd Place
+**Key Programmes:**
+* Teambuilding Camps and Activities
+* Mental Skills Training
+* National School Games (NSG) Basketball Championship
+* Friendly matches with other schools
 
-<img src="/images/basketball1.jpg" style="width:49%" align="left">
-<img src="/images/basketball2.jpg" style="width:49%" align="right">
+**Recent Achievements:**
+* BM U16 Boys’ and Girls’ Basketball Invitational Championship 2022 – 3rd Position
+* South Zone C Division Basketball Championship 2022 – 4th Position
+* South Zone C Division Basketball Championship 2019 – 3rd Position
+
+<img src="" style="width:49%" align="left">
+<img src="" style="width:49%" align="right">
 
 <br clear="left">
 
-<img src="/images/basketball3.jpg" style="width:49%" align="left">
-<img src="/images/basketball4.jpg" style="width:49%" align="right">
+<img src="" style="width:49%" align="left">
+<img src="" style="width:49%" align="right">
+
+Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
