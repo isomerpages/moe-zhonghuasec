@@ -4,21 +4,31 @@ permalink: /cca/performing-arts/guzheng/
 description: ""
 third_nav_title: Performing Arts
 ---
-The Zhonghua Guzheng Ensemble currently boasts a strength of 70 members. We aim to cultivate an appreciation of and interest in Guzheng, and also to promote zheng music among our members.  
+Zhonghua Secondary School’s Guzheng Ensemble was formed in 1994 with the aim of promoting traditional Chinese music and developing young and skilful Guzheng players. The Ensemble is a platform for our students to showcase their interest, talent and skills at school and community events.&nbsp;
 
-Under the guidance of Ms Cui Jingyi, the Ensemble has grown from strength to strength in the past 18 years.
-Guzheng Ensemble members showcase their skills and talents in school events and programmes, such as the Chinese New Year Celebrations, Open House, Mid-Autumn Festival, and Aesthetics Week.  These are meaningful experiences for our members to grow in their technical capabilities and musical versatility. They also provide valuable opportunities for our students to develop important values and dispositions like resilience, teamwork and confidence.  
+Members of the Guzheng Ensemble do not just grow in technical abilities and musicianship; they pick up important skills and dispositions such as communication, discipline, teamwork, perseverance and leadership.&nbsp; The time spent together during CCA practices, performances, and teambuilding activities also enables students to forge strong bonds with one another.
 
-#### **Significant Achievements:**
+**Key Programmes:**
+* School events and celebrations
+* Combined schools’ concert
+* Cross-CCA experience
+* Team bonding activities
+* Leisure Camp
+* Instrumental grading examinations
 
-* Singapore Youth Festival Arts Presentation 2017 – Certificate of Distinction
-* Singapore Youth Festival Arts Presentation 2019 – Certificate of Distinction
+**Recent Achievements:**
+* Singapore Youth Festival Arts Presentation 2023 – Certificate of Distinction
 * Singapore Youth Festival Arts Presentation 2021 – Certificate of Distinction
+* Singapore Youth Festival Arts Presentation 2019 – Certificate of Distinction
 
-<img src="/images/guzheng1.jpg" style="width:49%" align="left">
-<img src="/images/guzheng2.jpg" style="width:49%" align="right">
+<img src="/images/guzheng1.jpg" style="width:43%" align="left">
+<img src="/images/guzheng2.jpg" style="width:57%" align="right">
 
 <br clear="left">
 
-<img src="/images/guzheng3.jpg" style="width:49%" align="left">
-<img src="/images/guzheng4.jpg" style="width:49%" align="right">
+<img src="/images/guzheng3.jpg" style="width:48%" align="left">
+<img src="/images/guzheng4.jpg" style="width:52%" align="right">
+
+<br clear="left">
+
+Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.

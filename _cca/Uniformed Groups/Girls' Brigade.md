@@ -4,19 +4,39 @@ permalink: /cca/uniformed-group/gb/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-_‘Every Girl a Leader, Every Officer a Servant Leader.’_&nbsp; These words guide every girl in the 48th Company Girls’ Brigade in Zhonghua Secondary School to serve to their fullest potential.&nbsp; Members of the Girls’ Brigade are imbued with good moral values through involvement in various service-learning activities and sharing of personal experiences.
+The Mission of the Girls’ Brigade is to develop each girl and officer to her fullest potential by equipping, empowering and enabling Every Girl to be a Leader and Every Officer a Servant Leader.&nbsp; Members of the Girls’ Brigade are imbued with good moral values through involvement in various service-learning activities and sharing of personal experiences.
 
-In the Girls’ Brigade, members are given various opportunities to hone their leadership skills and dispositions through the planning of games, weekly Parade activities and in committee work. Our company’s programmes have fostered in our girls attributes like confidence, team work and resilience. The weekly Parade encompasses recreational activities, badgework, foot drills and character building activities. Members also take part in the annual GB camp which challenges them to step out of their comfort zones to experience outdoor activities. Members of Girls’ Brigade also participate actively in national events such as the Girls’ Brigade Friendship Day and the Dr Low Guat Tin (LGT) Challenge. The competitions inculcate a strong sense of discipline and a spirit of excellence in the girls. 
+Our aims are to help our girls to:
+* Develop self-awareness, build healthy self-esteem and gain healthy perspectives and values
+* Participate in physical recreation and physical skills to develop poise, confidence, and a positive and persevering attitude
+* Continuously learn new skills for life-long learning
+* Learn to relate to others and work as part of a team
+* Nurture a spirit of empathy and to love and care for our home, community country and world.
 
-Members forge close relationships with others across different levels, and with their officers and teachers. This camaraderie has allowed the girls to learn from one another, inspire their peers and work effectively together.
+In the Girls’ Brigade, members are given various opportunities to hone their leadership skills and dispositions through the planning of games, weekly Parade activities and in committee work. Our company’s programmes have fostered in our girls attributes like confidence, team work and resilience. Members forge close relationships with others across different levels, and with their officers and teachers. This camaraderie has allowed the girls to learn from one another, inspire their peers and work effectively together.
 
-#### **Significant Achievements:**
-For the past few years, the Company has consecutively achieved the Company Gold Award, which is a testament of the girls’, officers’, and teachers’ hard work in striving for excellence.
+**Key Programmes:**
+* Character Building
+* Recruits Camp
+* Year-end Camp
+* Dr Low Guat Tin Challenge
+* National Drill Competition
+* GB Friend-in-Deed (GBFD)
+* Leadership Conference
 
-<img src="/images/gb1.jpg" style="width:49%" align="left">
-<img src="/images/gb2.jpg" style="width:49%" align="right">
+**Recent Achievements:**
+* National Drill Competition 2023&nbsp; – Team 1 (Gold), Team 2 (Silver)
+* Company Award &nbsp;– Gold (2022)
+* Dr Low Guat Tin Challenge &nbsp;– Gold (2022)
+
+<img src="/images/girlsb1.jpg" style="width:44%" align="left">
+<img src="/images/girlsb2.jpg" style="width:56%" align="right">
 
 <br clear="left">
 
-<img src="/images/gb3.jpg" style="width:49%" align="left">
-<img src="/images/gb4.jpg" style="width:49%" align="right">
+<img src="/images/girlsb3.jpg" style="width:50%" align="left">
+<img src="/images/girlsb4.jpg" style="width:50%" align="right">
+
+<br clear="left">
+
+Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
