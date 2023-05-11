@@ -25,12 +25,14 @@ ZWinds has always been one big family. We show care and appreciation to one anot
 * 2021 Singapore Youth Festival Arts Presentation – Certificate of Distinction (Band – Percussion Ensemble)
 * 2019 Singapore Youth Festival Arts Presentation – Certificate of Accomplishment (Band – Concert)
 
-<img src="" style="width:50%" align="left">
-<img src="" style="width:50%" align="right">
+<img src="/images/zwinds1.jpg" style="width:56%" align="left">
+<img src="/images/zwinds2.jpg" style="width:44%" align="right">
 
 <br clear="left">
 
-<img src="" style="width:50%" align="left">
-<img src="" style="width:50%" align="right">
+<img src="/images/zwinds3.png" style="width:40%" align="left">
+<img src="/images/zwinds4.jpg" style="width:60%" align="right">
+
+<br clear="left">
 
 Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
