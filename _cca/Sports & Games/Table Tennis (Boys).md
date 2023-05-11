@@ -15,12 +15,14 @@ Our training sessions comprise a series of fitness, skill-related drills and set
 * National School Games ‘C’ Division Competition 2022 – 3rd position in Preliminary Round
 * National School Games ‘B’ Division Competition 2022 – 3rd position in Preliminary Round
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/tablet1.jpg" style="width:48%" align="left">
+<img src="/images/tablet2.jpg" style="width:52%" align="right">
 
 <br clear="left">
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/tablet3.jpg" style="width:48%" align="left">
+<img src="/images/tablet4.jpg" style="width:52%" align="right">
+
+<br clear="left">
 
 Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
