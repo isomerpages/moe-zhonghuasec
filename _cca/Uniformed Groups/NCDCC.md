@@ -19,13 +19,13 @@ Zhonghua Secondary School’s NCDCC is built on a culture of care, service and e
 * Unit Bonding Day, Appreciation Day, Cohesion Day
 * Unit Sports Enrichment
 
-<img src="/images/ncdcc1.jpg" style="width:56%" align="left">
-<img src="/images/ncdcc2.jpg" style="width:42%" align="right">
+<img src="/images/ncdcc1.jpg" style="width:57%" align="left">
+<img src="/images/ncdcc2.jpg" style="width:43%" align="right">
 
 <br clear="left">
 
-<img src="/images/ncdcc3.jpg" style="width:63%" align="left">
-<img src="/images/ncdcc4.jpg" style="width:35%" align="right">
+<img src="/images/ncdcc3.jpg" style="width:64%" align="left">
+<img src="/images/ncdcc4.jpg" style="width:36%" align="right">
 
 <br clear="left">
 
