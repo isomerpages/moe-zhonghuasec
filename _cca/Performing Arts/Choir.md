@@ -18,12 +18,14 @@ The Zhonghua Secondary School Choir comprises of young and enthusiastic singers 
 * Singapore Youth Festival Arts Presentation 2023 - Certificate of Accomplishment
 * Singapore Youth Festival Arts Presentation 2019 - Certificate of Distinction
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/choir1.jpg" style="width:50%" align="left">
+<img src="/images/choir2.jpg" style="width:50%" align="right">
 
 <br clear="left">
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/choir3.jpg" style="width:50%" align="left">
+<img src="/images/choir4.jpg" style="width:50%" align="right">
+
+<br clear="left">
 
 Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
