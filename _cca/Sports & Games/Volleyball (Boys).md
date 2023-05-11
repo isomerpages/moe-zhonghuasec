@@ -18,12 +18,14 @@ The CCA also offers a range of experiential learning opportunities through parti
 * 2021 National School Games ‘B’ Division Volleyball Championship – 4th Position in South Zone
 * 2019 National School Games ‘B’ Division Volleyball Championship – 2nd Position in South Zone
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/volleyb1.jpg" style="width:52%" align="left">
+<img src="/images/volleyb2.jpg" style="width:48%" align="right">
 
 <br clear="left">
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/volleyb4.jpg" style="width:48%" align="left">
+<img src="/images/volleyb3.jpg" style="width:52%" align="right">
+
+<br clear="left">
 
 Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
