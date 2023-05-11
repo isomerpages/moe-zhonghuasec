@@ -23,13 +23,13 @@ Cadets undergo various programmes and activities which equip them with the knowl
 * e-CSI Competition 2021
 * Area Base Campcraft Competition 2020
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/npccorps1.jpg" style="width:56%" align="left">
+<img src="/images/npccorps2.jpg" style="width:44%" align="right">
 
 <br clear="left">
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/npccorps3.jpg" style="width:41%" align="left">
+<img src="/images/npccorps4.jpg" style="width:59%" align="right">
 
 <br clear="left">
 
