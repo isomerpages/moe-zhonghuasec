@@ -29,13 +29,14 @@ In the Girls’ Brigade, members are given various opportunities to hone their l
 * Company Award &nbsp;– Gold (2022)
 * Dr Low Guat Tin Challenge &nbsp;– Gold (2022)
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/girlsb1.jpg" style="width:44%" align="left">
+<img src="/images/girlsb2.jpg" style="width:56%" align="right">
 
 <br clear="left">
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/girlsb3.jpg" style="width:50%" align="left">
+<img src="/images/girlsb4.jpg" style="width:50%" align="right">
 
+<br clear="left">
 
 Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
