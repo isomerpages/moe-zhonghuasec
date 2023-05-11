@@ -26,13 +26,13 @@ Congratulations to all our NCC Cadets for flying the Zhonghua flag high again th
 * Unit Recognition Award (2021) – Distinction
 * Unit Recognition Award (2020) – Distinction
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/nccorps1.jpg" style="width:50%" align="left">
+<img src="/images/nccorps2.jpg" style="width:50%" align="right">
 
 <br clear="left">
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/nccorps3.jpg" style="width:50%" align="left">
+<img src="/images/nccorps4.jpg" style="width:50%" align="right">
 
 <br clear="left">
 
