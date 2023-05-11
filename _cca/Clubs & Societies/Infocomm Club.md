@@ -29,13 +29,13 @@ Get ready to solve the world’s greatest problems and showcase your skills! Alo
 
 <br clear="left">
 
-<img src="/images/infocom2.jpg" style="width:49%" align="left">
-<img src="/images/infocom3.jpg" style="width:51%" align="right">
+<img src="/images/infocom3.jpg" style="width:50%" align="left">
+<img src="/images/infocom5.jpg" style="width:50%" align="right">
 
 <br clear="left">
 
-<img src="/images/infocom4.jpg" style="width:49%" align="left">
-<img src="/images/infocom5.jpg" style="width:49%" align="right">
+<img src="/images/infocom4.jpg" style="width:53%" align="left">
+<img src="/images/infocom2.jpg" style="width:47%" align="right">
 
 <br clear="left">
 
