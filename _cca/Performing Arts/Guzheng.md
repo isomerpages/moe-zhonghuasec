@@ -21,12 +21,14 @@ Members of the Guzheng Ensemble do not just grow in technical abilities and musi
 * Singapore Youth Festival Arts Presentation 2021 – Certificate of Distinction
 * Singapore Youth Festival Arts Presentation 2019 – Certificate of Distinction
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/guzheng1.jpg" style="width:43%" align="left">
+<img src="/images/guzheng2.jpg" style="width:57%" align="right">
 
 <br clear="left">
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/guzheng3.jpg" style="width:48%" align="left">
+<img src="/images/guzheng4.jpg" style="width:52%" align="right">
+
+<br clear="left">
 
 Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
