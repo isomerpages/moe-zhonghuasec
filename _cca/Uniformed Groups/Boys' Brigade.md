@@ -26,12 +26,14 @@ In the 48th Company Boys’ Brigade, the boys get to experience a wide range of 
 * JM Fraser Award for Excellence – Gold (2021)
 
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/boysb1.jpg" style="width:42%" align="left">
+<img src="/images/boysb2.jpg" style="width:58%" align="right">
 
 <br clear="left">
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/boysb3.jpg" style="width:42%" align="left">
+<img src="/images/boysb4.jpg" style="width:58%" align="right">
+
+<br clear="left">
 
 Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
