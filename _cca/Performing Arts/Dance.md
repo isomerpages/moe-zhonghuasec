@@ -20,12 +20,14 @@ Performing at school and community events provides our students with exposure an
 * Singapore Youth Festival Arts Presentation 2021: Certificate of Accomplishment
 * Singapore Youth Festival Arts Presentation 2019: Certificate of Accomplishment
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/dance1.jpg" style="width:50%" align="left">
+<img src="/images/dance2.jpg" style="width:50%" align="right">
 
 <br clear="left">
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/dance3.jpg" style="width:50%" align="left">
+<img src="/images/dance4.png" style="width:50%" align="right">
+
+<br clear="left">
 
 Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
