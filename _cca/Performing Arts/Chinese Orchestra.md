@@ -24,13 +24,13 @@ The Orchestra has performed consistently well in major music competitions since 
 * Singapore Youth Festival Arts Presentation: Consecutive Certificate of Distinction from 2013 to 2023
 * Singapore Youth Festival Central Judging: Consecutive Gold/Gold with Honours from 2005 to 2011
 
-<img src="/images/chorc1.jpg" style="width:55%" align="left">
-<img src="/images/chorc2.png" style="width:45%" align="right">
+<img src="/images/chorc1.jpg" style="width:56%" align="left">
+<img src="/images/chorc2.png" style="width:44%" align="right">
 
 <br clear="left">
 
-<img src="/images/chorc4.jpg" style="width:38%" align="left">
-<img src="/images/chorc3.png" style="width:62%" align="right">
+<img src="/images/chorc4.jpg" style="width:37%" align="left">
+<img src="/images/chorc3.png" style="width:63%" align="right">
 
 <br clear="left">
 
