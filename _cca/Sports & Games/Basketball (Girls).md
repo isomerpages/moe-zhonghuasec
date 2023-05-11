@@ -21,12 +21,14 @@ Hard work and determination are key ingredients to improve and succeed in sports
 * South Zone C Division Basketball Championship 2022 – 4th Position
 * South Zone C Division Basketball Championship 2019 – 3rd Position
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/basket1.jpg" style="width:51%" align="left">
+<img src="/images/basket2.jpg" style="width:49%" align="right">
 
 <br clear="left">
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/basket4.jpg" style="width:50%" align="left">
+<img src="/images/basket3.jpg" style="width:50%" align="right">
+
+<br clear="left">
 
 Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
