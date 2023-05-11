@@ -13,12 +13,14 @@ As an additional CCA, the Zhonghua Secondary School Library Club seeks to develo
 * Donation drives and service to non-profit organisations
 * Environmental awareness and advocacy
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/library1.jpg" style="width:51%" align="left">
+<img src="/images/library2.jpg" style="width:49%" align="right">
 
 <br clear="left">
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/library3.jpg" style="width:51%" align="left">
+<img src="/images/library4.jpg" style="width:49%" align="right">
+
+<br clear="left">
 
 Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
