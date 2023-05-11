@@ -38,12 +38,14 @@ Debate Club members learn the art of persuasive argumentation, critical thinking
 
 	6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International Debate League Novice League 2022 – Champions    
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/eldds1.jpg" style="width:51%" align="left">
+<img src="/images/eldds2.jpg" style="width:49%" align="right">
 
 <br clear="left">
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/eldds3.jpg" style="width:51%" align="left">
+<img src="/images/eldds4.jpg" style="width:49%" align="right">
+
+<br clear="left">
 
 Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
