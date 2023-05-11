@@ -29,13 +29,13 @@ The Chinese Society is a vibrant CCA comprising of Drama, Calligraphy and Chess 
 * 9th National Chinese Calligraphy Competition 2020 – Merit Award
 
 
-<img src="/images/chinesesociety1.png" style="width:51%" align="left">
-<img src="/images/chinesesociety2.png" style="width:49%" align="right">
+<img src="/images/chinesesociety1.png" style="width:56%" align="left">
+<img src="/images/chinesesociety2.png" style="width:44%" align="right">
 
 <br clear="left">
 
-<img src="/images/chinesesociety3.png" style="width:49%" align="left">
-<img src="/images/chinesesociety4.png" style="width:51%" align="right">
+<img src="/images/chinesesociety3.png" style="width:48%" align="left">
+<img src="/images/chinesesociety4.png" style="width:52%" align="right">
 
 <br clear="left">
 
