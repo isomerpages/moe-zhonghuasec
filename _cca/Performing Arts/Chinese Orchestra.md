@@ -24,12 +24,14 @@ The Orchestra has performed consistently well in major music competitions since 
 * Singapore Youth Festival Arts Presentation: Consecutive Certificate of Distinction from 2013 to 2023
 * Singapore Youth Festival Central Judging: Consecutive Gold/Gold with Honours from 2005 to 2011
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/chorc1.jpg" style="width:55%" align="left">
+<img src="/images/chorc2.png" style="width:45%" align="right">
 
 <br clear="left">
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/chorc4.jpg" style="width:38%" align="left">
+<img src="/images/chorc3.png" style="width:62%" align="right">
+
+<br clear="left">
 
 Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
