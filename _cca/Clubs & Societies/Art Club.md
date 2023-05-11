@@ -29,8 +29,8 @@ Our members’ works are often featured in various school publicity collateral a
 
 <br clear="left">
 
-<img src="/images/artclub3.jpg" style="width:49%" align="left">
-<img src="/images/artclub4.jpg" style="width:49%" align="right">
+<img src="/images/artclub3.jpg" style="width:50%" align="left">
+<img src="/images/artclub4.jpg" style="width:50%" align="right">
 
 <br clear="left">
 
