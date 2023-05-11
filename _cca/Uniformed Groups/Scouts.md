@@ -24,13 +24,13 @@ Our Scout Group has performed well in national competitions over the years. We h
 * National Pioneering Competition – Silver (2022)
 * Frank Cooper Sands Award – Gold (2019)
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/scoutss1.jpg" style="width:43%" align="left">
+<img src="/images/scoutss2.jpg" style="width:57%" align="right">
 
 <br clear="left">
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/scoutss3.jpg" style="width:50%" align="left">
+<img src="/images/scoutss4.jpg" style="width:50%" align="right">
 
 <br clear="left">
 
