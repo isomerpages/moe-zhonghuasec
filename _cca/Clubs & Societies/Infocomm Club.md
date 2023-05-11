@@ -25,12 +25,18 @@ Get ready to solve the world’s greatest problems and showcase your skills! Alo
 * 2022 – National Software Competition (1 Bronze)
 * 2021 − National Software Competition (1 Gold, 1 Silver, 2 Bronzes)
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/infocom1.jpg" style="width:%" align="left">
 
 <br clear="left">
 
-<img src="" style="width:49%" align="left">
-<img src="" style="width:49%" align="right">
+<img src="/images/infocom2.jpg" style="width:49%" align="left">
+<img src="/images/infocom3.jpg" style="width:51%" align="right">
+
+<br clear="left">
+
+<img src="/images/infocom4.jpg" style="width:49%" align="left">
+<img src="/images/infocom5.jpg" style="width:49%" align="right">
+
+<br clear="left">
 
 Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
