@@ -24,13 +24,13 @@ Our members’ works are often featured in various school publicity collateral a
 * Doodle Art: Architecture Saving Our World (Secondary Category), 2020 - Top Prize
 * Singapore Youth Festival (SYF) 2020 Art Exhibition: Artist and Technology – Certificate of Accomplishment
 
-<img src="/images/artclub1.jpg" style="width:50%" align="left">
-<img src="/images/artclub2.jpg" style="width:50%" align="right">
+<img src="/images/artclub1.jpg" style="width:51%" align="left">
+<img src="/images/artclub2.jpg" style="width:49%" align="right">
 
 <br clear="left">
 
-<img src="/images/artclub3.jpg" style="width:50%" align="left">
-<img src="/images/artclub4.jpg" style="width:50%" align="right">
+<img src="/images/artclub3.jpg" style="width:51%" align="left">
+<img src="/images/artclub4.jpg" style="width:49%" align="right">
 
 <br clear="left">
 
