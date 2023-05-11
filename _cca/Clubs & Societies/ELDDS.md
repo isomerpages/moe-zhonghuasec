@@ -38,13 +38,13 @@ Debate Club members learn the art of persuasive argumentation, critical thinking
 
 	6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International Debate League Novice League 2022 – Champions    
 
-<img src="/images/eldds1.jpg" style="width:51%" align="left">
-<img src="/images/eldds2.jpg" style="width:49%" align="right">
+<img src="/images/eldds1.jpg" style="width:58%" align="left">
+<img src="/images/eldds2.jpg" style="width:42%" align="right">
 
 <br clear="left">
 
-<img src="/images/eldds3.jpg" style="width:51%" align="left">
-<img src="/images/eldds4.jpg" style="width:49%" align="right">
+<img src="/images/eldds3.jpg" style="width:42%" align="left">
+<img src="/images/eldds4.jpg" style="width:58%" align="right">
 
 <br clear="left">
 
