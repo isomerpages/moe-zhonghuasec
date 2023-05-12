@@ -14,7 +14,7 @@ third_nav_title: Our People
 | Ms Ratiporn Tasanawinyou |  Teacher | [ratiporn_tasanawinyou@moe.edu.sg](mailto:ratiporn_tasanawinyou@moe.edu.sg) | 65938-145 |
 | Mr John Kok | Teacher | [john_kok_heng_kwai@moe.edu.sg](mailto:john_kok_heng_kwai@moe.edu.sg) | 65938-127 |
 | Ms Teo Jing Zhi | Teacher | [teo_jing_zhi@moe.edu.sg](mailto:teo_jing_zhi@moe.edu.sg) | 65938-205 |
-| Ms Wang Sichuan | Teacher | [wang_sichuan@moe.edu.sg](mailto:wang_sichuan@moe.edu.sg) | 65938-204 |
+| Mrs Soh Sichuan | Teacher | [wang_sichuan@moe.edu.sg](mailto:wang_sichuan@moe.edu.sg) | 65938-204 |
 | Ms Janice Tan | Teacher | [tan_bee_choo_janice@moe.edu.sg](mailto:tan_bee_choo_janice@moe.edu.sg) | 65838-168 |
 | Mdm Shafillah Begum | Teacher | [shafillah_begum@moe.edu.sg](mailto:shafillah_begum@moe.edu.sg) | 65838-168 |
 | Ms Nurul 'Ain Sahat | Teacher | [nurul_ain_sahat@moe.edu.sg](mailto:nurul_ain_sahat@moe.edu.sg) | 65938-149 |
