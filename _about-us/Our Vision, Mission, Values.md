@@ -14,7 +14,7 @@ description: ""
 #### **Mission**
 
 <figure>
-<img src="/images/visionmissionvalues2.jpg" style="width:75%"><br>
+<img src="/images/visionmissionvalues2.jpg" style="width:100%"><br>
 </figure>
 <h4 style="text-align: center;">Nurturing Passionate Learners, <br>Dynamic Leaders <br>&amp; Connected Citizens </h4>
 
