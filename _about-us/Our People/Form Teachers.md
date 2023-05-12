@@ -24,7 +24,7 @@ third_nav_title: Our People
 | 1C6 | Ms Janice Tan Bee Choo | [tan_bee_choo_janice@moe.edu.sg](mailto:tan_bee_choo_janice@moe.edu.sg) | 65938-168 |
 |  | Ms Suziyanti Bte Jepto | [suziyanti_jepto@moe.edu.sg](mailto:suziyanti_jepto@moe.edu.sg) | 65938-142 |
 | 1C7 | Ms K Saraswathi | [k_saraswathi@moe.edu.sg](mailtok_saraswathi@moe.edu.sg) | 65938-145 |
-|  | Ms Wang Sichuan | [wang_sichuan@moe.edu.sg](mailto:wang_sichuan@moe.edu.sg) | 65938-204 |
+|  | Mrs Soh Sichuan | [wang_sichuan@moe.edu.sg](mailto:wang_sichuan@moe.edu.sg) | 65938-204 |
 | 1C8   | Ms Shafillah Begum | [shafillah_begum@moe.edu.sg](mailto:shafillah_begum@moe.edu.sg) | 65938-168 |
 |  | Mrs Gwen Ng-Toh Xiao Qi | [toh_xiao_qi@moe.edu.sg](mailto:toh_xiao_qi@moe.edu.sg) | 65938-142 |
 
