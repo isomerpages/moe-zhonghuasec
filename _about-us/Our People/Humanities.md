@@ -23,6 +23,6 @@ third_nav_title: Our People
 | Mrs Cheryl Chew | Teacher | [lim_pei_chen_cheryl@moe.edu.sg](mailto:lim_pei_chen_cheryl@moe.edu.sg) | 65938-159  |
 | Mrs Soh Sichuan | Teacher | [wang_sichuan@moe.edu.sg](mailto:wang_sichuan@moe.edu.sg) | 65938-204  |
 | Ms Koh Kia Li Charmaine | Teacher | [koh_kia_li_charmaine@moe.edu.sg](mailto:koh_kia_li_charmaine@moe.edu.sg) | 65938-205  |
-| Mr Teo Ang Guan | Teacher | [teo_ang_guan@moe.edu.sg](mailto:teo_ang_guan@moe.edu.sg) | 65938-207  |
-| Ms Joy Eu | Teacher | [joy_eu_li_xin@moe.edu.sg](mailto:joy_eu_li_xin@moe.edu.sg) | 65938-207  |
+| Mr Teo Ang Guan | Teacher | [teo_ang_guan@moe.edu.sg](mailto:teo_ang_guan@moe.edu.sg) | 65938-206  |
+| Ms Joy Eu | Teacher | [joy_eu_li_xin@moe.edu.sg](mailto:joy_eu_li_xin@moe.edu.sg) | 65938-206  |
 | Mdm Poh Li Pin | Flexi-Adjunct Teacher | [poh_li_pin_a@moe.edu.sg](mailto:poh_li_pin_a@moe.edu.sg) | 65938-189  |
