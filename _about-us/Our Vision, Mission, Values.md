@@ -4,7 +4,7 @@ permalink: /about-us/vision-mission-values/
 description: ""
 ---
 #### **Vision**
-<img src="/images/visionmissionvalues1.jpg" style="width:35%">
+<img src="/images/visionmissionvalues1.jpg" style="width:50%">
 
 **As Scholars**, Zhonghuarians are well-rounded and discerning individuals who conduct themselves with wisdom and humility. They are agile in navigating complexities and adaptable in the face of challenges. Confident and passionate, they embrace lifelong learning, and are committed to achieve excellence in every endeavor.
 
