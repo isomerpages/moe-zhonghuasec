@@ -46,7 +46,7 @@ third_nav_title: Rules & Regulations
 *   They will also be subject to disciplinary action (e.g. CWO, caning).
 
 #### **Marking of Attendance**
-*   To ensure that all students attend lessons, the attendance of the class will be updated every period on the whiteboard by the monitor.
+*   To ensure that all students attend lessons, the attendance of the class will be updated every period on the whiteboard by the Chairperson.
 *   Disciplinary action will be taken against students who play truant during curriculum time.
 
 #### **After Exams**
@@ -65,6 +65,3 @@ third_nav_title: Rules & Regulations
 * All students must keep their mobile devices in their locker throughout the day. They should only retrieve their mobile devices at the end of their lessons.
 * A breach of use of mobile devices would result in the device being temporarily retained by the Student Management Committee.
 * Students who use their mobile phones inappropriately and violate the code of conduct for cyberwellness will have their mobile phones retained by the Student Management Committee. Inappropriate behaviour includes spam, scamming/phishing, personal attacks, accessing/possessing/circulating pornography, posting of materials that are inappropriate on any platforms.
-
-
- 
