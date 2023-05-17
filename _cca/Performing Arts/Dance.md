@@ -16,9 +16,9 @@ Performing at school and community events provides our students with exposure an
 * Reflect and Recharge (R&amp;R) Camp
 
 **Recent Achievements:**
-* Singapore Youth Festival Arts Presentation 2023: Certificate of Accomplishment
+* Singapore Youth Festival Arts Presentation 2023: Certificate of Distinction
 * Singapore Youth Festival Arts Presentation 2021: Certificate of Accomplishment
-* Singapore Youth Festival Arts Presentation 2019: Certificate of Accomplishment
+* Singapore Youth Festival Arts Presentation 2019: Certificate of Distinction
 
 <img src="/images/dance1.jpg" style="width:50%" align="left">
 <img src="/images/dance2.jpg" style="width:50%" align="right">
