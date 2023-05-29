@@ -17,5 +17,5 @@ third_nav_title: Our People
 | Ms Amanda Tan | Teacher | [tan_si_hui_amanda@moe.edu.sg](mailto:tan_si_hui_amanda@moe.edu.sg) | 65938-152 |
 | Mr Imaduddin Ahmad | Teacher | [imaduddin_ahmad_chevi_rafiudin@moe.edu.sg](mailto:imaduddin_ahmad_chevi_rafiudin@moe.edu.sg) | 65938-140 |
 | Mrs Cheryl Chew | Teacher | [lim_pei_chen_cheryl@moe.edu.sg](mailto:lim_pei_chen_cheryl@moe.edu.sg) | 65938-159 |
-| Mrs Yip Siew Mei | Flexi-Adjunct Teacher | [wong_siew_mei@moe.edu.sg](mailto:wong_siew_mei@moe.edu.sg) | |
+| Mrs Yip Siew Mei | Flexi-Adjunct Teacher | [wong_siew_mei@moe.edu.sg](mailto:wong_siew_mei@moe.edu.sg) | 65938-185  |
 |
