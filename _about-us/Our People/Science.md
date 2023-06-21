@@ -6,6 +6,7 @@ third_nav_title: Our People
 ---
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
+| Mr Fu Chee Sheng | HOD - Science | [fu_chee_sheng@moe.edu.sg](mailto:fu_chee_sheng@moe.edu.sg) | |
 | Mr Tan Jun Hong | Subject Head – Physics | [tan_jun_hong@moe.edu.sg](mailto:tan_jun_hong@moe.edu.sg) |  65938-151 |
 | Mr Ong Kai Kun | Level Head – Science (LS) | [ong_kai_kun@moe.edu.sg](mailto:ong_kai_kun@moe.edu.sg) |  65938-132 |
 | Mr Lawrence Tang | Lead Teacher - Physics | [lawrence_tang_kok_onn@moe.edu.sg](mailto:lawrence_tang_kok_onn@moe.edu.sg) | 65938-127 |
