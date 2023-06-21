@@ -23,7 +23,6 @@ third_nav_title: Our People
 | Ms Subathra Shugumaran | HOD – Character &amp; Citizenship Education | [subathra_shugumaran@moe.edu.sg](mailto:subathra_shugumaran@moe.edu.sg) |
 | Ms Teresa Lin | HOD – PE &amp; CCA | [lin_xianwan_teresa@moe.edu.sg](mailto:lin_xianwan_teresa@moe.edu.sg) |
 | Mr Lawrence Tang | Lead Teacher – Physics | [lawrence_tang_kok_onn@moe.edu.sg](mailto:lawrence_tang_kok_onn@moe.edu.sg) |
-| Ms Nadia Zhong | Level Head – English Language | [zhong_meixuan_nadia@moe.edu.sg](mailto:zhong_meixuan_nadia@moe.edu.sg) |
 | Mr Ong Kai Kun | Level Head – Science | [ong_kai_kun@moe.edu.sg](mailto:ong_kai_kun@moe.edu.sg) |
 | Ms Leow Kai Yin  | Level Head – Chinese Language | [leow_kai_yin@moe.edu.sg](mailto:leow_kai_yin@moe.edu.sg) |
 | Ms June Yeo | Subject Head – Mathematics | [yeo_yah_hwee_june@moe.edu.sg](mailto:yeo_yah_hwee_june@moe.edu.sg) |
