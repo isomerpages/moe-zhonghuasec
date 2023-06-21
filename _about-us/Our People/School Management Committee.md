@@ -11,7 +11,8 @@ third_nav_title: Our People
 | Mr Hong Heng Yan | Vice-Principal (Admin) | [HONG_heng_yan@schools.gov.sg](mailto:HONG_heng_yan@schools.gov.sg) |
 | Mrs Ng Kiat Bee | HOD – English Language | [lee_kiat_bee@moe.edu.sg](mailto:lee_kiat_bee@moe.edu.sg) |
 | Mr Hazry Hamzah | HOD - Humanities <br>School Staff Developer (Covering) | [hazry_hamzah@moe.edu.sg](mailto:hazry_hamzah@moe.edu.sg) |
-| Mr Francis Tan | HOD - Mathematics | [tan_chih_siang_francis@moe.edu.sg](mailto:tan_chih_siang_francis@moe.edu.sg)| 
+| Mr Francis Tan | HOD - Mathematics | [tan_chih_siang_francis@moe.edu.sg](mailto:tan_chih_siang_francis@moe.edu.sg)|
+| Mr Fu Chee Sheng | HOD - Science | [fu_chee_sheng@moe.edu.sg](mailto:fu_chee_sheng@moe.edu.sg) |
 | Mr Low Kee Ley | HOD – ICT | [low_kee_ley@moe.edu.sg](mailto:low_kee_ley@moe.edu.sg) |
 | Mdm Koh Lee Keng | HOD – Mother Tongue Languages | [koh_lee_keng@moe.edu.sg](mailto:koh_lee_keng@moe.edu.sg) |
 | Ms Noraini Mohamed | HOD – Special Education Needs | [noraini_mohamed@moe.edu.sg](mailto:noraini_mohamed@moe.edu.sg) |
