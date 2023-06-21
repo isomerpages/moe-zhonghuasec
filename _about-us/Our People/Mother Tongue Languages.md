@@ -12,8 +12,6 @@ third_nav_title: Our People
 | Mr Ang Chun Hua  | Year Head – Upper Sec | [ang_chun_hua@moe.edu.sg](mailto:ang_chun_hua@moe.edu.sg) | 65938-155 |
 | Ms Chong Wai Fun | Teacher | [chong_wai_fun@moe.edu.sg](mailto:chong_wai_fun@moe.edu.sg) | 65938-130 |
 | Mdm Jiang Ruifang | Teacher | [jiang_ruifang@moe.edu.sg](mailto:jiang_ruifang@moe.edu.sg) | 65938-134 |
-| Mdm Zhang Yan | Teacher | [zhang_yan_a@moe.edu.sg](mailto:zhang_yan_a@moe.edu.sg) | 65938-135 |
-| Ms Lim Fong Choon | Teacher | [lim_fong_choon@moe.edu.sg](mailto:lim_fong_choon@moe.edu.sg) | 65938-131 |
 | Mr Ng Thiam Seng | Teacher | [ng_thiam_seng@moe.edu.sg](mailto:ng_thiam_seng@moe.edu.sg) | 65938-153 |
 | Ms Xiao Yue | Teacher | [xiao_yue@moe.edu.sg](mailto:xiao_yue@moe.edu.sg) | 65938-146 |
 | Ms Tai Jia Hui | Teacher | [tai_jia_hui@moe.edu.sg](mailto:tai_jia_hui@moe.edu.sg) |  65938-134 |
