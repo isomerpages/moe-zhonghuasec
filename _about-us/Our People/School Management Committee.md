@@ -11,7 +11,8 @@ third_nav_title: Our People
 | Mr Hong Heng Yan | Vice-Principal (Admin) | [HONG_heng_yan@schools.gov.sg](mailto:HONG_heng_yan@schools.gov.sg) |
 | Mrs Ng Kiat Bee | HOD – English Language | [lee_kiat_bee@moe.edu.sg](mailto:lee_kiat_bee@moe.edu.sg) |
 | Mr Hazry Hamzah | HOD - Humanities <br>School Staff Developer (Covering) | [hazry_hamzah@moe.edu.sg](mailto:hazry_hamzah@moe.edu.sg) |
-| Mr Francis Tan | HOD - Mathematics | [tan_chih_siang_francis@moe.edu.sg](mailto:tan_chih_siang_francis@moe.edu.sg)| 
+| Mr Francis Tan | HOD - Mathematics | [tan_chih_siang_francis@moe.edu.sg](mailto:tan_chih_siang_francis@moe.edu.sg)|
+| Mr Fu Chee Sheng | HOD - Science | [fu_chee_sheng@moe.edu.sg](mailto:fu_chee_sheng@moe.edu.sg) |
 | Mr Low Kee Ley | HOD – ICT | [low_kee_ley@moe.edu.sg](mailto:low_kee_ley@moe.edu.sg) |
 | Mdm Koh Lee Keng | HOD – Mother Tongue Languages | [koh_lee_keng@moe.edu.sg](mailto:koh_lee_keng@moe.edu.sg) |
 | Ms Noraini Mohamed | HOD – Special Education Needs | [noraini_mohamed@moe.edu.sg](mailto:noraini_mohamed@moe.edu.sg) |
@@ -22,7 +23,6 @@ third_nav_title: Our People
 | Ms Subathra Shugumaran | HOD – Character &amp; Citizenship Education | [subathra_shugumaran@moe.edu.sg](mailto:subathra_shugumaran@moe.edu.sg) |
 | Ms Teresa Lin | HOD – PE &amp; CCA | [lin_xianwan_teresa@moe.edu.sg](mailto:lin_xianwan_teresa@moe.edu.sg) |
 | Mr Lawrence Tang | Lead Teacher – Physics | [lawrence_tang_kok_onn@moe.edu.sg](mailto:lawrence_tang_kok_onn@moe.edu.sg) |
-| Ms Nadia Zhong | Level Head – English Language | [zhong_meixuan_nadia@moe.edu.sg](mailto:zhong_meixuan_nadia@moe.edu.sg) |
 | Mr Ong Kai Kun | Level Head – Science | [ong_kai_kun@moe.edu.sg](mailto:ong_kai_kun@moe.edu.sg) |
 | Ms Leow Kai Yin  | Level Head – Chinese Language | [leow_kai_yin@moe.edu.sg](mailto:leow_kai_yin@moe.edu.sg) |
 | Ms June Yeo | Subject Head – Mathematics | [yeo_yah_hwee_june@moe.edu.sg](mailto:yeo_yah_hwee_june@moe.edu.sg) |
