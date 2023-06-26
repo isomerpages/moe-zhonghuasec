@@ -10,7 +10,7 @@ description: ""
 | **Sec 1** |  |  |  |  |  |  |  |
 | [1C1](/files/term31c1.pdf) | [1C2](/files/term31c2.pdf) | [1C3](/files/term31c3.pdf) | [1C4](/files/term31c4.pdf) | [1C5](/files/term31c5.pdf) | [1C6](/files/term31c6.pdf) | [1C7](/files/term31c7.pdf) | [1C8](/files/term31c8.pdf) |
 | **Sec 2** |  |  |  |  |  |  |  |
-| [2I1](/files/term3iI1.pdf) | [2I2](/files/term32i2.pdf) | [2I3](/files/term32i3.pdf)| [2I4](/files/term32i4.pdf) | [2I5](/files/term32i5.pdf) | [2I6](/files/term32i6.pdf) | [2I7](/files/term3i7.pdf) | [2I8](/files/term32i8.pdf)|
+| [2I1](/files/term32i1.pdf) | [2I2](/files/term32i2.pdf) | [2I3](/files/term32i3.pdf)| [2I4](/files/term32i4.pdf) | [2I5](/files/term32i5.pdf) | [2I6](/files/term32i6.pdf) | [2I7](/files/term32i7.pdf) | [2I8](/files/term32i8.pdf)|
 | **Sec 3** |  |  |  |  |  |  |  |
 | [3R1](/files/term33r1.pdf) | [3R2](/files/term33r2.pdf) | [3R3](/files/term33r3.pdf) | [3R4](/files/term33r4.pdf)  | [3R5](/files/term33r5.pdf)| [3R6](/files/term33r6.pdf)| [3R7](/files/term33r7.pdf)| [3R8](/files/term33r8.pdf) |
 | **Sec 4** |  |  |  |  |  |  |  |
