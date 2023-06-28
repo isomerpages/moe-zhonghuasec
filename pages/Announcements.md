@@ -3,7 +3,7 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-**Updated HBL Dates for Semester 2**<br>
+**Updated HBL Dates for Semester 2 (2023)**<br>
 [Read more](https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/calendar/)
 
 --------------------------------------------------------------------------
