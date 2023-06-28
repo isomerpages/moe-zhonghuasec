@@ -3,6 +3,11 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+**Updated HBL Dates for Semester 2**<br>
+[Read more](https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/calendar/)
+
+--------------------------------------------------------------------------
+
 **MOE Financial Assistance (FAS) Application Form 2023** [Read more](/files/a1.pdf)
 
 -------------------------------------------------------------------------------
