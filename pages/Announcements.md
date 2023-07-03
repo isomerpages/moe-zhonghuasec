@@ -5,13 +5,13 @@ description: ""
 ---
 **2023 WA3 Timetable**
 <br>
-[2023 WA3 Timetable](/files/2023wa3v2.pdf)
+[2023 WA3 Timetable](https://staging.d1ph2u5puaqsvh.amplifyapp.com/files/2023wa3v2.pdf)
 
 -------------------------------------------------------------------------------
 
 **2023 Sec 4 N Level Prelim Exam**
 <br>
-[2023 Sec 4 N Level Prelim Timetable](/files/2023sec4nperlimv1.pdf)
+[2023 Sec 4 N Level Prelim Timetable](https://staging.d1ph2u5puaqsvh.amplifyapp.com/files/2023sec4nprelimv1.pdf)
 
 -------------------------------------------------------------------------------
 
