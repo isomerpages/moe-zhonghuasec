@@ -3,6 +3,18 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+**2023 WA3 Timetable**
+<br>
+[2023 WA3 Timetable](/files/2023wa3v2.pdf)
+
+-------------------------------------------------------------------------------
+
+**2023 Sec 4 N Level Prelim Exam**
+<br>
+[2023 Sec 4 N Level Prelim Timetable](/files/20234nprelim.pdf)
+
+-------------------------------------------------------------------------------
+
 **Updated HBL Dates for Semester 2 (2023)**<br>
 [Read more](https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/calendar/)
 
