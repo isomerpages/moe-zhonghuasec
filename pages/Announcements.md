@@ -20,7 +20,7 @@ description: ""
 
 --------------------------------------------------------------------------
 
-**MOE Financial Assistance (FAS) Application Form 2023** [Read more](/files/a1.pdf)
+**MOE Financial Assistance (FAS) Application Form 2023** <br> [Read more](/files/a1.pdf)
 
 -------------------------------------------------------------------------------
 
