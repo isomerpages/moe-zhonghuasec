@@ -94,7 +94,7 @@ third_nav_title: Our People
 | 4E3 | Mr Gavin Swee | [swee_wei_ming_gavin@moe.edu.sg](mailto:swee_wei_ming_gavin@moe.edu.sg) | 65938-150 |
 |  | Ms Xiao Yue | [xiao_yue@moe.edu.sg](mailto:xiao_yue@moe.edu.sg) | 65938-146 |
 | 4E4 | Mr Richmond Su | [su_jiahao_richmond@moe.edu.sg](mailto:su_jiahao_richmond@moe.edu.sg) | 65938-167 |
-|  | Mdm Zhang Yan | [zhang_yan_a@moe.edu.sg](mailto:zhang_yan_a@moe.edu.sg) | 65938-162 |
+|  | Ms Chai Hsueh Chi Michelle | [chai_hsueh_chi_michelle@moe.edu.sg](mailto:chai_hsueh_chi_michelle@moe.edu.sg) | 65938-161 |
 | 4E5 | Ms Julia Yeo | [yeo_yun_fang_julia@moe.edu.sg](mailto:yeo_yun_fang_julia@moe.edu.sg) | 65938-166 |
 |  | Miss Ratiporn Tasanawinyou | [ratiporn_tasanawinyou@moe.edu.sg](mailto:ratiporn_tasanawinyou@moe.edu.sg) | 65938-145 |
 | 4E6 | Mr Ezzy Chan | [chan_weng_cheong_ezzy@moe.edu.sg](mailto:chan_weng_cheong_ezzy@moe.edu.sg) | 65938-139 |
