@@ -41,7 +41,7 @@ third_nav_title: Our People
 | 2I2 | Ms Lee Yi Ern | [yi_ern@moe.edu.sg](mailto:yi_ern@moe.edu.sg) | 65938-204 |
 |  | Mr Goh Ching Poh | [goh_ching_poh@moe.edu.sg](mailto:goh_ching_poh@moe.edu.sg) | 65938-136  |
 | 2I3 | Ms Nurul 'Ain Binte Sahat | [nurul_ain_sahat@moe.edu.sg](mailto:nurul_ain_sahat@moe.edu.sg) | 65938-149  |
-|  | Mr Ho Teng Kui Gabriel | [ho_teng_kui_gabriel@moe.edu.sg](mailto:ho_teng_kui_gabriel@moe.edu.sg) | 65938-151  |
+|  | Mr Matthias Chan Yong Shun | [Matthias_Chan_Yong_Shun@moe.edu.sg](mailto:Matthias_Chan_Yong_Shun@moe.edu.sg) | 65938-181  |
 | 2I4 | Mr Eswaran | [eswaran_ramachandran@moe.edu.sg](mailto:eswaran_ramachandran@moe.edu.sg)| 65938-141  |
 |  | Ms Woo Wenhui, Majella | [woo_wenhui_majella@moe.edu.sg](mailto:woo_wenhui_majella@moe.edu.sg) | 65938-129 |
 | 2I5 | Ms Noorlizah Bte Suriyap | [noorlizah_suriyap@moe.edu.sg](mailto:noorlizah_suriyap@moe.edu.sg) | 65938-130 |
@@ -52,7 +52,9 @@ third_nav_title: Our People
 |  | Mr Imaduddin Ahmad | [imaduddin_ahmad_chevi_rafiudin@moe.edu.sg](mailto:imaduddin_ahmad_chevi_rafiudin@moe.edu.sg)| 65938-140 |
 | | Mr Teo Ang Guan | [teo_ang_guan@moe.edu.sg](mailto:teo_ang_guan@moe.edu.sg) | 65938-206 |
 | 2I8 | Mr Loh Guan Wee Vincent | [loh_guan_wee_vincent@moe.edu.sg](mailto:loh_guan_wee_vincent@moe.edu.sg)| 65938-150 |
-|   | Mdm Indra Devi  | [indra_devi_k_velayuthan@moe.edu.sg](mailto:indra_devi_k_velayuthan@moe.edu.sg) | 65938-164 |
+|   | Mdm Indra Devi  | [indra_devi_k_velayuthan@moe.edu.sg](mailto:indra_devi_k_velayuthan@moe.edu.sg) | 65938-164 | 
+| | Mr Tham Qi Ying | [tham_qi_ying@moe.edu.sg](mailto:tham_qi_ying@moe.edu.sg) | 65938-181 | 
+|
 
 #### **Secondary 3**
 
