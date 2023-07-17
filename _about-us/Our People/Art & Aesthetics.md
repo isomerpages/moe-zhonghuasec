@@ -15,3 +15,4 @@ third_nav_title: Our People
 | Hew Soo Yun | Flexi - Adjunct Teacher | [@moe.edu.sg](mailto:@moe.edu.sg) | 65938-|
 | Loh Siyun Jaclyn | Flexi - Adjunct Teacher | [@moe.edu.sg](mailto:@moe.edu.sg) | 65938- |
 | Cher Huey Miin | Flexi - Adjunct Teacher | [@moe.edu.sg](mailto:@moe.edu.sg) | 65938- |
+| Nigel Leong Leng Khin | Relief Educator | [@moe.edu.sg](mailto:@moe.edu.sg) | 65938- |
