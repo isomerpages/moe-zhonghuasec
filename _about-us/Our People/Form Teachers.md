@@ -28,7 +28,7 @@ third_nav_title: Our People
 | 1C7 | Ms K Saraswathi | [k_saraswathi@moe.edu.sg](mailtok_saraswathi@moe.edu.sg) | 65938-145 |
 |  | Mrs Soh Sichuan | [wang_sichuan@moe.edu.sg](mailto:wang_sichuan@moe.edu.sg) | 65938-204 |
 | 1C8   | Ms Shafillah Begum | [shafillah_begum@moe.edu.sg](mailto:shafillah_begum@moe.edu.sg) | 65938-168 |
-|  | Mrs Gwen Ng-Toh Xiao Qi | [toh_xiao_qi@moe.edu.sg](mailto:toh_xiao_qi@moe.edu.sg) | 65938-142 |
+|  | Mr Lee Ming Hui Kelvin | [ming_hui_kelvin_lee@moe.edu.sg](mailto:ming_hui_kelvin_lee@moe.edu.sg) | 65938-153 |
 
 #### **Secondary 2**
 
