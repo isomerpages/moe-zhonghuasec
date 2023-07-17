@@ -27,4 +27,5 @@ third_nav_title: Our People
 | Ms Tan Teing Im | Teacher | [tan_teing_im@moe.edu.sg](mailto:tan_teing_im@moe.edu.sg) | 65938-137 |
 | Mr Ezzy Chan | Teacher | [chan_weng_cheong_ezzy@moe.edu.sg](mailto:chan_weng_cheong_ezzy@moe.edu.sg) | 65938-139 |
 | Ms Leong Pei Szu | Flexi-Adjunct Teacher | [leong_pei_szu@moe.edu.sg](mailto:leong_pei_szu@moe.edu.sg) | 65938-169 |
+| Sng Mui Yong| Flexi-Adjunct Teacher | [jiang_yuwei@moe.edu.sg](mailto:jiang_yuwei@moe.edu.sg) | 65938- |
 |
