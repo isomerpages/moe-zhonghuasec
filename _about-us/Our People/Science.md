@@ -24,4 +24,5 @@ third_nav_title: Our People
 | Mr Ezzy Chan | Teacher | [chan_weng_cheong_ezzy@moe.edu.sg](mailto:chan_weng_cheong_ezzy@moe.edu.sg) | 65938-139 |
 | Ms Khairunisa Hussin | Science TSO | [khairunisa_mohd_hussin@moe.edu.sg](mailto:khairunisa_mohd_hussin@moe.edu.sg) | 65938-175 |
 | Ms Shamira Banu | Science TSO | [shamiru_banu_abdul_bari@moe.edu.sg](mailto:shamiru_banu_abdul_bari@moe.edu.sg) | 65938-175 |
-|
+| Toh Jun Hui Jamie | Flexi - Adjunct Teacher | [@moe.edu.sg](mailto:@moe.edu.sg) | 65938- |
+| Oh Ching Fen | Flexi - Adjunct Teacher | [@moe.edu.sg](mailto:@moe.edu.sg) | 65938- |
