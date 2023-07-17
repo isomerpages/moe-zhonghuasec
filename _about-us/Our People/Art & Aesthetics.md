@@ -12,3 +12,6 @@ third_nav_title: Our People
 | Ms Amanda Tan | Teacher | [tan_si_hui_amanda@moe.edu.sg](mailto:tan_si_hui_amanda@moe.edu.sg) | 65938-152 |
 | Ms Tan Teing Im | Teacher |[tan_teing_im@moe.edu.sg](mailto:tan_teing_im@moe.edu.sg)| 65938-137 |
 | Mr Matthias Chan Yong Shun | Teacher | [matthias_chan_yong_shun@moe.edu.sg](mailto:matthias_chan_yong_shun@moe.edu.sg) | 65938-181 |
+| Hew Soo Yun | Flexi - Adjunct Teacher | [@moe.edu.sg](mailto:@moe.edu.sg) | 65938-|
+| Loh Siyun Jaclyn | Flexi - Adjunct Teacher | [@moe.edu.sg](mailto:@moe.edu.sg) | 65938- |
+| Cher Huey Miin | Flexi - Adjunct Teacher | [@moe.edu.sg](mailto:@moe.edu.sg) | 65938- |
