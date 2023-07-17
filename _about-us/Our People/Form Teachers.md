@@ -63,7 +63,7 @@ third_nav_title: Our People
 | Year Head | Ms Estee Teo | [teo_kexin_estee@moe.edu.sg](mailto:teo_kexin_estee@moe.edu.sg) | 65938-177 |
 | Asst Year Head  | Ms Rozianna  | [rozianna_mohammed_affendi@moe.edu.sg](mailto:rozianna_mohammed_affendi@moe.edu.sg) | 65938-144 |
 | 3R1 | Mrs Maybrie Ang | [maybrie_ang_mai_mai@moe.edu.sg](mailto:maybrie_ang_mai_mai@moe.edu.sg) | 65938-128 |
-|  | Mr Ardy Taniwan | [ardy_taniwan@moe.edu.sg](mailto:ardy_taniwan@moe.edu.sg) | 65938-160 |
+|  | Ms Lee Sock Kee | [lee_sock_kee@moe.edu.sg](mailto:lee_sock_kee@moe.edu.sg) | 65938-164 |
 |   | Ms Koh Kia Li Charmaine  | [koh_kia_li_charmaine@moe.edu.sg](mailto:koh_kia_li_charmaine@moe.edu.sg) | 65938-105 |
 | 3R2 | Ms Leow Kai Yin | [leow_kai_yin@moe.edu.sg](mailto:leow_kai_yin@moe.edu.sg)| 65938-143 |
 |  | Ms Tan Wen Li Vanessa | [tan_wen_li_vanessa@moe.edu.sg](mailto:tan_wen_li_vanessa@moe.edu.sg) | 65938-203 |
