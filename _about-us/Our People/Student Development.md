@@ -21,4 +21,5 @@ third_nav_title: Our People
 | Ms Nur Asyurah | AED - LBS | [nur_asyurah_rosle@moe.edu.sg](mailto:nur_asyurah_rosle@moe.edu.sg) | 65938-147 |
 | Ms Suziliana Salleh | AED - LBS | [suziliana_salleh@moe.edu.sg](mailto:suziliana_salleh@moe.edu.sg) | 65938-125 |
 | Mr Teo Yian Quan | Flexi-Adjunct School Counsellor | [teo_yian_quan@moe.edu.sg](mailto:teo_yian_quan@moe.edu.sg) |  6282-4339 |
-|
+| Toh Jun Hui Jamie | Flexi-Adjunct School Counsellor | [@moe.edu.sg](mailto:@moe.edu.sg) | 65938- |
+| Oh Ching Fen | Flexi-Adjunct School Counsellor | [@moe.edu.sg](mailto:@moe.edu.sg) | 65938- |
