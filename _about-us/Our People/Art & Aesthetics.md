@@ -11,4 +11,4 @@ third_nav_title: Our People
 | Ms Tham Qi Ying | Teacher | [tham_qi_ying@moe.edu.sg](mailto:tham_qi_ying@moe.edu.sg) | 65938-116 |
 | Ms Amanda Tan | Teacher | [tan_si_hui_amanda@moe.edu.sg](mailto:tan_si_hui_amanda@moe.edu.sg) | 65938-152 |
 | Ms Tan Teing Im | Teacher |[tan_teing_im@moe.edu.sg](mailto:tan_teing_im@moe.edu.sg)| 65938-137 |
-| Ms Cher Huey Miin | Flexi-Adjunct | [cher_huey_miin@moe.edu.sg](mailto:cher_huey_miin@moe.edu.sg) | 65938-116 |
+| Mr Matthias Chan Yong Shun | Teacher | [matthias_chan_yong_shun@moe.edu.sg](mailto:matthias_chan_yong_shun@moe.edu.sg) | 65938-181 |
