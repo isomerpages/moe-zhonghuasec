@@ -19,7 +19,7 @@ third_nav_title: Our People
 |  | Ms Loh Julian | [loh_julian@moe.edu.sg](mailto:loh_julian@moe.edu.sg) | 65938-165 |
 | 1C4 | Mr Jerome Ong Lin Xiong | [jerome_ong_lin_xiong@moe.edu.sg](mailto:jerome_ong_lin_xiong@moe.edu.sg) | 65938-148 |
 |  | Ms June Yeo Yah Hwee | [yeo_yah_hwee_june@moe.edu.sg](mailto:yeo_yah_hwee_june@moe.edu.sg) | 65938-162 |
-| | Mrs Lin Jiaxuan | [li_jiaxuan@moe.edu.sg](mailto:li_jiaxuan@moe.edu.sg) | 65938-158 |
+| | Mrs Li Jiaxuan | [li_jiaxuan@moe.edu.sg](mailto:li_jiaxuan@moe.edu.sg) | 65938-158 |
 | 1C5 | Mdm Tan Teing Im | [tan_teing_im@moe.edu.sg](mailto:tan_teing_im@moe.edu.sg) | 65938-137 |
 |  | Ms Lee Jie Li | [lee_jie_li@moe.edu.sg](mailto:lee_jie_li@moe.edu.sg) | 62824-157 |
 | | Ms Lynn Kwek Xinyi | [lynn_kwek_xinyi@moe.edu.sg](mailto:lynn_kwek_xinyi@moe.edu.sg) | 62824-151
