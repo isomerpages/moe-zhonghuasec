@@ -14,5 +14,5 @@ third_nav_title: Our People
 | Mr Jerome Ong | Teacher | [jerome_ong_lin_xiong@moe.edu.sg](mailto:jerome_ong_lin_xiong@moe.edu.sg) | 65938-148 |
 | Ms Ho Yieng Yieng  | Teacher | [ho_yieng_yieng@moe.edu.sg](mailto:ho_yieng_yieng@moe.edu.sg) | 65938-139 |
 | Mr Chalice Lin | AED | [lin_longjie_chalice@moe.edu.sg](mailto:lin_longjie_chalice@moe.edu.sg) | 65938-125 |
-| Ms Pamela Choong Peiling | Flexi-Adjunct Teacher | [Pamela_Choong_A@moe.edu.sg](mailto:Pamela_Choong_A@moe.edu.sg) | 65938-161 |
+| Ms Pamela Choong Peiling | Flexi-Adjunct Teacher | [pamela_choong_a@moe.edu.sg](mailto:Pamela_Choong_A@moe.edu.sg) | 65938-161 |
 |
