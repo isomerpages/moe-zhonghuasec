@@ -15,5 +15,8 @@ third_nav_title: Our People
 | Ms Amanda Tan | Teacher | [tan_si_hui_amanda@moe.edu.sg](mailto:tan_si_hui_amanda@moe.edu.sg) | 65938-152 |
 | Mr Imaduddin Ahmad | Teacher | [imaduddin_ahmad_chevi_rafiudin@moe.edu.sg](mailto:imaduddin_ahmad_chevi_rafiudin@moe.edu.sg) | 65938-140 |
 | Mrs Cheryl Chew | Teacher | [lim_pei_chen_cheryl@moe.edu.sg](mailto:lim_pei_chen_cheryl@moe.edu.sg) | 65938-159 |
-| Mrs Yip Siew Mei | Flexi-Adjunct Teacher | [wong_siew_mei@moe.edu.sg](mailto:wong_siew_mei@moe.edu.sg) | 65938-185  |
-|
+| Ms Lynn Kwek XInyi | Teacher | [lynn_kwek_xinyi@moe.edu.sg](mailto:Lynn_Kwek_Xinyi@moe.edu.sg) | 65938-151 |
+| Mdm Wong Siew Mei | Flexi-Adjunct Teacher | [wong_siew_mei@moe.edu.sg](mailto:wong_siew_mei@moe.edu.sg) | 65938-185  |
+| Mdm Poh Li Pin | Flexi-Adjunct Teacher | [poh_li_pin_a@moe.edu.sg](mailto:Poh_Li_Pin_A@moe.edu.sg) | 65938-189  | 
+| Ms Laura Lim Joo Kee | Flexi-Adjunct Teacher | [laura_lim_joo_kee@moe.edu.sg](mailto:Laura_Lim_Joo_Kee@moe.edu.sg) | 65938-185 |
+| Ms Wang Wei Ling | Flexi-Adjunct Teacher | [wang_wei_ling_a@moe.edu.sg](mailto:Wang_Wei_Ling_A@moe.edu.sg) | 65938-184  |

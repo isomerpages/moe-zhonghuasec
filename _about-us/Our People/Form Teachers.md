@@ -13,33 +13,35 @@ third_nav_title: Our People
 | 1C1   | Ms Ang Hwee Qin | [ang_hwee_qin@moe.edu.sg](mailto:ang_hwee_qin@moe.edu.sg) | 65938-181 |
 |  | Ms Nurliza Bte Yusof | [nurliza_yusof@moe.edu.sg](mailto:nurliza_yusof@moe.edu.sg) | 65938-165 |
 | | Ms Joy Eu Li Xin | [joy_eu_li_xin@moe.edu.sg](mailto:joy_eu_li_xin@moe.edu.sg) | 65938-206 |
-| 1C2 | Ms Chew Lixian | [lixian_chew@moe.edu.sg](mailto:lixian_chew@moe.edu.sg) | 65938-135 |
-|  | Mr Ng Thiam Seng | [ng_thiam_seng@moe.edu.sg](mailto:ng_thiam_seng@moe.edu.sg) | 65938-153 |
+| 1C2 | Mr Ng Thiam Seng | [ng_thiam_seng@moe.edu.sg](mailto:ng_thiam_seng@moe.edu.sg) | 65938-153 | 
+| | Ms Soh Sock Kheng | [soh_sock_kheng@moe.edu.sg](mailto:soh_sock_kheng@moe.edu.sg) | 65938-143 |
 | 1C3 | Mr Eddie Pang Kar Loon | [pang_kar_loon_eddie@moe.edu.sg](mailto:pang_kar_loon_eddie@moe.edu.sg) | 65938-172 |
 |  | Ms Loh Julian | [loh_julian@moe.edu.sg](mailto:loh_julian@moe.edu.sg) | 65938-165 |
 | 1C4 | Mr Jerome Ong Lin Xiong | [jerome_ong_lin_xiong@moe.edu.sg](mailto:jerome_ong_lin_xiong@moe.edu.sg) | 65938-148 |
 |  | Ms June Yeo Yah Hwee | [yeo_yah_hwee_june@moe.edu.sg](mailto:yeo_yah_hwee_june@moe.edu.sg) | 65938-162 |
+| | Mrs Li Jiaxuan | [li_jiaxuan@moe.edu.sg](mailto:li_jiaxuan@moe.edu.sg) | 65938-158 |
 | 1C5 | Mdm Tan Teing Im | [tan_teing_im@moe.edu.sg](mailto:tan_teing_im@moe.edu.sg) | 65938-137 |
 |  | Ms Lee Jie Li | [lee_jie_li@moe.edu.sg](mailto:lee_jie_li@moe.edu.sg) | 62824-157 |
+| | Ms Lynn Kwek Xinyi | [lynn_kwek_xinyi@moe.edu.sg](mailto:lynn_kwek_xinyi@moe.edu.sg) | 62824-151
 | 1C6 | Ms Janice Tan Bee Choo | [tan_bee_choo_janice@moe.edu.sg](mailto:tan_bee_choo_janice@moe.edu.sg) | 65938-168 |
 |  | Ms Suziyanti Bte Jepto | [suziyanti_jepto@moe.edu.sg](mailto:suziyanti_jepto@moe.edu.sg) | 65938-142 |
 | 1C7 | Ms K Saraswathi | [k_saraswathi@moe.edu.sg](mailtok_saraswathi@moe.edu.sg) | 65938-145 |
 |  | Mrs Soh Sichuan | [wang_sichuan@moe.edu.sg](mailto:wang_sichuan@moe.edu.sg) | 65938-204 |
 | 1C8   | Ms Shafillah Begum | [shafillah_begum@moe.edu.sg](mailto:shafillah_begum@moe.edu.sg) | 65938-168 |
-|  | Mrs Gwen Ng-Toh Xiao Qi | [toh_xiao_qi@moe.edu.sg](mailto:toh_xiao_qi@moe.edu.sg) | 65938-142 |
+|  | Mr Lee Ming Hui Kelvin | [ming_hui_kelvin_lee@moe.edu.sg](mailto:ming_hui_kelvin_lee@moe.edu.sg) | 65938-153 |
 
 #### **Secondary 2**
 
 | Class | Year Head / Form Teacher | Email | Contact |
 |---|---|---|---|
 | Year Head | Mr Ang Chun Hua | [ang_chun_hua@moe.edu.sg](mailto:ang_chun_hua@moe.edu.sg) | 65938-155 |
-| Asst Year Head | Mr Christopher Lim Wei Chern  | [christopher_lim_wei_chern@moe.edu.sg](mailto:christopher_lim_wei_chern@moe.edu.sg)  | 65938-135  |
+| Asst Year Head | Mr Christopher Lim Wei Chern | [christopher_lim_wei_chern@moe.edu.sg](mailto:christopher_lim_wei_chern@moe.edu.sg)  | 65938-135  |
 | 2I1 | Ms Ho Yieng Yieng | [ho_yieng_yieng@moe.edu.sg](mailto:ho_yieng_yieng@moe.edu.sg) | 65938-139  |
 |  | Ms Nur Nasyrah Binte Ahmad | [nur_nasyrah_ahmad@moe.edu.sg](mailto:nur_nasyrah_ahmad@moe.edu.sg) | 65938-140 |
 | 2I2 | Ms Lee Yi Ern | [yi_ern@moe.edu.sg](mailto:yi_ern@moe.edu.sg) | 65938-204 |
 |  | Mr Goh Ching Poh | [goh_ching_poh@moe.edu.sg](mailto:goh_ching_poh@moe.edu.sg) | 65938-136  |
 | 2I3 | Ms Nurul 'Ain Binte Sahat | [nurul_ain_sahat@moe.edu.sg](mailto:nurul_ain_sahat@moe.edu.sg) | 65938-149  |
-|  | Mr Ho Teng Kui Gabriel | [ho_teng_kui_gabriel@moe.edu.sg](mailto:ho_teng_kui_gabriel@moe.edu.sg) | 65938-151  |
+|  | Mr Matthias Chan Yong Shun | [matthias_chan_yong_shun@moe.edu.sg](mailto:Matthias_Chan_Yong_Shun@moe.edu.sg) | 65938-181  |
 | 2I4 | Mr Eswaran | [eswaran_ramachandran@moe.edu.sg](mailto:eswaran_ramachandran@moe.edu.sg)| 65938-141  |
 |  | Ms Woo Wenhui, Majella | [woo_wenhui_majella@moe.edu.sg](mailto:woo_wenhui_majella@moe.edu.sg) | 65938-129 |
 | 2I5 | Ms Noorlizah Bte Suriyap | [noorlizah_suriyap@moe.edu.sg](mailto:noorlizah_suriyap@moe.edu.sg) | 65938-130 |
@@ -50,7 +52,9 @@ third_nav_title: Our People
 |  | Mr Imaduddin Ahmad | [imaduddin_ahmad_chevi_rafiudin@moe.edu.sg](mailto:imaduddin_ahmad_chevi_rafiudin@moe.edu.sg)| 65938-140 |
 | | Mr Teo Ang Guan | [teo_ang_guan@moe.edu.sg](mailto:teo_ang_guan@moe.edu.sg) | 65938-206 |
 | 2I8 | Mr Loh Guan Wee Vincent | [loh_guan_wee_vincent@moe.edu.sg](mailto:loh_guan_wee_vincent@moe.edu.sg)| 65938-150 |
-|   | Mdm Indra Devi  | [indra_devi_k_velayuthan@moe.edu.sg](mailto:indra_devi_k_velayuthan@moe.edu.sg) | 65938-164 |
+|   | Mdm Indra Devi  | [indra_devi_k_velayuthan@moe.edu.sg](mailto:indra_devi_k_velayuthan@moe.edu.sg) | 65938-164 | 
+| | Ms Tham Qi Ying | [tham_qi_ying@moe.edu.sg](mailto:tham_qi_ying@moe.edu.sg) | 65938-181 | 
+|
 
 #### **Secondary 3**
 
@@ -59,8 +63,8 @@ third_nav_title: Our People
 | Year Head | Ms Estee Teo | [teo_kexin_estee@moe.edu.sg](mailto:teo_kexin_estee@moe.edu.sg) | 65938-177 |
 | Asst Year Head  | Ms Rozianna  | [rozianna_mohammed_affendi@moe.edu.sg](mailto:rozianna_mohammed_affendi@moe.edu.sg) | 65938-144 |
 | 3R1 | Mrs Maybrie Ang | [maybrie_ang_mai_mai@moe.edu.sg](mailto:maybrie_ang_mai_mai@moe.edu.sg) | 65938-128 |
-|  | Mr Ardy Taniwan | [ardy_taniwan@moe.edu.sg](mailto:ardy_taniwan@moe.edu.sg) | 65938-160 |
-|   | Ms Koh Kia Li Charmaine  | [koh_kia_li_charmaine@moe.edu.sg](mailto:koh_kia_li_charmaine@moe.edu.sg) | 65938-105 |
+| | Ms Lee Sock Kee | [lee_sock_kee@moe.edu.sg](mailto:lee_sock_kee@moe.edu.sg) | 65938-164 |
+| | Ms Koh Kia Li Charmaine  | [koh_kia_li_charmaine@moe.edu.sg](mailto:koh_kia_li_charmaine@moe.edu.sg) | 65938-105 |
 | 3R2 | Ms Leow Kai Yin | [leow_kai_yin@moe.edu.sg](mailto:leow_kai_yin@moe.edu.sg)| 65938-143 |
 |  | Ms Tan Wen Li Vanessa | [tan_wen_li_vanessa@moe.edu.sg](mailto:tan_wen_li_vanessa@moe.edu.sg) | 65938-203 |
 | 3R3 | Mr Chen Yit Chien | [chen_yit_chien@moe.edu.sg](mailto:chen_yit_chien@moe.edu.sg) | 65938-125 |
@@ -90,7 +94,7 @@ third_nav_title: Our People
 | 4E3 | Mr Gavin Swee | [swee_wei_ming_gavin@moe.edu.sg](mailto:swee_wei_ming_gavin@moe.edu.sg) | 65938-150 |
 |  | Ms Xiao Yue | [xiao_yue@moe.edu.sg](mailto:xiao_yue@moe.edu.sg) | 65938-146 |
 | 4E4 | Mr Richmond Su | [su_jiahao_richmond@moe.edu.sg](mailto:su_jiahao_richmond@moe.edu.sg) | 65938-167 |
-|  | Mdm Zhang Yan | [zhang_yan_a@moe.edu.sg](mailto:zhang_yan_a@moe.edu.sg) | 65938-162 |
+|  | Ms Chai Hsueh Chi Michelle | [chai_hsueh_chi_michelle@moe.edu.sg](mailto:chai_hsueh_chi_michelle@moe.edu.sg) | 65938-161 |
 | 4E5 | Ms Julia Yeo | [yeo_yun_fang_julia@moe.edu.sg](mailto:yeo_yun_fang_julia@moe.edu.sg) | 65938-166 |
 |  | Miss Ratiporn Tasanawinyou | [ratiporn_tasanawinyou@moe.edu.sg](mailto:ratiporn_tasanawinyou@moe.edu.sg) | 65938-145 |
 | 4E6 | Mr Ezzy Chan | [chan_weng_cheong_ezzy@moe.edu.sg](mailto:chan_weng_cheong_ezzy@moe.edu.sg) | 65938-139 |

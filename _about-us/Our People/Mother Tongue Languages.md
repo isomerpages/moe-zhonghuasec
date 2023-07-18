@@ -19,5 +19,6 @@ third_nav_title: Our People
 | Ms Nurliza Bte Yusof | Teacher | [nurliza_yusof@moe.edu.sg](mailto:nurliza_yusof@moe.edu.sg) | 65938-162 |
 | Ms Nur Nasyrah | Teacher | [nur_nasyrah_ahmad@moe.edu.sg](mailto:nur_nasyrah_ahmad@moe.edu.sg) | 65938-140 |
 | Ms Suziyanti Bte Jepto | Teacher | [suziyanti_jepto@moe.edu.sg](mailto:suziyanti_jepto@moe.edu.sg) | 65938-142 |
-| Mdm Jiang Yuwei | Adjunct Teacher | [jiang_yuwei@moe.edu.sg](mailto:jiang_yuwei@moe.edu.sg) | 65938-169 |
+| Mdm Jiang Yuwei | Teacher | [jiang_yuwei@moe.edu.sg](mailto:jiang_yuwei@moe.edu.sg) | 65938-169 |
+| Mdm Png Peck Tin | Flexi-Adjunct Teacher | [png_peck_tin_a@moe.edu.sg](mailto:Png_Peck_Tin_A@moe.edu.sg) | 65938-188 |
 |
