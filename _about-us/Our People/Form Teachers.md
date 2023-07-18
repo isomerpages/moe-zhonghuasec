@@ -35,7 +35,7 @@ third_nav_title: Our People
 | Class | Year Head / Form Teacher | Email | Contact |
 |---|---|---|---|
 | Year Head | Mr Ang Chun Hua | [ang_chun_hua@moe.edu.sg](mailto:ang_chun_hua@moe.edu.sg) | 65938-155 |
-| Asst Year Head | Mr Christopher Lim Wei Chern  | [christopher_lim_wei_chern@moe.edu.sg](mailto:christopher_lim_wei_chern@moe.edu.sg)  | 65938-135  |
+| Asst Year Head | Mr Christopher Lim Wei Chern | [christopher_lim_wei_chern@moe.edu.sg](mailto:christopher_lim_wei_chern@moe.edu.sg)  | 65938-135  |
 | 2I1 | Ms Ho Yieng Yieng | [ho_yieng_yieng@moe.edu.sg](mailto:ho_yieng_yieng@moe.edu.sg) | 65938-139  |
 |  | Ms Nur Nasyrah Binte Ahmad | [nur_nasyrah_ahmad@moe.edu.sg](mailto:nur_nasyrah_ahmad@moe.edu.sg) | 65938-140 |
 | 2I2 | Ms Lee Yi Ern | [yi_ern@moe.edu.sg](mailto:yi_ern@moe.edu.sg) | 65938-204 |
