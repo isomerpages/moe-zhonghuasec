@@ -20,6 +20,6 @@ third_nav_title: Our People
 | Mr Ivan Lee | Senior School Counsellor | [lee_thiam_hin_ivan@moe.edu.sg](mailto:lee_thiam_hin_ivan@moe.edu.sg) | 65938-154 |
 | Ms Nur Asyurah | AED - LBS | [nur_asyurah_rosle@moe.edu.sg](mailto:nur_asyurah_rosle@moe.edu.sg) | 65938-147 |
 | Ms Suziliana Salleh | AED - LBS | [suziliana_salleh@moe.edu.sg](mailto:suziliana_salleh@moe.edu.sg) | 65938-125 |
-| Ms Oh Ching Fen | Flexi-Adjunct School Counsellor | [Oh_Ching_Fen_A@moe.edu.sg](mailto:Oh_Ching_Fen_A@moe.edu.sg) | 65938-125 |
-| Mdm Liang Kim Kee | Flexi-Adjunct Teacher| [Liang_Kim_Kee@moe.edu.sg](mailto:Liang_Kim_Kee@moe.edu.sg) | 65938-186 |
+| Ms Oh Ching Fen | Flexi-Adjunct School Counsellor | [oh_ching_fen_a@moe.edu.sg](mailto:Oh_Ching_Fen_A@moe.edu.sg) | 65938-125 |
+| Mdm Liang Kim Kee | Flexi-Adjunct Teacher| [liang_kim_kee@moe.edu.sg](mailto:Liang_Kim_Kee@moe.edu.sg) | 65938-186 |
 | Mr Teo Yian Quan | Flexi-Adjunct School Counsellor | [teo_yian_quan@moe.edu.sg](mailto:teo_yian_quan@moe.edu.sg) |  6282-4339 |
