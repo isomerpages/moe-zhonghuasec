@@ -41,7 +41,7 @@ third_nav_title: Our People
 | 2I2 | Ms Lee Yi Ern | [yi_ern@moe.edu.sg](mailto:yi_ern@moe.edu.sg) | 65938-204 |
 |  | Mr Goh Ching Poh | [goh_ching_poh@moe.edu.sg](mailto:goh_ching_poh@moe.edu.sg) | 65938-136  |
 | 2I3 | Ms Nurul 'Ain Binte Sahat | [nurul_ain_sahat@moe.edu.sg](mailto:nurul_ain_sahat@moe.edu.sg) | 65938-149  |
-|  | Mr Matthias Chan Yong Shun | [Matthias_Chan_Yong_Shun@moe.edu.sg](mailto:Matthias_Chan_Yong_Shun@moe.edu.sg) | 65938-181  |
+|  | Mr Matthias Chan Yong Shun | [matthias_chan_yong_shun@moe.edu.sg](mailto:Matthias_Chan_Yong_Shun@moe.edu.sg) | 65938-181  |
 | 2I4 | Mr Eswaran | [eswaran_ramachandran@moe.edu.sg](mailto:eswaran_ramachandran@moe.edu.sg)| 65938-141  |
 |  | Ms Woo Wenhui, Majella | [woo_wenhui_majella@moe.edu.sg](mailto:woo_wenhui_majella@moe.edu.sg) | 65938-129 |
 | 2I5 | Ms Noorlizah Bte Suriyap | [noorlizah_suriyap@moe.edu.sg](mailto:noorlizah_suriyap@moe.edu.sg) | 65938-130 |
