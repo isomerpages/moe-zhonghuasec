@@ -53,7 +53,7 @@ third_nav_title: Our People
 | | Mr Teo Ang Guan | [teo_ang_guan@moe.edu.sg](mailto:teo_ang_guan@moe.edu.sg) | 65938-206 |
 | 2I8 | Mr Loh Guan Wee Vincent | [loh_guan_wee_vincent@moe.edu.sg](mailto:loh_guan_wee_vincent@moe.edu.sg)| 65938-150 |
 |   | Mdm Indra Devi  | [indra_devi_k_velayuthan@moe.edu.sg](mailto:indra_devi_k_velayuthan@moe.edu.sg) | 65938-164 | 
-| | Mr Tham Qi Ying | [tham_qi_ying@moe.edu.sg](mailto:tham_qi_ying@moe.edu.sg) | 65938-181 | 
+| | Ms Tham Qi Ying | [tham_qi_ying@moe.edu.sg](mailto:tham_qi_ying@moe.edu.sg) | 65938-181 | 
 |
 
 #### **Secondary 3**
