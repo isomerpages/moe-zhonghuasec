@@ -3,9 +3,9 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-**O Level Prelim Exam Timetable**
+**'O' Level Prelim Exam Timetable**
 <br>
-[O Level Prelim Exam Timetable](/files/20234e4n5nprelimtimetablev4.pdf)
+['O' Level Prelim Exam Timetable](/files/20234e4n5nprelimtimetablev4.pdf)
 
 -------------------------------------------------------------------------------
 
