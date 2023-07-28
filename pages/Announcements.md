@@ -3,6 +3,12 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+**2023 'O' Level Prelim Exam Timetable**
+<br>
+[2023 'O' Level Prelim Exam Timetable](/files/20234e4n5nprelimtimetablev4.pdf)
+
+-------------------------------------------------------------------------------
+
 **2023 WA3 Timetable**
 <br>
 [2023 WA3 Timetable](/files/2023wa3v2.pdf)
