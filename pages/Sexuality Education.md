@@ -36,8 +36,8 @@ b. Character and Citizenship Education (CCE)
 <img src="/images/SEC 1.png">
 <img src="/images/SEC 2.png">
 <img src="/images/SEC 3.png">
-<img src="/images/SEC 4.png">
-<img src="/images/SEC 5.png">
+<img src="/images/sec%204%20%20.png">
+<img src="/images/sec%205%20%20.png">
 
 ##### **_eTeens_&nbsp;Programme**:
 8\. _eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective.&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.  
@@ -61,4 +61,4 @@ b. Character and Citizenship Education (CCE)
 12\. Parents who wish to opt their children out of the&nbsp;**_eTeens_&nbsp;programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;**[here](/files/eTeens%20opt-out%20form%202023.pdf)**.
 The completed form is to be submitted by&nbsp;**26/01/2023**.  
 &nbsp;&nbsp;  
-13\. Parents can contact the school at 62824339 or email to&nbsp;[zhonghua\_ss@moe.edu.sg](mailto:zhonghua_ss@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.  
+13\. Parents can contact the school at 62824339 or email to&nbsp;[zhonghua\_ss@moe.edu.sg](mailto:zhonghua_ss@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
