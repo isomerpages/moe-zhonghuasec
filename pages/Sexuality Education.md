@@ -36,7 +36,7 @@ b. Character and Citizenship Education (CCE)
 <img src="/images/SEC 1.png">
 <img src="/images/SEC 2.png">
 <img src="/images/SEC 3.png">
-<img src="/images/sec%204%20%20.png">
+<img src="/images/sec%204se.png">
 <img src="/images/sec%205%20%20.png">
 
 ##### **_eTeens_&nbsp;Programme**:
