@@ -10,7 +10,7 @@ description: ""
 3. [For NON-MOE FAS\_PC\_Bundle\_Application\_Form\_v12.1 (8 April 2020) FINAL with FBB MBB Forms](/files/admin%20form4.pdf)<br>
 4. [MOE Student GPA NTUC Insurance Claim Form](/files/admin%20form5.pdf)<br>
 5. [Application Form for Leave of Absence](/files/loaform.pdf)<br>
-6. [Straits Times School Pocket Money Fund (STSPMF) Application Form](/files/stspmf%20form_cycle%201_%202024.pdf) (Closing date: 1 September 2023, Friday)
+6. [Application Form for Straits Times School Pocket Money Fund (STSPMF)](/files/stspmf%20form_cycle%201_%202024.pdf) (Closing date: 1 September 2023, Friday)
 
 
 #### **Book Lists 2023**
