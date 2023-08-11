@@ -5,6 +5,7 @@ description: ""
 ---
 |  |  |
 |---|---|
+| <br>National Day Awards 2023 | Mr Low Yao Ming Ron (Commendation Medal)<br>Mr Loh Guan Wee Vincent (Long Service Medal)<br>Mdm Magespathy d/o Ramasamy (Long Service Medal) |
 | <br>National Day Awards 2022 | Mrs Ho-Tam Mee Fong (Commendation Medal)<br>Mdm Tan Teing Im (Long Service Medal)<br>Mr Lim Yong Khern (Long Service Medal) |
 | National Day Awards 2021 | Mr Ang Chun Hua (Commendation Medal)<br>Mr Eswaran s/o Ramachandran (Long Service Medal) |
 | <br>National Day Awards 2020 | Mr Koh Kai Hong (Commendation Medal)<br>Ms Ong Lay Hong (Commendation Medal)<br>Mr Raymond Liu Sy Yee (Long Service Medal) |
