@@ -5,7 +5,7 @@ description: ""
 ---
 **2023 'O' Level Prelim Exam Timetable**
 <br>
-[2023 'O' Level Prelim Exam Timetable](/files/20234e4n5nprelimtimetablev4.pdf)
+[2023 'O' Level Prelim Exam Timetable](/files/20234e4n5nprelimtimetablev5.pdf)
 
 -------------------------------------------------------------------------------
 
