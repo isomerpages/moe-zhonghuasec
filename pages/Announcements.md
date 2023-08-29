@@ -3,6 +3,16 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+**2023 Sec 1 to 3 End-of-Year Examination Timetable**
+<br>
+[2023 Sec 1 Exam Timetable](/files/2023sec1eoy.pdf)
+
+[2023 Sec 2 Exam Timetable](/files/2023sec2eoy.pdf)
+
+[2023 Sec 3 Exam Timetable](/files/2023sec3eoy.pdf)
+
+-------------------------------------------------------------------------------
+
 **2023 'O' Level Prelim Exam Timetable**
 <br>
 [2023 'O' Level Prelim Exam Timetable](/files/20234e4n5nprelimtimetablev5.pdf)
