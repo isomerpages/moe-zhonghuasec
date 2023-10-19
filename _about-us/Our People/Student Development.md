@@ -22,4 +22,3 @@ third_nav_title: Our People
 | Ms Suziliana Salleh | AED - LBS | [suziliana_salleh@moe.edu.sg](mailto:suziliana_salleh@moe.edu.sg) | 65938-125 |
 | Ms Oh Ching Fen | Flexi-Adjunct School Counsellor | [oh_ching_fen_a@moe.edu.sg](mailto:Oh_Ching_Fen_A@moe.edu.sg) | 65938-125 |
 | Mdm Liang Kim Kee | Flexi-Adjunct Teacher| [liang_kim_kee@moe.edu.sg](mailto:Liang_Kim_Kee@moe.edu.sg) | 65938-186 |
-| Mr Teo Yian Quan | Flexi-Adjunct School Counsellor | [teo_yian_quan@moe.edu.sg](mailto:teo_yian_quan@moe.edu.sg) |  6282-4339 |
