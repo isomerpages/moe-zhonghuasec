@@ -7,7 +7,7 @@ description: ""
 #### Join us at our Open House on 11 Nov 2023 (Saturday) from 9 am to 1 pm!
 
 Principal's Address:&nbsp;10.00am - 10.45am 
-<br><br>Experience our school campus, signature programmes, diverse curriculum and exciting CCAs offered at Zhonghua Sec! <br>
+<br><br>Experience our school campus, signature programmes, diverse curriculum and exciting CCAs offered at Zhonghua Sec! 
 Don't miss this opportunity to hear from our school leaders and staff!!
 
 Want a preview? Visit our e-Open House microsite at:&nbsp;[https://go.gov.sg/zhsseopenhouse](https://go.gov.sg/zhsseopenhouse/)
