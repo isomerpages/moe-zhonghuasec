@@ -3,7 +3,7 @@ title: School Open House 2023
 permalink: /about-us/permalink/
 description: ""
 ---
-[](/images/zhssopenhouse23.jpg)
+![](/images/zhssopenhouse23.jpg)
 #### Join us at our Open House on 11 Nov 2023 (Saturday) from 9 am to 1 pm!
 
 Principal's Address:&nbsp;10.00am - 10.45am 
