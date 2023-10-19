@@ -15,7 +15,7 @@ third_nav_title: Our People
 | Mr Fu Chee Sheng | HOD - Science | [fu_chee_sheng@moe.edu.sg](mailto:fu_chee_sheng@moe.edu.sg) |
 | Mr Low Kee Ley | HOD – ICT | [low_kee_ley@moe.edu.sg](mailto:low_kee_ley@moe.edu.sg) |
 | Mdm Koh Lee Keng | HOD – Mother Tongue Languages | [koh_lee_keng@moe.edu.sg](mailto:koh_lee_keng@moe.edu.sg) |
-| Ms Noraini Mohamed | HOD – Special Education Needs | [noraini_mohamed@moe.edu.sg](mailto:noraini_mohamed@moe.edu.sg) |
+| Ms Noraini Mohamed | HOD – Special Educational Needs | [noraini_mohamed@moe.edu.sg](mailto:noraini_mohamed@moe.edu.sg) |
 | Mr Ron Low | HOD – Student Management | [low_yao_ming@moe.edu.sg](mailto:low_yao_ming@moe.edu.sg) |
 | Ms Tan Chye I | HOD – Student Leadership &amp; Partnership | [tan_chye_i@moe.edu.sg](mailto:tan_chye_i@moe.edu.sg) |
 | Ms Estee Teo | Year Head – Upper Sec | [teo_kexin_estee@moe.edu.sg](mailto:teo_kexin_estee@moe.edu.sg) |
