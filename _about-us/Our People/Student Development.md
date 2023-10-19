@@ -18,7 +18,7 @@ third_nav_title: Our People
 | Mrs Crystal Tan | Subject Head - CCE | [crystal_ling_yuet_ping@moe.edu.sg](mailto:crystal_ling_yuet_ping@moe.edu.sg) | 65938-166 |
 | Mr Goh Tze Mian | Senior Teacher - CCE | [goh_tze_mian@moe.edu.sg](mailto:goh_tze_mian@moe.edu.sg) | 65938-146 |
 | Mr Ivan Lee | Senior School Counsellor | [lee_thiam_hin_ivan@moe.edu.sg](mailto:lee_thiam_hin_ivan@moe.edu.sg) | 65938-154 |
+| Ms Oh Ching Fen | Flexi-Adjunct School Counsellor | [oh_ching_fen_a@moe.edu.sg](mailto:Oh_Ching_Fen_A@moe.edu.sg) | 65938-125 |
 | Ms Nur Asyurah | AED - LBS | [nur_asyurah_rosle@moe.edu.sg](mailto:nur_asyurah_rosle@moe.edu.sg) | 65938-147 |
 | Ms Suziliana Salleh | AED - LBS | [suziliana_salleh@moe.edu.sg](mailto:suziliana_salleh@moe.edu.sg) | 65938-125 |
-| Ms Oh Ching Fen | Flexi-Adjunct School Counsellor | [oh_ching_fen_a@moe.edu.sg](mailto:Oh_Ching_Fen_A@moe.edu.sg) | 65938-125 |
 | Mdm Liang Kim Kee | Flexi-Adjunct Teacher| [liang_kim_kee@moe.edu.sg](mailto:Liang_Kim_Kee@moe.edu.sg) | 65938-186 |
