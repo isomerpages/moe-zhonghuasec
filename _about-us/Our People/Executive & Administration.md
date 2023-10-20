@@ -10,6 +10,5 @@ third_nav_title: Our People
 | Ms Lee Lay Sin | Administration Manager | [lee_lay_sin@moe.edu.sg](mailto:lee_lay_sin@moe.edu.sg) |
 | Mr Chung Soon Sing | Operations Manager | [chung_soon_sing@moe.edu.sg](mailto:chung_soon_sing@moe.edu.sg) |
 | Mrs Grace Chong | Management Support Officer | [marygrace_f_de_guzman@moe.edu.sg](mailto:marygrace_f_de_guzman@moe.edu.sg) |
-| Mdm Mages R. | Management Support Officer | [magespathy_ramasamy@moe.edu.sg](mailto:magespathy_ramasamy@moe.edu.sg) |
-| Mdm Lim Geok Choo | Admin Assistant |  |
+| Mdm Mages R. | Management Support Officer | [magespathy_ramasamy@moe.edu.sg](mailto:magespathy_ramasamy@moe.edu.sg) |  |
 | Mdm Masreny Binte Matnin | Operation Support Officer (Reception) |  |
