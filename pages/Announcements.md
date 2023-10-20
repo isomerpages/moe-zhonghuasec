@@ -3,6 +3,12 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+**Zhonghua Secondary School Open House 2023**
+<br>
+[Read more](https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/soh2023/)
+
+--------------------------------------------------------------------------------
+
 **2023 Sec 1 to 3 End-of-Year Examination Timetable**
 <br>
 [2023 Sec 1 Exam Timetable](/files/2023sec1eoy.pdf)
