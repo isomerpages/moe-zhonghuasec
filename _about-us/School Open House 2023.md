@@ -1,6 +1,6 @@
 ---
 title: School Open House 2023
-permalink: /about-us/permalink/
+permalink: /about-us/soh2023/
 description: ""
 ---
 ![](/images/zhssopenhouse23.jpg)
