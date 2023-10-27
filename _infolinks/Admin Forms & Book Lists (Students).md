@@ -13,9 +13,9 @@ description: ""
 6. [Application Form for Straits Times School Pocket Money Fund (STSPMF) 2024](/files/stspmf%20form_cycle%201_%202024.pdf) <br>(Closing date: 1 September 2023, Friday)
 
 
-#### **Book Lists 2023**
-[Sec 1 Book List](/files/sec1booklist2023.pdf)<br>
-[Sec 2 Book List](/files/sec2booklist2023.pdf)<br>
-[Sec 3 Book List](/files/sec3booklist2023.pdf)<br>
-[Sec 4 Book List](/files/sec4booklist2023.pdf)<br>
-[Sec 5 Book List](/files/sec5booklist2023.pdf)
+#### **Book Lists 2024**
+[Sec 1 Book List](/files/sec1booklist2024.pdf)<br>
+[Sec 2 Book List](/files/sec2booklist2024.pdf)<br>
+[Sec 3 Book List](/files/sec3booklist2024.pdf)<br>
+[Sec 4 Book List](/files/sec4booklist2024.pdf)<br>
+[Sec 5 Book List](/files/sec5(na)booklist2024.pdf)
