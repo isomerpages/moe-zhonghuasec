@@ -3,6 +3,7 @@ title: Form Teachers
 permalink: /about-us/our-people/form-teachers/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 #### **Secondary 1**
 
@@ -14,7 +15,7 @@ third_nav_title: Our People
 |  | Ms Nurliza Bte Yusof | [nurliza_yusof@moe.edu.sg](mailto:nurliza_yusof@moe.edu.sg) | 65938-165 |
 | | Ms Joy Eu Li Xin | [joy_eu_li_xin@moe.edu.sg](mailto:joy_eu_li_xin@moe.edu.sg) | 65938-206 |
 | 1C2 | Mr Ng Thiam Seng | [ng_thiam_seng@moe.edu.sg](mailto:ng_thiam_seng@moe.edu.sg) | 65938-153 | 
-| | Ms Soh Sock Kheng | [soh_sock_kheng@moe.edu.sg](mailto:soh_sock_kheng@moe.edu.sg) | 65938-143 |
+| | Ms Cindy Soh | [soh_sock_kheng@moe.edu.sg](mailto:soh_sock_kheng@moe.edu.sg) | 65938-143 |
 | 1C3 | Mr Eddie Pang Kar Loon | [pang_kar_loon_eddie@moe.edu.sg](mailto:pang_kar_loon_eddie@moe.edu.sg) | 65938-172 |
 |  | Ms Loh Julian | [loh_julian@moe.edu.sg](mailto:loh_julian@moe.edu.sg) | 65938-165 |
 | 1C4 | Mr Jerome Ong Lin Xiong | [jerome_ong_lin_xiong@moe.edu.sg](mailto:jerome_ong_lin_xiong@moe.edu.sg) | 65938-148 |
