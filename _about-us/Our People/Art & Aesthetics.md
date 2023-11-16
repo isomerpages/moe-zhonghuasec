@@ -3,6 +3,7 @@ title: Art & Aesthetics
 permalink: /about-us/our-people/art-and-aesthetics/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
@@ -14,4 +15,3 @@ third_nav_title: Our People
 | Mr Matthias Chan Yong Shun | Teacher | [matthias_chan_yong_shun@moe.edu.sg](mailto:matthias_chan_yong_shun@moe.edu.sg) | 65938-181 |
 | Ms Hew Soo Yun | Flexi-Adjunct Teacher | [hew_soo_hun_a@moe.edu.sg](mailto:Hew_Soo_Hun_A@moe.edu.sg) | 65938-138|
 | Ms Loh Siyun Jaclyn | Relief Educator | [loh_siyun_jaclyn_a@moe.edu.sg](mailto:Loh_Siyun_Jaclyn_A@moe.edu.sg) | 65938-188 |
-| Mr Nigel Leong Leng Khin | Relief Educator | [nigel_leong_leng_khin_a@moe.edu.sg](mailto:NIGEL_LEONG_LENG_KHIN_A@moe.edu.sg) | 65938-159 |
