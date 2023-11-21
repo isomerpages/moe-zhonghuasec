@@ -2,13 +2,13 @@ collections:
   programmes:
     output: true
     order:
-      - Zhonghua Signature Programmes/Talent Development Programme.md
-      - Zhonghua Signature Programmes/Student Leadership Development.md
       - Zhonghua Signature Programmes/.keep
       - Zhonghua Signature Programmes/Zhonghua Signature Programmes.md
       - Zhonghua Signature Programmes/Digital Literacy Programme.md
       - Zhonghua Signature Programmes/Eco Stewardship Programme.md
       - Zhonghua Signature Programmes/Cross Cultural Programme.md
+      - Zhonghua Signature Programmes/Talent Development Programme.md
+      - Zhonghua Signature Programmes/Student Leadership Development.md
       - Zhonghua Signature Programmes/Art Elective Programme (AEP).md
       - Zhonghua Signature Programmes/Robotics and Computing Programme.md
       - Full Subject Based Banding @ Zhonghua.md
