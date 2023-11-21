@@ -3,22 +3,17 @@ title: Eco Stewardship Programme
 permalink: /programmes/zhonghua-signature-programmes/eco-stewardship-programme/
 description: ""
 third_nav_title: Zhonghua Signature Programmes
-variant: tiptap
+variant: markdown
 ---
 <img src="/images/esp1.jpg" style="width:25%">
 
-The Environmental Sustainability Programme aims to heighten Zhonghuarians’ awareness of issues that can affect the environment that everyone depends on.&nbsp; With the use of current context, students learn through various measures taken by our local community to address the environmental issues and provides a platform for the students to act as problem solvers to take actions to improve the environment that they live in.  
-  
-The logo consists of two parts, the green begonia outline representing Zhonghuarians while the red core representing the love towards the environment.
+The Eco Heroes Programme is a STEM programme for all Secondary 2 students.
 
-* Through environment education, we hope to
-* &nbsp;develop&nbsp;**thinking skills**&nbsp;and&nbsp;**connect knowledge**&nbsp;across subject disciplines in environmental and sustainability issues  
-* &nbsp;**empower**&nbsp;students by educating them on issues pertaining to conservation and sustainability in environment  
-* &nbsp;provide opportunities for students to be&nbsp;**active participants in environmental issues**&nbsp;and examine issue at national and local levels.
+In the Eco Heroes Programme, we aim to:
+* educate students by sharing some of the issues pertaining to sustainability, such as sustainable waste management, recycling, water &amp; energy conservation and food wastage. 
+* develop thinking skills by connecting knowledge across subject disciplines in the context of sustainability.
+* develop analytical skills using data analytics tools to analyse authentic data and to address sustainability issues using design thinking protocol. 
 
-Students will gain values such as (i)&nbsp;**tolerance and understanding**&nbsp;while investigating varying sides of issues to understand the full picture, (ii)&nbsp;**sensitivity, appreciation, and respect**&nbsp;for the environment, and (iii)&nbsp;**responsibility**&nbsp;towards the environment where students understand how their decisions and actions affect the environment.
-
-The ESE committee plans and carries out broad-based and niche environmental activities to raise awareness on environmental issues.
 
 #### **Broad-Based Environmental Activities**
 Some examples of school-wide environmental activities conducted annually include:
