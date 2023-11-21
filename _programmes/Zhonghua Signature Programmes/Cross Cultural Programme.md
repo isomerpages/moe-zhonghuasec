@@ -3,31 +3,10 @@ title: Cross Cultural Programme
 permalink: /programmes/zhonghua-signature-programmes/cross-cultural-programme/
 description: ""
 third_nav_title: Zhonghua Signature Programmes
+variant: markdown
 ---
-<img src="/images/ccp1.jpg" style="width:75%">
+With technology shrinking the world where people now interact more often than before, developing cross-cultural awareness and sensitivity becomes crucial for everyone. There are different platforms that provide opportunities for students to learn about other cultures within and beyond our shores, cultivate cross-cultural skills and develop a global outlook.
 
-#### **Trip for Internationalization Experience (TIE)**
+**(a) Local Culture:** Programmes are planned to create awareness and understanding of our local cultures through celebrating major festivals during Chinese New Year, Hari Raya Puasa, and Mid-autumn festival. This allows students to understand the practices and customs of the different ethnic groups. Through performances, sharing and experiential learning, greater awareness and understanding of the different cultures are deepened. Students also go on cultural learning journeys to Kampong Glam, Little India and Chinatown, to acquire a deeper understanding of the different cultures in Singapore.
 
-Our Trip for Internationalization Experience (TIE) provides our students with opportunities to experience the cultures of different countries with the aim of broadening their own Cultural Quotient. Some of the places we have visited in Asia and South-East Asia include China, Taiwan, Hong Kong and Thailand.
-
-##### **Objectives of Trips for International Experience (TIE) in ZHSS**
-
-1\. Develops our students the 21 Century Competencies of global awareness, cross cultural skills and sensitivities<br>
-2\. Expose students to Asia and the world and sensitize them to the place of Singapore in the world<br>
-3\. Deepen students’ commitment and rootedness to Singapore
-
-In order to achieve the above objectives, the overseas trips are incorporated with the **_Cross Cultural Intelligence (CQ) Assessment component_** where students are measured on their Cross Cultural Intelligence for pre-trip, during the trip and post-trip. These measurements allow students to measure their growth in CQ. A customized individual report is given to every student after the trip to inform them of further activities they can engage in to improve their CQ.
-
-All students are engaged in pre-trip preparation where they acquired basic language competency as well as knowledge of the culture, history and tradition of the country they will visit. These overseas trips are intentionally designed to immerse students in cross cultural settings to meet the objectives of TIE. Examples include school visits, marketplace visits and temple visits. Feedback is given by both peers and teachers at every debrief session to ensure rich learning of the country visited, and to also improve on the CQ strategies for future activities.
-
-<img src="/images/ccp2.png" style="width:65%">
-
-<img src="/images/ccp3.png" style="width:65%">
-
-<img src="/images/ccp4.png" style="width:65%">
-
-#### **Appreciation of Cultures**
-
-Through school assembly performances, learning journeys and enrichment courses, we aim to cultivate Zhonghuarians’ interest in and appreciation for various cultures in greater depth. Zhonghuarians will also go through structured cultural modules with programmes such as cultural camps, song-writing, chinese calligraphy and seal carving workshops to immerse themselves in cultural activities.
-
-<img src="/images/ccp5.jpg" style="width:65%">
+(b) Global Culture: To develop a global perspective, the school also organises overseas trips for selected Sec 2 students (pre-pandemic). In 2022, virtual tours to Hong Kong and Vietnam were organised in place of the physical trip, involving Sec 1 and Sec 2 cohorts. Selected Sec 2 students also experienced a 2-day virtual exchange with Taipei Municipal Lanya High School, where students learnt about the Taiwanese culture. In 2023, a group of 36 students hosted Taipei Municipal Longmen Junior High School, where they learnt more about the Taiwanese local culture and introduced different cultures in Singapore to the visiting students. A group of 19 students also hosted Taipei Municipal Lanya Junior High School. A cultural immersion workshop was also organised for Sec 2 students where they learned more about the culture of ASEAN countries like Indonesia and Vietnam. 
