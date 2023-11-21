@@ -12,9 +12,9 @@ With technology shrinking the world where people now interact more often than be
 **(b) Global Culture:** To develop a global perspective, the school also organises overseas trips for selected Sec 2 students. Students will experience cultural exchanges with counterparts from overseas schools in Hong Kong, Vietnam, Taiwan, etc. where they learn more about the local culture. In return, they will also introduce different cultures in Singapore to visiting students, and bring them to local cultural neighbourhoods such as Kampong Glam and Chinatown.
 
 
-
+![](/images/Cross_Cultural_05.JPG)
 *Hosting students from Taipei Municipal Longmen High School City Tour to Little India, Kampong Glam and Chinatown*
 
-
+![](/images/Cross_Cultural_06.jpg)
 *Students had hands-on experience at the Cultural Immersion Workshop, trying out the Vietnamese traditional costume, Ao Dai*
 
