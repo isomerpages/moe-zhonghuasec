@@ -3,35 +3,30 @@ title: Art Elective Programme (AEP)
 permalink: /programmes/zhonghua-signature-programmes/aep/
 description: ""
 third_nav_title: Zhonghua Signature Programmes
+variant: markdown
 ---
-Zhonghua Secondary School started the first batch of AEP in 2010. Now it is an established AEP school that offers an exciting and rigorous 4-year art programme for our Zhonghuarians. Through contextualised learning experiences, students learn to apply their art skills on real-world issues and situations. This is further underpinned by the theoretical knowledge of the development and roles of art in different contexts of culture and time.
+##### Practitioners, Scholars, Advocates and Leaders in Art and the Arts
 
-![](/images/aep1.jpg)
+Zhonghua Secondary School introduced its inaugural Art Elective Programme (AEP) in 2010, marking the beginning of a transformative journey to offer an engaging and challenging 4-year art curriculum for Zhonghuarians. The emphasis is on contextualised learning, enabling students to apply their artistic skills to real-world issues and situations. This practical approach is complemented by a solid foundation in the theoretical aspects of Art, exploring its development and roles across diverse cultural and temporal contexts. 
 
-Annually, camps, workshops and learning journeys are conducted for AEP students to expose them to the multitude of expressions in the modern and contemporary art. For example, the Sec 1 and Sec 3 AEP students participate in the combined AEP schools workshops to learn new art skills and art forms with their fellow AEP peers.
+![](/images/AEP01.jpg)
+*Exploring artistic expression in school classrooms through engaging and hands-on art lessons.*
 
-![](/images/aep2.jpg)
+Annually, the AEP at Zhonghua organises a spectrum of activities, such as camps, workshops, and learning journeys designed to expose students to the rich tapestry of expressions in modern and contemporary art. Notable among these activities are the combined AEP schools' workshops, where Sec 1 and Sec 3 AEP students collaborate with peers from other schools to explore new Art skills and forms. Collaboration is a key theme in Zhonghua's AEP, with students participating in joint exhibitions both within the school and on external platforms. AEP students, alongside their peers from other schools, showcase their artworks at the Art Elective Programme Exhibition, contributing to a vibrant and dynamic artistic community. Additionally, Zhonghua's exhibitions, such as the Aesthetics Week AEP Showcase and the Exposé 90 Graduates' Art Exhibition serve as platforms for students to share their artistic endeavours.
 
-The Art Unit also arranges a biannual 4D3N Visual Art Trip to Penang for our Sec 3 AEP students. Students will have the opportunity to gain insight into different art forms, which helps to broaden their perspective to art.
+![](/images/AEP02.jpg)
+*Fostering collaboration and creativity through combined school art workshops, where students from different schools come together to learn and create*
 
-![](/images/aep3.jpg)
+Since 2012, Zhonghua Secondary School has embraced the Lincoln Centre Education (LCE) approach, seamlessly incorporating it into problem-based and inquiry-based pedagogies. This innovative approach fosters students' capacities for imagination and introduces a dynamic choice-based dimension to art learning. The LCE framework, encompassing ten capacities that span from noticing deeply to reflecting and assessing, provides a robust structure for comprehending artistic development.
 
-Together with the students from other AEP schools, our students also have the opportunity to exhibit artworks at the Art Elective Programme Exhibition at external grounds. Our AEP students share their art pieces and artmaking processes in the various in-school exhibitions too. For example, the Sec 1 to Sec 3 AEP students showcase their artworks in the annual ‘Pre10’ AEP exhibition, and our annual ‘Expose 90’ Art exhibition features works by our Sec 4 graduates. As young advocates of the Art, our Sec 2 and Sec 3 AEP students conduct mini art workshops for fellow Zhonghuarians and primary school students.
+![](/images/AEP03.jpg)
+*Art students embark on enlightening learning journeys to art exhibitions and shows, expanding their artistic horizons through real-world inspiration.*
 
-![](/images/aep4.jpg)
+As advocates and leaders of Art learning, both Lower Secondary AEP students and Upper Secondary AEP students actively engage in community-oriented art initiatives. The Lower Secondary AEP students contribute their artistic talents to community projects, while the Upper Secondary AEP students extend their expertise by conducting Art workshops. These workshops, designed not only for their peers but also for fellow Zhonghuarians and primary school students, exemplify Zhonghua Secondary School's dedication to fostering a vibrant community of creative and expressive individuals. This dual-tiered approach underscores the school's commitment to nurturing artistic endeavours at various levels within the community.
 
-Since 2012, Zhonghua AEP adopted and weaved the Lincoln Centre Education (LCE) approach into the various problem-based and inquiry-based pedagogies to develop students' capacities for imagination. The ten capacities (see below) provide students and teachers with another dimension to understand students’ artistic development over the years. With the support from the National Arts Council (NAC), the school’s practice and customisation of the LCE approach has been endorsed and affirmed by LCE when the LCE artist-instructors from New York in 2013 and 2015 visited the school.
+![](/images/AEP04.jpg)
+*Art students actively participate in workshops and community projects, honing their skills while making a positive impact through creative expression.*
 
-<figure>
-<figcaption><strong> Lincoln Centre Education: Ten Capacities for Imaginative Learning
-	</strong></figcaption>
-</figure>
 
-|  |  |  |  |  |
-|:---:|:---:|:---:|:---:|:---:|
-| **Notice Deeply**<br><br>How many layers of detail can you identify if you take the time? Can you go deeper? | **Embody**<br><br><br>Use your body to explore your ideas.<br>Try it out. | **Pose Questions**<br><br>What do you wonder? | **Identify Patterns**<br><br>How might different details relate?<br>Analyse them. | **Make Connections**<br><br>How is this like something else? Make personal, textual, and wider connections. |
-| **Empathise**<br><br>Can you understand how others think and feel? What are their perspectives? | **Live with Ambiguity**<br><br>What if there is not just one answer? Be patient with complexity. | **Create Meaning**<br><br>Bring together what you’ve thought so far. What new interpretations can you make? | **Take Action**<br><br>What will you choose to do with your ideas? Put them into practice. | **Reflect/Assess**<br><br>Look back on what you’ve experienced. What have you learned? What’s next? |
-|
-
-To find out more about the AEP in general, visit the MOE Art Elective Programme website at this URL:<br>
+For comprehensive information on the Art Elective Programme (AEP), please visit the official Ministry of Education (MOE) website dedicated to AEP:<br>
 [https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec](https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec)

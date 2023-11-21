@@ -7,19 +7,21 @@ variant: markdown
 ---
 Zhonghua Talent Development Programme is a 4-year progressive curriculum for selected students who show great aptitude, strong interest and motivation in fostering holistic development. Riding on the national push for STEM education, curated programmes are tailored to stretch students for exposure to disciplines and areas of interest in alignment with Zhonghua’s vision of cultivating Scholars ● Leaders.
 
-#### **The Zhonghua TDP aims to:**
-1\. Provide a more challenging curriculum for higher ability/high potential students,<br>
-2\. Set a strong foundation for student success at future national assessment platforms,<br>
-3\. Produce students who are&nbsp;**Passionate Learners in pursuit of excellence, Independent Learners, and Dynamic and Resilient Leaders with a passion for Innovation**.
+![TDP Framework](/images/TDP_Framework.png)
+**Fig. 1 Framework for Talent Development Programme**
 
-Sec 1 and 2 students who display strong intellectual and cognitive abilities are identified by using:<br>
+![](/images/TDP_table.png)
+
+**The Zhonghua TDP aims to:**<br>
+1\. Provide a more challenging curriculum for higher ability/high potential students<br>
+2\. Set a strong foundation for student success at future national assessment platforms
+
+Sec 1 students who display strong intellectual and cognitive abilities are identified by using:<br>
 1\. Quantitative Results – Assessment Results;<br>
 2\. Qualitative Results - Recommendations from Year Head, Form Teachers and Subject Teachers.
 
 Selected students will then go through an interview before confirmation in the programme.
 
-#### **Programmes for TDP students**
-Students in TDP are given opportunities to be mentored and coached in activities that broaden their learning.
 
 ##### **Zhonghua STEAM Research Programme**
 
@@ -41,17 +43,31 @@ The objectives for the STEAM Research Programme are to:<br>
 
 <img src="/images/tdp1.jpg" style="width:85%">
 
-##### **External Competitions, Workshops and Learning Journeys**
+
+##### Public Speaking workshop
+
+In this workshop, students learn the tricks and tips to thinking critically, presenting confidently and speaking eloquently. They will go through a series of lessons where they learn to unpack given topics, plan interesting presentations, and speak persuasively.
+
+##### Cybersecurity Workshop
+
+“JRRG PRUQLQJ”
+
+What does the above message mean?
+
+In this workshop, students learn the fundamentals of how confidential messages are transmitted across the Internet to prevent eavesdroppers from intercepting them. They also practise critical and inventive thinking to crack encrypted secret messages.&nbsp;&nbsp;
+
+Students also learn deeper about the potential dangers of an online profile and experience hands-on activities to understand how targeted attacks can occur. Through this workshop, students appreciate the benefits and dangers of the digital world better and develop better habits navigating the digital world.
+
+##### Other External Competitions, Workshops and Learning Journeys
 
 <img src="/images/tdp2.jpg" style="width:65%">
 
 <img src="/images/tdp3.jpg" style="width:65%">
 
-##### **Caring For Others**
-TDP students are continuously encouraged to use and share knowledge learned to benefit others.&nbsp; TDP students will collaboratively&nbsp;plan and execute&nbsp;VIA projects to contribute to the larger community and show care to others.
+##### Caring For Others
+TDP students are continuously encouraged to use and share knowledge learned to benefit others. TDP students will collaboratively&nbsp;plan and execute&nbsp;VIA projects to contribute to the larger community and show care to others.
 
-<img src="/images/tdp4.jpg" style="width:51%" align="left">
-<img src="/images/tdp5.jpg" style="width:47%" align="right">
+![](/images/tdp5.jpg)
 
 <br clear="left">
 

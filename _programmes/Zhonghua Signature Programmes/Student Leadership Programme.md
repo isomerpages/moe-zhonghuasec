@@ -3,39 +3,154 @@ title: Student Leadership Programme
 permalink: /programmes/zhonghua-signature-programmes/student-leadership-prog/
 description: ""
 third_nav_title: Zhonghua Signature Programmes
-variant: tiptap
+variant: markdown
 ---
-The Student Leadership Programme @ ZHSS programme aims to provide students with a roadmap of the school's intent to develop essential attributes and competencies that future leaders should embody. This roadmap clearly defines our vision, mission, belief, framework, and our approach to ensure every student is given the opportunity to grow as a leader in their 4 or 5 year journey with us.
+#### Student Leadership Programme
 
-|  |  |
-|---|---|
-| **Vision:** | Zhonghuarians are dynamic and resilient leaders with excellence mindset and a spirit of service and innovation. |
-| **Mission:** | To nurture leaders who are caring, collaborative and confident. |
-| **Belief:** | Every student is a leader who can serve to lead, lead to serve. |
-|
+Our Student Leadership Programme aims to nurture students to become dynamic servant leaders committed to leading themselves and others. Customised and run by our student leaders, we believe in the approach of “leaders growing leaders”, empowering our student leaders in the training and mentoring of their juniors.
 
-#### **Student Leadership Framework**
-In the planning and delivering of student outcomes in leadership training and activities, we follow the 3-Tier Student Leadership Approach.
+![Student Leadership Framework](/images/SLD01.png)
 
-<img src="/images/sl1.png" style="width:50%">
+##### The Five Practices of Exemplary Leadership  
+Our school adopts the Kouzes and Posner’s Five Practices of Exemplary Leadership Model in our Student Leadership Programme. Its principles are based on a set of observable skills and abilities that drive behaviours. Our student leaders are encouraged to practise these five exemplary leadership practices when discharging their duties.
 
-Our student leadership framework (above diagram) exemplifies 3-tier approach to nurturing student leaders. The framework is tied to our leadership program where students will be exposed to training and opportunities to allow them to level up their competencies and transit to the next tier. Students will be evaluated from 3 angles: self-evaluation (Sec 1-5), peer evaluation (Sec 1, 3) and teacher evaluation (Sec 2, 4) to measure their growth as a leader and their development in the scholar aspect.
+<img src="/images/5_practices.jpg">
 
-There is a system of awards and recognition to acknowledge the contribution of student leaders.
+##### Student Leadership Development
+The school provides various platforms to develop leadership skills in students and aims to inspire our student leaders to grow as caring, collaborative and confident leaders who lead by serving and serve by leading.&nbsp;
 
-##### **Tier 1 (Personal Leadership)**
-All Sec 1 to 3 students have the opportunity to attend the Cohort Leadership Training which trains students in cohort-specific skills and school-based leadership attributes. Our students will also be evaluated based on the&nbsp;ZHSS Scholar Leader Evaluation Instrument (SLEI), of their leadership development as well as the impact they have on self and others.
+Leadership opportunities are provided in the class, CCA and school platform:
 
-##### **Tier 2 (Inter-Personal Leadership)**
-Students who demonstrate the ability and drive to lead will advance into the next level where they lead a small student group. Opportunities are available in the Student Council, Monitor Board, Sports Leaders Board, Class committee positions like AV Leader and Peer Support Leader and various CCAs. Other than on-the-job training, students are also exposed to a variety of activities and training organised by the respective leadership boards.
 
-##### **Tier 3 (Team Leadership)**
-Students who are able to influence on a CCA or school level will be empowered to serve in the apex of the leadership structure. In the capacity of a Student Council EXCO member, Monitor Board EXCO member, Sports Leaders Board EXCO member, or CCA Head, our students served the school in various school events with pride, contributing to the vibrant scene in Zhonghua.
+| Class | CCA | School |
+| -------- | -------- | -------- |
+| - Class Chairpersons and Vice-Chairpersons<br>- Peer Support Leaders<br>- AV Leaders<br>- Academic Leaders<br>- Sports Leaders<br>- VIA Leaders (various roles)  | CCA Leaders (various roles)  | - Student Councillors<br>- Executive Committee Members of Class Care Committee&nbsp;<br>- Executive Committee Members of Sports Leaders Board<br>- Executive Committee Members of Student Council  |
 
-Tier 3 student leaders are also exposed to leadership training platforms which offer opportunities to exchange ideas and experiences, and thus gain a better understanding of how they can contribute to society besides allowing the students to network with other youth leaders.
+##### Student Leadership Boards&nbsp;
 
-Read more about Student Leadership @ ZHSS&nbsp;[here](https://www.zhonghuasec.moe.edu.sg/departments/student-development/student-leadership/).
+**(1) Class Care Committee**
+*   Comprises the 6 student leaders managing each class (1 Chairperson, 3 Vice-Chairpersons and 2 Peer Support Leaders)
+*   To support the form teachers in creating a positive class spirit, ensuring a conducive learning environment, promoting CCE outcomes and Eco Stewardship Programme
+*   To build a peer support culture which contributes to a caring and enabling school environment
 
-<img src="/images/sl2.jpg" style="width:32%;margin-right:15px;" align="left">
-<img src="/images/sl3.png" style="width:29%;margin-right:15px;" align="left">
-<img src="/images/sl4.jpg" style="width:32%;margin-right:15px;" align="left">
+**(2) CCA Leaders Board**
+*   Comprises the CCA Head leading each CCA
+*   To lead and organise CCA activities and School Events (e.g. CCA Open House)
+*   To motivate and develop CCA members to achieve positive learning outcomes
+
+**(3) Sports Leaders Board**
+*   Comprises the 2 sports leaders elected from each class
+*   To lead and organise class and school sports activities
+*   To promote an active and healthy lifestyle to the student body
+ 
+**(4) Student Council**
+*   Comprises student councillors elected by the staff and student body
+*   To build a sense of belonging and school pride&nbsp;
+*   To strive to be a representative voice for the student body through active engagement
+
+#### Key Student Leadership Events
+
+**(1) Cohort Leadership Training**
+![](/images/SLD02.jpg)
+![](/images/SLD03.jpg)
+*Student Leaders organising the Cohort Leadership Training for Lower Secondary students*
+
+**(2) Sec 1 Orientation Programme**
+![](/images/SLD04.jpg)
+![](/images/SLD05.jpg)
+*Student Leaders organising the Secondary One Orientation Programme*
+
+**(3) Student Leaders’ Investiture**
+![](/images/SLD06.jpg)
+![](/images/SLD07.jpg)
+*Student Leaders’ Investiture to recognise our student councillors and Tier 3 student leaders*
+
+**(4) Class Care Committee Activities**
+![](/images/SLD08.jpg)
+*Basic Leadership Training conducted by EXCOs*
+
+![](/images/SLD09.jpg)
+*Class Care Committee Appointment Ceremony*
+
+![](/images/SLD10.jpg)
+*Class Care Committee Huddle to discuss Class Issues*
+
+![](/images/SLD11.jpg)
+*Class Games organised by Class Care Committee*
+
+![](/images/SLD12.jpg)
+*Class Care Committee serving as Event Ushers for Parents’ Forum*
+
+![](/images/SLD13.jpg)
+*Intermediate Leadership Training conducted by EXCOs*
+
+![](/images/SLD14.jpg)
+*Peer Support Efforts: Advocating Peer Support Within School Community*
+
+![](/images/SLD15.JPG)
+*Peer Support Efforts: Exam Motivational Board*
+
+**(5) Sports Leaders Board Activities**
+
+![](/images/SLD16.jpg)
+*Sports Leaders Day Camp*
+
+![](/images/SLD17.jpg)
+*Sports Leaders organising Sports Carnival*
+
+
+**(6) Student Council Activities**
+![](/images/SLD18.jpg)
+*Student Council Induction Workshop*
+
+![](/images/SLD19.jpg)
+*Student Council Presidential Election*
+
+![](/images/SLD20.jpg)
+*Learn and Lead Workshop*
+
+![](/images/SLD21.jpg)
+*Hosting prefects from Zhonghua Primary School*
+
+![](/images/SLD22.jpg)
+*Student Councillors serving as Student Ambassadors during School Open House*
+
+**(7) External Leadership Activities for Tier 3 Student Leaders**
+
+![](/images/SLD23.jpg)
+*External Leadership Conferences*
+
+![](/images/SLD24.jpg)
+*Learning Journey to Changi Experience Studio*
+
+
+##### Other Student-Led Initiatives by our Student Leaders
+
+**(1) Excelsis (Students’ Centre) managed by Class Care Committee and Student Council**
+
+![](/images/SLD25.jpg)
+*Students bond over activities in the Student Centre*
+
+![](/images/SLD26.jpg)
+*Termly Movie Screening in Excelsis*
+
+**(2) The Zhonghua Conversation (A video series featuring voices of Zhonghua about contemporary issues)**
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+| Episode 1: No Room for Racism <br>https://youtu.be/VxPhuOgX3x4   | ![Episode 1: No Room for Racism](/images/SLD28.png)      |  |
+| Episode 2: Tray Return Initiative<br>https://youtu.be/b_NQxo5ZWtA    | ![Episode 2: Tray Return Initiative](/images/SLD28.png)     |  |
+| Episode 3: Go Green Go Clean<br>https://youtu.be/4lLpT30OUCw    | ![Episode 3: Go Green Go ](/images/SLD29.png)     |  |
+| Episode 4: Mental Health Matters<br>https://youtu.be/lmtRmI_HT8Q    | ![Episode 4: Mental Health Matters](/images/SLD30.png)    |  |
+| Episode 5: National Day<br>https://youtu.be/u94piJI13JQ     | ![Episode 5: National Day](/images/SLD31.png)    |  |
+| Episode 6: Managing Digital Distractions<br>https://youtu.be/tnnFb9G1sg    | ![Episode 6: Managing Digital Distractions](/images/SLD32.png)    |  |
+| Episode 7: What Does Success Mean To You?<br>https://youtu.be/J9-qPGtQIH8     |  ![Episode 7: What Does Success Mean To You?](/images/SLD33.png)     |  |
+
+
+
+
+
+
+
+
