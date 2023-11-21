@@ -7,6 +7,8 @@ variant: markdown
 ---
 <img src="/images/esp1.jpg" style="width:25%">
 
+### Eco Heroes Programme
+
 The Eco Heroes Programme is a STEM programme for all Secondary 2 students.
 
 In the Eco Heroes Programme, we aim to:
@@ -27,3 +29,29 @@ Students will acquaint themselves with the key issues of sustainability of our e
 | Theme 5: Biodiversity Protection | Life on Land    | ●	Risk of compromising biodiversity protection due to continued development. <br><br>● Fragmentation of habitats, where natural areas are bisected by roads or other developments.<br><br>●	Edges of habitats are more susceptible to fragmentation due to air, noise and light pollution from developed areas. |
 ||
 
+#### Design Thinking Protocol
+Students use Design Thinking Protocol to research and propose an intervention on one of the 5 sustainability themes so that they can all be Eco Heroes!
+
+Students will learn:
+* how to empathise with the sustainability problem by designing a survey to find out how people think about the issue
+* how to define the problem based on the reasons for people’s action / inaction
+* some ideas generation tools to help them ideate and brainstorm ideas to address the sustainability problems
+
+Students will then prototype and test their proposals. 
+
+#### Data Literacy and Infographics
+
+Students will embark on a journey to be data literate using authentic data from their research. To be data literate means the ability to "read" and "write" data effectively, a future ready skill that is important as we immerse ourselves in the world of Big Data every day.
+
+Students will learn about 
+- *Data Identification*.  Following from the Ideate stage of the Design Thinking protocol, students identify the data they need to make informed decisions of their intervention
+- *Data Collection &amp; Maintenance*. Students collect data through a variety of means such as surveys, publicly available data from reliable sources (eg: government websites), observations, interview, etc. They learn to systematically record them and archive data that is no longer needed.
+- *Data Analysis &amp; Usage*. Students make sense of data by analysing them using commonly available productivity tools. They explore how the data could be presented in charts, graphs or infographics to tell a story that captures the attention of the audience.
+
+#### Interdisciplinary Learning
+
+The skills used are also transferable to the different subject areas. Examples include:
+* Mathematics – Problems in Real World Context and Statistical Data Analysis
+* Humanities – Interpretation and working with sources in Geography and Social Studies
+* English Language – Oral, presentation and comprehension skills
+* Sciences – Data sources and analysis questions in the different Sciences
