@@ -54,15 +54,16 @@ In this workshop, students learn the fundamentals of how confidential messages a
 
 Students also learn deeper about the potential dangers of an online profile and experience hands-on activities to understand how targeted attacks can occur. Through this workshop, students appreciate the benefits and dangers of the digital world better and develop better habits navigating the digital world.
 
+##### Other External Competitions, Workshops and Learning Journeys
+
 <img src="/images/tdp2.jpg" style="width:65%">
 
 <img src="/images/tdp3.jpg" style="width:65%">
 
 ##### **Caring For Others**
-TDP students are continuously encouraged to use and share knowledge learned to benefit others.&nbsp; TDP students will collaboratively&nbsp;plan and execute&nbsp;VIA projects to contribute to the larger community and show care to others.
+TDP students are continuously encouraged to use and share knowledge learned to benefit others. TDP students will collaboratively&nbsp;plan and execute&nbsp;VIA projects to contribute to the larger community and show care to others.
 
-<img src="/images/tdp4.jpg" style="width:51%" align="left">
-<img src="/images/tdp5.jpg" style="width:47%" align="right">
+<img src="/images/tdp5.jpg" style="width:47%">
 
 <br clear="left">
 
