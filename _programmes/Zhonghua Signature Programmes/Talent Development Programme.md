@@ -3,9 +3,9 @@ title: Talent Development Programme
 permalink: /programmes/zhonghua-signature-programmes/talent-development-prog/
 description: ""
 third_nav_title: Zhonghua Signature Programmes
-variant: tiptap
+variant: markdown
 ---
-Zhonghua Talent Development Programme is a 4-year&nbsp;enriched curriculum&nbsp;customised and differentiated for selected students who show great aptitude, strong interest and motivation in the cognitive domain. Riding on the national push for STEM education, curated programmes are tailored to stretch students&nbsp;for exposure to disciplines and areas of interest in alignment with Zhonghua’s vision of cultivating Scholars ● Leaders.
+Zhonghua Talent Development Programme is a 4-year progressive curriculum for selected students who show great aptitude, strong interest and motivation in fostering holistic development. Riding on the national push for STEM education, curated programmes are tailored to stretch students for exposure to disciplines and areas of interest in alignment with Zhonghua’s vision of cultivating Scholars ● Leaders.
 
 #### **The Zhonghua TDP aims to:**
 1\. Provide a more challenging curriculum for higher ability/high potential students,<br>
@@ -25,17 +25,23 @@ Students in TDP are given opportunities to be mentored and coached in activities
 
 ##### **Zhonghua STEAM Research Programme**
 
-STEAM represents STEM (Science, Technology, Engineering and Math) plus the arts – Humanities, Language Arts, Music, Visual Arts, Design Thinking, New Media, Creativity and Communication Skills. This is a milestone programme for TDP, and all TDP students are involved in the year-long STEAM research programme where they are mentored by teachers on projects related to the theme of sustainability and liveability. They will also have the opportunity to take part in the Innovation Programme (IvP) organised by MOE Gifted Education Branch.
-
-The objective&nbsp;of the STEAM Research Programme is to provide an opportunity for selected students to work on real world problems that encourage the application of STEAM skills and knowledge in collaboration with peers. It also aims to equip our students with the necessary tools to be the next generation of entrepreneurs, creative thinkers and innovators.
+STEAM represents STEM (Science, Technology, Engineering and Math) plus the arts – Humanities, Language Arts, Music, Visual Arts, Design Thinking, New Media, Creativity and Communication Skills. Technological innovation remains tightly coupled with Science, Technology, Engineering and Math – the STEM subjects. Art, design and creativity are poised to transform our economy in the 21st century just as science and technology did in the last century. We need to add A to the equation — to transform STEM into STEAM.
 
 <figure>
 <img src="/images/stem.png" style="width:80%">
-	<figcaption><strong> Fig. 1 Framework for STEAM research programme
+	<figcaption><strong> Fig. 2 Framework for STEAM Research Programme
 		</strong></figcaption>
 </figure>
 
-<img src="/images/tdp1.jpg" style="width:65%">
+The STEAM Research Programme is a one-year research project for the Talent Development Programme (TDP) students. The students are mentored by Zhonghua teachers on projects related to the theme of sustainability and livability and they adopt both the creative problem solving and design thinking frameworks, which provide useful scaffolds for young innovators as they seek creative solutions to real life problems. They will also have the opportunity to take part in the Innovation Programme (IvP) organised by MOE Gifted Education Branch.
+
+The objectives for the STEAM Research Programme are to:<br>
+1\. Provide an opportunity for our students to work on real world problems that encourage the application of STEAM
+<br>2. Support our students’ talents, interests in global issues, natural curiosity and creativity
+<br>3. Help our students understand how each discipline is connected and related in the real world
+<br>4. Equip our students with the necessary knowledge, skills and values to be the next generation of entrepreneurs, creative thinkers and inventors
+
+<img src="/images/tdp1.jpg" style="width:85%">
 
 ##### **External Competitions, Workshops and Learning Journeys**
 
