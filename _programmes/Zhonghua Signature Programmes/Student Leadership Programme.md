@@ -14,7 +14,7 @@ Our Student Leadership Programme aims to nurture students to become dynamic serv
 ##### The Five Practices of Exemplary Leadership  
 Our school adopts the Kouzes and Posner’s Five Practices of Exemplary Leadership Model in our Student Leadership Programme. Its principles are based on a set of observable skills and abilities that drive behaviours. Our student leaders are encouraged to practise these five exemplary leadership practices when discharging their duties.
 
-
+<img src="/images/5_practices.jpg">
 
 ##### Student Leadership Development
 The school provides various platforms to develop leadership skills in students and aims to inspire our student leaders to grow as caring, collaborative and confident leaders who lead by serving and serve by leading.&nbsp;
@@ -108,10 +108,10 @@ Leadership opportunities are provided in the class, CCA and school platform:
 
 |  |  |  |
 | -------- | -------- | -------- |
-| Episode 1: No Room for Racism <br>https://youtu.be/VxPhuOgX3x4   | Text     |  |
-| Episode 2: Tray Return Initiative<br>https://youtu.be/b_NQxo5ZWtA    | Text     |  |
-| Episode 3: Go Green Go Clean<br>https://youtu.be/4lLpT30OUCw    | Text     |  |
-| Episode 4: Mental Health Matters<br>https://youtu.be/lmtRmI_HT8Q    | Text     |  |
+| Episode 1: No Room for Racism <br>https://youtu.be/VxPhuOgX3x4   | <img src="/images/SLD27.png">     |  |
+| Episode 2: Tray Return Initiative<br>https://youtu.be/b_NQxo5ZWtA    | ![Episode 2](/images/SLD28.png)     |  |
+| Episode 3: Go Green Go Clean<br>https://youtu.be/4lLpT30OUCw    | ![Episode 3](/images/SLD29.png)     |  |
+| Episode 4: Mental Health Matters<br>https://youtu.be/lmtRmI_HT8Q    | ![Episode 4](/images/SLD30.png)    |  |
 | Episode 5: National Day<br>https://youtu.be/u94piJI13JQ     | Text     |  |
 | Episode 6: Managing Digital Distractions<br>https://youtu.be/tnnFb9G1sg    | Text     |  |
 | Episode 7: What Does Success Mean To You?<br>https://youtu.be/J9-qPGtQIH8     | Text     |  |
