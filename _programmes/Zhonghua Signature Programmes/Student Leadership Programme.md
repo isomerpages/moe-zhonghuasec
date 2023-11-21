@@ -3,16 +3,25 @@ title: Student Leadership Programme
 permalink: /programmes/zhonghua-signature-programmes/student-leadership-prog/
 description: ""
 third_nav_title: Zhonghua Signature Programmes
-variant: tiptap
+variant: markdown
 ---
-The Student Leadership Programme @ ZHSS programme aims to provide students with a roadmap of the school's intent to develop essential attributes and competencies that future leaders should embody. This roadmap clearly defines our vision, mission, belief, framework, and our approach to ensure every student is given the opportunity to grow as a leader in their 4 or 5 year journey with us.
+#### Student Leadership Development&nbsp;
 
-|  |  |
-|---|---|
-| **Vision:** | Zhonghuarians are dynamic and resilient leaders with excellence mindset and a spirit of service and innovation. |
-| **Mission:** | To nurture leaders who are caring, collaborative and confident. |
-| **Belief:** | Every student is a leader who can serve to lead, lead to serve. |
-|
+Our Student Leadership development programme aims to nurture students to become dynamic servant leaders committed to leading themselves and others. Customised and run by our student leaders, we believe in the approach of “leaders growing leaders”, empowering our student leaders in the training and mentoring of their juniors.
+
+**
+
+The school provides various platforms to develop leadership skills in students and aims to inspire our student leaders to grow as caring, collaborative and confident leaders who lead by serving and serve by leading.&nbsp;
+
+Leadership Opportunities are provided in the class, CCA and school platform:
+
+
+| Class | CCA | School |
+| -------- | -------- | -------- |
+| - Class Chairpersons and Vice-Chairpersons<br>- Peer Support Leaders<br>- AV Leaders<br>- Academic Leaders<br>- Sports Leaders<br>- VIA Leaders (various roles)  | CCA Leaders (various roles)  | - Student Councillors<br>- Executive Committee Members of Class Care Committee&nbsp;<br>- Executive Committee Members of Sports Leaders Board<br>- Executive Committee Members of Student Council  |
+
+
+
 
 #### **Student Leadership Framework**
 In the planning and delivering of student outcomes in leadership training and activities, we follow the 3-Tier Student Leadership Approach.
