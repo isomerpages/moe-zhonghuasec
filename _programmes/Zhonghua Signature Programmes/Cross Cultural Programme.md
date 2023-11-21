@@ -9,4 +9,12 @@ With technology shrinking the world where people now interact more often than be
 
 **(a) Local Culture:** Programmes are planned to create awareness and understanding of our local cultures through celebrating major festivals during Chinese New Year, Hari Raya Puasa, and Mid-autumn festival. This allows students to understand the practices and customs of the different ethnic groups. Through performances, sharing and experiential learning, greater awareness and understanding of the different cultures are deepened. Students also go on cultural learning journeys to Kampong Glam, Little India and Chinatown, to acquire a deeper understanding of the different cultures in Singapore.
 
-(b) Global Culture: To develop a global perspective, the school also organises overseas trips for selected Sec 2 students (pre-pandemic). In 2022, virtual tours to Hong Kong and Vietnam were organised in place of the physical trip, involving Sec 1 and Sec 2 cohorts. Selected Sec 2 students also experienced a 2-day virtual exchange with Taipei Municipal Lanya High School, where students learnt about the Taiwanese culture. In 2023, a group of 36 students hosted Taipei Municipal Longmen Junior High School, where they learnt more about the Taiwanese local culture and introduced different cultures in Singapore to the visiting students. A group of 19 students also hosted Taipei Municipal Lanya Junior High School. A cultural immersion workshop was also organised for Sec 2 students where they learned more about the culture of ASEAN countries like Indonesia and Vietnam. 
+**(b) Global Culture:** To develop a global perspective, the school also organises overseas trips for selected Sec 2 students. Students will experience cultural exchanges with counterparts from overseas schools in Hong Kong, Vietnam, Taiwan, etc. where they learn more about the local culture. In return, they will also introduce different cultures in Singapore to visiting students, and bring them to local cultural neighbourhoods such as Kampong Glam and Chinatown.
+
+
+
+*Hosting students from Taipei Municipal Longmen High School City Tour to Little India, Kampong Glam and Chinatown*
+
+
+*Students had hands-on experience at the Cultural Immersion Workshop, trying out the Vietnamese traditional costume, Ao Dai*
+
