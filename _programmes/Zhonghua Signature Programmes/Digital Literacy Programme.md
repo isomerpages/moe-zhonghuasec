@@ -27,4 +27,12 @@ Students apply their learning by completing mini projects in small groups after 
 
 The school promoted student agency by including tasks for students to create self-help videos to help the next batch of students learn. The videos are shared on the school’s social media platforms and NDLP micro-site for students to explore in their free time. These “how-to” videos cover usage of the stylus, Google Calendar, and OneNote.
 
-Application of the digital skills learnt are then infused into the curriculum of various subjects, providing students with opportunities to collaborate with one another to create digital artefacts such as presentations and infographics. 
+Application of the digital skills learnt are then infused into the curriculum of various subjects, providing students with opportunities to collaborate with one another to create digital artefacts such as presentations and infographics.
+
+#### Code for Fun Programme
+As part of the Digital Literacy Programme, the Secondary 1 students also go through the Code for fun programme (sponsored by IMDA) for one term. This programme exposes the students to computational thinking and also the opportunity to explore the use of micro-controllers through a series of practical activities, fostering creativity and problem-solving skills.
+
+#### Supporting Teachers in Using PLDs in the Lessons
+As an ongoing effort, student surveys are conducted at the start of every year to ascertain the digital literacy skill levels of the incoming Secondary 1 students. The findings from the survey would then inform the ICT department on the learning needs of the student cohort. This helps the teachers to tweak the programme in little ways to address the students' needs better. Post-surveys are also gathered to get the students’ feedback on the programme to inform future iterations.
+
+One thing for sure is that our teachers now have greater assurance that their students are equipped with the necessary baseline skills and knowledge to use their PLDs, and thus are more confident in planning for tech-infused lessons.
