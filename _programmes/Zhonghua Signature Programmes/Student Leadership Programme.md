@@ -9,7 +9,7 @@ variant: markdown
 
 Our Student Leadership Programme aims to nurture students to become dynamic servant leaders committed to leading themselves and others. Customised and run by our student leaders, we believe in the approach of “leaders growing leaders”, empowering our student leaders in the training and mentoring of their juniors.
 
-**
+![Student Leadership Framework](/images/SLD01.png)
 
 ##### The Five Practices of Exemplary Leadership  
 Our school adopts the Kouzes and Posner’s Five Practices of Exemplary Leadership Model in our Student Leadership Programme. Its principles are based on a set of observable skills and abilities that drive behaviours. Our student leaders are encouraged to practise these five exemplary leadership practices when discharging their duties.
@@ -33,17 +33,17 @@ Leadership opportunities are provided in the class, CCA and school platform:
 *   To support the form teachers in creating a positive class spirit, ensuring a conducive learning environment, promoting CCE outcomes and Eco Stewardship Programme
 *   To build a peer support culture which contributes to a caring and enabling school environment
 
-**(2) CCA Leaders Board&nbsp;
+**(2) CCA Leaders Board**
 *   Comprises the CCA Head leading each CCA
 *   To lead and organise CCA activities and School Events (e.g. CCA Open House)
 *   To motivate and develop CCA members to achieve positive learning outcomes
 
-**(3) Sports Leaders Board
+**(3) Sports Leaders Board**
 *   Comprises the 2 sports leaders elected from each class
 *   To lead and organise class and school sports activities
 *   To promote an active and healthy lifestyle to the student body
  
-**(4) Student Council
+**(4) Student Council**
 *   Comprises student councillors elected by the staff and student body
 *   To build a sense of belonging and school pride&nbsp;
 *   To strive to be a representative voice for the student body through active engagement
@@ -51,19 +51,19 @@ Leadership opportunities are provided in the class, CCA and school platform:
 #### Key Student Leadership Events
 
 **(1) Cohort Leadership Training**
-
-
+![](/images/SLD02.jpg)
+![](/images/SLD03.jpg)
 *Student Leaders organising the Cohort Leadership Training for Lower Secondary students*
 
 **(2) Sec 1 Orientation Programme**
+![](/images/SLD04.jpg)
+![](/images/SLD05.jpg)
+*Student Leaders organising the Secondary One Orientation Programme*
 
 
-*Student Leaders organising the Secondary One Orientation Programme *
-
-
-**(3)Student Leaders’ Investiture**
-
-
+**(3) Student Leaders’ Investiture**
+![](/images/SLD06.jpg)
+![](/images/SLD07.jpg)
 *Student Leaders’ Investiture to recognise our student councillors and Tier 3 student leaders*
 
 
