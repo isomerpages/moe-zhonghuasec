@@ -112,9 +112,9 @@ Leadership opportunities are provided in the class, CCA and school platform:
 | Episode 2: Tray Return Initiative<br>https://youtu.be/b_NQxo5ZWtA    | ![Episode 2](/images/SLD28.png)     |  |
 | Episode 3: Go Green Go Clean<br>https://youtu.be/4lLpT30OUCw    | ![Episode 3](/images/SLD29.png)     |  |
 | Episode 4: Mental Health Matters<br>https://youtu.be/lmtRmI_HT8Q    | ![Episode 4](/images/SLD30.png)    |  |
-| Episode 5: National Day<br>https://youtu.be/u94piJI13JQ     | Text     |  |
-| Episode 6: Managing Digital Distractions<br>https://youtu.be/tnnFb9G1sg    | Text     |  |
-| Episode 7: What Does Success Mean To You?<br>https://youtu.be/J9-qPGtQIH8     | Text     |  |
+| Episode 5: National Day<br>https://youtu.be/u94piJI13JQ     | ![Episode 5](/images/SLD31.png)    |  |
+| Episode 6: Managing Digital Distractions<br>https://youtu.be/tnnFb9G1sg    | ![Episode 6](/images/SLD32.png)    |  |
+| Episode 7: What Does Success Mean To You?<br>https://youtu.be/J9-qPGtQIH8     |  ![Episode 7](/images/SLD33.png)     |  |
 
 
 
