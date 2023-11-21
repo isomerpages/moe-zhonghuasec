@@ -7,12 +7,16 @@ variant: markdown
 ---
 Zhonghua Talent Development Programme is a 4-year progressive curriculum for selected students who show great aptitude, strong interest and motivation in fostering holistic development. Riding on the national push for STEM education, curated programmes are tailored to stretch students for exposure to disciplines and areas of interest in alignment with Zhonghua’s vision of cultivating Scholars ● Leaders.
 
-#### **The Zhonghua TDP aims to:**
-1\. Provide a more challenging curriculum for higher ability/high potential students,<br>
-2\. Set a strong foundation for student success at future national assessment platforms,<br>
-3\. Produce students who are&nbsp;**Passionate Learners in pursuit of excellence, Independent Learners, and Dynamic and Resilient Leaders with a passion for Innovation**.
+![TDP Framework](/images/TDP_Framework.png)
+**Fig. 1 Framework for Talent Development Programme**
 
-Sec 1 and 2 students who display strong intellectual and cognitive abilities are identified by using:<br>
+![](/images/TDP_table.png)
+
+**The Zhonghua TDP aims to:**<br>
+1\. Provide a more challenging curriculum for higher ability/high potential students<br>
+2\. Set a strong foundation for student success at future national assessment platforms
+
+Sec 1 students who display strong intellectual and cognitive abilities are identified by using:<br>
 1\. Quantitative Results – Assessment Results;<br>
 2\. Qualitative Results - Recommendations from Year Head, Form Teachers and Subject Teachers.
 
@@ -60,10 +64,10 @@ Students also learn deeper about the potential dangers of an online profile and 
 
 <img src="/images/tdp3.jpg" style="width:65%">
 
-##### **Caring For Others**
+##### Caring For Others
 TDP students are continuously encouraged to use and share knowledge learned to benefit others. TDP students will collaboratively&nbsp;plan and execute&nbsp;VIA projects to contribute to the larger community and show care to others.
 
-<img src="/images/tdp5.jpg" style="width:47%">
+![](/images/tdp5.jpg)
 
 <br clear="left">
 
