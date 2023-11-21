@@ -7,7 +7,7 @@ variant: markdown
 ---
 <img src="/images/esp1.jpg" style="width:25%">
 
-### Eco Heroes Programme
+#### Eco Heroes Programme
 
 The Eco Heroes Programme is a STEM programme for all Secondary 2 students.
 
@@ -18,7 +18,7 @@ In the Eco Heroes Programme, we aim to:
 
 ![](/images/Eco02.png)
 
-#### Key Sustainability Issues
+##### Key Sustainability Issues
 Students will acquaint themselves with the key issues of sustainability of our earth and her ecosystems through the following 5 themes that are pertinent to Singapore:
 
 
@@ -31,7 +31,7 @@ Students will acquaint themselves with the key issues of sustainability of our e
 | Theme 5: Biodiversity Protection | Goal 15: Life on Land    | ●	Risk of compromising biodiversity protection due to continued development. <br><br>● Fragmentation of habitats, where natural areas are bisected by roads or other developments.<br><br>●	Edges of habitats are more susceptible to fragmentation due to air, noise and light pollution from developed areas. |
 ||
 
-#### Design Thinking Protocol
+##### Design Thinking Protocol
 ![](/images/Eco07.png)
 Students use Design Thinking Protocol to research and propose an intervention on one of the 5 sustainability themes so that they can all be Eco Heroes!
 
@@ -42,7 +42,7 @@ Students will learn:
 
 Students will then prototype and test their proposals. 
 
-#### Data Literacy and Infographics
+##### Data Literacy and Infographics
 
 Students will embark on a journey to be data literate using authentic data from their research. To be data literate means the ability to "read" and "write" data effectively, a future ready skill that is important as we immerse ourselves in the world of Big Data every day.
 
@@ -55,7 +55,7 @@ Students will learn about
 ![](/images/Eco04.png)
 ![](/images/Eco05.png)
 
-#### Interdisciplinary Learning
+##### Interdisciplinary Learning
 
 The skills used are also transferable to the different subject areas. Examples include:
 * Mathematics – Problems in Real World Context and Statistical Data Analysis
