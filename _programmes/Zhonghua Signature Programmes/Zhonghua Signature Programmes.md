@@ -6,7 +6,7 @@ third_nav_title: Zhonghua Signature Programmes
 variant: markdown
 ---
 
-
+![ZHSS Signature Prog Framework](/images/ZHSS_Signature_Prog_Framework__Nov_2023_.jpg)
 In envisioning the Zhonghua Secondary School Future-Ready framework for education, we begin with the core, our RICE (Resilience, Integrity, Care, and Excellence) Values, which serve as the foundation upon which all else is built. They are the guiding principles that shape our approach to education, ensuring that students are not only prepared for the challenges of tomorrow but also equipped with a strong moral compass.
 
 Moving outward, the framework emphasises a comprehensive set of competencies essential for students to thrive in the 21st Century. These encompass not only traditional academic skills but also the ability to navigate the digital landscape, communicate effectively in the new media age, and cultivate socio-emotional intelligence, fostering well-rounded individuals ready for a rapidly changing world.
