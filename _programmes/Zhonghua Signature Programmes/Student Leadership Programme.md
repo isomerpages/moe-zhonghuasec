@@ -1,7 +1,9 @@
 ---
-title: Student Leadership Development
-permalink: /programmes/student-leadership-development/
+title: Student Leadership Programme
+permalink: /programmes/zhonghua-signature-programmes/student-leadership-prog/
 description: ""
+third_nav_title: Zhonghua Signature Programmes
+variant: tiptap
 ---
 The Student Leadership Programme @ ZHSS programme aims to provide students with a roadmap of the school's intent to develop essential attributes and competencies that future leaders should embody. This roadmap clearly defines our vision, mission, belief, framework, and our approach to ensure every student is given the opportunity to grow as a leader in their 4 or 5 year journey with us.
 
@@ -22,7 +24,7 @@ Our student leadership framework (above diagram) exemplifies 3-tier approach to 
 There is a system of awards and recognition to acknowledge the contribution of student leaders.
 
 ##### **Tier 1 (Personal Leadership)**
-All Sec 1 to 3 students have the opportunity to attend the Cohort Leadership Training which trains students in cohort-specific skills and school-based leadership attributes. Our students will also be evaluated based on the ZHSS Scholar Leader Evaluation Instrument (SLEI), of their leadership development as well as the impact they have on self and others.
+All Sec 1 to 3 students have the opportunity to attend the Cohort Leadership Training which trains students in cohort-specific skills and school-based leadership attributes. Our students will also be evaluated based on the&nbsp;ZHSS Scholar Leader Evaluation Instrument (SLEI), of their leadership development as well as the impact they have on self and others.
 
 ##### **Tier 2 (Inter-Personal Leadership)**
 Students who demonstrate the ability and drive to lead will advance into the next level where they lead a small student group. Opportunities are available in the Student Council, Monitor Board, Sports Leaders Board, Class committee positions like AV Leader and Peer Support Leader and various CCAs. Other than on-the-job training, students are also exposed to a variety of activities and training organised by the respective leadership boards.
@@ -32,8 +34,8 @@ Students who are able to influence on a CCA or school level will be empowered to
 
 Tier 3 student leaders are also exposed to leadership training platforms which offer opportunities to exchange ideas and experiences, and thus gain a better understanding of how they can contribute to society besides allowing the students to network with other youth leaders.
 
-Read more about Student Leadership @ ZHSS [here](https://www.zhonghuasec.moe.edu.sg/departments/student-development/student-leadership/).
+Read more about Student Leadership @ ZHSS&nbsp;[here](https://www.zhonghuasec.moe.edu.sg/departments/student-development/student-leadership/).
 
-<img src="/images/sl2.jpg" style="width:32%;margin-right:15px;" align = "left">
-<img src="/images/sl3.png" style="width:29%;margin-right:15px;" align = "left">
-<img src="/images/sl4.jpg" style="width:32%;margin-right:15px;" align = "left">
+<img src="/images/sl2.jpg" style="width:32%;margin-right:15px;" align="left">
+<img src="/images/sl3.png" style="width:29%;margin-right:15px;" align="left">
+<img src="/images/sl4.jpg" style="width:32%;margin-right:15px;" align="left">
