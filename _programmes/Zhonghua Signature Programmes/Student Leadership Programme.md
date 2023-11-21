@@ -92,26 +92,35 @@ Leadership opportunities are provided in the class, CCA and school platform:
 
 **(5) Sports Leaders Board Activities**
 
-
 ![](/images/SLD16.jpg)
-*Peer Support Efforts: Exam Motivational Board*
+*Sports Leaders Day Camp*
 
 ![](/images/SLD17.jpg)
-*Peer Support Efforts: Exam Motivational Board*
+*Sports Leaders organising Sports Carnival*
 
 
 **(6) Student Council Activities**
+![](/images/SLD18.jpg)
+*Student Council Induction Workshop*
 
+![](/images/SLD19.jpg)
+*Student Council Presidential Election*
 
-*Student Leaders organising the Secondary One Orientation Programme *
+![](/images/SLD20.jpg)
+*Learn and Lead Workshop*
 
+![](/images/SLD21.jpg)
+*Hosting prefects from Zhonghua Primary School*
 
+![](/images/SLD22.jpg)
+*Student Councillors serving as Student Ambassadors during School Open House*
 
 **(7) External Leadership Activities for Tier 3 Student Leaders**
 
-
+![](/images/SLD23.jpg)
 *External Leadership Conferences*
 
+![](/images/SLD24.jpg)
 *Learning Journey to Changi Experience Studio*
 
 
@@ -119,9 +128,10 @@ Leadership opportunities are provided in the class, CCA and school platform:
 
 **(1) Excelsis (Students’ Centre) managed by Class Care Committee and Student Council**
 
-
+![](/images/SLD25.jpg)
 *Students bond over activities in the Student Centre*
 
+![](/images/SLD26.jpg)
 *Termly Movie Screening in Excelsis*
 
 **(2) The Zhonghua Conversation (A video series featuring voices of Zhonghua about contemporary issues)**
@@ -129,13 +139,13 @@ Leadership opportunities are provided in the class, CCA and school platform:
 
 |  |  |  |
 | -------- | -------- | -------- |
-| Episode 1: No Room for Racism <br>https://youtu.be/VxPhuOgX3x4   | <img src="/images/SLD27.png">     |  |
-| Episode 2: Tray Return Initiative<br>https://youtu.be/b_NQxo5ZWtA    | ![Episode 2](/images/SLD28.png)     |  |
-| Episode 3: Go Green Go Clean<br>https://youtu.be/4lLpT30OUCw    | ![Episode 3](/images/SLD29.png)     |  |
-| Episode 4: Mental Health Matters<br>https://youtu.be/lmtRmI_HT8Q    | ![Episode 4](/images/SLD30.png)    |  |
-| Episode 5: National Day<br>https://youtu.be/u94piJI13JQ     | ![Episode 5](/images/SLD31.png)    |  |
-| Episode 6: Managing Digital Distractions<br>https://youtu.be/tnnFb9G1sg    | ![Episode 6](/images/SLD32.png)    |  |
-| Episode 7: What Does Success Mean To You?<br>https://youtu.be/J9-qPGtQIH8     |  ![Episode 7](/images/SLD33.png)     |  |
+| Episode 1: No Room for Racism <br>https://youtu.be/VxPhuOgX3x4   | ![Episode 1: No Room for Racism](/images/SLD28.png)      |  |
+| Episode 2: Tray Return Initiative<br>https://youtu.be/b_NQxo5ZWtA    | ![Episode 2: Tray Return Initiative](/images/SLD28.png)     |  |
+| Episode 3: Go Green Go Clean<br>https://youtu.be/4lLpT30OUCw    | ![Episode 3: Go Green Go ](/images/SLD29.png)     |  |
+| Episode 4: Mental Health Matters<br>https://youtu.be/lmtRmI_HT8Q    | ![Episode 4: Mental Health Matters](/images/SLD30.png)    |  |
+| Episode 5: National Day<br>https://youtu.be/u94piJI13JQ     | ![Episode 5: National Day](/images/SLD31.png)    |  |
+| Episode 6: Managing Digital Distractions<br>https://youtu.be/tnnFb9G1sg    | ![Episode 6: Managing Digital Distractions](/images/SLD32.png)    |  |
+| Episode 7: What Does Success Mean To You?<br>https://youtu.be/J9-qPGtQIH8     |  ![Episode 7: What Does Success Mean To You?](/images/SLD33.png)     |  |
 
 
 
