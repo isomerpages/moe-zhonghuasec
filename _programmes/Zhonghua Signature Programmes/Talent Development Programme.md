@@ -21,8 +21,6 @@ Selected students will then go through an interview before confirmation in the p
 #### **Programmes for TDP students**
 Students in TDP are given opportunities to be mentored and coached in activities that broaden their learning.
 
-<img src="/images/tdp1.png" style="width:100%">
-
 ##### **Zhonghua STEAM Research Programme**
 
 STEAM represents STEM (Science, Technology, Engineering and Math) plus the arts – Humanities, Language Arts, Music, Visual Arts, Design Thinking, New Media, Creativity and Communication Skills. Technological innovation remains tightly coupled with Science, Technology, Engineering and Math – the STEM subjects. Art, design and creativity are poised to transform our economy in the 21st century just as science and technology did in the last century. We need to add A to the equation — to transform STEM into STEAM.
