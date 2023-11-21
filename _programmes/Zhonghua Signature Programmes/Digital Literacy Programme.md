@@ -9,9 +9,9 @@ variant: markdown
 As the educational landscape, the working world and our personal lives become more intertwined with digital platforms, Zhonghua Secondary School finds it essential to equip our Secondary 1 students with the necessary digital literacy skills for them to be confident and responsible digital learners.
 
 #### Building Confidence in Using the Personalised Learning Device (PLD)
-The school identified problems that teachers and students commonly faced in class when using their PLDs, such as difficulty in logging in, network problems and challenges with file navigation. Students within a class also demonstrated varied levels of familiarity when it came to the use of software applications like Microsoft in the classroom.&nbsp;  
-  
-Hence, the school identified a common set of baseline skills so that students can use their PLDs effectively for learning. The ICT Department teachers help&nbsp;our students acquire these essential knowledge and baseline skills. This will empower students to become tech-savvy learners, as they can independently troubleshoot common problems when using their PLDs.
+The school identified problems that teachers and students commonly faced in class when using their PLDs, such as difficulty in logging in, network problems and challenges with file navigation. Students within a class also demonstrated varied levels of familiarity when it came to the use of software applications like Microsoft in the classroom. 
+
+Hence, the school identified a common set of baseline skills so that students can use their PLDs effectively for learning. The ICT Department teachers help our students acquire these essential knowledge and baseline skills. This will empower students to become tech-savvy learners, as they can independently troubleshoot common problems when using their PLDs.
 
 ##### Baseline Skills
 * **Typing Skills**<br>Students go through a series of self-directed lessons to learn basic typing skills via learntyping.org and play typing games on typeracer.com to further hone their skills. As part of the game, they get the chance to compete with their peers in terms of the accuracy and speed of their typing.
