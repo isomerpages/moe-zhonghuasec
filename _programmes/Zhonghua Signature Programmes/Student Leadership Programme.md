@@ -60,23 +60,44 @@ Leadership opportunities are provided in the class, CCA and school platform:
 ![](/images/SLD05.jpg)
 *Student Leaders organising the Secondary One Orientation Programme*
 
-
 **(3) Student Leaders’ Investiture**
 ![](/images/SLD06.jpg)
 ![](/images/SLD07.jpg)
 *Student Leaders’ Investiture to recognise our student councillors and Tier 3 student leaders*
 
-
 **(4) Class Care Committee Activities**
+![](/images/SLD08.jpg)
+*Basic Leadership Training conducted by EXCOs*
 
+![](/images/SLD09.jpg)
+*Class Care Committee Appointment Ceremony*
 
-**
+![](/images/SLD10.jpg)
+*Class Care Committee Huddle to discuss Class Issues*
 
+![](/images/SLD11.jpg)
+*Class Games organised by Class Care Committee*
+
+![](/images/SLD12.jpg)
+*Class Care Committee serving as Event Ushers for Parents’ Forum*
+
+![](/images/SLD13.jpg)
+*Intermediate Leadership Training conducted by EXCOs*
+
+![](/images/SLD14.jpg)
+*Peer Support Efforts: Advocating Peer Support Within School Community*
+
+![](/images/SLD15.JPG)
+*Peer Support Efforts: Exam Motivational Board*
 
 **(5) Sports Leaders Board Activities**
 
 
-*Student Leaders organising the Secondary One Orientation Programme *
+![](/images/SLD16.jpg)
+*Peer Support Efforts: Exam Motivational Board*
+
+![](/images/SLD17.jpg)
+*Peer Support Efforts: Exam Motivational Board*
 
 
 **(6) Student Council Activities**
