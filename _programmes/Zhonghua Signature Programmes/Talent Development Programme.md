@@ -18,8 +18,6 @@ Sec 1 and 2 students who display strong intellectual and cognitive abilities are
 
 Selected students will then go through an interview before confirmation in the programme.
 
-#### **Programmes for TDP students**
-Students in TDP are given opportunities to be mentored and coached in activities that broaden their learning.
 
 ##### **Zhonghua STEAM Research Programme**
 
@@ -41,7 +39,20 @@ The objectives for the STEAM Research Programme are to:<br>
 
 <img src="/images/tdp1.jpg" style="width:85%">
 
-##### **External Competitions, Workshops and Learning Journeys**
+
+##### Public Speaking workshop
+
+In this workshop, students learn the tricks and tips to thinking critically, presenting confidently and speaking eloquently. They will go through a series of lessons where they learn to unpack given topics, plan interesting presentations, and speak persuasively.
+
+##### Cybersecurity Workshop
+
+“JRRG PRUQLQJ”
+
+What does the above message mean?
+
+In this workshop, students learn the fundamentals of how confidential messages are transmitted across the Internet to prevent eavesdroppers from intercepting them. They also practise critical and inventive thinking to crack encrypted secret messages.&nbsp;&nbsp;
+
+Students also learn deeper about the potential dangers of an online profile and experience hands-on activities to understand how targeted attacks can occur. Through this workshop, students appreciate the benefits and dangers of the digital world better and develop better habits navigating the digital world.
 
 <img src="/images/tdp2.jpg" style="width:65%">
 
