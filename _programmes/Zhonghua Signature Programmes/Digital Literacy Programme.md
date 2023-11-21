@@ -13,7 +13,7 @@ The school identified problems that teachers and students commonly faced in clas
   
 Hence, the school identified a common set of baseline skills so that students can use their PLDs effectively for learning. The ICT Department teachers help&nbsp;our students acquire these essential knowledge and baseline skills. This will empower students to become tech-savvy learners, as they can independently troubleshoot common problems when using their PLDs.
 
-#### Baseline Skills
+##### Baseline Skills
 * **Typing Skills**<br>Students go through a series of self-directed lessons to learn basic typing skills via learntyping.org and play typing games on typeracer.com to further hone their skills. As part of the game, they get the chance to compete with their peers in terms of the accuracy and speed of their typing.
 
 * **Digital Literacy Skills**<br>Teachers demonstrated to students how they can navigate their student iCON email accounts and Google Classroom, how to use an online calendar and take notes via appropriate applications on their PLDs. Through teacher modelling, students observed and learnt how these productivity apps can be used to help them organise their learning and manage their time effectively for more productive learning.<br>Progressively, students acquire these important computer literacy and productivity skills, and advance to learn how to use digital tools, e.g., Microsoft Office and Google Suite apps, to create digital artefacts. Students also complete the self-paced Digital Literacy SLS lessons on HBL days.
