@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Zhonghua Sec Guided Tour 2023.md
       - About Us.md
       - Principal's Message.md
       - Our Vision, Mission, Values.md
@@ -13,6 +12,7 @@ collections:
       - Our Heritage/Our Voices.md
       - Our Heritage/Our Pride.md
       - School Open House 2023.md
+      - Zhonghua Sec Guided Tour 2023.md
       - Our People/.keep
       - Our People/School Management Committee.md
       - Our People/Form Teachers.md
