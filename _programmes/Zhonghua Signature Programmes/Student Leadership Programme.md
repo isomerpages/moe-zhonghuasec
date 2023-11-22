@@ -139,7 +139,7 @@ Leadership opportunities are provided in the class, CCA and school platform:
 
 |  |  |  |
 | -------- | -------- | -------- |
-| [Episode 1: No Room for Racism](https://youtu.be/VxPhuOgX3x4)   | ![Episode 1: No Room for Racism](/images/SLD28.png)      |  |
+| [Episode 1: No Room for Racism](https://youtu.be/VxPhuOgX3x4)   | ![Episode 1: No Room for Racism](/images/SLD27.png)      |  |
 | [Episode 2: Tray Return Initiative](https://youtu.be/b_NQxo5ZWtA)    | ![Episode 2: Tray Return Initiative](/images/SLD28.png)     |  |
 | [Episode 3: Go Green Go Clean](https://youtu.be/4lLpT30OUCw)    | ![Episode 3: Go Green Go ](/images/SLD29.png)     |  |
 | [Episode 4: Mental Health Matters](https://youtu.be/lmtRmI_HT8Q)    | ![Episode 4: Mental Health Matters](/images/SLD30.png)    |  |
