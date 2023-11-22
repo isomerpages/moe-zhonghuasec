@@ -106,13 +106,13 @@ Leadership opportunities are provided in the class, CCA and school platform:
 ![](/images/SLD19.jpg)
 *Student Council Presidential Election*
 
-![](/images/SLD20.jpg)
+![](/images/SLD20.JPG)
 *Learn and Lead Workshop*
 
 ![](/images/SLD21.jpg)
 *Hosting prefects from Zhonghua Primary School*
 
-![](/images/SLD22.jpg)
+![](/images/SLD22.JPG)
 *Student Councillors serving as Student Ambassadors during School Open House*
 
 **(7) External Leadership Activities for Tier 3 Student Leaders**
@@ -146,11 +146,3 @@ Leadership opportunities are provided in the class, CCA and school platform:
 | Episode 5: National Day<br>https://youtu.be/u94piJI13JQ     | ![Episode 5: National Day](/images/SLD31.png)    |  |
 | Episode 6: Managing Digital Distractions<br>https://youtu.be/tnnFb9G1sg    | ![Episode 6: Managing Digital Distractions](/images/SLD32.png)    |  |
 | Episode 7: What Does Success Mean To You?<br>https://youtu.be/J9-qPGtQIH8     |  ![Episode 7: What Does Success Mean To You?](/images/SLD33.png)     |  |
-
-
-
-
-
-
-
-
