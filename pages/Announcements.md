@@ -4,6 +4,11 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
+**Zhonghua Secondary School Guided Tour 2023**
+<br>
+[Read more](https://www.zhonghuasec.moe.edu.sg/about-us/permalink/zhonghua-sec-guided-tour-2023/)
+
+--------------------------------------------------------------------------------
 **Zhonghua Secondary School Open House 2023**
 <br>
 [Read more](https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/soh2023/)
