@@ -10,7 +10,7 @@ We seek to equip all Zhonghuarians with relevant ICT skills and learning abiliti
 #### **PLD 2024**
 ![](/images/LENOVO.jpg)
 
-[](https://sites.google.com/moe.edu.sg/zhssndlp/our-pld-bundle)
+[PLD 2024 Site](https://sites.google.com/moe.edu.sg/zhssndlp/our-pld-bundle)
 
 #### **ICT-integrated Learning Experiences @ ZHSS**
 1\. Code for fun for lower secondary 1E, 1NA, 2E, 2NA students learning animation and games programming<br>
