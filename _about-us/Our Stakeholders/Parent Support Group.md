@@ -3,13 +3,14 @@ title: Parent Support Group
 permalink: /about-us/our-stakeholders/psg/
 description: ""
 third_nav_title: Our Stakeholders
+variant: markdown
 ---
 #### **Welcome!**
 Zhonghua Secondary School Parent Support Group was set up in September 2001 with the blessing of the school.
 
 <figure>
-<img src="/images/PSG 2022.jpg">
-<figcaption><strong>  ZHSS PSG Committee
+<img src="/images/IMG_5567.jpg">
+<figcaption><strong>  PSG organising Traditional Games on Racial Harmony cum Youth Day Celebrations
 	</strong></figcaption>
 </figure>
 
@@ -45,4 +46,4 @@ Alternatively, you may&nbsp;contact PSG at [zhonghuasecpsg@gmail.com](mailto:zho
 | July     | Racial Harmony Day    | 
 | September     | Teachers' Day Celebration   | 
 | November     | School Open House   | 
-| November     | Sec 4&amp;5 Graduation Night  | 
+| November     | Sec 4&amp;5 Graduation Night  |
