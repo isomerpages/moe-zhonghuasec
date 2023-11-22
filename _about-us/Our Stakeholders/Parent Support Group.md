@@ -9,7 +9,7 @@ variant: markdown
 Zhonghua Secondary School Parent Support Group was set up in September 2001 with the blessing of the school.
 
 <figure>
-<img src="/images/IMG_5567.jpg">
+<img src="/images/PSG_2023.jpg">
 <figcaption><strong>  PSG organising Traditional Games on Racial Harmony cum Youth Day Celebrations
 	</strong></figcaption>
 </figure>
