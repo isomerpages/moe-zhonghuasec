@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Zhonghua Sec Guided Tour 2023.md
       - About Us.md
       - Principal's Message.md
       - Our Vision, Mission, Values.md
