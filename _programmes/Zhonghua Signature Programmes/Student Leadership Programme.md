@@ -139,10 +139,10 @@ Leadership opportunities are provided in the class, CCA and school platform:
 
 |  |  |  |
 | -------- | -------- | -------- |
-| Episode 1: No Room for Racism <br>https://youtu.be/VxPhuOgX3x4   | ![Episode 1: No Room for Racism](/images/SLD28.png)      |  |
-| Episode 2: Tray Return Initiative<br>https://youtu.be/b_NQxo5ZWtA    | ![Episode 2: Tray Return Initiative](/images/SLD28.png)     |  |
-| Episode 3: Go Green Go Clean<br>https://youtu.be/4lLpT30OUCw    | ![Episode 3: Go Green Go ](/images/SLD29.png)     |  |
-| Episode 4: Mental Health Matters<br>https://youtu.be/lmtRmI_HT8Q    | ![Episode 4: Mental Health Matters](/images/SLD30.png)    |  |
-| Episode 5: National Day<br>https://youtu.be/u94piJI13JQ     | ![Episode 5: National Day](/images/SLD31.png)    |  |
-| Episode 6: Managing Digital Distractions<br>https://youtu.be/tnnFb9G1sg    | ![Episode 6: Managing Digital Distractions](/images/SLD32.png)    |  |
-| Episode 7: What Does Success Mean To You?<br>https://youtu.be/J9-qPGtQIH8     |  ![Episode 7: What Does Success Mean To You?](/images/SLD33.png)     |  |
+| [Episode 1: No Room for Racism](https://youtu.be/VxPhuOgX3x4)   | ![Episode 1: No Room for Racism](/images/SLD28.png)      |  |
+| [Episode 2: Tray Return Initiative](https://youtu.be/b_NQxo5ZWtA)    | ![Episode 2: Tray Return Initiative](/images/SLD28.png)     |  |
+| [Episode 3: Go Green Go Clean](https://youtu.be/4lLpT30OUCw)    | ![Episode 3: Go Green Go ](/images/SLD29.png)     |  |
+| [Episode 4: Mental Health Matters](https://youtu.be/lmtRmI_HT8Q)    | ![Episode 4: Mental Health Matters](/images/SLD30.png)    |  |
+| [Episode 5: National Day](https://youtu.be/u94piJI13JQ)     | ![Episode 5: National Day](/images/SLD31.png)    |  |
+| [Episode 6: Managing Digital Distractions](https://youtu.be/tnnFb9G1sg)    | ![Episode 6: Managing Digital Distractions](/images/SLD32.png)    |  |
+| [Episode 7: What Does Success Mean To You?](https://youtu.be/J9-qPGtQIH8)     |  ![Episode 7: What Does Success Mean To You?](/images/SLD33.png)     |  |
