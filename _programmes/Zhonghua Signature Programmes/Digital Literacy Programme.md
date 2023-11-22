@@ -43,4 +43,4 @@ Application of the digital skills learnt are then infused into the curriculum of
 #### Code for Fun Programme
 As part of the Digital Literacy Programme, the Secondary 1 students also go through the Code for fun programme (sponsored by IMDA) for one term. This programme exposes the students to computational thinking and also the opportunity to explore the use of micro-controllers through a series of practical activities, fostering creativity and problem-solving skills.
 
-![](/images/Digital_Literacy_1.png)![](/images/Digital_Literacy_2.png)
+![](/images/DIgital_Literacy_1.jpg)![](/images/Digital_Literacy_2.jpg)
