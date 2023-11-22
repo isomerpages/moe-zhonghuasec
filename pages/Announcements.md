@@ -4,6 +4,13 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
+**Zhonghua Secondary School Guided Tour 2023**
+<br>
+Join us on a Guided Tour at Zhonghua Secondary School on 23 Nov 2023 (Thursday) from 9 am to 1 pm!
+<br>
+[Read more](https://www.zhonghuasec.moe.edu.sg/about-us/permalink/zhonghua-sec-guided-tour-2023/)
+
+--------------------------------------------------------------------------------
 **Zhonghua Secondary School Open House 2023**
 <br>
 [Read more](https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/soh2023/)

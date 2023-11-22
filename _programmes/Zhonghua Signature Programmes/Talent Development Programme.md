@@ -7,8 +7,8 @@ variant: markdown
 ---
 Zhonghua Talent Development Programme is a 4-year progressive curriculum for selected students who show great aptitude, strong interest and motivation in fostering holistic development. Riding on the national push for STEM education, curated programmes are tailored to stretch students for exposure to disciplines and areas of interest in alignment with Zhonghua’s vision of cultivating Scholars ● Leaders.
 
-![TDP Framework](/images/TDP_Framework.png)
-**Fig. 1 Framework for Talent Development Programme**
+<img src="/images/TDP_Framework.png" style="width:50%">
+<small><b>Fig. 1 Framework for Talent Development Programme</b></small>
 
 ![](/images/TDP_table.png)
 

@@ -3,10 +3,6 @@ collections:
     output: true
     order:
       - Achievements.md
-      - Highlights/.keep
-      - Highlights/Highlights.md
-      - Highlights/Zhonghua Secondary School Guided Tour 2022.md
-      - Highlights/Zhonghua Secondary School Open House 2022.md
       - School Achievements.md
       - Staff Awards.md
       - Student Achievements/.keep
