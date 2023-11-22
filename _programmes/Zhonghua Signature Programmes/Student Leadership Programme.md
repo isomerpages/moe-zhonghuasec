@@ -53,21 +53,21 @@ Leadership opportunities are provided in the class, CCA and school platform:
 **(1) Cohort Leadership Training**
 ![](/images/SLD02.jpg)
 ![](/images/SLD03.jpg)
-*Student Leaders organising the Cohort Leadership Training for Lower Secondary students*
+<small>*Student Leaders organising the Cohort Leadership Training for Lower Secondary students*</small>
 
 **(2) Sec 1 Orientation Programme**
 ![](/images/SLD04.jpg)
 ![](/images/SLD05.jpg)
-*Student Leaders organising the Secondary One Orientation Programme*
+<small>*Student Leaders organising the Secondary One Orientation Programme*</small>
 
 **(3) Student Leaders’ Investiture**
 ![](/images/SLD06.jpg)
 ![](/images/SLD07.jpg)
-*Student Leaders’ Investiture to recognise our student councillors and Tier 3 student leaders*
+<small>*Student Leaders’ Investiture to recognise our student councillors and Tier 3 student leaders*</small>
 
 **(4) Class Care Committee Activities**
 ![](/images/SLD08.jpg)
-*Basic Leadership Training conducted by EXCOs*
+<small>*Basic Leadership Training conducted by EXCOs*
 
 ![](/images/SLD09.jpg)
 *Class Care Committee Appointment Ceremony*
@@ -88,20 +88,20 @@ Leadership opportunities are provided in the class, CCA and school platform:
 *Peer Support Efforts: Advocating Peer Support Within School Community*
 
 ![](/images/SLD15.JPG)
-*Peer Support Efforts: Exam Motivational Board*
+*Peer Support Efforts: Exam Motivational Board*</small>
 
 **(5) Sports Leaders Board Activities**
 
 ![](/images/SLD16.jpg)
-*Sports Leaders Day Camp*
+<small>*Sports Leaders Day Camp*
 
 ![](/images/SLD17.jpg)
-*Sports Leaders organising Sports Carnival*
+*Sports Leaders organising Sports Carnival*</small>
 
 
 **(6) Student Council Activities**
 ![](/images/SLD18.jpg)
-*Student Council Induction Workshop*
+<small>*Student Council Induction Workshop*
 
 ![](/images/SLD19.jpg)
 *Student Council Presidential Election*
@@ -113,15 +113,15 @@ Leadership opportunities are provided in the class, CCA and school platform:
 *Hosting prefects from Zhonghua Primary School*
 
 ![](/images/SLD22.JPG)
-*Student Councillors serving as Student Ambassadors during School Open House*
+*Student Councillors serving as Student Ambassadors during School Open House*</small>
 
 **(7) External Leadership Activities for Tier 3 Student Leaders**
 
 ![](/images/SLD23.jpg)
-*External Leadership Conferences*
+<small>*External Leadership Conferences*
 
 ![](/images/SLD24.jpg)
-*Learning Journey to Changi Experience Studio*
+*Learning Journey to Changi Experience Studio*</small>
 
 
 ##### Other Student-Led Initiatives by our Student Leaders
@@ -129,10 +129,10 @@ Leadership opportunities are provided in the class, CCA and school platform:
 **(1) Excelsis (Students’ Centre) managed by Class Care Committee and Student Council**
 
 ![](/images/SLD25.jpg)
-*Students bond over activities in the Student Centre*
+<small>*Students bond over activities in the Student Centre*
 
 ![](/images/SLD26.jpg)
-*Termly Movie Screening in Excelsis*
+*Termly Movie Screening in Excelsis*</small>
 
 **(2) The Zhonghua Conversation (A video series featuring voices of Zhonghua about contemporary issues)**
 
