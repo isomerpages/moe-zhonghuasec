@@ -13,7 +13,7 @@ With technology shrinking the world where people now interact more often than be
 
 
 ![](/images/Cross_Cultural_05.JPG)
-*Hosting students from Taipei Municipal Longmen High School City Tour to Little India, Kampong Glam and Chinatown*
+<small>*Hosting students from Taipei Municipal Longmen High School City Tour to Little India, Kampong Glam and Chinatown*
 
 ![](/images/Cross_Cultural_06.jpg)
-*Students had hands-on experience at the Cultural Immersion Workshop, trying out the Vietnamese traditional costume, Ao Dai*
+*Students had hands-on experience at the Cultural Immersion Workshop, trying out the Vietnamese traditional costume, Ao Dai*</small>
