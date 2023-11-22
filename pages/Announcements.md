@@ -2,6 +2,7 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: markdown
 ---
 **Zhonghua Secondary School Open House 2023**
 <br>
@@ -48,15 +49,5 @@ description: ""
 
 **Direct Schools Admission (DSA) Exercise For 2023 Intake** <br>
 [Read more](https://staging.d1ph2u5puaqsvh.amplifyapp.com/admission/dsa-2023/)
-
--------------------------------------------------------------------------------
-
-**Zhonghua Secondary School Open House 2022**
-<br> [Read more](https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/2/)
-
--------------------------------------------------------------------------------
-
-**Zhonghua Secondary School Guided Tour 2022**
-<br> [Read more](https://staging.d1ph2u5puaqsvh.amplifyapp.com/achievements/highlights/1/)
 
 -------------------------------------------------------------------------------
