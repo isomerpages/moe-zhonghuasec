@@ -16,11 +16,10 @@ In the Eco Heroes Programme, we aim to:
 * develop thinking skills by connecting knowledge across subject disciplines in the context of sustainability.
 * develop analytical skills using data analytics tools to analyse authentic data and to address sustainability issues using design thinking protocol. 
 
-![](/images/Eco02.png)
+<img src="/images/Eco02.png" style="width:50%">
 
 ##### Key Sustainability Issues
 Students will acquaint themselves with the key issues of sustainability of our earth and her ecosystems through the following 5 themes that are pertinent to Singapore:
-
 
 | Theme | Sustainable Development Goals (SDGs) | Brief Description |
 | -------- | -------- | -------- |
@@ -50,10 +49,8 @@ Students will learn about
 - *Data Identification*.  Following from the Ideate stage of the Design Thinking protocol, students identify the data they need to make informed decisions of their intervention
 - *Data Collection &amp; Maintenance*. Students collect data through a variety of means such as surveys, publicly available data from reliable sources (eg: government websites), observations, interview, etc. They learn to systematically record them and archive data that is no longer needed.
 - *Data Analysis &amp; Usage*. Students make sense of data by analysing them using commonly available productivity tools. They explore how the data could be presented in charts, graphs or infographics to tell a story that captures the attention of the audience.
-
-![](/images/Eco03.png)
-![](/images/Eco04.png)
-![](/images/Eco05.png)
+<img src="/images/Eco03.png" style="width:50%"> <img src="/images/Eco04.png" style="width:70%">
+<img src="/images/Eco05.png" style="width:70%">
 
 ##### Interdisciplinary Learning
 
