@@ -2,9 +2,15 @@
 title: Infocomm Technology
 permalink: /departments/infocomm-technology/
 description: ""
+variant: markdown
 ---
 #### **Mission**
 We seek to equip all Zhonghuarians with relevant ICT skills and learning abilities through our wide array of ICT programmes and experiences.
+
+#### **PLD 2024**
+![](/images/LENOVO.jpg)
+
+[PLD 2024 Site](https://sites.google.com/moe.edu.sg/zhssndlp/our-pld-bundle)
 
 #### **ICT-integrated Learning Experiences @ ZHSS**
 1\. Code for fun for lower secondary 1E, 1NA, 2E, 2NA students learning animation and games programming<br>
@@ -41,7 +47,7 @@ Computer Application (CPA) focuses on equipping Normal Technical students with a
 <img src="/images/info4.jpg" style="width:65%">
 
 ##### **GCE O-level Food and Nutrition (Normal Academic students)**
-This two-year GCE O-Level Food and Nutrition (F&N) programme seeks to develop our students with an understanding of:
+This two-year GCE O-Level Food and Nutrition (F&amp;N) programme seeks to develop our students with an understanding of:
 * The concepts of nutrition and meal planning
 * The link between diet and health
 * The principles of food science
