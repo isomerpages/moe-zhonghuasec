@@ -19,7 +19,7 @@ Students learn to:
 
 Zhonghua Sec has an ECG Counsellor to provide support to students (individually or in small groups). Students who would like to explore more in areas such as subject choices, course options or to find out more about their strengths and interests can have a chat with our school’s ECG Counsellor.
 
-To make an appointment with Ms Catherine Ng (ECG Counsellor), please email her at&nbsp;[Tan_Yi_Ling_C@Schools.gov.sg](mailto:Tan_Yi_Ling_C@Schools.gov.sg).
+To make an appointment with Ms Tan Yi Ling (ECG Counsellor), please email her at&nbsp;[Tan_Yi_Ling_C@Schools.gov.sg](mailto:Tan_Yi_Ling_C@Schools.gov.sg).
 
 #### **Academic Pathways Exploration**
 
