@@ -45,7 +45,7 @@ To make an appointment with Ms Tan Yi Ling (ECG Counsellor), please email her at
 | Title  | Links | Remarks<br>  |
 |---|---|---|
 | My-Skills-Future Portal (Secondary) | [https://go.gov.sg/mySFsec](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html) | ECG Portal to explore the world of work and plan education pathways |
-| Explore different industries  (videos) | [https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape.html](https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape.html)<br>https://www.nyc.gov.sg/omw/home| An introduction to job roles in the various industries in Singapore |
+| Explore different industries  (videos) | [https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape.html](https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape.html)<br>[https://www.nyc.gov.sg/omw/home](https://www.nyc.gov.sg/omw/home)| An introduction to job roles in the various industries in Singapore |
 | ECG Resources | [https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview)| A collection of ECG Resources, from e-book to resource guide |
 | Parent Guide | [https://go.gov.sg/tips-for-parents](https://go.gov.sg/tips-for-parents) | A guide for parents/guardians in ECG |
 | The Next Step Forward | [https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.pdf](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.pdf)| An e-book that illustrates how 54 individuals go through diverse education and career pathways |
