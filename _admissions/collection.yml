@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - 2024 Sec 1 Registration.md
       - Secondary 1 Posting.md
       - Direct School Admission (DSA) Exercise.md
       - Returning Singaporeans.md
