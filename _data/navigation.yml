@@ -52,28 +52,28 @@ links:
   - title: Departments
     url: /departments/
     sublinks:
-      - title: Design & Technology
-        url: /departments/dnt/
-      - title: English Language & Literature
-        url: /departments/english-language-and-literature/
-      - title: Humanities
-        url: /departments/humanities/
-      - title: Infocomm Technology
-        url: /departments/infocomm-technology/
-      - title: Mathematics
-        url: /departments/mathematics/
-      - title: Music
-        url: /departments/music/
-      - title: Mother Tongue Languages
-        url: /departments/mother-tongue-languages/
-      - title: Physical Education
-        url: /departments/physical-education/
-      - title: Science
-        url: /departments/science/
       - title: Student Development
         url: /departments/student-development/
+      - title: English Language & Literature
+        url: /departments/english-language-and-literature/
+      - title: Mother Tongue Languages
+        url: /departments/mother-tongue-languages/
+      - title: Mathematics
+        url: /departments/mathematics/
+      - title: Science
+        url: /departments/science/
+      - title: Humanities
+        url: /departments/humanities/
+      - title: Physical Education
+        url: /departments/physical-education/
+      - title: Music
+        url: /departments/music/
       - title: Visual Art
         url: /departments/visual-art/
+      - title: Design & Technology
+        url: /departments/dnt/
+      - title: Infocomm Technology
+        url: /departments/infocomm-technology/
   - title: Programmes
     url: /programmes/zhonghua-signature-programmes/
     sublinks:
