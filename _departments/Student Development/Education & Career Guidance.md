@@ -1,10 +1,11 @@
 ---
-title: Education &amp; Career Guidance
+title: Education & Career Guidance
 permalink: /departments/student-development/ecg/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
-#### **Introducing**
+#### **Introduction**
 
 Education and Career Guidance (ECG) is about equipping students with the necessary knowledge, skills and values to make decisions at each key education stage for successful transition from school to further education or work, and hence to plan and manage their career pathways and learning throughout their lives. At secondary schools, the ECG curriculum focuses on exploration. ECG helps students understand themselves better and guide their exploration of different education and career pathways.
 
@@ -18,9 +19,7 @@ Students learn to:
 
 Zhonghua Sec has an ECG Counsellor to provide support to students (individually or in small groups). Students who would like to explore more in areas such as subject choices, course options or to find out more about their strengths and interests can have a chat with our school’s ECG Counsellor.
 
-To make an appointment with Ms Catherine Ng (ECG Counsellor), please email her at&nbsp;[Ng\_Hui\_Fong\_Catherine@Schools.gov.sg](mailto:Ng_Hui_Fong_Catherine@Schools.gov.sg).
-
-<img src="/images/ecg.jpg" style="width:75%">
+To make an appointment with Ms Tan Yi Ling (ECG Counsellor), please email her at&nbsp;[Tan_Yi_Ling_C@Schools.gov.sg](mailto:Tan_Yi_Ling_C@Schools.gov.sg).
 
 #### **Academic Pathways Exploration**
 
@@ -45,11 +44,11 @@ To make an appointment with Ms Catherine Ng (ECG Counsellor), please email her a
 
 | Title  | Links | Remarks<br>  |
 |---|---|---|
-| My-Skills-Future Portal (Secondary) | [https://www.myskillsfuture.gov.sg/content/student/en/secondary.html](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html) | ECG Portal to explore the world of work and plan education pathways |
-| Explore different industries  (videos) | [https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape.html](https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape.html)| An introduction to job roles in the various industries in Singapore |
+| My-Skills-Future Portal (Secondary) | [https://go.gov.sg/mySFsec](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html) | ECG Portal to explore the world of work and plan education pathways |
+| Explore different industries  (videos) | [https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape.html](https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape.html)<br>[https://www.nyc.gov.sg/omw/home](https://www.nyc.gov.sg/omw/home)| An introduction to job roles in the various industries in Singapore |
 | ECG Resources | [https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview)| A collection of ECG Resources, from e-book to resource guide |
-| Parent Guide | [https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx?la=en&amp;hash=83A2BEF8FAA9394B79F1E4F8ED145A562BB240F8](https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx?la=en&amp;hash=83A2BEF8FAA9394B79F1E4F8ED145A562BB240F8)| A guide for parents/guardians in ECG |
-| The Next Step Forward | [https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&amp;hash=861D380E656F90365A6CB50CB53383232AEF1972](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&amp;hash=861D380E656F90365A6CB50CB53383232AEF1972)| An e-book that illustrates how 54 individuals go through diverse education and career pathways |
+| Parent Guide | [https://go.gov.sg/tips-for-parents](https://go.gov.sg/tips-for-parents) | A guide for parents/guardians in ECG |
+| The Next Step Forward | [https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.pdf](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.pdf)| An e-book that illustrates how 54 individuals go through diverse education and career pathways |
 | Post-Secondary Education Pathways | [https://www.moe.gov.sg/post-secondary](https://www.moe.gov.sg/post-secondary) <br>[https://www.moe.gov.sg/post-secondary/admissions](https://www.moe.gov.sg/post-secondary/admissions)| A list of post-secondary institutions |
 | Joint Polytechnic Admissions Exercise (JPAE) | [https://jpae.polytechnic.edu.sg/app](https://jpae.polytechnic.edu.sg/app) | Progression from ITE to Poly |
 | ECG Centre at MOE | [https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview)| Students-in-transition and their parents may book an appointment to see an ECG Counsellor at ECG Centre @MOE (Grange Road)   |

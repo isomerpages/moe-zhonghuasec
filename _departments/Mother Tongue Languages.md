@@ -2,14 +2,15 @@
 title: Mother Tongue Languages
 permalink: /departments/mother-tongue-languages/
 description: ""
+variant: tiptap
 ---
 #### **华文部**
 ##### **任务**
 中 华 学 子 　掌 握 语 文
 
-重 传 统    　敢 创 新
+重 传 统&nbsp; &nbsp; 　敢 创 新
 
-爱 国 家    　容 各 族  　与 时 并 进
+爱 国 家&nbsp; &nbsp; 　容 各 族&nbsp; 　与 时 并 进
 
 ##### **愿景**
 承 先 辈 文 化 遗 产，启 后 代 薪 火 相 传
@@ -26,19 +27,19 @@ description: ""
 Membina pelajar yang dapat berkomunikasi dengan menggunakan bahasa Melayu baku dengan fasih, cekap dan yakin, dan memiliki pemahaman tentang nilai-nilai dan budaya Melayu.
 
 ##### **Program** 
-**Dwiminggu Bahasa Ibunda**: Setiap tahun, Unit Bahasa Melayu menganjurkan pelbagai aktiviti untuk mengukuhkan minat pelajar terhadap bahasa Melayu dan meluaskan penggunaan bahasa Melayu dalam genre yang berbeza. Aktiviti-aktiviti tersebut termasuklah Peraduan Penulisan Kreatif, Peraduan Penterjemahan, Peraduan Penulisan Sajak, Peraduan Permainan Bahasa (Sahibba, Boggle) dan Kuiz Budaya. 
+**Dwiminggu Bahasa Ibunda**: Setiap tahun, Unit Bahasa Melayu menganjurkan pelbagai aktiviti untuk mengukuhkan minat pelajar terhadap bahasa Melayu dan meluaskan penggunaan bahasa Melayu dalam genre yang berbeza. Aktiviti-aktiviti tersebut termasuklah Peraduan Penulisan Kreatif, Peraduan Penterjemahan, Peraduan Penulisan Sajak, Peraduan Permainan Bahasa (Sahibba, Boggle) dan Kuiz Budaya.&nbsp;
 
-Para pelajar juga berpeluang mengambil bahagian dalam Bengkel Budaya dan Kembara Ilmu. Menerusi kegiatan-kegiatan ini, pelajar menimba ilmu dan pengalaman dalam suasana yang autentik dan santai. Juga, kegiatan-kegiatan ini menerapkan penghayatan dan mendalamkan pemahaman pelajar tentang kesantunan budaya Melayu.    
+Para pelajar juga berpeluang mengambil bahagian dalam Bengkel Budaya dan Kembara Ilmu. Menerusi kegiatan-kegiatan ini, pelajar menimba ilmu dan pengalaman dalam suasana yang autentik dan santai. Juga, kegiatan-kegiatan ini menerapkan penghayatan dan mendalamkan pemahaman pelajar tentang kesantunan budaya Melayu.&nbsp;&nbsp;&nbsp;&nbsp;
 
-**Program Bacaan**: Dalam kurikulum bahasa Melayu di Sekolah Menengah Zhonghua, program bacaan dikendalikan dengan tujuan menerapkan keseronokan membaca dalam kalangan pelajar, menajamkan kemahiran berfikir secara kreatif dan kritikal, menghayati genre bahan bacaan yang berbeza dan mempertingkatkan pemahaman pelajar tentang hal-ehwal semasa. 
+**Program Bacaan**: Dalam kurikulum bahasa Melayu di Sekolah Menengah Zhonghua, program bacaan dikendalikan dengan tujuan menerapkan keseronokan membaca dalam kalangan pelajar, menajamkan kemahiran berfikir secara kreatif dan kritikal, menghayati genre bahan bacaan yang berbeza dan mempertingkatkan pemahaman pelajar tentang hal-ehwal semasa.&nbsp;
 
 **Penyertaan pelajar dalam kegiatan-kegiatan pada peringkat nasional**: Para pelajar berpeluang mengambil bahagian dalam peraduan-peraduan yang dianjurkan pada peringkat nasional. Melalui penyertaan secara individu atau berpasukan, pelajar dapat berkolaborasi, mengaplikasikan kemahiran-kemahiran yang telah diraih, menjalankan kajian untuk tujuan penyampaian dan berkomunikasi dengan berkesan dalam konteks yang tertentu.
 
 ##### **Malay Special Programme in ZHSS**
 **Background**<br>
-MSP is one of the Ministry of Education’s 3rd language programme. It used to be a Programme that is offered only to the top 30% of the PSLE cohort but has been expanded to anyone with the interest and inclination to do. This programme is offered to non-Malay students as a third language. Zhonghua Secondary School is the centre for schools in the South Zone.
+MSP is one of the Ministry of Education’s 3rd language programme. It used to be a Programme that is offered only to the top 30% of the PSLE cohort but has been expanded to anyone with the interest and inclination to do. This programme is&nbsp;offered to non-Malay students as a third language. Zhonghua Secondary School is the centre for schools in the South Zone.
 
-A student who passes MSP at the GCE O-Level Examination and who qualifies for admission to a JC/MI will be given a concession of two points in his application to the JC/MI of his/her choice. A student who offers MSP in the GCE O-Level Examination will be allowed to use the MSP grade in lieu of a Humanities subject grade for admission to the JC/MI.
+A student who passes MSP at the GCE O-Level Examination and who qualifies for admission to a JC/MI will be given a concession of two points in his application to the JC/MI of his/her choice. A student who offers MSP in the GCE O-Level Examination will be allowed to use the MSP&nbsp;grade in lieu of a Humanities subject grade for admission to the JC/MI.
 
 **Objectives of the Programme**<br>
 At the end of the 4 years programme, students will be able to:
@@ -64,5 +65,5 @@ MSP Lesson is held once a week, 3 hours per lesson in the afternoon. The program
 | Sec 4 MSP | Tuesdays | 3.00pm – 6.00pm |
 |
 
-<img src="/images/mtl1.jpg" style="width:49%" align=left>
-<img src="/images/mtl2.jpg" style="width:49%" align=right>
+<img src="/images/mtl1.jpg" style="width:49%" align="left">
+<img src="/images/mtl2.jpg" style="width:49%" align="right">

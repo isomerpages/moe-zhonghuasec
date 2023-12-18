@@ -1,5 +1,5 @@
 collections:
-  admission:
+  admissions:
     output: true
     order:
       - Secondary 1 Posting.md
