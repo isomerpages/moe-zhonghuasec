@@ -1,16 +1,17 @@
 ---
 title: Secondary 1 Posting
-permalink: /admission/sec-1-posting/
+permalink: /admissions/sec-1-posting/
 description: ""
+variant: markdown
 ---
-#### **Our Sec 1 Cut-off Points**
+#### **Sec 1 AL Range**
 
 |  |  |
 |---|---|
-| Stream | 2023 |
-| Express | 6-14 |
-| Normal Academic | 21-23 |
-| Normal Technical | 25-28 |
+| Posting Group | 2024 |
+| PG3 | 7 - 13 |
+| PG2 | 21 - 23 |
+| PG1 | 25 - 27 |
 |
 
 For more information on Secondary One Admission, please visit MOE's web site on Sec 1 Posting [here](https://moe.gov.sg/secondary/s1-posting/).
