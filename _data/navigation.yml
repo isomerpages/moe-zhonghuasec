@@ -11,8 +11,6 @@ links:
         url: /about-us/our-heritage/
       - title: School Open House 2023
         url: /about-us/soh2023/
-      - title: School Guided Tour 2023
-        url: about-us/permalink/zhonghua-sec-guided-tour-2023/
       - title: Our People
         url: /about-us/our-people/smc/
       - title: Our Stakeholders
@@ -37,8 +35,10 @@ links:
       - title: Roll of Honour
         url: /achievements/roll-of-honour/
   - title: Admissions
-    url: /admissions/sec-1-posting/
+    url: admissions/2024-sec1-briefing-appeals/
     sublinks:
+      - title: 2024 Sec 1 Briefing & Appeals
+        url: admissions/2024-sec1-briefing-appeals/
       - title: Secondary 1 Posting
         url: /admissions/sec-1-posting/
       - title: Direct School Admission (DSA)
