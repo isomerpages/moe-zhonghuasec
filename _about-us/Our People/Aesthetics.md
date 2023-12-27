@@ -7,6 +7,7 @@ variant: markdown
 ---
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
+| Ms Destiny See | SH - Aesthetics | [see_yeo_sin@moe.edu.sg](mailto:see_yeo_sin@moe.edu.sg) | 65938-116 |
 | Ms Ang Hwee Qin | Art Coordinator | [ang_hwee_qin@moe.edu.sg](mailto:ang_hwee_qin@moe.edu.sg) | 65938-116 |
 | Ms Magdalene Tan | Teacher | [tan_bee_yeng_magdalene@moe.edu.sg](mailto:tan_bee_yeng_magdalene@moe.edu.sg) | 65938-116 |
 | Ms Tham Qi Ying | Teacher | [tham_qi_ying@moe.edu.sg](mailto:tham_qi_ying@moe.edu.sg) | 65938-116 |
