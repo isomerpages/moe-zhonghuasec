@@ -1,0 +1,7 @@
+collections:
+  infolinks:
+    output: true
+    order:
+      - Infolinks.md
+      - Admin Forms & Book Lists (Students).md
+      - Class Timetable.md

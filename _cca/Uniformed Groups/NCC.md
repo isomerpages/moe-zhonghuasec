@@ -1,0 +1,39 @@
+---
+title: NCC
+permalink: /cca/uniformed-group/ncc/
+description: ""
+third_nav_title: Uniformed Groups
+---
+Zhonghua Secondary School National Cadet Corps (NCC) unit has achieved a Unit Recognition Award – Distinction for 27 consecutive years. This is a testament to the dedication and hard work of our cadets and teacher officers over the years.
+
+Far from focusing solely on regimentation, the Zhonghua NCC unit nurtures our cadets to become leaders with resilient minds, fit bodies and committed hearts. Our unit’s programmes build our cadets’ confidence and social skills. Activities such as airsoft rifle firing, dragon boating, 1-star kayak certification, orienteering, camouflage hide-and-seek, outfield cooking, and reconnaissance and surveillance keep our cadets active and engaged.
+
+Our cadets participate actively in fitness events organised by HQ NCC, such as Fitness Challenge and NCC Sports and Games day. These activities also allow cadets forge a sense of camaraderie and teamwork.
+
+Congratulations to all our NCC Cadets for flying the Zhonghua flag high again this year!
+
+**Key Programmes:**
+* CAMP FORGE (for Junior Cadets)
+* CAMP STEEL (for Senior Cadets)
+* Specialist Course § Senior Specialist Course
+* Total Defence Bronze, Silver and Gold
+* Basic Trainfire Package
+
+**Recent Achievements:**
+* Unit Recognition Award (2022) – Distinction
+* NCC Land Orientation Competition (2022) – First Place in assigned route
+* NCC Sports and Games 2022 (Captain’s Ball) – First Place
+* Unit Recognition Award (2021) – Distinction
+* Unit Recognition Award (2020) – Distinction
+
+<img src="/images/nccorps1.jpg" style="width:50%" align="left">
+<img src="/images/nccorps2.jpg" style="width:50%" align="right">
+
+<br clear="left">
+
+<img src="/images/nccorps3.jpg" style="width:50%" align="left">
+<img src="/images/nccorps4.jpg" style="width:50%" align="right">
+
+<br clear="left">
+
+Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.

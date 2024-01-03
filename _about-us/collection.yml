@@ -1,0 +1,40 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - About Us.md
+      - Principal's Message.md
+      - Our Vision, Mission, Values.md
+      - Our Heritage/.keep
+      - Our Heritage/Our Heritage.md
+      - Our Heritage/Our Crest & School Uniform.md
+      - Our Heritage/Our Story.md
+      - Our Heritage/Our Voices.md
+      - Our Heritage/Our Pride.md
+      - School Open House 2023.md
+      - Our People/.keep
+      - Our People/School Management Committee.md
+      - Our People/Form Teachers.md
+      - Our People/Student Development.md
+      - Our People/English Language.md
+      - Our People/Mother Tongue Languages.md
+      - Our People/Mathematics.md
+      - Our People/Science.md
+      - Our People/Humanities.md
+      - Our People/Physical Education.md
+      - Our People/Aesthetics.md
+      - Our People/Commerce.md
+      - Our People/Design & Technology.md
+      - Our People/Nutrition & Food Science.md
+      - Our People/ICT & Computing.md
+      - Our People/Executive & Administration.md
+      - Our Stakeholders/.keep
+      - Our Stakeholders/School Advisory Committee.md
+      - Our Stakeholders/Zhonghua Alumni Association.md
+      - Our Stakeholders/Parent Support Group.md
+      - Calendar.md
+      - Rules & Regulations/.keep
+      - Rules & Regulations/Rules & Regulations.md
+      - Rules & Regulations/Grooming and Attire.md
+      - Getting Here.md
+      - School Bookshop & Uniform Supplier.md

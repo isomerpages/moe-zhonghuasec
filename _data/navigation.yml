@@ -1,0 +1,87 @@
+logo: /images/logo.jpg
+links:
+  - title: About Us
+    url: /about-us/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message/
+      - title: Our Vision, Mission, Values
+        url: /about-us/vision-mission-values/
+      - title: Our Heritage
+        url: /about-us/our-heritage/
+      - title: School Open House 2023
+        url: /about-us/soh2023/
+      - title: Our People
+        url: /about-us/our-people/smc/
+      - title: Our Stakeholders
+        url: /about-us/our-stakeholders/sac/
+      - title: Calendar
+        url: /about-us/calendar/
+      - title: Rules & Regulations
+        url: /about-us/rules-and-regulations/
+      - title: Getting Here
+        url: /about-us/getting-here/
+      - title: Bookshop & Uniform Supplier
+        url: /about-us/school-bookshop-and-uniform-supplier/
+  - title: Achievements
+    url: /achievements/
+    sublinks:
+      - title: School Achievements
+        url: /achievements/school-achievements/
+      - title: Staff Awards
+        url: /achievements/staff-awards/
+      - title: Student Achievements
+        url: /achievements/student-achievements/
+      - title: Roll of Honour
+        url: /achievements/roll-of-honour/
+  - title: Admissions
+    url: admissions/2024-sec1-briefing-appeals/
+    sublinks:
+      - title: 2024 Sec 1 Briefing & Appeals
+        url: admissions/2024-sec1-briefing-appeals/
+      - title: Secondary 1 Posting
+        url: /admissions/sec-1-posting/
+      - title: Direct School Admission (DSA)
+        url: /admissions/dsa-exercise/
+      - title: Returning Singaporeans
+        url: /admissions/returning-singaporeans/
+      - title: International Students
+        url: /admissions/international-students/
+  - title: CCA
+    url: /cca/
+  - title: Departments
+    url: /departments/
+    sublinks:
+      - title: Student Development
+        url: /departments/student-development/
+      - title: English Language & Literature
+        url: /departments/english-language-and-literature/
+      - title: Mother Tongue Languages
+        url: /departments/mother-tongue-languages/
+      - title: Mathematics
+        url: /departments/mathematics/
+      - title: Science
+        url: /departments/science/
+      - title: Humanities
+        url: /departments/humanities/
+      - title: Physical Education
+        url: /departments/physical-education/
+      - title: Music
+        url: /departments/music/
+      - title: Visual Art
+        url: /departments/visual-art/
+      - title: Design & Technology
+        url: /departments/dnt/
+      - title: Infocomm Technology
+        url: /departments/infocomm-technology/
+  - title: Programmes
+    url: /programmes/zhonghua-signature-programmes/
+    sublinks:
+      - title: Zhonghua Signature Programmes
+        url: /programmes/zhonghua-signature-programmes/
+      - title: Full Subject Based Banding
+        url: /programmes/full-subject-based-banding/
+  - title: Contact Us
+    url: /contactus/
+  - title: Infolinks
+    url: /infolinks/
