@@ -39,5 +39,6 @@ variant: markdown
 | Ms Lum Shu Wei | Subject Head – Literature  | [lum_shu_wei@moe.edu.sg](mailto:lum_shu_wei@moe.edu.sg) |
 | Ms Rozianna Mohammed Affendi  | Assistant Year Head – Upper Sec | [rozianna_mohammed_affendi@moe.edu.sg](mailto:rozianna_mohammed_affendi@moe.edu.sg) |
 | Mr Christopher Lim | Assistant Year Head – Lower Sec | [christopher_lim_wei_chern@moe.edu.sg](mailto:christopher_lim_wei_chern@moe.edu.sg) |
+| Ms Kheng Hwee Teng | Level Head – English | [kheng_hwee_teng@moe.edu.sg](mailto:kheng_hwee_teng@moe.edu.sg) |
 | Ms Destiny See | Subject Head – Aesthetics | [see_yeo_sin@moe.edu.sg](mailto:see_yeo_sin@moe.edu.sg) |
 | Ms Lena Teo | Subject Head – Student Leadership | [lena_teo_ying_hui@moe.edu.sg](mailto:lena_teo_ying_hui@moe.edu.sg) |
