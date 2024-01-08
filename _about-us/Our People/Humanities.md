@@ -3,10 +3,11 @@ title: Humanities
 permalink: /about-us/our-people/humanities/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
-| Mr Hazry Hamzah | HOD – Humanities <br> School Staff Developer (Covering) | [hazry_hamzah@moe.edu.sg](mailto:hazry_hamzah@moe.edu.sg) | 65938-118 |
+| Mr Hazry Hamzah | HOD – Humanities | [hazry_hamzah@moe.edu.sg](mailto:hazry_hamzah@moe.edu.sg) | 65938-118 |
 | Mr Gavin Swee | Subject Head – History | [swee_wei_ming_gavin@moe.edu.sg](mailto:swee_wei_ming_gavin@moe.edu.sg) | 65938-150 |
 | Mrs Ho-Tam Mee Fong | Senior Teacher – Geography | [tam_mee_fong@moe.edu.sg](mailto:tam_mee_fong@moe.edu.sg) | 65938-136 |
 | Ms Noraini Mohamed | HOD – SEN | [noraini_mohamed@moe.edu.sg](mailto:noraini_mohamed@moe.edu.sg) | 65938-119 |
