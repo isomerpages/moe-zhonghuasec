@@ -10,7 +10,7 @@ variant: markdown
 | Mdm Koh Lee Keng | HOD – Mother Tongue | [koh_lee_keng@moe.edu.sg](mailto:koh_lee_keng@moe.edu.sg) | 65938-120 |
 | Ms Leow Kai Yin | Level Head – Chinese Language | [leow_kai_yin@moe.edu.sg](mailto:leow_kai_yin@moe.edu.sg) | 65938-143 |
 | Ms Tan Chye I | HOD – Student Leadership & Partnership | [tan_chye_i@moe.edu.sg](mailto:tan_chye_i@moe.edu.sg) | 65938-178  |
-| Mr Ang Chun Hua  | Year Head – Upper Sec | [ang_chun_hua@moe.edu.sg](mailto:ang_chun_hua@moe.edu.sg) | 65938-155 |
+| Mr Ang Chun Hua  | Year Head – Lower Sec | [ang_chun_hua@moe.edu.sg](mailto:ang_chun_hua@moe.edu.sg) | 65938-155 |
 | Mdm Jiang Ruifang | Teacher | [jiang_ruifang@moe.edu.sg](mailto:jiang_ruifang@moe.edu.sg) | 65938-134 |
 | Mr Ng Thiam Seng | Teacher | [ng_thiam_seng@moe.edu.sg](mailto:ng_thiam_seng@moe.edu.sg) | 65938-153 |
 | Ms Xiao Yue | Teacher | [xiao_yue@moe.edu.sg](mailto:xiao_yue@moe.edu.sg) | 65938-146 |
