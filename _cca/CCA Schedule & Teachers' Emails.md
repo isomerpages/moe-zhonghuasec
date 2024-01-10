@@ -6,4 +6,4 @@ variant: markdown
 ---
 #### **CCA Schedule & Teachers' Emails**
 
-Link to **[CCA Schedule & Teachers' Emails 2024](/files/cca_scedule_2024)**
+Link to **[CCA Schedule & Teachers' Emails 2024](/files/cca_schedule_2024)**
