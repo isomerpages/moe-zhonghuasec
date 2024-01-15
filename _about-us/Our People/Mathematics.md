@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /about-us/our-people/mathematics/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
@@ -13,14 +14,12 @@ third_nav_title: Our People
 | Mr Low Kee Ley | HOD – ICT | [low_kee_ley@moe.edu.sg](mailto:low_kee_ley@moe.edu.sg) | 65938-115 |
 | Mr Vincent Loh | Subject Head – Student Well-being | [loh_guan_wee_vincent@moe.edu.sg](mailto:loh_guan_wee_vincent@moe.edu.sg) | 65938-150 |
 | Mr Brandon Choy | Subject Head – Data Management | [brandon_choy_wai_keong@moe.edu.sg](mailto:brandon_choy_wai_keong@moe.edu.sg) | 65938-150 |
-| Mrs See Yan Nee | Teacher | [lim_yan_nee@moe.edu.sg](mailto:lim_yan_nee@moe.edu.sg) |  65938-152 |
 | Ms Josephine Peh | Teacher  | [josephine_peh_meng_yin@moe.edu.sg](mailto:josephine_peh_meng_yin@moe.edu.sg) | 65938-132 |
 | Mrs Koh-Tan Siok Hoon | Teacher | [tan_siok_hoon_a@moe.edu.sg](mailto:tan_siok_hoon_a@moe.edu.sg) | 65938-167 |
 | Ms Lee Sock Kee | Teacher | [lee_sock_kee@moe.edu.sg](mailto:lee_sock_kee@moe.edu.sg) | 65938-164 |
 | Mr Lionel Ang | Teacher | [ang_lee_chun_lionel@moe.edu.sg](mailto:ang_lee_chun_lionel@moe.edu.sg) | 65938-138 |
 | Mr Goh Ching Poh | Teacher | [goh_ching_poh@moe.edu.sg](mailto:goh_ching_poh@moe.edu.sg) | 65938-139 |
 | Ms Lee Jie Li | Teacher | [lee_jie_li@moe.edu.sg](mailto:lee_jie_li@moe.edu.sg) | 65938-153 |
-| Mr Richmond Su | Teacher | [su_jiahao_richmond@moe.edu.sg](mailto:su_jiahao_richmond@moe.edu.sg) | 65938-167 |
 | Mr Lee Ming Hui Kelvin | Teacher | [ming_hui_kelvin_lee@moe.edu.sg](mailto:ming_hui_kelvin_lee@moe.edu.sg) | 65938-130 |
 | Ms Ratiporn Tasanawinyou | Teacher | [ratiporn_tasanawinyou@moe.edu.sg](mailto:ratiporn_tasanawinyou@moe.edu.sg) |  65938-145 |
 | Mr Pang Hong Ming | Teacher | [pang_hong_ming@moe.edu.sg](mailto:pang_hong_ming@moe.edu.sg) | 65938-125 |
