@@ -25,6 +25,7 @@ variant: markdown
 | Mr Pang Hong Ming | Teacher | [pang_hong_ming@moe.edu.sg](mailto:pang_hong_ming@moe.edu.sg) | 65938-125 |
 | Ms Tan Teing Im | Teacher | [tan_teing_im@moe.edu.sg](mailto:tan_teing_im@moe.edu.sg) | 65938-137 |
 | Mr Ezzy Chan | Teacher | [chan_weng_cheong_ezzy@moe.edu.sg](mailto:chan_weng_cheong_ezzy@moe.edu.sg) | 65938-139 |
+| Mr Chong Yee Ming | Teacher | [chong_yee_ming@moe.edu.sg](mailto:chong_yee_ming@moe.edu.sg) | 65938-129 |
 | Mdm Leong Pei Szu | Flexi-Adjunct Teacher | [leong_pei_szu@moe.edu.sg](mailto:leong_pei_szu@moe.edu.sg) | 65938-169 |
 | Ms Sng Mui Yong| Flexi-Adjunct Teacher | [sng_mui_yong_a@moe.edu.sg](mailto:Sng_Mui_Yong_A@moe.edu.sg) | 65938-187 |
 |
