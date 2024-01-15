@@ -14,6 +14,7 @@ variant: markdown
 | Mr Low Kee Ley | HOD – ICT | [low_kee_ley@moe.edu.sg](mailto:low_kee_ley@moe.edu.sg) | 65938-115 |
 | Mr Vincent Loh | Subject Head – Student Well-being | [loh_guan_wee_vincent@moe.edu.sg](mailto:loh_guan_wee_vincent@moe.edu.sg) | 65938-150 |
 | Mr Brandon Choy | Subject Head – Data Management | [brandon_choy_wai_keong@moe.edu.sg](mailto:brandon_choy_wai_keong@moe.edu.sg) | 65938-150 |
+| Mdm Seoh Bee Hua | Lead Teacher- Mathematics | [seoh_bee_hua@moe.edu.sg](mailto:seoh_bee_hua@moe.edu.sg) | 65938-152 |
 | Ms Josephine Peh | Teacher  | [josephine_peh_meng_yin@moe.edu.sg](mailto:josephine_peh_meng_yin@moe.edu.sg) | 65938-132 |
 | Mrs Koh-Tan Siok Hoon | Teacher | [tan_siok_hoon_a@moe.edu.sg](mailto:tan_siok_hoon_a@moe.edu.sg) | 65938-167 |
 | Ms Lee Sock Kee | Teacher | [lee_sock_kee@moe.edu.sg](mailto:lee_sock_kee@moe.edu.sg) | 65938-164 |
