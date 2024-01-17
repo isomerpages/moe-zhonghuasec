@@ -23,5 +23,6 @@ variant: markdown
 | Mr Kelvin Lee | Teacher | [ming_hui_kelvin_lee@moe.edu.sg](mailto:ming_hui_kelvin_lee@moe.edu.sg) | 65938-130 |
 | Mr Chen Yit Chien | Teacher | [chen_yit_chien@moe.edu.sg](mailto:chen_yit_chien@moe.edu.sg) | 65938-125 |
 | Mr Ezzy Chan | Teacher | [chan_weng_cheong_ezzy@moe.edu.sg](mailto:chan_weng_cheong_ezzy@moe.edu.sg) | 65938-139 |
+| Mr Chong Yee Ming | Teacher | [chong_yee_ming@moe.edu.sg](mailto:chong_yee_ming@moe.edu.sg) | 65938-129 |
 | Ms Khairunisa Hussin | STEM Instructor (Lab) | [khairunisa_mohd_hussin@moe.edu.sg](mailto:khairunisa_mohd_hussin@moe.edu.sg) | 65938-175 |
 | Ms Shamira Banu | STEM Instructor (Lab) | [shamiru_banu_abdul_bari@moe.edu.sg](mailto:shamiru_banu_abdul_bari@moe.edu.sg) | 65938-175 |
