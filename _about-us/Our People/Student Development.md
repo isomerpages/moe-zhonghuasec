@@ -23,5 +23,5 @@ variant: markdown
 | Ms Oh Ching Fen | Flexi-Adjunct School Counsellor | [oh_ching_fen_a@moe.edu.sg](mailto:Oh_Ching_Fen_A@moe.edu.sg) | 65938-125 |
 | Ms Nur Asyurah | SEN Officer | [nur_asyurah_rosle@moe.edu.sg](mailto:nur_asyurah_rosle@moe.edu.sg) | 65938-147 |
 | Ms Suziliana Salleh | SEN Officer | [suziliana_salleh@moe.edu.sg](mailto:suziliana_salleh@moe.edu.sg) | 65938-144 |
-| Mr Chalice Lin | SEN Officer | [lin_longjie_chalice@moe.edu.sg](mailto:lin_longjie_chalice@moe.edu.sg) | 65938-208 |
+| Mr Chalice Lin | SEN Officer | [lin_longjie_chalice@moe.edu.sg](mailto:lin_longjie_chalice@moe.edu.sg) | 65938100-208 |
 | Mdm Liang Kim Kee | Flexi-Adjunct Teacher| [liang_kim_kee@moe.edu.sg](mailto:Liang_Kim_Kee@moe.edu.sg) | 65938-186 |
