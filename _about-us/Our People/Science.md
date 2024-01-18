@@ -13,14 +13,14 @@ variant: markdown
 | Mr Lawrence Tang | Lead Teacher - Physics | [lawrence_tang_kok_onn@moe.edu.sg](mailto:lawrence_tang_kok_onn@moe.edu.sg) | 65938-127 |
 | Ms Ong Lay Hong | Senior Teacher - Chemistry | [ong_lay_hong@moe.edu.sg](mailto:ong_lay_hong@moe.edu.sg) | 65938-137 |
 | Mrs Maybrie Ang | Senior Teacher - Chemistry | [maybrie_ang_mai_mai@moe.edu.sg](mailto:maybrie_ang_mai_mai@moe.edu.sg) | 65938-128 |
-| Ms Rozianna Mohammed Affendi | Assistant Year Head - Lower Sec | [rozianna_mohammed_affendi@moe.edu.sg](mailto:rozianna_mohammed_affendi@moe.edu.sg) | 65938-144 |
+| Ms Rozianna Mohammed Affendi | Assistant Year Head - Lower Sec | [rozianna_mohammed_affendi@moe.edu.sg](mailto:rozianna_mohammed_affendi@moe.edu.sg) | 65938100-203 |
 | Mr Christopher Lim | Assistant Year Head - Upper Sec | [christopher_lim_wei_chern@moe.edu.sg](mailto:christopher_lim_wei_chern@moe.edu.sg) | 65938-135 |
-| Mr Tan Li Chun | Teacher | [tan_li_chun@moe.edu.sg](mailto:tan_li_chun@moe.edu.sg) |  65938-145 |
-| Mr Goh Tze Mian | Teacher | [goh_tze_mian@moe.edu.sg](mailto:goh_tze_mian@moe.edu.sg) | 65938-145 |
-| Mrs Ngiam-Fok Kar Yin | Teacher | [fok_kar_yin@moe.edu.sg](mailto:fok_kar_yin@moe.edu.sg) | 65938-144 |
+| Mr Tan Li Chun | Teacher | [tan_li_chun@moe.edu.sg](mailto:tan_li_chun@moe.edu.sg) |  65938-131 |
+| Mr Goh Tze Mian | Teacher | [goh_tze_mian@moe.edu.sg](mailto:goh_tze_mian@moe.edu.sg) | 65938100-189 |
+| Mrs Ngiam-Fok Kar Yin | Teacher | [fok_kar_yin@moe.edu.sg](mailto:fok_kar_yin@moe.edu.sg) | 65938100-189 |
 | Ms Julia Yeo | Teacher | [yeo_yun_fang_julia@moe.edu.sg](mailto:yeo_yun_fang_julia@moe.edu.sg) | 65938-166 |
 | Mrs Lin Jiaxuan | Teacher | [li_jiaxuan@moe.edu.sg](mailto:li_jiaxuan@moe.edu.sg) | 65938-158 |
-| Mr Kelvin Lee | Teacher | [ming_hui_kelvin_lee@moe.edu.sg](mailto:ming_hui_kelvin_lee@moe.edu.sg) | 65938-130 |
+| Mr Kelvin Lee | Teacher | [ming_hui_kelvin_lee@moe.edu.sg](mailto:ming_hui_kelvin_lee@moe.edu.sg) | 65938100-207 |
 | Mr Chen Yit Chien | Teacher | [chen_yit_chien@moe.edu.sg](mailto:chen_yit_chien@moe.edu.sg) | 65938-125 |
 | Mr Ezzy Chan | Teacher | [chan_weng_cheong_ezzy@moe.edu.sg](mailto:chan_weng_cheong_ezzy@moe.edu.sg) | 65938-139 |
 | Mr Chong Yee Ming | Teacher | [chong_yee_ming@moe.edu.sg](mailto:chong_yee_ming@moe.edu.sg) | 65938-129 |
