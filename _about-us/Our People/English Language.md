@@ -18,6 +18,6 @@ variant: markdown
 | Mr Imaduddin Ahmad | Teacher | [imaduddin_ahmad_chevi_rafiudin@moe.edu.sg](mailto:imaduddin_ahmad_chevi_rafiudin@moe.edu.sg) | 65938-153 |
 | Mrs Cheryl Chew | Teacher | [lim_pei_chen_cheryl@moe.edu.sg](mailto:lim_pei_chen_cheryl@moe.edu.sg) | 65938-159 |
 | Mrs Yip Siew Mei | Flexi-Adjunct Teacher | [wong_siew_mei@moe.edu.sg](mailto:wong_siew_mei@moe.edu.sg) | 65938-185  |
-| Mdm Poh Li Pin | Flexi-Adjunct Teacher | [poh_li_pin_a@moe.edu.sg](mailto:Poh_Li_Pin_A@moe.edu.sg) | 65938-188  | 
-| Ms Wang Wei Ling | Flexi-Adjunct Teacher | [wang_wei_ling_a@moe.edu.sg](mailto:Wang_Wei_Ling_A@moe.edu.sg) | 65938-184  |
+| Mdm Poh Li Pin | Flexi-Adjunct Teacher | [poh_li_pin_a@moe.edu.sg](mailto:Poh_Li_Pin_A@moe.edu.sg) | 65938100-188  | 
+| Ms Wang Wei Ling | Flexi-Adjunct Teacher | [wang_wei_ling_a@moe.edu.sg](mailto:Wang_Wei_Ling_A@moe.edu.sg) | 65938100-184  |
 | Ms Seet Shu Yan | Flexi-Adjunct Teacher | [seet_shu_yan@moe.edu.sg](mailto:seet_shu_yan@moe.edu.sg) | 65938-159  |
