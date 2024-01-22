@@ -11,7 +11,7 @@ variant: markdown
 | Ms Estee Teo | Year Head - Upper Sec | [teo_kexin_estee@moe.edu.sg](mailto:teo_kexin_estee@moe.edu.sg)  | 65938-177  |
 | Mr Christopher Lim | Assistant Year Head - Lower Sec | [christopher_lim_wei_chern@moe.edu.sg](mailto:christopher_lim_wei_chern@moe.edu.sg) | 65938-135 |
 | Ms Rozianna | Assistant Year Head - Upper Sec | [rozianna_mohammed_affendi@moe.edu.sg](mailto:rozianna_mohammed_affendi@moe.edu.sg) | 65938-162 |
-| Ms Subathra Shugumaran | HOD - CCE | [subathra_shugumaran@moe.edu.sg](mailto:subathra_shugumaran@moe.edu.sg) | 65938-122 |
+| Ms Subathra Shugumaran | HOD - CCE | [subathra_shugumaran@moe.edu.sg](mailto:subathra_shugumaran@moe.edu.sg) | 65938-121 |
 | Ms Noraini Mohamed | HOD - SEN | [noraini_mohamed@moe.edu.sg](mailto:noraini_mohamed@moe.edu.sg) | 65938-119 |
 | Mr Ron Low | HOD - Student Management | [low_yao_ming@moe.edu.sg](mailto:low_yao_ming@moe.edu.sg) | 65938-156 |
 | Ms Tan Chye I | HOD - Student Leadership & Partnership | [tan_chye_i@moe.edu.sg](mailto:tan_chye_i@moe.edu.sg) | 65938-178 |
@@ -23,5 +23,5 @@ variant: markdown
 | Ms Oh Ching Fen | Flexi-Adjunct School Counsellor | [oh_ching_fen_a@moe.edu.sg](mailto:Oh_Ching_Fen_A@moe.edu.sg) | 65938-125 |
 | Ms Nur Asyurah | SEN Officer | [nur_asyurah_rosle@moe.edu.sg](mailto:nur_asyurah_rosle@moe.edu.sg) | 65938-147 |
 | Ms Suziliana Salleh | SEN Officer | [suziliana_salleh@moe.edu.sg](mailto:suziliana_salleh@moe.edu.sg) | 65938-144 |
-| Mr Chalice Lin | SEN Officer | [lin_longjie_chalice@moe.edu.sg](mailto:lin_longjie_chalice@moe.edu.sg) | 65938-208 |
+| Mr Chalice Lin | SEN Officer | [lin_longjie_chalice@moe.edu.sg](mailto:lin_longjie_chalice@moe.edu.sg) | 65938100-208 |
 | Mdm Liang Kim Kee | Flexi-Adjunct Teacher| [liang_kim_kee@moe.edu.sg](mailto:Liang_Kim_Kee@moe.edu.sg) | 65938-186 |
