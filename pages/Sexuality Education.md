@@ -79,3 +79,6 @@ b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 The completed form is to be submitted by&nbsp;**29/01/2024**.  
 &nbsp;&nbsp;  
 13\. Parents can contact the school at 62824339 or email to&nbsp;[zhonghua\_ss@moe.edu.sg](mailto:zhonghua_ss@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
+
+
+Updated on 29 Jan 2024.
