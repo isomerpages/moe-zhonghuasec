@@ -10,10 +10,6 @@ variant: markdown
 | Ms Subathra Shugumaran | Head of Department - Character and Citizenship Education | [subathra_shugumaran@moe.edu.sg](mailto:subathra_shugumaran@moe.edu.sg) | 65938-121 |
 | Ms Noraini Mohamed  | Head of Department - Special Educational Needs | [noraini_mohamed@moe.edu.sg](mailto:noraini_mohamed@moe.edu.sg)  | 65938-119  |
 | Mr Ron Low  | Head of Department - Student Management | [low_yao_ming@moe.edu.sg](mailto:low_yao_ming@moe.edu.sg) | 65938-135 |
-| Ms Rozianna | Assistant Year Head - Upper Sec | [rozianna_mohammed_affendi@moe.edu.sg](mailto:rozianna_mohammed_affendi@moe.edu.sg) | 65938-162 |
-| Ms Subathra Shugumaran | HOD - CCE | [subathra_shugumaran@moe.edu.sg](mailto:subathra_shugumaran@moe.edu.sg) | 65938-121 |
-| Ms Noraini Mohamed | HOD - SEN | [noraini_mohamed@moe.edu.sg](mailto:noraini_mohamed@moe.edu.sg) | 65938-119 |
-| Mr Ron Low | HOD - Student Management | [low_yao_ming@moe.edu.sg](mailto:low_yao_ming@moe.edu.sg) | 65938-156 |
 | Ms Tan Chye I | Head of Department - Student Leadership & Partnership | [tan_chye_i@moe.edu.sg](mailto:tan_chye_i@moe.edu.sg) | 65938-178 |
 | Mr Ang Chun Hua | Year Head - Lower Secondary | [ang_chun_hua@moe.edu.sg](mailto:ang_chun_hua@moe.edu.sg) | 65938-155 |
 | Ms Estee Teo | Year Head - Upper Secondary | [teo_kexin_estee@moe.edu.sg](mailto:teo_kexin_estee@moe.edu.sg) | 65938-177 |
