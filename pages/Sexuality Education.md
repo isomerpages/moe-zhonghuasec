@@ -29,12 +29,12 @@ variant: markdown
 
 (d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click&nbsp;**[here]( ((https://go.gov.sg/moe-sexuality-education)))** more information on MOE Sexuality Education.
+You may click&nbsp;**[here]( (([https://go.gov.sg/moe-sexuality-education](https://go.gov.sg/moe-sexuality-education))))** more information on MOE Sexuality Education.
 
 #### **Overview of Zhonghua Secondary School's Sexuality Education Programme for 2024**
 
  4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law.
- You may click&nbsp;**[here]( (https://go.gov.sg/moe-sexuality-education-scope))** for more information on the scope of Sexuality Education in the school curriculum.
+ You may click&nbsp;**[here]( ([https://go.gov.sg/moe-sexuality-education-scope](https://go.gov.sg/moe-sexuality-education-scope)))** for more information on the scope of Sexuality Education in the school curriculum.
 
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics on sexuality include:
 
@@ -51,8 +51,8 @@ b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 <img src="/images/sec_1_SED.png">
 <img src="/images/sec_2_SED.png">
 <img src="/images/SEC_3_SED.png">
-<img src="/images/SEC_4_SED.png">
-<img src="/images/SEC_5_SED.png">
+<img src="/images/SEC_4_EDIT_SED.png">
+<img src="/images/SEC_5_EDIT_SED.png">
 
 ##### **_eTeens_&nbsp;Programme**:
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
@@ -73,9 +73,12 @@ b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 
   
-11\. Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable&nbsp;**[here](/files/Annex_A___Sexuality_Education_Opt_out_form__for_all_levels_.pdf)**. The&nbsp;completed form is to be submitted by&nbsp;**26/01/2024**.  
+11\. Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable&nbsp;**[here](/files/Annex_A___Sexuality_Education_Opt_out_form__for_all_levels_.pdf)**. The&nbsp;completed form is to be submitted by&nbsp;**29/01/2024**.  
   
-12\. Parents who wish to opt their children out of the&nbsp;**_eTeens_&nbsp;programme**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable&nbsp;**[here]([](/files/Annex_B___eTeens_opt_out_form__for_Sec_3_only_.pdf))**.
-The completed form is to be submitted by&nbsp;**26/01/2024**.  
+12\. Parents who wish to opt their children out of the&nbsp;**_eTeens_&nbsp;programme**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable&nbsp;**[here]([]([]([/files/Annex_B___eTeens_opt_out_form__for_Sec_3_only_.pdf](/files/Annex_B___eTeens_opt_out_form__for_Sec_3_only_.pdf)/files/Annex_B___eTeens_opt_out_form__for_Sec_3_only_.pdf)))**.
+The completed form is to be submitted by&nbsp;**29/01/2024**.  
 &nbsp;&nbsp;  
 13\. Parents can contact the school at 62824339 or email to&nbsp;[zhonghua\_ss@moe.edu.sg](mailto:zhonghua_ss@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
+
+
+Updated on (29 Jan 2024).
