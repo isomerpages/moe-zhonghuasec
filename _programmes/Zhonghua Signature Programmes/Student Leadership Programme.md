@@ -88,7 +88,7 @@ Leadership opportunities are provided in the class, CCA and school platform:
 *Peer Support Efforts: Advocating Peer Support Within School Community*
 
 ![](/images/SLD15.JPG)
-*Peer Support Efforts: Exam Motivational Board*</small>
+*Peer Support Efforts: Exam Motivational Board*
 
 **(5) Sports Leaders Board Activities**
 
@@ -96,7 +96,7 @@ Leadership opportunities are provided in the class, CCA and school platform:
 <small>*Sports Leaders Day Camp*
 
 ![](/images/SLD17.jpg)
-*Sports Leaders organising Sports Carnival*</small>
+*Sports Leaders organising Sports Carnival*
 
 
 **(6) Student Council Activities**
@@ -113,7 +113,7 @@ Leadership opportunities are provided in the class, CCA and school platform:
 *Hosting prefects from Zhonghua Primary School*
 
 ![](/images/SLD22.JPG)
-*Student Councillors serving as Student Ambassadors during School Open House*</small>
+*Student Councillors serving as Student Ambassadors during School Open House*
 
 **(7) External Leadership Activities for Tier 3 Student Leaders**
 
@@ -121,7 +121,7 @@ Leadership opportunities are provided in the class, CCA and school platform:
 <small>*External Leadership Conferences*
 
 ![](/images/SLD24.jpg)
-*Learning Journey to Changi Experience Studio*</small>
+*Learning Journey to Changi Experience Studio*
 
 
 ##### Other Student-Led Initiatives by our Student Leaders
@@ -132,7 +132,7 @@ Leadership opportunities are provided in the class, CCA and school platform:
 <small>*Students bond over activities in the Student Centre*
 
 ![](/images/SLD26.jpg)
-*Termly Movie Screening in Excelsis*</small>
+*Termly Movie Screening in Excelsis*
 
 **(2) The Zhonghua Conversation (A video series featuring voices of Zhonghua about contemporary issues)**
 
@@ -145,4 +145,4 @@ Leadership opportunities are provided in the class, CCA and school platform:
 | [Episode 4: Mental Health Matters](https://youtu.be/lmtRmI_HT8Q)    | ![Episode 4: Mental Health Matters](/images/SLD30.png)    |  |
 | [Episode 5: National Day](https://youtu.be/u94piJI13JQ)     | ![Episode 5: National Day](/images/SLD31.png)    |  |
 | [Episode 6: Managing Digital Distractions](https://youtu.be/tnnFb9G1sg)    | ![Episode 6: Managing Digital Distractions](/images/SLD32.png)    |  |
-| [Episode 7: What Does Success Mean To You?](https://youtu.be/J9-qPGtQIH8)     |  ![Episode 7: What Does Success Mean To You?](/images/SLD33.png)     |  |
+| [Episode 7: What Does Success Mean To You?](https://youtu.be/J9-qPGtQIH8)     |  ![Episode 7: What Does Success Mean To You?](/images/SLD33.png)     |  |</small></small></small></small></small>
