@@ -8,8 +8,8 @@ variant: markdown
 #### Student Leadership Programme
 
 Our Student Leadership Programme aims to nurture students to become dynamic servant leaders committed to leading themselves and others. Customised and run by our student leaders, we believe in the approach of “leaders growing leaders”, empowering our student leaders in the training and mentoring of their juniors.
+![Student Leadership Framework](/images/SLD_Framework.jpg)
 
-![Student Leadership Framework](/images/SLD01.png)
 
 ##### The Five Practices of Exemplary Leadership  
 Our school adopts the Kouzes and Posner’s Five Practices of Exemplary Leadership Model in our Student Leadership Programme. Its principles are based on a set of observable skills and abilities that drive behaviours. Our student leaders are encouraged to practise these five exemplary leadership practices when discharging their duties.
@@ -67,61 +67,61 @@ Leadership opportunities are provided in the class, CCA and school platform:
 
 **(4) Class Care Committee Activities**
 ![](/images/SLD08.jpg)
-<small>*Basic Leadership Training conducted by EXCOs*
+<small>*Basic Leadership Training conducted by EXCOs*</small>
 
 ![](/images/SLD09.jpg)
-*Class Care Committee Appointment Ceremony*
+<small>*Class Care Committee Appointment Ceremony*</small>
 
 ![](/images/SLD10.jpg)
-*Class Care Committee Huddle to discuss Class Issues*
+<small>*Class Care Committee Huddle to discuss Class Issues*</small>
 
 ![](/images/9212ec1c_131a_4dfb_bc26_e5db939bc455.jpg)
-*Class Games organised by Class Care Committee*
+<small>*Class Games organised by Class Care Committee*</small>
 
 ![](/images/IMG_0985.jpg)
-*Class Care Committee serving as Event Ushers for Parents’ Forum*
+<small>*Class Care Committee serving as Event Ushers for Parents’ Forum*</small>
 
 ![](/images/SLD13.jpg)
-*Intermediate Leadership Training conducted by EXCOs*
+<small>*Intermediate Leadership Training conducted by EXCOs*</small>
 
 ![](/images/4E2__overcoming_setbacks_.png)
-*Peer Support Efforts: Mental Wellness Tips contributed by Peer Support leaders on Social Media*
+<small>*Peer Support Efforts: Mental Wellness Tips contributed by Peer Support leaders on Social Media*</small>
 
 ![](/images/SLD15.JPG)
-*Peer Support Efforts: Exam Motivational Board*
+<small>*Peer Support Efforts: Exam Motivational Board*</small>
 
 **(5) Sports Leaders Board Activities**
 
 ![](/images/SLD16.jpg)
-<small>*Sports Leaders Day Camp*
+<small>*Sports Leaders Day Camp*</small>
 
 ![](/images/SLD17.jpg)
-*Sports Leaders organising Sports Carnival*
+<small>*Sports Leaders organising Sports Carnival*</small>
 
 
 **(6) Student Council Activities**
 ![](/images/SLD18.jpg)
-<small>*Student Council Induction Workshop*
+<small>*Student Council Induction Workshop*</small>
 
 ![](/images/IMG_2140.jpg)
-*Student Council Presidential Election*
+<small>*Student Council Presidential Election*</small>
 
 ![](/images/SLD20.JPG)
-*Learn and Lead Workshop*
+<small>*Learn and Lead Workshop*</small>
 
 ![](/images/IMG_6664.jpg)
-*Hosting prefects from Zhonghua Primary School*
+<small>*Hosting prefects from Zhonghua Primary School*</small>
 
 ![](/images/SLD22.JPG)
-*Student Councillors serving as Student Ambassadors during School Open House*
+<small>*Student Councillors serving as Student Ambassadors during School Open House*</small>
 
 **(7) External Leadership Activities for Tier 3 Student Leaders**
 
 ![](/images/SLD23.jpg)
-<small>*External Leadership Conferences*
+<small>*External Leadership Conferences*</small>
 
 ![](/images/SLD24.jpg)
-*Learning Journey to Changi Experience Studio*
+<small>*Learning Journey to Changi Experience Studio*</small>
 
 
 ##### Other Student-Led Initiatives by our Student Leaders
@@ -129,10 +129,10 @@ Leadership opportunities are provided in the class, CCA and school platform:
 **(1) Excelsis (Students’ Centre) managed by Class Care Committee and Student Council**
 
 ![](/images/IMG_0833.jpg)
-<small>*Students bond over activities in the Student Centre*
+<small>*Students bond over activities in the Student Centre*</small>
 
 ![](/images/SLD26.jpg)
-*Termly Movie Screening in Excelsis*
+<small>*Termly Movie Screening in Excelsis*</small>
 
 **(2) The Zhonghua Conversation (A video series featuring voices of Zhonghua about contemporary issues)**
 
@@ -145,4 +145,4 @@ Leadership opportunities are provided in the class, CCA and school platform:
 | [Episode 4: Mental Health Matters](https://youtu.be/lmtRmI_HT8Q)    | ![Episode 4: Mental Health Matters](/images/SLD30.png)    |  |
 | [Episode 5: National Day](https://youtu.be/u94piJI13JQ)     | ![Episode 5: National Day](/images/SLD31.png)    |  |
 | [Episode 6: Managing Digital Distractions](https://youtu.be/tnnFb9G1sg)    | ![Episode 6: Managing Digital Distractions](/images/SLD32.png)    |  |
-| [Episode 7: What Does Success Mean To You?](https://youtu.be/J9-qPGtQIH8)     |  ![Episode 7: What Does Success Mean To You?](/images/SLD33.png)     |  |</small></small></small></small></small>
+| [Episode 7: What Does Success Mean To You?](https://youtu.be/J9-qPGtQIH8)     |  ![Episode 7: What Does Success Mean To You?](/images/SLD33.png)     |  |
