@@ -51,17 +51,17 @@ Leadership opportunities are provided in the class, CCA and school platform:
 #### Key Student Leadership Events
 
 **(1) Cohort Leadership Training**
-![](/images/SLD02.jpg)
+![](/images/IMG_3330.jpg)
 ![](/images/SLD03.jpg)
 <small>*Student Leaders organising the Cohort Leadership Training for Lower Secondary students*</small>
 
 **(2) Sec 1 Orientation Programme**
-![](/images/SLD04.jpg)
-![](/images/SLD05.jpg)
+![](/images/IMG_0511.jpg)
+![](/images/IMG_0551.jpg)
 <small>*Student Leaders organising the Secondary One Orientation Programme*</small>
 
 **(3) Student Leaders’ Investiture**
-![](/images/SLD06.jpg)
+![](/images/IMG_3433.jpg)
 ![](/images/SLD07.jpg)
 <small>*Student Leaders’ Investiture to recognise our student councillors and Tier 3 student leaders*</small>
 
@@ -75,17 +75,17 @@ Leadership opportunities are provided in the class, CCA and school platform:
 ![](/images/SLD10.jpg)
 *Class Care Committee Huddle to discuss Class Issues*
 
-![](/images/SLD11.jpg)
+![](/images/9212ec1c_131a_4dfb_bc26_e5db939bc455.jpg)
 *Class Games organised by Class Care Committee*
 
-![](/images/SLD12.jpg)
+![](/images/IMG_0985.jpg)
 *Class Care Committee serving as Event Ushers for Parents’ Forum*
 
 ![](/images/SLD13.jpg)
 *Intermediate Leadership Training conducted by EXCOs*
 
-![](/images/SLD14.jpg)
-*Peer Support Efforts: Advocating Peer Support Within School Community*
+![](/images/4E2__overcoming_setbacks_.png)
+*Peer Support Efforts: Mental Wellness Tips contributed by Peer Support leaders on Social Media*
 
 ![](/images/SLD15.JPG)
 *Peer Support Efforts: Exam Motivational Board*
@@ -103,13 +103,13 @@ Leadership opportunities are provided in the class, CCA and school platform:
 ![](/images/SLD18.jpg)
 <small>*Student Council Induction Workshop*
 
-![](/images/SLD19.jpg)
+![](/images/IMG_2140.jpg)
 *Student Council Presidential Election*
 
 ![](/images/SLD20.JPG)
 *Learn and Lead Workshop*
 
-![](/images/SLD21.jpg)
+![](/images/IMG_6664.jpg)
 *Hosting prefects from Zhonghua Primary School*
 
 ![](/images/SLD22.JPG)
@@ -128,7 +128,7 @@ Leadership opportunities are provided in the class, CCA and school platform:
 
 **(1) Excelsis (Students’ Centre) managed by Class Care Committee and Student Council**
 
-![](/images/SLD25.jpg)
+![](/images/IMG_0833.jpg)
 <small>*Students bond over activities in the Student Centre*
 
 ![](/images/SLD26.jpg)
