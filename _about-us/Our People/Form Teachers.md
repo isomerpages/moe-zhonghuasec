@@ -267,7 +267,7 @@ variant: tiptap
 <p>1C8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Jee Niang</p>
+<p>Mdm Tan Jee Niang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_jee_niang_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jee_niang_a@moe.edu.sg</a>
@@ -526,7 +526,7 @@ variant: tiptap
 <p>2I6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Jiaxuan</p>
+<p>Mrs Lin Jiaxuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:li_jiaxuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_jiaxuan@moe.edu.sg</a>
