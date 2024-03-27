@@ -20,8 +20,6 @@ variant: markdown
 | Mr Goh Tze Mian| Senior Teacher - Character and Citizenship Education | [goh_tze_mian@moe.edu.sg](mailto:goh_tze_mian@moe.edu.sg) | 65938100-189 |
 | Mr Ivan Lee | Senior School Counsellor| [lee_thiam_hin_ivan@moe.edu.sg](mailto:lee_thiam_hin_ivan@moe.edu.sg) | 65938-154 |
 | Ms Shantha | School Counsellor | [shanthapiriya_jeyaraman@moe.edu.sg](mailto:shanthapiriya_jeyaraman@moe.edu.sg) | 65938-146 |
-| Ms Jamie Teo | Flexi-Adjunct School Counsellor| [teo_jun_hui_jamie_a@moe.edu.sg](mailto:teo_jun_hui_jamie_a@moe.edu.sg) | 65938-125 |
-| Ms Oh Ching Fen | Flexi-Adjunct School Counsellor| [oh_ching_fen_a@moe.edu.sg](mailto:oh_ching_fen_a@moe.edu.sg) | 65938-125 |
 | Ms Nur Asyurah | SEN Officer| [nur_asyurah_rosle@moe.edu.sg](mailto:nur_asyurah_rosle@moe.edu.sg) | 65938-147 |
 | Ms Suziliana Salleh | SEN Officer| [suziliana_salleh@moe.edu.sg](mailto:suziliana_salleh@moe.edu.sg) | 65938-144 |
 | Mr Chalice Lin | SEN Officer| [lin_longjie_chalice@moe.edu.sg](mailto:lin_longjie_chalice@moe.edu.sg) | 65938100-208 |
