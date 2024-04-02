@@ -145,4 +145,4 @@ Leadership opportunities are provided in the class, CCA and school platform:
 | [Episode 4: Mental Health Matters](https://youtu.be/lmtRmI_HT8Q)    | ![Episode 4: Mental Health Matters](/images/SLD30.png)    |  |
 | [Episode 5: National Day](https://youtu.be/u94piJI13JQ)     | ![Episode 5: National Day](/images/SLD31.png)    |  |
 | [Episode 6: Managing Digital Distractions](https://youtu.be/tnnFb9G1sg)    | ![Episode 6: Managing Digital Distractions](/images/SLD32.png)    |  |
-| [Episode 7: What Does Success Mean To You?](https://youtu.be/J9-qPGtQIH8)     |  ![Episode 7: What Does Success Mean To You?](/images/SLD33.png)     |  |
+|    [Episode 7: What Does Success Mean To You?](https://youtu.be/k_JyagpeXnM)   |  ![Episode 7: What Does Success Mean To You?](/images/SLD33.png)     |  |
