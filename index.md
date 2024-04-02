@@ -16,5 +16,5 @@ sections:
           url: /announcements/
         - title: Highlights
           description: ""
-          url: /https://zhonghuasec.sg/achievements/highlights/
+          url: /achievements/highlights/
 ---
