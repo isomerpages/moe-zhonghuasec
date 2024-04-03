@@ -144,5 +144,5 @@ Leadership opportunities are provided in the class, CCA and school platform:
 | [Episode 3: Go Green Go Clean](https://youtu.be/4lLpT30OUCw)    | ![Episode 3: Go Green Go ](/images/SLD29.png)     |  |
 | [Episode 4: Mental Health Matters](https://youtu.be/lmtRmI_HT8Q)    | ![Episode 4: Mental Health Matters](/images/SLD30.png)    |  |
 | [Episode 5: National Day](https://youtu.be/u94piJI13JQ)     | ![Episode 5: National Day](/images/SLD31.png)    |  |
-| [Episode 6: Managing Digital Distractions](https://youtu.be/tnnFb9G1sg)    | ![Episode 6: Managing Digital Distractions](/images/SLD32.png)    |  |
+| [Episode 6: Managing Digital Distractions](https://youtu.be/S6Vwb96qOgw)    | ![Episode 6: Managing Digital Distractions](/images/SLD32.png)    |  |
 |    [Episode 7: What Does Success Mean To You?](https://youtu.be/k_JyagpeXnM)   |  ![Episode 7: What Does Success Mean To You?](/images/SLD33.png)     |  |
