@@ -3,17 +3,17 @@ title: Table Tennis (Boys)
 permalink: /cca/sports/table-tennis/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 The Zhonghua Secondary School Table Tennis (Boys) team focuses on developing sportsmen with resilience and discipline. Players undergo a rigorous and demanding training programme to stretch them physically and mentally, and to foster social skills, values and dispositions in them.
 
-Our training sessions comprise a series of fitness, skill-related drills and set-play practices. Players strive to continuously improve themselves, not just as athletes, but also in character. They taking **Responsibility** for their learning, demonstrate **Integrity** in their sportsmanship, practise **Care** for their teammates and pursue **Excellence** by giving their all.
+Our training sessions comprise a series of fitness, skill-related drills and set-play practices. Players strive to continuously improve themselves, not just as athletes, but also in character. They take&nbsp;**Responsibility**&nbsp;for their learning, demonstrate&nbsp;**Integrity**&nbsp;in their sportsmanship, practise&nbsp;**Care**&nbsp;for their teammates and pursue&nbsp;**Excellence**&nbsp;by giving their all.
 
 **Recent Achievements:**
-* National School Games ‘C’ Division Competition 2023 – 4th position in South Zone
-* National School Games ‘B’ Division Competition 2023 – 4th position in Preliminary Round
-* Naval Base Secondary School Shipshape Cup – 3rd position (‘B’ and ‘C’ Divisions)
-* National School Games ‘C’ Division Competition 2022 – 3rd position in Preliminary Round
-* National School Games ‘B’ Division Competition 2022 – 3rd position in Preliminary Round
+*    National School Games ‘C’ Division Competition 2024 – 4th position in National Pool Round, currently participating in National League 2 Preliminary Round
+*   National School Games ‘B’ Division Competition 2024 – 4th position in Preliminary Round
+*   National School Games ‘C’ Division Competition 2023 – 4th position in South Zone
+*   National School Games ‘B’ Division Competition 2023 – 4th position in Preliminary Round
 
 <img src="/images/tablet1.jpg" style="width:48%" align="left">
 <img src="/images/tablet2.jpg" style="width:52%" align="right">
