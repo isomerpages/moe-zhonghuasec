@@ -3,23 +3,41 @@ title: Basketball (Girls)
 permalink: /cca/sports/basketball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
-With a history dating back to the 1960s, Zhonghua’s Basketball Girls’ team is more than just a female basketball team. Our members strive to embody the school's core values of resilience, integrity, care, and excellence. The team emphasises a caring environment that encourages our members to support and encourage one another, while learning to respect and appreciate each other's strengths and talents.
+Zhonghua Basketball Girl’s team is more than just a female basketball team, this team has consistently achieved notable results since 1960s. One of the reasons why is because we are guided by our school’s motto (礼义廉耻 - Courteous in Conduct; Righteous in Principle; Edified in Character; and Dignified in Reflection). It is our vision to develop a basketball team that embodies the school's core values of resilience, integrity, care, and excellence.
 
-Recognising that every girl who joins the team will bring with her unique combinations strengths, our coaches, teachers and student leaders strive to provide each player with appropriate guidance and training for her to pursue excellence.
+We believe that a caring environment would allow the girls to support and encourage one another, and they learn to respect and appreciate each other's differences. They will also learn to care for their bodies by staying active and healthy, which is vital for their overall well-being.
 
-Hard work and determination are key ingredients to improve and succeed in sports. By practicing and working together as a team, our members learn the values persistence and resilience. At the same time, they learn to care for each other and support each other’s overall well-being.
+Recognising that every girl who has been selected to join the team will come with her unique combinations of strengths and weaknesses, we are committed to provide each member with the opportune guidance and training so that she learns to push herself to strive for excellence.
+
+Hard work and determination are key ingredients to improve and succeed in sports. By practicing and working together as a team, the girls learn the value of persistence and resilience in achieving their goals.
+
+In the sporting arena, there are limitless opportunities for character development. The girls are expected to follow the rules and play fairly, even when the stakes are high. Honesty and sportsmanship are crucial qualities in the sport and in life, and it has always been our goal for our girls to grow into women of moral integrity.
 
 **Key Programmes:**
-* Teambuilding Camps and Activities
-* Mental Skills Training
-* National School Games (NSG) Basketball Championship
-* Friendly matches with other schools
+*    Bonding camp in March holiday
+
+*    Mental skills training for peak performance
+
+*    Teambuilding activities during off-season
+
+*    National School Games (NSG) Basketball Championship
+
+*    Friendly games with schools across the four different zones leading up to NSG
+
+*    &nbsp;&nbsp; Year end BBQ cum homecoming for alumni
 
 **Recent Achievements:**
-* BM U16 Boys’ and Girls’ Basketball Invitational Championship 2022 – 3rd Position
-* South Zone C Division Basketball Championship 2022 – 4th Position
-* South Zone C Division Basketball Championship 2019 – 3rd Position
+*    &nbsp; BM U16 Boys’ and Girls’ Basketball Invitational Championship 2022 – 3rd Position
+
+*    &nbsp;&nbsp; South Zone C Division Basketball Championship 2022 – 4th Position
+
+*    &nbsp; South Zone C Division Basketball Championship 2019 – 3rd Position
+
+*    &nbsp;&nbsp; South Zone B Division Basketball Championship 2019 – 2nd Position
+
+*    &nbsp;&nbsp; South Zone C Division Basketball Championship 2018 – 2nd Position
 
 <img src="/images/basket1.jpg" style="width:51%" align="left">
 <img src="/images/basket2.jpg" style="width:49%" align="right">
