@@ -16,5 +16,5 @@ sections:
           url: /announcements/
         - title: Highlights
           description: ""
-          url: /achievements/school-achievements/highlights/
+          url: /achievements/school-achievements/
 ---
