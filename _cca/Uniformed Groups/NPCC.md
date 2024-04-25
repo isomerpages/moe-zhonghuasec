@@ -36,13 +36,8 @@ We work towards ensuring that all the cadets have a fulfilling experience discov
 *   SPF-NPCC 2024 Awardees – SI(NPCC)Sierra Chrisandra Canlas, SSGT(NPCC)Valene Tan Xin Yu and SSGT(NPCC)Rena Goh Rui Xin
 *   Area Games Day Competition 2024 – Dodgeball Competition: 2nd Runner , Ultimate Frisbee Competition: 2nd runner up and Spheer Showdown Competition: 1st Runner up
 
-<img src="/images/npccorps1.jpg" style="width:56%" align="left">
-<img src="/images/npccorps2.jpg" style="width:44%" align="right">
 
-<br clear="left">
-
-<img src="/images/npccorps3.jpg" style="width:41%" align="left">
-<img src="/images/npccorps4.jpg" style="width:59%" align="right">
+![](/images/NPCC.png)
 
 <br clear="left">
 
