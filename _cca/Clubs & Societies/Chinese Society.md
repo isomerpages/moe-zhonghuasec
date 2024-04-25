@@ -3,6 +3,7 @@ title: Chinese Society
 permalink: /cca/clubs-and-societies/chinese-society/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 中文学会希望成为培养学生认识与热爱华族文化艺术的园地。学会成员在校期间主要学习华文戏剧表演技巧，并根据自己的兴趣学习书法及中国棋，同时也有机会参加跟传统文化艺术相关的课程，从而提升学生的综合素质以及文化素养。
 
@@ -28,14 +29,7 @@ The Chinese Society is a vibrant CCA comprising of Drama, Calligraphy and Chess 
 * 10th National Primary and Secondary School Chinese Calligraphy Competition 2021 – Merit Award
 * 9th National Chinese Calligraphy Competition 2020 – Merit Award
 
-
-<img src="/images/chinesesociety1.png" style="width:56%" align="left">
-<img src="/images/chinesesociety2.png" style="width:44%" align="right">
-
-<br clear="left">
-
-<img src="/images/chinesesociety3.png" style="width:48%" align="left">
-<img src="/images/chinesesociety4.png" style="width:52%" align="right">
+![](/images/Chinese_Society.png)
 
 <br clear="left">
 
