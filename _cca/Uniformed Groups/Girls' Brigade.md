@@ -42,13 +42,7 @@ In Zhonghua Secondary School’s 48th Girls’ Brigade company, members are give
 
 *    &nbsp;&nbsp; Dr Low Guat Tin Challenge– Gold (2022)
 
-<img src="/images/girlsb1.jpg" style="width:44%" align="left">
-<img src="/images/girlsb2.jpg" style="width:56%" align="right">
-
-<br clear="left">
-
-<img src="/images/girlsb3.jpg" style="width:50%" align="left">
-<img src="/images/girlsb4.jpg" style="width:50%" align="right">
+![](/images/GB.png)
 
 <br clear="left">
 
