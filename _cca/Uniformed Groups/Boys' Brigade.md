@@ -29,14 +29,7 @@ In the 48th Company Boys’ Brigade, the boys get to experience a wide range of 
 
 *   &nbsp;&nbsp; Character Quest Competition – Bronze Honour Roll (2022)
 
-
-<img src="/images/boysb1.jpg" style="width:42%" align="left">
-<img src="/images/boysb2.jpg" style="width:58%" align="right">
-
-<br clear="left">
-
-<img src="/images/boysb3.jpg" style="width:42%" align="left">
-<img src="/images/boysb4.jpg" style="width:58%" align="right">
+![](/images/BB.png)
 
 <br clear="left">
 
