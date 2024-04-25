@@ -31,13 +31,8 @@ On top of this, our cadets have been participating actively in fitness events or
 
 *    &nbsp;&nbsp; Unit Recognition Award (2021) – Distinction
 
-<img src="/images/nccorps1.jpg" style="width:50%" align="left">
-<img src="/images/nccorps2.jpg" style="width:50%" align="right">
 
-<br clear="left">
-
-<img src="/images/nccorps3.jpg" style="width:50%" align="left">
-<img src="/images/nccorps4.jpg" style="width:50%" align="right">
+![](/images/NCC.jpg)
 
 <br clear="left">
 
