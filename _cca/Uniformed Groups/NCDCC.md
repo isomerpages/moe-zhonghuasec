@@ -31,13 +31,7 @@ Zhonghua Secondary School’s NCDCC is built on a culture of care, service and e
 #### **Recent Achievements:**
 * &nbsp; Urban Adventure Civil Defence Skills Challenge – National Champion (2023)
 
-![](/images/UACDC.jpg)
-![](/images/Camp.jpg)
-
-<br clear="left">
-
-![](/images/Standard_First_Aid_Course.jpg)
-![](/images/NCDCC_Day.jpg)
+![](/images/NCDCC.jpg)
 
 <br clear="left">
 
