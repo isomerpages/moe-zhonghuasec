@@ -15,13 +15,7 @@ Our training sessions comprise a series of fitness, skill-related drills and set
 *   National School Games ‘C’ Division Competition 2023 – 4th position in South Zone
 *   National School Games ‘B’ Division Competition 2023 – 4th position in Preliminary Round
 
-<img src="/images/tablet1.jpg" style="width:48%" align="left">
-<img src="/images/tablet2.jpg" style="width:52%" align="right">
-
-<br clear="left">
-
-<img src="/images/tablet3.jpg" style="width:48%" align="left">
-<img src="/images/tablet4.jpg" style="width:52%" align="right">
+![](/images/Table_Tennis.png)
 
 <br clear="left">
 
