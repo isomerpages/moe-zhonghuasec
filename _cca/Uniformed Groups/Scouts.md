@@ -31,13 +31,7 @@ Our Scout Group has performed well in national competitions over the years. We h
 
 * &nbsp;&nbsp;Frank Cooper Sands Award – Gold (2022)
 
-<img src="/images/scoutss1.jpg" style="width:43%" align="left">
-<img src="/images/scoutss2.jpg" style="width:57%" align="right">
-
-<br clear="left">
-
-<img src="/images/scoutss3.jpg" style="width:50%" align="left">
-<img src="/images/scoutss4.jpg" style="width:50%" align="right">
+![](/images/Scouts.jpg)
 
 <br clear="left">
 
