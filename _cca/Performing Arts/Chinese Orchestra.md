@@ -3,6 +3,7 @@ title: Chinese Orchestra
 permalink: /cca/performing-arts/chinese-orchestra/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 Zhonghua Chinese Orchestra seeks to provide a platform for young and interested musicians to learn and share their passion for traditional Chinese music. With most of our new members having little or no prior musical background, the Orchestra provides a nurturing and exciting environment for our members to develop an appreciation for Chinese music and culture.
 
@@ -24,13 +25,7 @@ The Orchestra has performed consistently well in major music competitions since 
 * Singapore Youth Festival Arts Presentation: Consecutive Certificate of Distinction from 2013 to 2023
 * Singapore Youth Festival Central Judging: Consecutive Gold/Gold with Honours from 2005 to 2011
 
-<img src="/images/chorc1.jpg" style="width:56%" align="left">
-<img src="/images/chorc2.png" style="width:44%" align="right">
-
-<br clear="left">
-
-<img src="/images/chorc4.jpg" style="width:37%" align="left">
-<img src="/images/chorc3.png" style="width:63%" align="right">
+![](/images/CO.jpg)
 
 <br clear="left">
 

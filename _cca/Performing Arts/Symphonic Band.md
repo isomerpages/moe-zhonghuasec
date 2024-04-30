@@ -3,6 +3,7 @@ title: Symphonic Band
 permalink: /cca/performing-arts/band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ZWinds, established in 1987, focuses on nurturing our students’ hearts and minds through music-making, cultivating active listening, perseverance and team spirit.
 
@@ -25,13 +26,7 @@ ZWinds has always been one big family. We show care and appreciation to one anot
 * 2021 Singapore Youth Festival Arts Presentation – Certificate of Distinction (Band – Percussion Ensemble)
 * 2019 Singapore Youth Festival Arts Presentation – Certificate of Accomplishment (Band – Concert)
 
-<img src="/images/zwinds1.jpg" style="width:56%" align="left">
-<img src="/images/zwinds2.jpg" style="width:44%" align="right">
-
-<br clear="left">
-
-<img src="/images/zwinds3.png" style="width:40%" align="left">
-<img src="/images/zwinds4.jpg" style="width:60%" align="right">
+![](/images/Band.jpg)
 
 <br clear="left">
 

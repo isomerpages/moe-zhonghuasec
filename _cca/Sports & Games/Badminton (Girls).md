@@ -31,14 +31,6 @@ Trainings are usually held on Mondays and Thursdays after lessons whereas game s
 * &nbsp; National School Games (NSG) Opening Ceremony 2024, representing Singapore Sports Council as&nbsp; Oath Taker (captain of Badminton team)
 
 
-<img src="/images/badmin1.jpg" style="width:47%" align="left">
-<img src="/images/badmin2.jpg" style="width:53%" align="right">
-
-<br clear="left">
-
-<img src="/images/badmin3.jpg" style="width:47%" align="left">
-<img src="/images/badmin4.jpg" style="width:53%" align="right">
-
 <br clear="left">
 
 Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.

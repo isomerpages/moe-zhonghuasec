@@ -3,6 +3,7 @@ title: Choir
 permalink: /cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 The Zhonghua Secondary School Choir comprises of young and enthusiastic singers who are all passionate about music and singing. Our choristers sing a diverse repertoire, ranging from soundtracks of well-known musicals to songs from different languages and genres. The Choir is a valuable platform for students to express themselves confidently and develop musicianship.
 
@@ -18,13 +19,7 @@ The Zhonghua Secondary School Choir comprises of young and enthusiastic singers 
 * Singapore Youth Festival Arts Presentation 2023 - Certificate of Accomplishment
 * Singapore Youth Festival Arts Presentation 2019 - Certificate of Distinction
 
-<img src="/images/choir1.jpg" style="width:50%" align="left">
-<img src="/images/choir2.jpg" style="width:50%" align="right">
-
-<br clear="left">
-
-<img src="/images/choir3.jpg" style="width:50%" align="left">
-<img src="/images/choir4.jpg" style="width:50%" align="right">
+![](/images/Choir.png)
 
 <br clear="left">
 

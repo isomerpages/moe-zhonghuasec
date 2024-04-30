@@ -25,14 +25,6 @@ The CCA also offers a range of experiential learning opportunities through parti
 *   2021 South Zone B Division Volleyball Championship – 4th Position
 *   2022 South Zone C Division Volleyball Championship – 4th Position
 
-<img src="/images/volleyb1.jpg" style="width:52%" align="left">
-<img src="/images/volleyb2.jpg" style="width:48%" align="right">
-
-<br clear="left">
-
-<img src="/images/volleyb4.jpg" style="width:48%" align="left">
-<img src="/images/volleyb3.jpg" style="width:52%" align="right">
-
 <br clear="left">
 
 Please click on [this link](https://www.zhonghuasec.moe.edu.sg/cca/schedule/) for CCA schedule and contact details of CCA teachers.
