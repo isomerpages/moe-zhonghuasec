@@ -26,7 +26,7 @@ from 9 am to 1 pm!
 <br><a href="/files/20234e4n5nprelimtimetablev5.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 'O' Level Prelim Exam Timetable</a>
 </p>
 <hr>
-<p><strong>2024 Sec 1-3 WA3</strong>
+<p><strong>2024 Sec 1-3 WA3</strong> 
 <br><a href="/files/2024WA3.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 WA3 Timetable</a>
 </p>
 <hr>
@@ -34,7 +34,7 @@ from 9 am to 1 pm!
 <br><a href="/files/20244NTPrelim.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Sec 4 N Level Prelim Timetable</a>
 </p>
 <hr>
-<p><strong>Updated HBL Dates for Semester 2 (2023)</strong>
+<p><strong>Updated HBL Dates for Semester 2 (2023)</strong> 
 <br><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/calendar/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 <hr>
