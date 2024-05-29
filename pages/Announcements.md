@@ -31,7 +31,8 @@ from 9 am to 1 pm!
 </p>
 <hr>
 <p><strong>2024 Sec 4N 4T Prelim </strong>
-<br>2024 Sec 4N 4T Prelim timetable</p>
+<br><a href="/files/20244NPrelim.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4N 4T Prelim timetable</a>
+</p>
 <hr>
 <p><strong>Updated HBL Dates for Semester 2 (2023)</strong> 
 <br><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/calendar/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
