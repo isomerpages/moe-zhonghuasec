@@ -5,7 +5,17 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Class Timetable for 2024</strong></h3>
-<table>
+<table style="minWidth: 200px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
