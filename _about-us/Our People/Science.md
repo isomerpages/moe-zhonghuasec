@@ -14,13 +14,12 @@ variant: markdown
 | Mrs Maybrie Ang| Senior Teacher - Chemistry | [maybrie_ang_mai_mai@moe.edu.sg](mailto:maybrie_ang_mai_mai@moe.edu.sg) | 65938-128 |
 | Ms Rozianna Mohammed Affandi | Assistant Year Head - Lower Sec | [rozianna_mohammed_affendi@moe.edu.sg](mailto:rozianna_mohammed_affendi@moe.edu.sg | 65938100-203 |
 | Mr Christopher Lim | Assistant Year Head - Upper Sec | [christopher_lim_wei_chern@moe.edu.sg](mailto:christopher_lim_wei_chern@moe.edu.sg) |  65938-135 |
-| Mr Goh Tze Mian | Senior Teacher - Character and Citizenship Education | [goh_tze_mian@moe.edu.sg](mailto:goh_tze_mian@moe.edu.sg) | 65938100-189 |
+| Mr Goh Tze Mian | Senior Teacher - Character and Citizenship Education | [goh_tze_mian@moe.edu.sg](mailto:goh_tze_mian@moe.edu.sg) | 65938-189 |
 | Mr Tan Li Chun | Teacher | [tan_li_chun@moe.edu.sg](mailto:tan_li_chun@moe.edu.sg) | 65938-131 |
 | Mrs Ngiam-Fok Kar Yin | Teacher | [fok_kar_yin@moe.edu.sg](mailto:fok_kar_yin@moe.edu.sg) | 65938100-189 |
 | Ms Julia Yeo | Teacher | [yeo_yun_fang_julia@moe.edu.sg](mailto:yeo_yun_fang_julia@moe.edu.sg) | 65938-166 |
 | Mrs Li Jiaxuan | Teacher | [li_jiaxuan@moe.edu.sg](mailto:li_jiaxuan@moe.edu.sg) | 65938-158 |
-| Mr Lee Ming Hui Kelvin | Teacher | [ming_hui_kelvin_lee@moe.edu.sg](mailto:ming_hui_kelvin_lee@moe.edu.sg) | 65938100-207 |
 | Mr Chen Yit Chien | Teacher | [chen_yit_chien@moe.edu.sg](mailto:chen_yit_chien@moe.edu.sg) | 65938-125 |
 | Mr Ezzy Chan | Teacher | [chan_weng_cheong_ezzy@moe.edu.sg](mailto:chan_weng_cheong_ezzy@moe.edu.sg) | 65938-139 |
-| Ms Janice Loo | Teacher | [janice_loo_zhi_min@moe.edu.sg](mailto:janice_loo_zhi_min@moe.edu.sg) | 65938100-207 |
+| Ms Janice Loo | Teacher | [janice_loo_zhi_min@moe.edu.sg](mailto:janice_loo_zhi_min@moe.edu.sg) | 65938-207 |
 | Mr Chong Yee Ming | Teacher | [chong_yee_ming@moe.edu.sg](mailto:chong_yee_ming@moe.edu.sg) | 65938-129 |
