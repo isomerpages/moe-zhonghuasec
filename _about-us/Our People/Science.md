@@ -10,7 +10,6 @@ variant: markdown
 | Mr Fu Chee Sheng | Head of Department – Science | [fu_chee_sheng@moe.edu.sg](mailto:fu_chee_sheng@moe.edu.sg) | 65938-114  |
 | Mr Ong Kai Kun | Level Head – Science (LS) | [ong_kai_kun@moe.edu.sg](mailto:ong_kai_kun@moe.edu.sg) |  65938-132 |
 | Mr Tan Jun Hong| Subject Head - Physics | [tan_jun_hong@moe.edu.sg](mailto:tan_jun_hong@moe.edu.sg) | 65938-151 |
-| Mr Lawrence Tang | Lead Teacher - Physics | [lawrence_tang_kok_onn@moe.edu.sg](mailto:lawrence_tang_kok_onn@moe.edu.sg) | 65938-127 |
 | Ms Ong Lay Hong | Senior Teacher - Chemistry | [ong_lay_hong@moe.edu.sg](mailto:ong_lay_hong@moe.edu.sg) | 65938-137 |
 | Mrs Maybrie Ang| Senior Teacher - Chemistry | [maybrie_ang_mai_mai@moe.edu.sg](mailto:maybrie_ang_mai_mai@moe.edu.sg) | 65938-128 |
 | Ms Rozianna Mohammed Affandi | Assistant Year Head - Lower Sec | [rozianna_mohammed_affendi@moe.edu.sg](mailto:rozianna_mohammed_affendi@moe.edu.sg | 65938100-203 |
