@@ -263,7 +263,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/4E3_T2.pdf" rel="noopener noreferrer nofollow" target="_blank">4E3</a>
+<p><a href="/files/4E3_T3.pdf" rel="noopener noreferrer nofollow" target="_blank">4E3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
