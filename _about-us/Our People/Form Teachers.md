@@ -6,7 +6,13 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h4><strong>Secondary 1</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -199,7 +205,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>62824100-204</p>
+<p>62824-204</p>
 </td>
 </tr>
 <tr>
@@ -244,7 +250,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938100-208</p>
+<p>65938-208</p>
 </td>
 </tr>
 <tr>
@@ -289,13 +295,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938100-189</p>
+<p>65938-189</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4><strong>Secondary 2</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -338,7 +350,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938100-203</p>
+<p>65938-203</p>
 </td>
 </tr>
 <tr>
@@ -593,7 +605,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938100-204</p>
+<p>65938-204</p>
 </td>
 </tr>
 <tr>
@@ -608,7 +620,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938100-207</p>
+<p>65938-207</p>
 </td>
 </tr>
 <tr>
@@ -629,7 +641,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Secondary 3</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -702,7 +720,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938100-185</p>
+<p>65938-185</p>
 </td>
 </tr>
 <tr>
@@ -933,7 +951,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Secondary 4 &amp; 5</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1036,7 +1060,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938100-203</p>
+<p>65938-203</p>
 </td>
 </tr>
 <tr>
@@ -1074,14 +1098,14 @@ variant: tiptap
 <p>4E4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo Shu Ling</p>
+<p>Ms June Leow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jalene_yeo_shu_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jalene_yeo_shu_ling@moe.edu.sg</a>
+<p><a href="mailto:june_leow_xin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">june_leow_xin_yi@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938100-205</p>
+<p>65938-157</p>
 </td>
 </tr>
 <tr>
@@ -1126,7 +1150,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938100-207</p>
+<p>65938-207</p>
 </td>
 </tr>
 <tr>
@@ -1156,7 +1180,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938100-205</p>
+<p>65938-205</p>
 </td>
 </tr>
 <tr>

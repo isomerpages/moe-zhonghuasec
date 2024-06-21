@@ -21,11 +21,10 @@ variant: markdown
 | Mr Lionel Ang | Teacher | [ang_lee_chun_lionel@moe.edu.sg](mailto:ang_lee_chun_lionel@moe.edu.sg) | 65938-186 |
 | Mr Goh Ching Poh | Teacher | [goh_ching_poh@moe.edu.sg](mailto:goh_ching_poh@moe.edu.sg) | 65938-136 |
 | Ms Lee Jie Li | Teacher | [lee_jie_li@moe.edu.sg](mailto:lee_jie_li@moe.edu.sg) | 65938-157 |
-| Mr Lee Ming Hui Kelvin | Teacher | [ming_hui_kelvin_lee@moe.edu.sg](mailto:ming_hui_kelvin_lee@moe.edu.sg) | 65938100-207 |
-| Ms Ratiporn Tasanawinyou | Teacher | [ratiporn_tasanawinyou@moe.edu.sg](mailto:ratiporn_tasanawinyou@moe.edu.sg) |  65938100-206 |
+| Ms Ratiporn Tasanawinyou | Teacher | [ratiporn_tasanawinyou@moe.edu.sg](mailto:ratiporn_tasanawinyou@moe.edu.sg) |  65938-206 |
 | Mr Pang Hong Ming | Teacher | [pang_hong_ming@moe.edu.sg](mailto:pang_hong_ming@moe.edu.sg) | 65938-125 |
 | Ms Tan Teing Im | Teacher | [tan_teing_im@moe.edu.sg](mailto:tan_teing_im@moe.edu.sg) | 65938-137 |
 | Mr Ezzy Chan | Teacher | [chan_weng_cheong_ezzy@moe.edu.sg](mailto:chan_weng_cheong_ezzy@moe.edu.sg) | 65938-139 |
-| Mdm Leong Pei Szu | Flexi-Adjunct Teacher | [leong_pei_szu@moe.edu.sg](mailto:leong_pei_szu@moe.edu.sg) | 65938100-184 |
-| Ms Sng Mui Yong| Flexi-Adjunct Teacher | [sng_mui_yong_a@moe.edu.sg](mailto:Sng_Mui_Yong_A@moe.edu.sg) | 65938100-187 |
+| Mdm Leong Pei Szu | Flexi-Adjunct Teacher | [leong_pei_szu@moe.edu.sg](mailto:leong_pei_szu@moe.edu.sg) | 65938-184 |
+| Ms Sng Mui Yong| Flexi-Adjunct Teacher | [sng_mui_yong_a@moe.edu.sg](mailto:Sng_Mui_Yong_A@moe.edu.sg) | 65938-187 |
 |

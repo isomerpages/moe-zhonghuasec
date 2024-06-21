@@ -24,7 +24,6 @@ variant: markdown
 | Mr Ron Low | HOD – Student Management | [low_yao_ming@moe.edu.sg](mailto:low_yao_ming@moe.edu.sg) |
 | Ms Tan Chye I | HOD – Student Leadership &amp; Partnership | [tan_chye_i@moe.edu.sg](mailto:tan_chye_i@moe.edu.sg) |
 | Ms Noraini Mohamed | HOD – Special Educational Needs | [noraini_mohamed@moe.edu.sg](mailto:noraini_mohamed@moe.edu.sg) |
-| Mr Lawrence Tang | Lead Teacher – Physics | [lawrence_tang_kok_onn@moe.edu.sg](mailto:lawrence_tang_kok_onn@moe.edu.sg) |
 | Mdm Seoh Bee Hua | Lead Teacher – Mathematics | [seoh_bee_hua@moe.edu.sg](mailto:lawrence_tang_kok_onn@moe.edu.sg) |
 | Ms Kheng Hwee Teng | Level Head – English | [kheng_hwee_teng@moe.edu.sg](mailto:kheng_hwee_teng@moe.edu.sg) |
 | Ms Lum Shu Wei | Subject Head – Literature  | [lum_shu_wei@moe.edu.sg](mailto:lum_shu_wei@moe.edu.sg) |
@@ -34,7 +33,6 @@ variant: markdown
 | Mr Tan Jun Hong | Subject Head – Physics | [tan_jun_hong@moe.edu.sg](mailto:tan_jun_hong@moe.edu.sg) |
 | Mr Gavin Swee  | Subject Head – History | [swee_wei_ming_gavin@moe.edu.sg](mailto:swee_wei_ming_gavin@moe.edu.sg) |
 | Ms Destiny See | Subject Head – Aesthetics | [see_yeo_sin@moe.edu.sg](mailto:see_yeo_sin@moe.edu.sg) |
-| Mr Terence Tan | Subject Head – D&amp;T | [tan_eu-yi@moe.edu.sg](mailto:tan_eu-yi@moe.edu.sg) |
 | Ms Rozianna Mohammed Affendi  | Assistant Year Head – Lower Sec | [rozianna_mohammed_affendi@moe.edu.sg](mailto:rozianna_mohammed_affendi@moe.edu.sg) |
 | Mr Christopher Lim | Assistant Year Head – Upper Sec | [christopher_lim_wei_chern@moe.edu.sg](mailto:christopher_lim_wei_chern@moe.edu.sg) |
 | Mrs Crystal Tan | Subject Head – Character &amp; Citizenship Education  | [crystal_ling_yuet_ping@moe.edu.sg](mailto:crystal_ling_yuet_ping@moe.edu.sg) |
