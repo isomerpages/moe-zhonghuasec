@@ -1,6 +1,6 @@
 ---
-title: Privacy Statement
-permalink: /privacy-statement/
+title: Privacy
+permalink: /privacy/
 variant: tiptap
 description: ""
 ---
