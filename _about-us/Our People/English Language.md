@@ -27,3 +27,4 @@ variant: markdown
 | Ms Wang Wei Ling | Flexi-Adjunct Teacher | [wang_wei_ling_a@moe.edu.sg](mailto:wang_wei_ling_a@moe.edu.sg) | 65938100-184 |
 | Mrs Yip Siew Mei| Flexi-Adjunct Teacher | [wong_siew_mei@moe.edu.sg](mailto:wong_siew_mei@moe.edu.sg) | 65938100-185 |
 | Ms Seet Shu Yan| Flexi-Adjunct Teacher | [seet_shu_yan@moe.edu.sg](mailto:seet_shu_yan@moe.edu.sg) | 65938-159 |
+| Ms Poon Li Yi Sheryl| Teacher | [poon_li_yi_sheryl@moe.edu.sg](mailto:poon_li_yi_sheryl@moe.edu.sg) | 65938-151 |
