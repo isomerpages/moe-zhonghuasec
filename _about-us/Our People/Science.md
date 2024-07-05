@@ -23,3 +23,4 @@ variant: markdown
 | Mr Ezzy Chan | Teacher | [chan_weng_cheong_ezzy@moe.edu.sg](mailto:chan_weng_cheong_ezzy@moe.edu.sg) | 65938-139 |
 | Ms Janice Loo | Teacher | [janice_loo_zhi_min@moe.edu.sg](mailto:janice_loo_zhi_min@moe.edu.sg) | 65938-207 |
 | Mr Chong Yee Ming | Teacher | [chong_yee_ming@moe.edu.sg](mailto:chong_yee_ming@moe.edu.sg) | 65938-129 |
+| Ms Ong Yu Ting | Teacher | [ong_yu_ting_d@moe.edu.sg](mailto:ong_yu_ting_d@moe.edu.sg) | 65938-132 |
