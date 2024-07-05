@@ -20,7 +20,6 @@ variant: markdown
 | Mrs Cheryl Chew| Teacher | [lim_pei_chen_cheryl@moe.edu.sg](mailto:lim_pei_chen_cheryl@moe.edu.sg) | 65938-159  |
 | Ms Cindy Soh | Teacher | [soh_sock_kheng@moe.edu.sg](mailto:soh_sock_kheng@moe.edu.sg) | 65938-143  | 
 | Ms Calista Chan | Teacher | [chan_kai_wai_calista@moe.edu.sg](mailto:chan_kai_wai_calista@moe.edu.sg) | 65938-135  |
-| Ms Yeo Shu Ling | Teacher | [yeo_shu_ling@moe.edu.sg](mailto:yeo_shu_ling@moe.edu.sg) | 65938100-205 |
 | Ms Vanessa Tan | Teacher | [tan_wen_li_vanessa@moe.edu.sg](mailto:tan_wen_li_vanessa@moe.edu.sg) | 65938100-203 |
 | Ms Joy Eu | Teacher | [joy_eu_li_xin@moe.edu.sg](mailto:joy_eu_li_xin@moe.edu.sg) | 65938-129 |
 | Mrs Lim U-Shan | Teacher | [lim_u-shan@moe.edu.sg](mailto:lim_u-shan@moe.edu.sg) | 65938100-206 |
