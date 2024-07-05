@@ -27,4 +27,4 @@ variant: markdown
 | Mr Ezzy Chan | Teacher | [chan_weng_cheong_ezzy@moe.edu.sg](mailto:chan_weng_cheong_ezzy@moe.edu.sg) | 65938-139 |
 | Mdm Leong Pei Szu | Flexi-Adjunct Teacher | [leong_pei_szu@moe.edu.sg](mailto:leong_pei_szu@moe.edu.sg) | 65938-184 |
 | Ms Sng Mui Yong| Flexi-Adjunct Teacher | [sng_mui_yong_a@moe.edu.sg](mailto:Sng_Mui_Yong_A@moe.edu.sg) | 65938-187 |
-|
+|Ms Chan Bao Chan| Teacher | [chan_bao_chan@moe.edu.sg](mailto:chan_bao_chan@moe.edu.sg) | 65938-207 |
