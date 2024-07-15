@@ -15,8 +15,7 @@ enlarge image.</p>
 <div class="isomer-image-wrapper">
 <img style="width:20%" height="auto" width="100%" src="/images/heritage2.jpg">
 </div>
-<p><a href="https://www.zhonghuasec.moe.edu.sg/about-us/our-heritage/our-crest-n-school-uniform/" rel="noopener noreferrer nofollow" target="_blank"> Our Crest &amp; School Uniform</a>
-</p>
+<p></p><center><a href="https://www.zhonghuasec.moe.edu.sg/about-us/our-heritage/our-crest-n-school-uniform/" rel="noopener noreferrer nofollow" target="_blank"> Our Crest &amp; School Uniform</a><p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:20%" height="auto" width="100%" src="/images/heritage3.jpg">
@@ -34,4 +33,4 @@ enlarge image.</p>
 <img style="width:20%" height="auto" width="100%" src="/images/heritage5.jpg">
 </div>
 <p><a href="https://www.zhonghuasec.moe.edu.sg/about-us/our-heritage/our-pride/" rel="noopener noreferrer nofollow" target="_blank"> Our Pride</a>
-</p>
+</p></center>
