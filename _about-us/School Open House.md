@@ -1,6 +1,6 @@
 ---
-title: School Open House 2023
-permalink: /about-us/soh2023/
+title: School Open House
+permalink: /about-us/soh/
 description: ""
 variant: markdown
 ---
