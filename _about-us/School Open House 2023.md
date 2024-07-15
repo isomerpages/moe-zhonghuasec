@@ -2,6 +2,7 @@
 title: School Open House 2023
 permalink: /about-us/soh2023/
 description: ""
+variant: markdown
 ---
 ![](/images/zhssopenhouse23.jpg)
 #### Join us at our Open House on 11 Nov 2023 (Saturday) from 9 am to 1 pm!
@@ -17,3 +18,5 @@ Do follow our social media pages as well to find out the latest happenings in ou
 
 Facebook:&nbsp;[https://www.facebook.com/zhonghuasec  
 ](https://www.facebook.com/zhonghuasec)Instagram: @zhonghuasec
+
+Our 2024 School Open House will take place on 9 Nov (Saturday). More details to come closer to the date!
