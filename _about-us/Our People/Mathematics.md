@@ -16,7 +16,6 @@ variant: markdown
 | Mr Vincent Loh| Subject Head – Student Well-being | [loh_guan_wee_vincent@moe.edu.sg](mailto:loh_guan_wee_vincent@moe.edu.sg) | 65938-150 |
 | Mr Brandon Choy | Subject Head - Data Management | [brandon_choy_wai_keong@moe.edu.sg](mailto:brandon_choy_wai_keong@moe.edu.sg) | 65938-149 |
 | Ms Josephine Peh | Teacher  | [josephine_peh_meng_yin@moe.edu.sg](mailto:josephine_peh_meng_yin@moe.edu.sg) | 65938-185 |
-| Mrs Koh-Tan Siok Hoon | Flexi - Adjunct Teacher | [tan_siok_hoon_a@moe.edu.sg](mailto:tan_siok_hoon_a@moe.edu.sg) | 65938-167 |
 | Ms Lee Sock Kee | Teacher | [lee_sock_kee@moe.edu.sg](mailto:lee_sock_kee@moe.edu.sg) | 65938-163 |
 | Mr Lionel Ang | Teacher | [ang_lee_chun_lionel@moe.edu.sg](mailto:ang_lee_chun_lionel@moe.edu.sg) | 65938-186 |
 | Mr Goh Ching Poh | Teacher | [goh_ching_poh@moe.edu.sg](mailto:goh_ching_poh@moe.edu.sg) | 65938-136 |
@@ -25,6 +24,7 @@ variant: markdown
 | Mr Pang Hong Ming | Teacher | [pang_hong_ming@moe.edu.sg](mailto:pang_hong_ming@moe.edu.sg) | 65938-125 |
 | Ms Tan Teing Im | Teacher | [tan_teing_im@moe.edu.sg](mailto:tan_teing_im@moe.edu.sg) | 65938-137 |
 | Mr Ezzy Chan | Teacher | [chan_weng_cheong_ezzy@moe.edu.sg](mailto:chan_weng_cheong_ezzy@moe.edu.sg) | 65938-139 |
+|Ms Chan Bao Chan| Teacher | [chan_bao_chan@moe.edu.sg](mailto:chan_bao_chan@moe.edu.sg) | 65938-207 |
 | Mdm Leong Pei Szu | Flexi-Adjunct Teacher | [leong_pei_szu@moe.edu.sg](mailto:leong_pei_szu@moe.edu.sg) | 65938-184 |
 | Ms Sng Mui Yong| Flexi-Adjunct Teacher | [sng_mui_yong_a@moe.edu.sg](mailto:Sng_Mui_Yong_A@moe.edu.sg) | 65938-187 |
-|Ms Chan Bao Chan| Teacher | [chan_bao_chan@moe.edu.sg](mailto:chan_bao_chan@moe.edu.sg) | 65938-207 |
+| Mrs Koh-Tan Siok Hoon | Flexi - Adjunct Teacher | [tan_siok_hoon_a@moe.edu.sg](mailto:tan_siok_hoon_a@moe.edu.sg) | 65938-167 |
