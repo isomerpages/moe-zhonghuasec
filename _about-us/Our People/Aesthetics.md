@@ -5,7 +5,14 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -134,7 +141,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Tein Im</p>
+<p>Ms Tan Teing Im</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
