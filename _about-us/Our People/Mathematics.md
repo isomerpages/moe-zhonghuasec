@@ -16,7 +16,7 @@ variant: markdown
 | Mr Vincent Loh| Subject Head – Student Well-being | [loh_guan_wee_vincent@moe.edu.sg](mailto:loh_guan_wee_vincent@moe.edu.sg) | 65938-150 |
 | Mr Brandon Choy | Subject Head - Data Management | [brandon_choy_wai_keong@moe.edu.sg](mailto:brandon_choy_wai_keong@moe.edu.sg) | 65938-149 |
 | Ms Josephine Peh | Teacher  | [josephine_peh_meng_yin@moe.edu.sg](mailto:josephine_peh_meng_yin@moe.edu.sg) | 65938-185 |
-| Mrs Koh-Tan Siok Hoon | Teacher | [tan_siok_hoon_a@moe.edu.sg](mailto:tan_siok_hoon_a@moe.edu.sg) | 65938-167 |
+| Mrs Koh-Tan Siok Hoon | Flexi - Adjunct Teacher | [tan_siok_hoon_a@moe.edu.sg](mailto:tan_siok_hoon_a@moe.edu.sg) | 65938-167 |
 | Ms Lee Sock Kee | Teacher | [lee_sock_kee@moe.edu.sg](mailto:lee_sock_kee@moe.edu.sg) | 65938-163 |
 | Mr Lionel Ang | Teacher | [ang_lee_chun_lionel@moe.edu.sg](mailto:ang_lee_chun_lionel@moe.edu.sg) | 65938-186 |
 | Mr Goh Ching Poh | Teacher | [goh_ching_poh@moe.edu.sg](mailto:goh_ching_poh@moe.edu.sg) | 65938-136 |
