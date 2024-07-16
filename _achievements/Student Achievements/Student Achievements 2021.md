@@ -1,6 +1,6 @@
 ---
 title: Student Achievements 2021
-permalink: /achievements/student-achievements/
+permalink: /achievements/student-achievements/student-achievement-2021/
 description: ""
 third_nav_title: Student Achievements
 variant: tiptap

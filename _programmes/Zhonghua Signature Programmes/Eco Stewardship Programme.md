@@ -31,7 +31,7 @@ Students will acquaint themselves with the key issues of sustainability of our e
 ||
 
 ##### Design Thinking Protocol
-![](/images/Eco07.jpg)
+![](/images/edit_1.jpg)
 Students use Design Thinking Protocol to research and propose an intervention on one of the 5 sustainability themes so that they can all be Eco Heroes!
 
 Students will learn:

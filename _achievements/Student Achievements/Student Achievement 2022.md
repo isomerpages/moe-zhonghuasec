@@ -1,8 +1,9 @@
 ---
 title: Student Achievement 2022
-permalink: /achievements/Student-Achievements/student-achievement-2022/
+permalink: /achievements/student-achievements/
 description: ""
 third_nav_title: Student Achievements
+variant: tiptap
 ---
 #### **Co-Curricular Activities**
 
@@ -14,8 +15,8 @@ third_nav_title: Student Achievements
 | National Police Cadet Corps | Gold (14th) |
 Scouts | Frank Cooper Sands Gold Award (15th) <br> Chief Commissioner Awards (x8) |
 St John Brigade | Corps Achievement Award Gold (13th) <br> Chief Commissioner Awards (x11) |
-**Clubs & Societies** ||
-Infocomm Club | Design Thinking with Robotics and Computational Thinking (DrCT) <br> International Competition - 2 Gold, 1 Silver & 4 Bronze Awards <br> National Software Competition (NSC 2022) - Bronze Award |
+**Clubs &amp; Societies** ||
+Infocomm Club | Design Thinking with Robotics and Computational Thinking (DrCT) <br> International Competition - 2 Gold, 1 Silver &amp; 4 Bronze Awards <br> National Software Competition (NSC 2022) - Bronze Award |
 |
 
 
@@ -32,7 +33,7 @@ Biology Olympiad | 2 Bronze Awards and 1 Honourable Mention
 Chemistry Olympiad | 2 Merits and 1 Bronze Award |
 Upper Secondary A* Star Award | 2 winners | 
 National Mandarin Oratorical Competition for Secondary/Pre-University | Outstanding Award |
-5th Text Recital Competition  for Primary & Secondary School | Individual: 2 Silver, 1 Bronze <br> Group: 1 Bronze
+5th Text Recital Competition  for Primary &amp; Secondary School | Individual: 2 Silver, 1 Bronze <br> Group: 1 Bronze
 NUS Geography Challenge | 4 Silver Awards (Individual) | 
 N.E.Mation! 2022 | Top 10 Finalists |
 Animation and Game Making (AGM) Competition | Animation (Bronze Award) | 
