@@ -12,7 +12,7 @@ variant: markdown
 | Mr Tan Jun Hong| Subject Head - Physics | [tan_jun_hong@moe.edu.sg](mailto:tan_jun_hong@moe.edu.sg) | 65938-151 |
 | Ms Ong Lay Hong | Senior Teacher - Chemistry | [ong_lay_hong@moe.edu.sg](mailto:ong_lay_hong@moe.edu.sg) | 65938-137 |
 | Mrs Maybrie Ang| Senior Teacher - Chemistry | [maybrie_ang_mai_mai@moe.edu.sg](mailto:maybrie_ang_mai_mai@moe.edu.sg) | 65938-128 |
-| Ms Rozianna Mohammed Affandi | Assistant Year Head - Lower Sec | [rozianna_mohammed_affendi@moe.edu.sg](mailto:rozianna_mohammed_affendi@moe.edu.sg | 65938100-203 |
+| Ms Rozianna Mohammed Affandi| Assistant Year Head - Lower Sec | [rozianna_mohammed_affendi@moe.edu.sg](mailto:rozianna_mohammed_affendi@moe.edu.sg) | 65938100-203 |
 | Mr Christopher Lim | Assistant Year Head - Upper Sec | [christopher_lim_wei_chern@moe.edu.sg](mailto:christopher_lim_wei_chern@moe.edu.sg) |  65938-135 |
 | Mr Goh Tze Mian | Senior Teacher - Character and Citizenship Education | [goh_tze_mian@moe.edu.sg](mailto:goh_tze_mian@moe.edu.sg) | 65938-189 |
 | Mr Tan Li Chun | Teacher | [tan_li_chun@moe.edu.sg](mailto:tan_li_chun@moe.edu.sg) | 65938-131 |
