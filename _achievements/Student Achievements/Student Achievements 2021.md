@@ -1,8 +1,9 @@
 ---
-title: Student Achievements
+title: Student Achievements 2021
 permalink: /achievements/student-achievements/
 description: ""
 third_nav_title: Student Achievements
+variant: tiptap
 ---
 #### **CCA Achievements**
 ##### **Aesthetics**
@@ -32,7 +33,7 @@ third_nav_title: Student Achievements
 | St John Brigade (Boys and Girls) | Gold |
 |
 
-##### **Sports & Games**
+##### **Sports &amp; Games**
 
 | Competition | Award |
 |---|---|
