@@ -23,6 +23,7 @@ variant: markdown
 | Ms Vanessa Tan | Teacher | [tan_wen_li_vanessa@moe.edu.sg](mailto:tan_wen_li_vanessa@moe.edu.sg) | 65938100-203 |
 | Ms Joy Eu | Teacher | [joy_eu_li_xin@moe.edu.sg](mailto:joy_eu_li_xin@moe.edu.sg) | 65938-129 |
 | Mrs Lim U-Shan | Teacher | [lim_u-shan@moe.edu.sg](mailto:lim_u-shan@moe.edu.sg) | 65938100-206 |
+| Ms Poon Li Yi Sheryl | Teacher | [poon_li_yi_sheryl@moe.edu.sg](mailto:poon_li_yi_sheryl@moe.edu.sg) | 65938-151 |
 | Mdm Poh Li Pin | Flexi-Adjunct Teacher | [poh_li_pin_a@moe.edu.sg](mailto:poh_li_pin_a@moe.edu.sg) | 65938100-188 |
 | Ms Wang Wei Ling | Flexi-Adjunct Teacher | [wang_wei_ling_a@moe.edu.sg](mailto:wang_wei_ling_a@moe.edu.sg) | 65938100-184 |
 | Mrs Yip Siew Mei| Flexi-Adjunct Teacher | [wong_siew_mei@moe.edu.sg](mailto:wong_siew_mei@moe.edu.sg) | 65938100-185 |
