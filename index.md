@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Scam Alert
           description: ""
-          url: /scam-alert
+          url: /scam-alert/
         - title: Announcements
           description: ""
           url: /announcements/
