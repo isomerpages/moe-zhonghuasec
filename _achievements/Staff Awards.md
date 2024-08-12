@@ -2,9 +2,11 @@
 title: Staff Awards
 permalink: /achievements/staff-awards/
 description: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
+| National Day Awards 2024 | Ms Cindy Low Shiok Cheng (Public Administration Medal (Bronze))<br>Mdm Magespathy d/o Ramasamy (Efficiency Medal)<br> Ms Tan Chye I (Commendation Medal)<br>Mr Ang Chun Hua (Long Service Medal)<br>Mr Ng Thiam Seng (Long Service Medal)<br>Mr Chang Hiang See Andy (Long Service Medal) |
 | National Day Awards 2023 | Mr Low Yao Ming Ron (Commendation Medal)<br>Mr Loh Guan Wee Vincent (Long Service Medal)<br>Mdm Magespathy d/o Ramasamy (Long Service Medal) |
 | The LEAP Award 2023 (Listening Educator for Advancement &amp; Progress Award) | Mr Goh Tze Mian |
 | National Day Awards 2022 | Mrs Ho-Tam Mee Fong (Commendation Medal)<br>Mdm Tan Teing Im (Long Service Medal)<br>Mr Lim Yong Khern (Long Service Medal) |
