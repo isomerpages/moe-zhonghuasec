@@ -6,6 +6,14 @@ variant: tiptap
 ---
 <p></p>
 <hr>
+<p><strong>2024 Sec 1-3 End Of Year Exam Timetable</strong>
+</p>
+<p><a href="/files/2024_Sec_1_EOY.pdf" rel="noopener nofollow" target="_blank">2024 Sec 1 EOY Timetable</a>
+</p>
+<p><a href="/files/2024_Sec_2_EOY.pdf" rel="noopener nofollow" target="_blank">2024 Sec 2 EOY Timetable</a>
+</p>
+<p><a href="/files/2024_Sec_3_EOY.pdf" rel="noopener nofollow" target="_blank">2024 Sec 3 EOY Timetable</a>
+</p>
 <p><strong>2024 Sec 4E 4N 5N Prelim</strong>
 </p>
 <p><a href="/files/2024_4E_4N_5N_Prelim_timetable_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4E 4N 5N Prelim Timetable</a>
