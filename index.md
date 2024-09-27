@@ -12,7 +12,7 @@ sections:
       url: /about-us/contact-us/
       key_highlights:
         - title: School Open House 2024
-          description: 9 Nov (Sat)
+          description: 9 Nov (Sat), 9am - 1pm
           url: https://www.zhonghuasec.moe.edu.sg/about-us/soh/
         - title: Announcements
           description: ""
