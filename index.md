@@ -11,13 +11,16 @@ sections:
       background: /images/hero1.gif
       url: /about-us/contact-us/
       key_highlights:
-        - title: Scam Alert
-          description: ""
-          url: /scam-alert/
+        - title: School Open House 2024
+          description: 9 Nov (Sat)
+          url: https://www.zhonghuasec.moe.edu.sg/about-us/soh/
         - title: Announcements
           description: ""
           url: /announcements/
         - title: Highlights
           description: ""
           url: /achievements/school-achievements/
+        - title: Scam Alert
+          description: ""
+          url: /scam-alert/
 ---
