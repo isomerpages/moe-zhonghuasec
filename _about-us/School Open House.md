@@ -12,7 +12,7 @@ Principal's Address:&nbsp;10.00am - 10.45am
 Don't miss this opportunity to hear from our school leaders and staff!!
 
 Want a preview? Visit our e-Open House microsite at:&nbsp;[https://go.gov.sg/zhsseopenhouse](https://go.gov.sg/zhsseopenhouse/)
-<br> You can also download a copy of our publicity flyer [here](/files/zhonghua%20sec%202023%20publicity%20flyer.pdf).
+<br> You can also download a copy of our publicity flyer [here](/files/Zhonghua_Sec_Publicity_Flyer_2024.pdf).
 
 Do follow our social media pages as well to find out the latest happenings in our school and get the most up-to-date news about our Open House!
 
