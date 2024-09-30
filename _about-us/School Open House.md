@@ -17,4 +17,4 @@ Want a preview? Visit our e-Open House microsite at:&nbsp;[https://go.gov.sg/zhs
 Do follow our social media pages as well to find out the latest happenings in our school and get the most up-to-date news about our Open House!
 
 Facebook:&nbsp;[https://www.facebook.com/zhonghuasec  
-](https://www.facebook.com/zhonghuasec)Instagram: @zhonghuasec
+](https://www.facebook.com/zhonghuasec)Instagram: [@zhonghuasec](https://www.instagram.com/zhonghuasec/)
