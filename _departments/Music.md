@@ -2,23 +2,35 @@
 title: Music
 permalink: /departments/music/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-#### **Mission** 
-To nurture Scholar-Musicians passionate in the pursuit of artistic excellence; dynamic and resilient Servant-Leaders with a passion for musical innovation; cultured and caring citizens with a global outlook in Music and the Arts.
-
-#### **Key Programme**
-The Music Programme seeks to nurture a life-long passion in music through the establishment of key musical ideas and concepts that are core to our discipline that have a lasting value beyond the classroom. The Enduring Understandings that we aim to nurture in our students are as follows:
-
-<img src="/images/Music1.png" style="width:85%">
-
-The Lower Secondary Music Syllabus is offered to Secondary 1 and 2 students. At Secondary 1, students understand and learn about basic elements and concepts of rhythm and harmony through music creation, appreciation and performance. The curriculum culminates in the formation of a collaborative vocal-instrumental band where students create original music and covers of Singaporean songs and songs across different cultures. &nbsp;  
-  
-The Music Unit also organises opportunities for students to deepen their learning in music through performance and music creation, both in school and at external events. One in-school platform is the Open Mic performances held during the recess period, with students coming together to collaborate and present music of various genres to their schoolmates, while dedicating messages of gratitude to their peers and teachers. This builds up positivity and confidence in the students, as well as exposes the general school population to more types of music.
-
-<img src="/images/music2.jpg" style="width:45%" align="left">
-<img src="/images/music3.jpg" style="width:51%" align="right">
-
-<br clear="left">
-
-<img src="/images/music4.jpg" style="width:45%" align="left"><img src="/images/music5.jpg" style="width:45%" align="right">
+<h4><strong>Mission</strong></h4>
+<p>At Zhonghua Secondary School, the Music Department is committed to deepening
+students' skills and appreciation for music; and cultivating a lifelong
+love for music, empowering students to express themselves creatively and
+confidently.</p>
+<h4><strong>Key Programme</strong></h4>
+<p>The music department embraces the belief that all children are musical
+and seeks to develop their aural and expressive abilities and to empower
+them to appreciate and participate in music. This is in alignment with
+the Singapore Curriculum Philosophy, that every child wants to and can
+learn.</p>
+<p>&nbsp;The Lower Secondary Music curriculum is offered to Secondary 1 and
+2 students, and it seeks to develop musical understanding through the three
+Musical Processes of Listening, Creating and Performing</p>
+<p>&nbsp;At Secondary 1, students understand and learn about basic elements
+and concepts of rhythm and harmony through music creation, appreciation
+and performance. The curriculum culminates in the formation of a collaborative
+vocal-instrumental band in Secondary 2, where students create original
+arrangements and covers of popular songs and put-up live performances,
+showcasing their musicality and collaboration. In addition to developing
+their skills in instrument playing, students explore the world of sound
+design by creating Foley sound effects using music production software.
+Through these comprehensive music programmes, the department aims to inspire
+a deep appreciation for music and develop students’ skills in listening,
+creating, and performing.</p>
+<p>To further enhance their musicality and build confidence, students are
+given opportunities to showcase their talents during Open Mic performances.
+These events spread the joy of music-making throughout the school, allowing
+students to share their passion and artistry with their peers.</p>
+<p></p>
