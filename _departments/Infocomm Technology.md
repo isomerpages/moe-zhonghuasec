@@ -119,4 +119,8 @@ they convey</p>
 <p>Practices and procedures applied to represent the owner’s interest</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS_2024.jpg">
+</div>
 <p>Zhonghua Sec organised Cluster POA trail</p>
