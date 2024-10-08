@@ -13,7 +13,8 @@ aims to develop innovative and critical thinkers who are independent, avid
 readers with a global outlook, and an appreciation and love of the English
 language. &nbsp;</p>
 <p></p>
-<h4><strong>Key programmes</strong><br><strong>Developing confident and effective communicators</strong></h4>
+<h4><strong>Key programmes</strong></h4>
+<h4><br><strong>Developing confident and effective communicators</strong></h4>
 <p>Developing effective and confident communicators is a strong focus of
 the department. Students are given opportunities to hone their oral presentation
 skills through oral presentation practices, alternative oral assessment
