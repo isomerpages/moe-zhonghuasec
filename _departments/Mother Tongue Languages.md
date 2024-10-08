@@ -14,6 +14,11 @@ variant: tiptap
 <p>提高学生的华文水平和培养学生正确的价值观一直是华文部努力的目标。我们通过组织各类的语文活动和庆祝华族传统的节日，提高学生学习语文的兴趣，推广华族悠久的传统文化。</p>
 <p>每年的母语周，我们都为学生安排不同的语文活动。除了作家讲座，我们也主办学习之旅，让学生到户外学习课本以外的知识。此外，我们也通过阅报活动和主办趣味性有奖问答比赛，鼓励学生好好学习华文华语。</p>
 <p>庆祝传统的华族节日一向是本校的传统。我校师生以及受邀的家长、校友，在新年庆祝会当天聚集在礼堂，观赏各表演团体呈现的节目。瑞狮的出现更是把节目推向了高潮，大家情绪高涨，都感受到了新年的喜庆。中秋节的活动当然少不了看表演、提灯笼、猜灯谜和品月饼。许多家长和校友于百忙之中拨冗出席本校的庆祝活动。活动当天，校园的各个角落都可以看到大家叙旧畅谈的温馨画面。</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_2024.jpg">
+</div>
 <h4><strong>Unit Bahasa Melayu</strong></h4>
 <h5><strong>Misi</strong></h5>
 <p>Membina pelajar yang dapat berkomunikasi dengan menggunakan bahasa Melayu
@@ -42,6 +47,11 @@ dianjurkan pada peringkat nasional. Melalui penyertaan secara individu
 atau berpasukan, pelajar dapat berkolaborasi, mengaplikasikan kemahiran-kemahiran
 yang telah diraih, menjalankan kajian untuk tujuan penyampaian dan berkomunikasi
 dengan berkesan dalam konteks yang tertentu.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_2024.jpg">
+</div>
+<p></p>
 <h5><strong>Malay Special Programme in ZHSS</strong></h5>
 <p><strong>Background</strong>
 <br>MSP is one of the Ministry of Education’s 3rd language programme. It used
@@ -164,10 +174,4 @@ programme will prepare students for the MSP examination at GCE ‘O’ Level.</p
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/mtl1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/mtl2.jpg">
-</div>
 <p></p>

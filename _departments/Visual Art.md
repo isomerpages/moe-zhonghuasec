@@ -20,7 +20,7 @@ artistic, design and media skills, and capacities for the 21st-century
 economy.</p>
 </li>
 </ul>
-<h4><strong>Key Programmes</strong></h4>
+<h4><strong>Key Programme</strong></h4>
 <p><strong>Visual Art Curriculum</strong>
 <br>The lower secondary Visual Art curriculum aims to develop visual literacy
 skills. At the end of the 2-year art studies, students acquire the basic
@@ -40,7 +40,7 @@ to apply their art skills to real-world issues and situations. This is
 further underpinned by the theoretical knowledge of the development and
 roles of art in different contexts of culture and time. Annually there
 are camps, workshops and learning journeys for the AEP students.</p>
-<p><a href="/programmes/zhonghua-signature-programmes/aep/" rel="noopener noreferrer nofollow" target="_blank">/programmes/zhonghua-signature-programmes/aep/</a>
+<p><a href="https://www.zhonghuasec.moe.edu.sg/programmes/zhonghua-signature-programmes/aep/" rel="noopener nofollow" target="_blank">https://www.zhonghuasec.moe.edu.sg/programmes/zhonghua-signature-programmes/aep/</a>
 </p>
 <p>To find out more about the AEP, visit the MOE Art Elective Programme website
 at this URL:
