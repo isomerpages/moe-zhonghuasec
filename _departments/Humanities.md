@@ -5,8 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Mission</strong></h4>
-<p>Nurturing students into self-directed and passionate learners, critical
-thinkers, caring and cultured citizens.</p>
+<p>In line with the school’s mission, the Humanities department strives to
+do its part to nurture Zhonghuarians to be Passionate Learners, Dynamic
+Leaders and Connected Citizens.</p>
+<p>
+<br>This is achieved by designing and enacting learning experiences that allow
+students to strengthen their 21<sup>st</sup> century competencies (21CC)
+and embody the Desired Outcomes of Education such as Confident Persons,
+Self-Directed Learners, Active Contributors and Concerned Citizens.</p>
 <h4><strong>Key Programme</strong></h4>
 <p>All Express and Normal Academic students are introduced to a common Geography
 and History syllabus at the lower secondary levels. The assessment modes
