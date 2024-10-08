@@ -13,8 +13,7 @@ aims to develop innovative and critical thinkers who are independent, avid
 readers with a global outlook, and an appreciation and love of the English
 language. &nbsp;</p>
 <p></p>
-<h4><strong>Key programmes</strong></h4>
-<h4><strong>Developing confident and effective communicators</strong></h4>
+<h4><strong>Key programmes</strong><br><strong>Developing confident and effective communicators</strong></h4>
 <p>Developing effective and confident communicators is a strong focus of
 the department.&nbsp;</p>
 <p>Students are given opportunities to hone their oral presentation skills
@@ -50,4 +49,10 @@ their ideas effectively and confidently.</p>
 linguistic and communicative competency of every Zhonghuarian, maximising
 the potential of each, thus equipping them to thrive in a fast-changing
 and highly-connected world.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_2024.jpg">
+</div>
+<p></p>
+<p></p>
 <p></p>
