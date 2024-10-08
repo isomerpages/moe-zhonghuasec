@@ -33,4 +33,8 @@ creating, and performing.</p>
 given opportunities to showcase their talents during Open Mic performances.
 These events spread the joy of music-making throughout the school, allowing
 students to share their passion and artistry with their peers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music_2024.jpg">
+</div>
+<p></p>
 <p></p>
