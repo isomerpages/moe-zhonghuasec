@@ -2,30 +2,40 @@
 title: Science
 permalink: /departments/science/
 description: ""
+variant: tiptap
 ---
-#### **Mission** 
-To nurture Zhonghuarians to be Scholars and Leaders through a rigorous science education that involves the acquisition of scientific knowledge, development of science process skills and cultivation of important attitudes required of a scientist.
-
-<img src="/images/sci1.jpg" style="width:40%">
-
-#### **Strategies**   
-Curriculum ZHSS aligns herself to the Ministry’s Curriculum Planning and Development Division (CPDD)’s belief of developing scientific literacy in her students through a rigorous Science curriculum. Integrating that with the **ZHSS Science I3 (Integrate, Inquiry. Inspire) Framework**, we envisioned that students are able to appreciate that:
-
-* Science as a study of the natural phenomena in the world. 
-*  Scientific knowledge is derived from cycles of systematic observation, experimentation and analysis, and from human imagination and creativity. 
-*  Scientific knowledge is subject to change 
-*  Applications of scientific knowledge can bring about beneficial or harmful consequences.
-
-<figure>
-<figcaption><strong> ZHSS Science I3 (Integrate, Inquiry. Inspire) Framework.
-	</strong></figcaption>	
-<img src="/images/sci2.png" style="width:70%">
-</figure>
-
-**INTEGRATE**<br>Integrated science is a science curriculum that deliberately draws the interrelationship between the main areas of science. This provides the opportunities whereby students can discuss issues that arise from the interaction of science, technology and society instead of studying a particular science concept in isolation. Students will also be reminded that the matters of science are also matters of the everyday world. Correlation between what is taught in the classroom and issues of worldwide significance will be explicitly highlighted so that students will be consciously aware of the immediate impact of science in their lives, thus creating an awareness of the significance of science in the students’ world.
-
-**INQUIRE**<br>
-The Science Education in Zhonghua advocates a future-orientated curriculum that aims to provide a conducive and challenging learning environment that engages our students in academic excellence. The cornerstone of our pedagogy is to adopt an inquiry-based approach in the teaching and learning of science as we believe this method will allow our students to learn the principles and concepts of Science, acquire the reasoning and procedural skills of scientists, and understand the nature of science as a particular form of human endeavor.
-
-**INSPIRE**<br>
-Zhonghua Science department aims to inspire her students to be passionate in science through a three-pronged approach – Teacher’s professional development, external competitions and strategic partnerships.
+<h4><strong>Mission</strong></h4>
+<p>To nurture Zhonghuarians to be Passionate STEM Learners and Connected
+Citizens through a rigorous Science curriculum that encompasses the acquisition
+of Core Scientific ideas, engagement in the Practices of Science, and cultivation
+of the Values, Ethics and Attitudes in Science.</p>
+<h4><strong>Key programme</strong></h4>
+<p>At Zhonghua Secondary School, the Science department is dedicated to nurturing
+passionate STEM learners and fostering connected citizens. Central to our
+mission is the development of E21CC competencies, with a strong emphasis
+on critical, adaptive, and inventive thinking, as well as essential information
+skills. Through a well-rounded curriculum that extends beyond traditional
+classroom settings, students are provided with holistic learning experiences
+tailored to meet diverse needs and aspirations. This approach ensures that
+students not only excel academically in Science but they also acquire practical
+skills and knowledge applicable to real-world challenges. By integrating
+innovative teaching methods and enrichment activities, the Science programme
+provides our students with meaningful learning experiences, equips them
+with the capabilities to thrive in an evolving global landscape and prepares
+them to contribute meaningfully to society as informed and capable individuals.</p>
+<p>Key programmes/competitions which the department participate in include:</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Junior Physics, Chemistry
+and Biology Olympiads
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IgnITE Skills Challenge
+<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International Competitions and
+Assessments for Schools (ICAS) Science Assessments
+<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sec 1 Science Trail
+<br>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sec 2 Science Learning Journey
+<br>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sec 3 STEM Advocacy Programme
+<br>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scientists in School Programme</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_2024.jpg">
+</div>
+<p></p>
+<p></p>
