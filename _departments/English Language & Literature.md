@@ -15,11 +15,10 @@ language. &nbsp;</p>
 <p></p>
 <h4><strong>Key programmes</strong><br><strong>Developing confident and effective communicators</strong></h4>
 <p>Developing effective and confident communicators is a strong focus of
-the department.&nbsp;</p>
-<p>Students are given opportunities to hone their oral presentation skills
-through oral presentation practices, alternative oral assessment at lower
-secondary, and class debates on gender, social, sports, environment, ethical
-issues, particularly related to science, at upper secondary.&nbsp;Other
+the department. Students are given opportunities to hone their oral presentation
+skills through oral presentation practices, alternative oral assessment
+at lower secondary, and class debates on gender, social, sports, environment,
+ethical issues, particularly related to science, at upper secondary.&nbsp;Other
 than raising critical awareness of language use and other methods of persuasion,
 the learning of useful public speaking skills and techniques also help
 students to express themselves with poise and confidence.</p>
