@@ -8,7 +8,7 @@ variant: tiptap
 <p>The Mathematics department is committed to providing Zhonghuarians with
 an enriching Mathematics education. We seek to develop students to be problem-solvers
 equipped with the skills to adapt to different situations.</p>
-<h4><strong>Key Programme</strong></h4>
+<h4><strong>Key programme</strong></h4>
 <p>Zhonghua Mathematics Department strives to offer an enriching mathematics
 curriculum for all students to develop the necessary skills and mathematical
 literacy to learn, do and use mathematics. The recent mathematics curriculum
