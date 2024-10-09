@@ -15,6 +15,7 @@ School. Students build their competencies in the Outdoor Education curriculum
 (navigation, shelter building, outdoor cooking), risk management knowledge
 to be confident in the outdoor settings. The students undergo progressive
 training for their NAPFA test during Physical Health Fitness lessons.</p>
+<p></p>
 <p><strong>Interclass Games, Sports Carnival, Cross Country, and Cohort Activities</strong>
 <br>Students apply their knowledge and skills learnt during PE lessons to
 their experiences when they compete during interclass games and the Sports
@@ -26,8 +27,15 @@ students’ resilience when they persevere through the training and actual
 run. It raises the physical engagement of our students. Cohort activities
 are conducted to encourage students’ exposure to the outdoors and encourage
 bonding opportunities within the class.</p>
+<p></p>
 <p><strong>Unstructured Play and Recreation Day </strong>
 <br>Students are encouraged to adopt an active lifestyle by taking part in
 Unstructured Play during recess and during Recreation Day on Tuesday afternoon.
 They can loan sports equipment and play at designated PE venues or use
 the school gym.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_Dept_2024.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
