@@ -88,8 +88,8 @@ way.</p>
 <li>
 <p>Students are strongly encouraged not to bring expensive electronic devices
 to school. If students choose to bring these electronic devices to school,
-it is at their own risk and</p>
-<p>they must be responsible for their own electronic devices.</p>
+it is at their own risk and they must be responsible for their own electronic
+devices.</p>
 </li>
 <li>
 <p>Electronic devices such as mobile phones and accessories (such as earphones,
