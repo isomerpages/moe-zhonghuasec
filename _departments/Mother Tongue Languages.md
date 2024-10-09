@@ -18,7 +18,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_2024.jpg">
 </div>
-<p></p>
 <h4><strong>Unit Bahasa Melayu</strong></h4>
 <h5><strong>Misi</strong></h5>
 <p>Membina keupayaan pelajar untuk berkomunikasi dalam bahasa Melayu dengan
@@ -51,7 +50,6 @@ dengan berkesan dalam konteks yang tertentu.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_2024.jpg">
 </div>
-<p></p>
 <h5><strong>Malay Special Programme in ZHSS</strong></h5>
 <p><strong>Background</strong>
 <br>MSP is one of the Ministry of Education’s 3rd language programme. The
@@ -98,7 +96,6 @@ Malay Language in secondary school</p>
 <br>MSP Lesson is held once a week, 3 hours per lesson in the afternoon. The
 programme will prepare students for the MSP examination at GCE ‘O’ Level.</p>
 <p><strong>Class Schedule for Year 2024</strong>
-<br>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
