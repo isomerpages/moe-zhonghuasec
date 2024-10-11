@@ -22,5 +22,6 @@ variant: markdown
 | Ms Noorlizah Suriyap | Teacher | [noorlizah_suriyap@moe.edu.sg](mailto:noorlizah_suriyap@moe.edu.sg) | 65938-130  |
 | Mr Jerome Ong | Teacher | [jerome_ong_lin_xiong@moe.edu.sg](mailto:jerome_ong_lin_xiong@moe.edu.sg) | 65938100-208  |
 | Ms Joy Eu | Teacher | [joy_eu_li_xin@moe.edu.sg](mailto:joy_eu_li_xin@moe.edu.sg) | 65938-128  |
+| Ms Natasha Lim | Teacher | [lim_natasha_ann@moe.edu.sg](mailto:lim_natasha_ann@moe.edu.sg ) | 65938-144  |
 | Mr R Eswaran | Teacher | [eswaran_ramachandran@moe.edu.sg](mailto:eswaran_ramachandran@moe.edu.sg) | 65938-141  |
 | Mdm Poh Li Pin | Flexi-Adjunct Teacher | [poh_li_pin_a@moe.edu.sg](mailto:poh_li_pin_a@moe.edu.sg) | 65938-188  |
