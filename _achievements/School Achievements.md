@@ -18,6 +18,30 @@ variant: markdown
 | People Developer Standard (PDS)| Validity period: 28 Feb 17 – 28 Feb 2023 |
 |
 
+### **2023 National Exam Results**
+#### **2023 GCE O-Level Results**&nbsp;
+
+97.5% of Sec 4 Express students eligible for JC/MI<br>
+99.0% of Sec 4 Express students eligible for Polytechnic<br><br>
+  
+
+50.0% of Sec 5 Normal Academic students eligible for JC/MI<br>
+92.9% of Sec 5 Normal Academic students eligible for Polytechnic<br>
+
+
+* * *
+
+#### **2023 GCE N-Level Results**&nbsp;
+
+**Normal Academic**<br>
+53.0% eligible for Polytechnic Foundation Programme (PFP)<br>
+89.4% eligible for promotion to Direct-to-Polytechnic Programme (DPP)<br>95.5% eligible for promotion to Secondary 5
+
+**Normal Technical**<br>
+100% eligible for ITE
+
+***
+
 ### **2022 National Exam Results**
 #### **2022 GCE O-Level Results**&nbsp;
 
@@ -66,30 +90,3 @@ variant: markdown
 100% eligible for ITE
 
 ***
-
-### **2020 National Exam Results**
-#### **2020 GCE O-Level Results**
-90.6% of Sec 4 Express students eligible for JC/MI<br>
-100% of Sec 4 Express students eligible for Polytechnic<br>
-Value-Add: +0.9
-
-16.7% of Sec 5 Normal Academic students eligible for JC/MI<br>
-61.1% of Sec 5 Normal Academic students eligible for Polytechnic
-
-<img src="/images/sch%20achievement%201.jpeg" style="width:100%">
-
-<br clear="left">
-
--------------------------------------------------------------------------
-
-#### **2020 GCE N-Level Results**
-**Normal Academic**
-44.7% eligible for Polytechnic Foundation Programme (PFP)<br>
-93.4% eligible for promotion to Direct-to-Polytechnic Programme (DPP)<br>
-96.1% eligible for promotion to Secondary 5<br>
-Value-Add: +2.1
-
-**Normal Technical**
-100% eligible for ITE
-
-<img src="/images/sch%20achievement%202.jpeg" style="width:100%">
