@@ -27,7 +27,6 @@ who show interest and ability in Mathematics to participate in different
 competitions. These include The Singapore Mathematical Olympiads (SMO),
 Singapore NIE Mathematics Challenge (NIEMC) and the Singapore and Asian
 Mathematics Olympiad (SASMO).</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_2024.jpg">
 </div>
