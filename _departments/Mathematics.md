@@ -19,15 +19,14 @@ school, with structured programmes being put in place to help different
 segment of students to improve on their mathematics.</p>
 <p>In promoting the Joy for Learning in Mathematics, the department carried
 out a Maths Week with fun-filled activities for all students during their
-free time. Students were invited to take part in the Rubrics Cube Challenge,
-crack a code in the Encryption Challenge, take on a Maths problem, amongst
+free time. Students were invited to take part in the Rubik's Cube Challenge,
+crack a code in the Encryption Challenge, take on a Math problem, amongst
 the many other thrilling activities on offer throughout the week.</p>
 <p>In addition, the department provides ample opportunities for students
 who show interest and ability in Mathematics to participate in different
-competitions. These include The Singapore Mathematics Olympiads (SMO),
+competitions. These include The Singapore Mathematical Olympiads (SMO),
 Singapore NIE Mathematics Challenge (NIEMC) and the Singapore and Asian
 Mathematics Olympiad (SASMO).</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_2024.jpg">
 </div>
