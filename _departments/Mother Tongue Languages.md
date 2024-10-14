@@ -31,22 +31,21 @@ Aktiviti-aktiviti tersebut termasuklah Peraduan Penulisan Kreatif, Peraduan
 Penterjemahan, Peraduan Penulisan Sajak, Peraduan Permainan Bahasa dan
 Kuiz Budaya.&nbsp;</p>
 <p>Para pelajar juga berpeluang mengambil bahagian dalam Bengkel Budaya dan
-Kembara Ilmu. Menerusi kegiatan-kegiatan ini, pelajar menimba ilmu dan
-pengalaman dalam suasana yang autentik dan santai. Juga, kegiatan-kegiatan
-ini menerapkan penghayatan dan mendalamkan pemahaman pelajar tentang kesantunan
-budaya Melayu.&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>
-<br><strong>Program Bacaan</strong>: Dalam kurikulum bahasa Melayu di Sekolah
+Kembara Ilmu. Menerusi madah ini, pelajar menimba ilmu dan pengalaman dalam
+suasana yang autentik dan santai. Juga, kegiatan-kegiatan ini menerapkan
+penghayatan dan mendalamkan pemahaman pelajar tentang kesantunan budaya
+Melayu.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><strong>Program Bacaan</strong>: Dalam kurikulum bahasa Melayu di Sekolah
 Menengah Zhonghua, program bacaan dikendalikan dengan tujuan menerapkan
-keseronokan membaca dalam kalangan pelajar, menajamkan kemahiran berfikir
-secara kreatif dan kritikal, dan mempertingkatkan pemahaman pelajar tentang
-hal-ehwal semasa.&nbsp;&nbsp;</p>
+keseronokan membaca di kalangan pelajar, menajamkan kemahiran berfikir
+secara kreatif dan kritikal, serta mempertingkatkan pemahaman pelajar tentang
+hal-ehwal semasa.&nbsp;</p>
 <p><strong>Penyertaan pelajar dalam kegiatan-kegiatan pada peringkat nasional</strong>:
 Para pelajar berpeluang mengambil bahagian dalam peraduan-peraduan yang
 dianjurkan pada peringkat nasional. Melalui penyertaan secara individu
 atau berpasukan, pelajar dapat berkolaborasi, mengaplikasikan kemahiran-kemahiran
 yang telah diraih, menjalankan kajian untuk tujuan penyampaian dan berkomunikasi
-dengan berkesan dalam konteks yang tertentu.</p>
+dengan berkesan dalam konteks yang ditentukan.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_2024.jpg">
 </div>
