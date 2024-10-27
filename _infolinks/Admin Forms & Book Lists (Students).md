@@ -35,10 +35,10 @@ variant: tiptap
 <br>(Closing date: 21 August 2024, Wednesday)</p>
 </li>
 </ol>
-<h4><strong>Book Lists 2024</strong></h4>
-<p><a href="/files/sec1booklist2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Book List</a>
-<br><a href="/files/sec2booklist2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Book List</a>
-<br><a href="/files/sec3booklist2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Book List</a>
-<br><a href="/files/sec4booklist2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Book List</a>
-<br><a href="/files/sec5(na)booklist2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Book List</a>
+<h4><strong>Book Lists 2025</strong></h4>
+<p><a href="/files/ZHSS_2025_Booklst___Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Book List</a>
+<br><a href="/files/ZHSS_2025_Booklst___Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Book List</a>
+<br><a href="/files/ZHSS_2025_Booklst___Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Book List</a>
+<br><a href="/files/ZHSS_2025_Booklst___Sec_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Book List</a>
+<br><a href="/files/ZHSS_2025_Booklst___Sec_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Book List</a>
 </p>
