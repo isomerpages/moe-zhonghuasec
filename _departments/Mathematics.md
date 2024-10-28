@@ -24,7 +24,7 @@ crack a code in the Encryption Challenge, take on a Math problem, amongst
 the many other thrilling activities on offer throughout the week.</p>
 <p>In addition, the department provides ample opportunities for students
 who show interest and ability in Mathematics to participate in different
-competitions. These include The Singapore Mathematical Olympiads (SMO),
+competitions. These include The Singapore Mathematical Olympiad (SMO),
 Singapore NIE Mathematics Challenge (NIEMC) and the Singapore and Asian
 Mathematics Olympiad (SASMO).</p>
 <div class="isomer-image-wrapper">
