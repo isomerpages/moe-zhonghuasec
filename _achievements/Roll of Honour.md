@@ -615,5 +615,6 @@ Low Guan Onn Gold Medal
 </table>
 <p>We express our sincerest apologies if any scholar's name is inadvertently
 left out from the above list. Corrections and queries may be sent to&nbsp;
-<a href="mailto:teo_kexin_estee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_kexin_estee@moe.edu.sg</a>
+<a href="mailto:zhonghua_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhonghua_ss@moe.edu.sg</a>
 </p>
+<p></p>
