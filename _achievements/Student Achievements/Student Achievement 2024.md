@@ -225,41 +225,66 @@ Award</p>
 <p>Singapore Junior Physics Olympiad (SJPO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Individual Contest - 1 Silver Award and 3 Bronze Awards, 7 Honourable
-Mention Team Contest - 1 Bronze Award, 2 Honourable Mention</p>
+<p>Individual Contest - 2 Bronze Awards, 2 Honourable Mention
+<br>Team Contest - 4 Honourable Mention</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>STEM Playground 2023 Challenge 2 (SEA-rious Challenger)</p>
+<p>ICAS Assessment for Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Top 10 in Secondary School Category</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6th Text Recital Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Individual: 1 Silver
-<br>Group: 1 Silver and 1 Bronze</p>
+<p>1 High Distinction, 9 Distinction, 13 Credit and 5 Merit</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Create Your Own Newspaper Competition 2023</p>
+<p>STEM Playground 2024 Challenge #2: Can you build a cardboard chair?!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Best Headline Award &amp; 2nd Class Award</p>
+<p>Champion in Secondary School Category</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Essay Writing Competition Pena Emasku</p>
+<p>7th Text Recital Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Top 35</p>
+<p>Individual Awards: 1 Silver and 2 Bronze Awards
+<br>Group: 2 Bronze Awards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22nd National Chinese Essay Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior: 1 Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Create Your Own Newspaper Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Third Prize - Upper Secondary Category</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Pena Emasku </em>Essay Writing Competition 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 15
+<br>11 Gold Awards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tari Pena Essay Compilation 2024 (Malay Special Programme)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 selected for the compilation</p>
 </td>
 </tr>
 <tr>
@@ -267,8 +292,32 @@ Mention Team Contest - 1 Bronze Award, 2 Honourable Mention</p>
 <p>NUS Geography Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Creative Component - Top 5
-<br>Individual Preliminary Component - 1 Silver Award and 2 Gold Awards</p>
+<p>Semi-Finals &amp; Top 35 (Creative Component &amp; Preliminary Round)
+<br>Individual Awards: 2 Bronze and 2 Participation Awards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bilingual Youth Model United Nations (Nanyang Girls' High School)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best position Paper, 1 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Knowgets Makerspace 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NJC International Humanities Symposium 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Research Award (Silver)</p>
 </td>
 </tr>
 <tr>
@@ -276,33 +325,32 @@ Mention Team Contest - 1 Bronze Award, 2 Honourable Mention</p>
 <p>Animation and Game Making (AGM) Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Game Making Category - Silver Award</p>
+<p>Game Making Category - 1 Gold and 1 Silver Award</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Queen's Commonwealth Essay Competition 2022</p>
+<p>The Queen's Commonwealth Essay Competition 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Category - 2 Senior Silver, 6 Senior Bronze
-<br>Junior Category - 1 Junior Gold, 2 Junior Silver, 2 Junior Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Live On Festival 2023 Essay Junior Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Junior Category - Distinction</p>
+<p>Senior Category - 1 Senior Bronze
+<br>Junior Category - 2 Junior Gold, 2 Junior Silver, 1 Junior Bronze</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Garden Expressions: Thoughts in Bloom 2023 Inter-School Oracy Competition</p>
+<p>Goh Chok Tong NextGen Outstanding Student Leader Award (2023)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lower Secondary - 2nd place
-<br>Upper Secondary - 1st place</p>
+<p>5 Award Recipients</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Silent Heroes (Student) Award Recipients</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Award Recipients</p>
 </td>
 </tr>
 </tbody>
