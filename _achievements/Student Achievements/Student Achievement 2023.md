@@ -216,7 +216,8 @@ Mention
 </td>
 <td rowspan="1" colspan="1">
 <p>Individual Contest - 1 Silver Award and 3 Bronze Awards, 7 Honourable
-Mention Team Contest - 1 Bronze Award, 2 Honourable Mention</p>
+Mention
+<br>Team Contest - 1 Bronze Award, 2 Honourable Mention</p>
 </td>
 </tr>
 <tr>
