@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Student Achievements
 ---
-<p></p>
+<h4><strong>Co-Curricular Activities</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
