@@ -1,6 +1,6 @@
 ---
 title: Student Achievement 2022
-permalink: /achievements/student-achievements/
+permalink: /achievements/student-achievements2022/
 description: ""
 third_nav_title: Student Achievements
 variant: tiptap
