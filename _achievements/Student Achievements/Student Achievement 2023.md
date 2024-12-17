@@ -71,8 +71,7 @@ third_nav_title: Student Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Performing Arts</strong>
-</p>
+<p>Performing Arts</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -136,8 +135,7 @@ third_nav_title: Student Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Clubs &amp; Societies</strong>
-</p>
+<p>Clubs &amp; Societies</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
