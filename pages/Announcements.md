@@ -32,4 +32,6 @@ variant: tiptap
 <br><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/soh2023/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 <hr>
-<p></p>
+<p><strong>Zhonghua Secondary School Open House 2024</strong> 
+<br><a href="https://www.zhonghuasec.moe.edu.sg/about-us/soh/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
+</p>
