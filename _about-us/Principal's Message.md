@@ -39,8 +39,7 @@ outside of the classrooms are designed to equip students with emerging
 landscape.</p>
 <p>May 2025 bring us closer together as a community, united in our shared
 goal of nurturing the best for our students.</p>
-<p>
-<br>Mr Tan Kim Koon</p>
-<p>Principal</p>
+<p>Mr Tan Kim Koon
+<br>Principal</p>
 <p></p>
 <p></p>
