@@ -7,7 +7,7 @@ variant: markdown
 ---
 | Name | Designation | Email Address |
 |---|---|---|
-| Mr Tan Kim Koon | Vice-Principal | [TAN_Kim_Koon@schools.gov.sg](mailto:TAN_Kim_Koon@schools.gov.sg) |
+| Mr Tan Kim Koon | Principal | [TAN_Kim_Koon@schools.gov.sg](mailto:TAN_Kim_Koon@schools.gov.sg) |
 | Mr Shahul Hameed Kuthubudeen  | Vice-Principal | [SHAHUL_Hameed_Kuthubudeen@schools.gov.sg](mailto:SHAHUL_Hameed_Kuthubudeen@schools.gov.sg) |
 | Ms Celine Teo  | Vice-Principal |[teo_celine@schools.gov.sg](mailto:teo_celine@schools.gov.sg) |
 | Mr Hong Heng Yan | Vice-Principal (Admin) | [HONG_heng_yan@schools.gov.sg](mailto:HONG_heng_yan@schools.gov.sg) |
