@@ -8,12 +8,10 @@ variant: tiptap
 School from Serangoon MRT Station and Bus Interchange.</p>
 <p>Sit back and enjoy!
 <br>
-<br>&lt;div&gt; &lt;iframe width="560" height="315" src="<a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/embed/VzOBxC3k3zo?si=LG9uVOowRCsgUe4B</a>"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;</p>
-<h4><strong>Contact Us</strong></h4>
+<br>(video pending)
+<br>
+<br><strong>Contact Us</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="300" width="500" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3988.7110035069713!2d103.869284!3d1.349917!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xae86acd815e43387!2sZhonghua%20Secondary%20School!5e0!3m2!1sen!2ssg!4v1674789456564!5m2!1sen!2ssg"></iframe>
 </div>
