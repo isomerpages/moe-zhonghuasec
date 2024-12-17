@@ -7,9 +7,9 @@ variant: markdown
 ---
 | Name | Designation | Email Address |
 |---|---|---|
-| Ms Cindy Low | Principal | [Cindy_LOW@schools.gov.sg](mailto:Cindy_LOW@schools.gov.sg) |
-| Mr Tan Kim Koon | Vice-Principal | [TAN_Kim_Koon@schools.gov.sg](mailto:TAN_Kim_Koon@schools.gov.sg) |
+| Mr Tan Kim Koon | Principal | [TAN_Kim_Koon@schools.gov.sg](mailto:TAN_Kim_Koon@schools.gov.sg) |
 | Mr Shahul Hameed Kuthubudeen  | Vice-Principal | [SHAHUL_Hameed_Kuthubudeen@schools.gov.sg](mailto:SHAHUL_Hameed_Kuthubudeen@schools.gov.sg) |
+| Ms Teo Celine  | Vice-Principal |[teo_celine@schools.gov.sg](mailto:teo_celine@schools.gov.sg) |
 | Mr Hong Heng Yan | Vice-Principal (Admin) | [HONG_heng_yan@schools.gov.sg](mailto:HONG_heng_yan@schools.gov.sg) |
 | Mrs Ng Kiat Bee | HOD – English Language | [lee_kiat_bee@moe.edu.sg](mailto:lee_kiat_bee@moe.edu.sg) |
 | Mdm Koh Lee Keng | HOD – Mother Tongue Languages | [koh_lee_keng@moe.edu.sg](mailto:koh_lee_keng@moe.edu.sg) |
