@@ -36,7 +36,7 @@ variant: tiptap
 </li>
 </ol>
 <h4><strong>Book Lists 2025</strong></h4>
-<p><a href="/files/ZHSS_2025_Booklst___Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Book List</a>
+<p><a href="/files/BOOKLIST.pdf" rel="noopener nofollow" target="_blank">Sec 1 Book List </a>
 <br><a href="/files/ZHSS_2025_Booklst___Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Book List</a>
 <br><a href="/files/ZHSS_2025_Booklst___Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Book List</a>
 <br><a href="/files/ZHSS_2025_Booklst___Sec_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Book List</a>
