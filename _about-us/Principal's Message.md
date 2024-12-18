@@ -27,10 +27,11 @@ themselves as they embark on their journey of self-discovery and learning.</p>
 <p>The period from 2023 to 2024 was one where we reviewed our processes and
 examined our efforts in our journey to develop our students. Other than
 reviewing our signature programmes, we also had a team of senior MOE personnel
-who validated our processes and provided many insights for us to further
-sharpen our focus. In 2025, we will continue to engage staff, students
-and stakeholders to consolidate our plans to better prepare Zhonghuarians
-for the future.</p>
+who validated our processes. They affirmed our customised curriculum to
+meet our diverse students’ needs, the strong culture of care for both our
+students and staff, and provided sound insights for us to further sharpen
+our focus. In 2025, we will continue to engage staff, students and stakeholders
+to consolidate our plans to better prepare Zhonghuarians for the future.</p>
 <p>Our <a href="https://www.zhonghuasec.moe.edu.sg/programmes/zhonghua-signature-programmes/" rel="noopener noreferrer nofollow" target="_blank">Future-ready Framework</a> shows
 our commitment to prepare our students to be ready for life, for work,
 and for learning. These platforms and the day-to-day learning inside and
