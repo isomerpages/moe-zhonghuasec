@@ -24,7 +24,7 @@ variant: tiptap
 <p>Posting Group</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>2025</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@ variant: tiptap
 <p>PG3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 - 13</p>
+<p>6 - 12</p>
 </td>
 </tr>
 <tr>
