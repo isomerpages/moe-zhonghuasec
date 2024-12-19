@@ -13,8 +13,8 @@ variant: markdown
 | Ms Rozianna Mohammed Affandi| Level Head - Science | [rozianna_mohammed_affendi@moe.edu.sg](mailto:rozianna_mohammed_affendi@moe.edu.sg) | 65938100-203 |
 | Mr Christopher Lim | Assistant Year Head | [christopher_lim_wei_chern@moe.edu.sg](mailto:christopher_lim_wei_chern@moe.edu.sg) |  65938-135 |
 | Ms Ong Lay Hong | Senior Teacher - Chemistry | [ong_lay_hong@moe.edu.sg](mailto:ong_lay_hong@moe.edu.sg) | 65938-137 |
-| Mrs Maybrie Ang| Senior Teacher - Chemistry | [maybrie_ang_mai_mai@moe.edu.sg](mailto:maybrie_ang_mai_mai@moe.edu.sg) | 65938-128 |
 | Mr Goh Tze Mian | Senior Teacher - Character and Citizenship Education | [goh_tze_mian@moe.edu.sg](mailto:goh_tze_mian@moe.edu.sg) | 65938-189 |
+| Mrs Maybrie Ang| Teacher | [maybrie_ang_mai_mai@moe.edu.sg](mailto:maybrie_ang_mai_mai@moe.edu.sg) | 65938-128 |
 | Mr Tan Li Chun | Teacher | [tan_li_chun@moe.edu.sg](mailto:tan_li_chun@moe.edu.sg) | 65938-131 |
 | Mrs Ngiam-Fok Kar Yin | Teacher | [fok_kar_yin@moe.edu.sg](mailto:fok_kar_yin@moe.edu.sg) | 65938100-189 |
 | Ms Julia Yeo | Teacher | [yeo_yun_fang_julia@moe.edu.sg](mailto:yeo_yun_fang_julia@moe.edu.sg) | 65938-166 |
