@@ -4,7 +4,7 @@ permalink: /admissions/sec-1-posting/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Sec 1 AL Range</strong></h4>
+<h4><strong>Sec 1 AL Range for 2025</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

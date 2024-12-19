@@ -11,9 +11,9 @@ sections:
       background: /images/hero1.gif
       url: /about-us/contact-us/
       key_highlights:
-        - title: Sec 1 Posting
+        - title: Sec 1 2025 Microsite
           description: ""
-          url: https://www.zhonghuasec.moe.edu.sg/admissions/sec-1-posting/
+          url: https://sites.google.com/moe.edu.sg/2025zhonghuasec1infoportal
         - title: Announcements
           description: ""
           url: /announcements/
