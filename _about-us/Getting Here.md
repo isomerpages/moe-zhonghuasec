@@ -8,7 +8,7 @@ variant: tiptap
 School from Serangoon MRT Station and Bus Interchange.</p>
 <p>Sit back and enjoy!
 <br>
-<br>(video pending)
+<br> <a href="https://www.youtube.com/watch?v=VzOBxC3k3zo" rel="noopener nofollow" target="_blank">https://www.youtube.com/watch?v=VzOBxC3k3zo</a>
 <br>
 <br><strong>Contact Us</strong>
 </p>
