@@ -7,14 +7,11 @@ variant: markdown
 ---
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
-| Ms Subathra Shugumaran | Head of Department - Character and Citizenship Education | [subathra_shugumaran@moe.edu.sg](mailto:subathra_shugumaran@moe.edu.sg) | 65938-121 |
-| Ms Noraini Mohamed  | Head of Department - Special Educational Needs | [noraini_mohamed@moe.edu.sg](mailto:noraini_mohamed@moe.edu.sg)  | 65938-119  |
+| Ms Lee Li'Neng Marie | Head of Department - Character and Citizenship Education | [lee_li_neng_marie@moe.edu.sg](mailto:lee_li_neng_marie@moe.edu.sg) | 65938- |
 | Mr Ron Low  | Head of Department - Student Management | [low_yao_ming@moe.edu.sg](mailto:low_yao_ming@moe.edu.sg) | 65938-135 |
-| Ms Tan Chye I | Head of Department - Student Leadership & Partnership | [tan_chye_i@moe.edu.sg](mailto:tan_chye_i@moe.edu.sg) | 65938-178 |
-| Mr Ang Chun Hua | Year Head - Lower Secondary | [ang_chun_hua@moe.edu.sg](mailto:ang_chun_hua@moe.edu.sg) | 65938-155 |
-| Ms Estee Teo | Year Head - Upper Secondary | [teo_kexin_estee@moe.edu.sg](mailto:teo_kexin_estee@moe.edu.sg) | 65938-177 |
-| Ms Rozianna| Assistant Year Head - Lower Sec | [rozianna_mohammed_affendi@moe.edu.sg](mailto:rozianna_mohammed_affendi@moe.edu.sg) | 65938-162 |
-| Mr Christopher Lim | Assistant Year Head - Upper Sec | [christopher_lim_wei_chern@moe.edu.sg](mailto:christopher_lim_wei_chern@moe.edu.sg) | 65938-135 |
+| Mr Ang Chun Hua | Year Head | [ang_chun_hua@moe.edu.sg](mailto:ang_chun_hua@moe.edu.sg) | 65938-155 |
+| Ms Rozianna| Level Head - Science | [rozianna_mohammed_affendi@moe.edu.sg](mailto:rozianna_mohammed_affendi@moe.edu.sg) | 65938-162 |
+| Mr Christopher Lim | Assistant Year Head | [christopher_lim_wei_chern@moe.edu.sg](mailto:christopher_lim_wei_chern@moe.edu.sg) | 65938-135 |
 | Mr Vincent Loh | Subject Head - Student Well-being| [loh_guan_wee_vincent@moe.edu.sg](mailto:loh_guan_wee_vincent@moe.edu.sg) | 65938-150 |
 | Ms Lena Teo | Subject Head - Student Leadership | [lena_teo_ying_hui@moe.edu.sg](mailto:lena_teo_ying_hui@moe.edu.sg) | 65938-140 |
 | Mrs Crystal Tan | Subject Head - Character and Citizenship Education | [crystal_ling_yuet_ping@moe.edu.sg](mailto:crystal_ling_yuet_ping@moe.edu.sg) | 65938-133|
