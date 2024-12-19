@@ -10,8 +10,9 @@ variant: markdown
 | Ms Lee Li'Neng Marie | Head of Department - Character and Citizenship Education | [lee_li_neng_marie@moe.edu.sg](mailto:lee_li_neng_marie@moe.edu.sg) | 65938- |
 | Mr Ron Low  | Head of Department - Student Management | [low_yao_ming@moe.edu.sg](mailto:low_yao_ming@moe.edu.sg) | 65938-135 |
 | Mr Ang Chun Hua | Year Head | [ang_chun_hua@moe.edu.sg](mailto:ang_chun_hua@moe.edu.sg) | 65938-155 |
-| Ms Rozianna| Level Head - Science | [rozianna_mohammed_affendi@moe.edu.sg](mailto:rozianna_mohammed_affendi@moe.edu.sg) | 65938-162 |
+| Ms Subathra Shugumaran | Year Head | [subathra_shugumaran@moe.edu.sg](mailto:subathra_shugumaran@moe.edu.sg) | 65938-121 |
 | Mr Christopher Lim | Assistant Year Head | [christopher_lim_wei_chern@moe.edu.sg](mailto:christopher_lim_wei_chern@moe.edu.sg) | 65938-135 |
+| Ms Lum Shu Wei | Assistant Year Head | [lum_shu_wei@moe.edu.sg](mailto:lum_shu_wei@moe.edu.sg) | 65938-131 |
 | Mr Vincent Loh | Subject Head - Student Well-being| [loh_guan_wee_vincent@moe.edu.sg](mailto:loh_guan_wee_vincent@moe.edu.sg) | 65938-150 |
 | Ms Lena Teo | Subject Head - Student Leadership | [lena_teo_ying_hui@moe.edu.sg](mailto:lena_teo_ying_hui@moe.edu.sg) | 65938-140 |
 | Mrs Crystal Tan | Subject Head - Character and Citizenship Education | [crystal_ling_yuet_ping@moe.edu.sg](mailto:crystal_ling_yuet_ping@moe.edu.sg) | 65938-133|
