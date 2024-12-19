@@ -8,10 +8,10 @@ variant: markdown
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
 | Mrs Ng Kiat Bee | Head Of Department – English Language  | [lee_kiat_bee@moe.edu.sg](mailto:lee_kiat_bee@moe.edu.sg) | 65938-123 |
+| Ms Subathra Shugumaran | Year Head |  [subathra_shugumaran@moe.edu.sg](mailto:subathra_shugumaran@moe.edu.sg) | 65938-121 |
 | Ms Lum Shu Wei| Assistant Year Head | [lum_shu_wei@moe.edu.sg](mailto:lum_shu_wei@moe.edu.sg) | 65938-131 |
 | Ms Kheng Hwee Teng | Level Head - English Language | [kheng_hwee_teng@moe.edu.sg](mailto:kheng_hwee_teng@moe.edu.sg) | 65938-163 |
 | Mr Lim Yong Khern | Senior Teacher - English Language | [lim_yong_khern@moe.edu.sg](mailto:lim_yong_khern@moe.edu.sg) | 65938-126 |
-| Ms Subathra Shugumaran | Year Head |  [subathra_shugumaran@moe.edu.sg](mailto:subathra_shugumaran@moe.edu.sg) | 65938-121 |
 | Mrs Crystal Tan | Subject Head - Character and Citizenship Education| [crystal_ling_yuet_ping@moe.edu.sg](mailto:crystal_ling_yuet_ping@moe.edu.sg) | 65938-133 |
 | Ms Isabelle Chua | Teacher | [chua_fang_yee_isabelle@moe.edu.sg](mailto:chua_fang_yee_isabelle@moe.edu.sg) | 65938-148 |
 | Ms Julian Loh | Teacher | [loh_julian@moe.edu.sg](mailto:loh_julian@moe.edu.sg) | 65938-165 |
