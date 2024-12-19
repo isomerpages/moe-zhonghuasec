@@ -10,6 +10,7 @@ variant: markdown
 | Mr Hazry Hamzah | Head of Department – Humanities | [hazry_hamzah@moe.edu.sg](mailto:hazry_hamzah@moe.edu.sg) | 65938-118 |
 | Ms Lena Teo Ying Hui | Subject Head – Student Leadership | [lena_teo_ying_hui@moe.edu.sg](mailto:lena_teo_ying_hui@moe.edu.sg) | 65938-140 |
 | Mrs Ho-Tam Mee Fong | Teacher | [tam_mee_fong@moe.edu.sg](mailto:tam_mee_fong@moe.edu.sg) | 65938-136 |
+| Ms Noraini Mohamed | Teacher | [noraini_mohamed@moe.edu.sg](mailto:noraini_mohamed@moe.edu.sg) | 65938-119 |
 | Ms Nurliza Bte Yusof | Teacher | [nurliza_yusof@moe.edu.sg](mailto:nurliza_yusof@moe.edu.sg) | 65938-165 |
 | Ms June Leow | Teacher | [june_leow_xin_yi@moe.edu.sg](mailto:june_leow_xin_yi@moe.edu.sg) | 65938-157 |
 | Mr Adam Ang | Teacher | [kah_chin_adam_ang@moe.edu.sg](mailto:kah_chin_adam_ang@moe.edu.sg) | 65938-133 |
