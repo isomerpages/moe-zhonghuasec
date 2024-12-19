@@ -8,15 +8,14 @@ variant: markdown
 | Name | Designation | Email Address | Contact |
 |---|---|---|---|
 | Mrs Ng Kiat Bee | Head Of Department – English Language  | [lee_kiat_bee@moe.edu.sg](mailto:lee_kiat_bee@moe.edu.sg) | 65938-123 |
-| Ms Lum Shu Wei| Subject Head – Literature in English | [lum_shu_wei@moe.edu.sg](mailto:lum_shu_wei@moe.edu.sg) | 65938-131 |
+| Ms Lum Shu Wei| Assistant Year Head | [lum_shu_wei@moe.edu.sg](mailto:lum_shu_wei@moe.edu.sg) | 65938-131 |
 | Ms Kheng Hwee Teng | Level Head - English Language | [kheng_hwee_teng@moe.edu.sg](mailto:kheng_hwee_teng@moe.edu.sg) | 65938-163 |
 | Mr Lim Yong Khern | Senior Teacher - English Language | [lim_yong_khern@moe.edu.sg](mailto:lim_yong_khern@moe.edu.sg) | 65938-126 |
-| Ms Subathra Shugumaran | Head of Department - Character and Citizenship Education |  [subathra_shugumaran@moe.edu.sg](mailto:subathra_shugumaran@moe.edu.sg) | 65938-121 |
+| Ms Subathra Shugumaran | Year Head |  [subathra_shugumaran@moe.edu.sg](mailto:subathra_shugumaran@moe.edu.sg) | 65938-121 |
 | Mrs Crystal Tan | Subject Head - Character and Citizenship Education| [crystal_ling_yuet_ping@moe.edu.sg](mailto:crystal_ling_yuet_ping@moe.edu.sg) | 65938-133 |
 | Ms Isabelle Chua | Teacher | [chua_fang_yee_isabelle@moe.edu.sg](mailto:chua_fang_yee_isabelle@moe.edu.sg) | 65938-148 |
 | Ms Julian Loh | Teacher | [loh_julian@moe.edu.sg](mailto:loh_julian@moe.edu.sg) | 65938-165 |
 | Ms Amanda Tan | Teacher | [tan_si_hui_amanda@moe.edu.sg](mailto:tan_si_hui_amanda@moe.edu.sg) | 65938-164 |
-| Mr Imaduddin Ahmad | Teacher | [imaduddin_ahmad_chevi_rafiudin@moe.edu.sg](mailto:imaduddin_ahmad_chevi_rafiudin@moe.edu.sg) | 65938-153 |
 | Mrs Cheryl Chew| Teacher | [lim_pei_chen_cheryl@moe.edu.sg](mailto:lim_pei_chen_cheryl@moe.edu.sg) | 65938-159  |
 | Ms Cindy Soh | Teacher | [soh_sock_kheng@moe.edu.sg](mailto:soh_sock_kheng@moe.edu.sg) | 65938-143  | 
 | Ms Calista Chan | Teacher | [chan_kai_wai_calista@moe.edu.sg](mailto:chan_kai_wai_calista@moe.edu.sg) | 65938-135  |
