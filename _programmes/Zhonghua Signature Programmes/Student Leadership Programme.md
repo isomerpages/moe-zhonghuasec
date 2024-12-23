@@ -287,7 +287,7 @@ engagement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/VxPhuOgX3x4" rel="noopener noreferrer nofollow" target="_blank">Episode 1: No Room for Racism</a>
+<p><a href="https://www.youtube.com/watch?v=ET7i6cMbgZc&amp;t=2s" rel="noopener noreferrer nofollow" target="_blank">Episode 1: No Room for Racism</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -301,7 +301,7 @@ engagement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/b_NQxo5ZWtA" rel="noopener noreferrer nofollow" target="_blank">Episode 2: Tray Return Initiative</a>
+<p><a href="https://www.youtube.com/watch?v=9z3tveordQQ" rel="noopener noreferrer nofollow" target="_blank">Episode 2: Tray Return Initiative</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -315,7 +315,7 @@ engagement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/4lLpT30OUCw" rel="noopener noreferrer nofollow" target="_blank">Episode 3: Go Green Go Clean</a>
+<p><a href="https://www.youtube.com/watch?v=CfpnPOX_SDk" rel="noopener noreferrer nofollow" target="_blank">Episode 3: Go Green Go Clean</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -329,7 +329,7 @@ engagement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/lmtRmI_HT8Q" rel="noopener noreferrer nofollow" target="_blank">Episode 4: Mental Health Matters</a>
+<p><a href="https://www.youtube.com/watch?v=RaGakD2m_3Q" rel="noopener noreferrer nofollow" target="_blank">Episode 4: Mental Health Matters</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -343,7 +343,7 @@ engagement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/u94piJI13JQ" rel="noopener noreferrer nofollow" target="_blank">Episode 5: National Day</a>
+<p><a href="https://www.youtube.com/watch?v=GlAk6NVRRZ4" rel="noopener noreferrer nofollow" target="_blank">Episode 5: National Day</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -357,7 +357,7 @@ engagement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/S6Vwb96qOgw" rel="noopener noreferrer nofollow" target="_blank">Episode 6: Managing Digital Distractions</a>
+<p><a href="https://www.youtube.com/watch?v=zie6A_P_Cjw" rel="noopener noreferrer nofollow" target="_blank">Episode 6: Managing Digital Distractions</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -371,7 +371,7 @@ engagement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/k_JyagpeXnM" rel="noopener noreferrer nofollow" target="_blank">Episode 7: What Does Success Mean To You?</a>
+<p><a href="https://www.youtube.com/watch?v=5fqBR6agFtU" rel="noopener noreferrer nofollow" target="_blank">Episode 7: What Does Success Mean To You?</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -385,7 +385,7 @@ engagement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/Y2GIYEzd_Pg" rel="noopener noreferrer nofollow" target="_blank">Episode 8: Celebrating Differences Through Freiendship</a>
+<p><a href="https://youtu.be/Y2GIYEzd_Pg" rel="noopener noreferrer nofollow" target="_blank">Episode 8: Celebrating Differences Through Friendship</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -400,7 +400,7 @@ engagement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/WPJ8_-rFFIs" rel="noopener noreferrer nofollow" target="_blank">Episode 9: Together, As One United People</a>
+<p><a href="https://www.youtube.com/watch?v=ImikXom2is8" rel="noopener noreferrer nofollow" target="_blank">Episode 9: Together, As One United People</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
