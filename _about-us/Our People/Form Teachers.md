@@ -78,13 +78,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Mai Mai Maybrie</p>
+<p>Mrs Maybrie Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="maybrie_ang_mai_mai@moe.edu.sg" rel="noopener nofollow" target="_blank">maybrie_ang_mai_mai@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>65938-128</p>
 </td>
 </tr>
 <tr>
