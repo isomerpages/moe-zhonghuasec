@@ -66,7 +66,8 @@ variant: tiptap
 <p>Nurul 'Ain Binte Sahat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nurul_ain_sahat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_ain_sahat@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
