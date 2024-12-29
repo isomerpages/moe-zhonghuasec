@@ -78,6 +78,20 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Chan Mai Mai Maybrie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1C2</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Teo Ang Guan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,21 +100,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-142</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1C2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tham Qi Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tham_qi_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tham_qi_ying@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-116</p>
 </td>
 </tr>
 <tr>
