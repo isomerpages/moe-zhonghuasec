@@ -167,14 +167,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Eddie Pang</p>
+<p>Ms Destiny See Yeo Sin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pang_kar_loon_eddie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_kar_loon_eddie@moe.edu.sg</a>
+<p><a href="mailto:see_yeo_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_yeo_sin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-172</p>
+<p>65938-164</p>
 </td>
 </tr>
 <tr>
