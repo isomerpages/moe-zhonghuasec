@@ -1013,13 +1013,14 @@ variant: tiptap
 <p>4E3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Isabelle Chua</p>
+<p>Ms Joy Eu Li Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_fang_yee_isabelle@moe.edu.sg</p>
+<p><a href="mailto:joy_eu_li_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joy_eu_li_xin@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-148</p>
+<p>65938-128</p>
 </td>
 </tr>
 <tr>
