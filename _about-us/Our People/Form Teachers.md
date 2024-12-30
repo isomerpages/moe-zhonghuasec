@@ -1014,10 +1014,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Joy Eu Li Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="joy_eu_li_xin@moe.edu.sg" rel="noopener nofollow" target="_blank">joy_eu_li_xin@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
