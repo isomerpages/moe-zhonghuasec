@@ -894,4 +894,3 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>Secondary 4</strong></h4>
-<p>Secondary 3</p>
