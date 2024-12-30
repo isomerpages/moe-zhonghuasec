@@ -1093,7 +1093,7 @@ variant: tiptap
 <p>chai_hsueh_chi_michelle@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-161</p>
+<p>65938-205</p>
 </td>
 </tr>
 <tr>
@@ -1101,11 +1101,10 @@ variant: tiptap
 <p>4E6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Adam Ang</p>
+<p>Ms Teo Jing Zhi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kah_chin_adam_ang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kah_chin_adam_ang@moe.edu.sg</a>
-</p>
+<p>teo_jing_zhi@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-133</p>
