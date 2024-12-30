@@ -261,7 +261,8 @@ variant: tiptap
 <p>Loke Cheok Meng Shamen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>noorlizah_suriyap@moe.edu.sg</p>
+<p><a href="noorlizah_suriyap@moe.edu.sg" rel="noopener nofollow" target="_blank">noorlizah_suriyap@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-130</p>
@@ -275,7 +276,8 @@ variant: tiptap
 <p>Ms Lee Sock Kee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_sock_kee@moe.edu.sg</p>
+<p><a href="lee_sock_kee@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_sock_kee@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-163</p>
@@ -289,7 +291,8 @@ variant: tiptap
 <p>Mr Soh Wei Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>soh_wei_cheng@moe.edu.sg</p>
+<p><a href="soh_wei_cheng@moe.edu.sg" rel="noopener nofollow" target="_blank">soh_wei_cheng@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
