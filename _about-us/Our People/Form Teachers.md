@@ -473,13 +473,14 @@ variant: tiptap
 <p>2I5</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Wang Sichuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="wang_sichuan@moe.edu.sg" rel="noopener nofollow" target="_blank">wang_sichuan@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wang_sichuan@</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-142</p>
 </td>
 </tr>
 <tr>
@@ -1255,4 +1256,4 @@ variant: tiptap
 </tbody>
 </table>
 <h4></h4>
-<p></p>
+<p>mo</p>
