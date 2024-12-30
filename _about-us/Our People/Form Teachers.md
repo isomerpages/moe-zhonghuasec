@@ -811,7 +811,7 @@ variant: tiptap
 <p>3R6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sitinur Azreen Bte Halil</p>
+<p>Ms June Leow Xin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sitinur_azreen_halil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sitinur_azreen_halil@moe.edu.sg</a>
