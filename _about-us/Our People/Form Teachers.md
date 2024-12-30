@@ -746,7 +746,8 @@ variant: tiptap
 <p>Ms Xiao Yue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>xiao_yue@moe.edu.sg</p>
+<p><a href="xiao_yue@moe.edu.sg" rel="noopener nofollow" target="_blank">xiao_yue@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-146</p>
