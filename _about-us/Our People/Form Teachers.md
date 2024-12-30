@@ -954,14 +954,14 @@ variant: tiptap
 <p>4E1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Maybrie Ang</p>
+<p>Mr Chong Yee Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:maybrie_ang_mai_mai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maybrie_ang_mai_mai@moe.edu.sg</a>
+<p><a href="mailto:chong_yee_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_yee_ming@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-128</p>
+<p>65938-129</p>
 </td>
 </tr>
 <tr>
@@ -969,14 +969,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Sock Kee</p>
+<p>Ms Josephine Peh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_sock_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sock_kee@moe.edu.sg</a>
-</p>
+<p>josephine_peh_meng_yin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-163</p>
+<p>65938-185</p>
 </td>
 </tr>
 <tr>
