@@ -123,7 +123,7 @@ variant: tiptap
 <p>1C3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alethea Go Ei Min_Yi</p>
+<p>Alethea Go</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="alethea_goei_min_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">alethea_goei_min_yi@moe.edu.sg</a>
