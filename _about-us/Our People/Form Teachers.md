@@ -370,10 +370,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Hwee Qin</p>
+<p>Mr Matthias Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_hwee_qin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hwee_qin@moe.edu.sg</a>
+<p><a href="mailto:matthias_chan_yong_shun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">matthias_chan_yong_shun@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
