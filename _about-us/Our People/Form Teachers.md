@@ -286,14 +286,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Tze Mian</p>
+<p>Soh Wei Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_tze_mian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_tze_mian@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-189</p>
+<p></p>
 </td>
 </tr>
 </tbody>
