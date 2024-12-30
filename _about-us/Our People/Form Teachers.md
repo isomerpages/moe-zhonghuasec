@@ -752,10 +752,10 @@ variant: tiptap
 <p>3R4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rozianna</p>
+<p>Mr Lionel Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rozianna_mohammed_affendi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rozianna_mohammed_affendi@moe.edu.sg</a>
+<p><a href="mailto:ang_lee_chun_lionel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_lee_chun_lionel@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -773,7 +773,7 @@ variant: tiptap
 <p>leow_kai_yin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-143</p>
+<p>65938-186</p>
 </td>
 </tr>
 <tr>
