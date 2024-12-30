@@ -600,7 +600,7 @@ variant: tiptap
 <p>Ms Lum Shu Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lum_shu_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_shu_wei@moe.edu.sg</a> 
+<p><a href="mailto:lum_shu_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_shu_wei@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1154,7 +1154,7 @@ variant: tiptap
 <p>5E2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zafir Bin Said</p>
+<p>Mr Zafir Bin Said</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zafir_said@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zafir_said@moe.edu.sg</a>
