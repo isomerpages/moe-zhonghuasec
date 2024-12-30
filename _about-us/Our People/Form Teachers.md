@@ -670,7 +670,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>65938-125</p>
 </td>
 </tr>
 <tr>
@@ -678,10 +678,11 @@ variant: tiptap
 <p>3R2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Chen Yit Chien</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chen_yit_chien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_yit_chien@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
