@@ -1013,14 +1013,13 @@ variant: tiptap
 <p>4E3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joy Eu Li Xin</p>
+<p>Ms Isabelle Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:joy_eu_li_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joy_eu_li_xin@moe.edu.sg</a>
-</p>
+<p>chua_fang_yee_isabelle@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-128</p>
+<p>65938-148</p>
 </td>
 </tr>
 <tr>
@@ -1028,7 +1027,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Anna Yeo</p>
+<p>Ms Isabelle Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_li_min_anna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_li_min_anna@moe.edu.sg</a>
