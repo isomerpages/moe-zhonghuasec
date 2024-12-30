@@ -198,10 +198,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ng Yew Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="ng_yew_hong_a@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_yew_hong_a@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
