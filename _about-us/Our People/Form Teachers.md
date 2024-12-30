@@ -382,32 +382,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Gabriel Cheang Song Jing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:gabriel_cheang_song_jing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gabriel_cheang_song_jing@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-130</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2I2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lena Teo</p>
+<p>Ms Tham Qi Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lena_teo_ying_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lena_teo_ying_hui@moe.edu.sg</a>
+<p><a href="mailto:tham_qi_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_qi_ying@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-140</p>
+<p>65938-116</p>
 </td>
 </tr>
 <tr>
