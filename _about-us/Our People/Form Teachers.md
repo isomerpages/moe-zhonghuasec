@@ -595,5 +595,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Secondary 3</strong><br></h4>
-<p>3R5</p>
+<p></p>
