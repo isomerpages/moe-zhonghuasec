@@ -767,14 +767,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Ching Poh</p>
+<p>Ms Leow Kai Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_ching_poh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ching_poh@moe.edu.sg</a>
-</p>
+<p>leow_kai_yin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-136</p>
+<p>65938-143</p>
 </td>
 </tr>
 <tr>
