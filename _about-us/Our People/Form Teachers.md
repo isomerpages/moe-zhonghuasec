@@ -600,7 +600,8 @@ variant: tiptap
 <p>Ms Lum Shu Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lum_shu_wei@moe.edu.sg</p>
+<p><a href="mailto:lum_shu_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_shu_wei@moe.edu.sg</a> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-131</p>
