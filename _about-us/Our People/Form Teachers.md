@@ -301,7 +301,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>Secondary 2</strong></h4>
-<table style="minWidth: 100px">
+<h4><strong>Secondary 3</strong><br></h4><p></p><table style="minWidth: 100px">
 <colgroup>
 <col>
 <col>
@@ -589,6 +589,8 @@ variant: markdown
 <p><a href="yeong_whye_leong.moe.edu.sg" rel="noopener nofollow" target="_blank">yeong_whye_leong@moe.edu.sg</a>
 </p>
 </td>
+	
+
 <td rowspan="1" colspan="1">
 <p>65938-163</p>
 </td>
