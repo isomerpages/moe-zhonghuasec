@@ -994,6 +994,21 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Pang Hong Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="pang_hong_ming@moe.edu.sg" rel="noopener nofollow" target="_blank">pang_hong_ming@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
