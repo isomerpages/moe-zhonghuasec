@@ -288,10 +288,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Soh Wei Cheng</p>
+<p>Mr Soh Wei Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="soh_wei_cheng@moe.edu.sg" rel="noopener nofollow" target="_blank">soh_wei_cheng@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
