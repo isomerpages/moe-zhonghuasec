@@ -1073,14 +1073,13 @@ variant: tiptap
 <p>4E5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lionel Ang</p>
+<p>Ms Chan Bao Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_lee_chun_lionel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_lee_chun_lionel@moe.edu.sg</a>
-</p>
+<p>chan_bao_chan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-186</p>
+<p>65938-207</p>
 </td>
 </tr>
 <tr>
@@ -1088,14 +1087,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Janice Loo</p>
+<p>Ms Michelle Chai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:janice_loo_zhi_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">janice_loo_zhi_min@moe.edu.sg</a>
-</p>
+<p>chai_hsueh_chi_michelle@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-207</p>
+<p>65938-161</p>
 </td>
 </tr>
 <tr>
