@@ -1115,14 +1115,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Jing Zhi</p>
+<p>Mr Lim Yong Khern</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_jing_zhi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_jing_zhi@moe.edu.sg</a>
-</p>
+<p>lim_yong_khern@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-205</p>
+<p>65938-126</p>
 </td>
 </tr>
 <tr>
