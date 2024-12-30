@@ -518,13 +518,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tai Jia Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tai_jia_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tai_jia_hui@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-164</p>
+<p>65938-134</p>
 </td>
 </tr>
 <tr>
