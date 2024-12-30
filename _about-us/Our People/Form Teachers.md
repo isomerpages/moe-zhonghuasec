@@ -917,7 +917,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4E1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chong Yee Ming</p>
@@ -935,10 +935,25 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Josephine Peh Meng Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="josephine_peh_meng_yin@moe.edu.sg" rel="noopener nofollow" target="_blank">josephine_peh_meng_yin@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Noorlizah Bte Suriyap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pang Hong Ming</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
