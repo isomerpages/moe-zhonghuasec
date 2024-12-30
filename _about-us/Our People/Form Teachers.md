@@ -214,8 +214,7 @@ variant: tiptap
 <p>Ms Calista Chan Kai Wai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chan_kai_wai_calista@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-135</p>
