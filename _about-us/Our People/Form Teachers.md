@@ -870,13 +870,14 @@ variant: tiptap
 <p>3R8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Xu Zhenyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:xu_zhenyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_zhenyi@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>65938-161</p>
 </td>
 </tr>
 <tr>
