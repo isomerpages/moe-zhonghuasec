@@ -595,7 +595,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Secondary 3</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -891,4 +890,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4><strong>Secondary 3</strong><br></h4>
+<p></p>
+<h4><strong>Secondary 4</strong></h4>
+<p></p>
 <p>3R5</p>
