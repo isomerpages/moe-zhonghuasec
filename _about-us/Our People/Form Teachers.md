@@ -583,10 +583,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kheng Hwee Teng</p>
+<p>Mr Yeong Whye Leong Benjamin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kheng_hwee_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kheng_hwee_teng@moe.edu.sg</a>
+<p><a href="yeong_whye_leong.moe.edu.sg" rel="noopener nofollow" target="_blank">yeong_whye_leong@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
