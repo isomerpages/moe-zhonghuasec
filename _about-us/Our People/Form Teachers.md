@@ -892,7 +892,6 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Secondary 4</strong></h4>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
