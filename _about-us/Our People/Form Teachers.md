@@ -25,7 +25,7 @@ variant: markdown
 | 1C7|Ms Lee Yi Ern|[yi_ern_lee@moe.edu.sg](mailto:yi_ern_lee@moe.edu.sg) |65938-204
 |  |Mr Loke Cheok Meng Shamen|[loke_choek_meng_shamen@moe.edu.sg](mailto:loke_choek_meng_shamen@moe.edu.sg) |-
 | 1C8|Ms Lee Sock Kee|[lee_sock_kee@moe.edu.sg](mailto:lee_sock_kee@moe.edu.sg) |65938-163
-|  |Mr Soh Wei Cheng|[soh_wei_cheng@moe.edu.sg](mailto:soh_wei_cheng@moe.edu.sg) |-
+|  |Mr Soh Wei Cheng|[soh_wei_cheng@moe.edu.sg](mailto:soh_wei_cheng@moe.edu.sg) |-|
 #### **Secondary 2**
 | Name | Year Head/Form Teacher | Email Address | Contact  |
 |---|---|---|---|
@@ -46,5 +46,5 @@ variant: markdown
 | 2I7|Mr Jerome Ong|[jerome_ong_lin_xiong@moe.edu.sg](mailto:jerome_ong_lin_xiong@moe.edu.sg) |65938-208
 ||Ms Lee Yi Ern|[yi_ern_lee@moe.edu.sg](mailto:yi_ern_lee@moe.edu.sg) |65938-204
 | 2I8|Mdm Tan Jee Niang|[tan_jee_niang_a@moe.edu.sg](mailto:tan_jee_niang_a@moe.edu.sg) |65938-160
-||Ms Kheng Hwee Teng|[kheng_hwee_teng@moe.edu.sg](mailto:kheng_hwee_teng@moe.edu.sg) |65938-163
+||Ms Kheng Hwee Teng|[kheng_hwee_teng@moe.edu.sg](mailto:kheng_hwee_teng@moe.edu.sg) |65938-163|
 #### **Secondary 3**
