@@ -1159,7 +1159,7 @@ variant: tiptap
 <p>4E8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Calvin Heng</p>
+<p>Soh Sock Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="soh_sock_kheng@moe.edu.sg" rel="noopener nofollow" target="_blank">soh_sock_kheng@moe.edu.sg</a>
