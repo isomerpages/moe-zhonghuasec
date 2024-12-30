@@ -44,17 +44,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Chun Hua</p>
+<p>Mr Leow Kai Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
+<p>Level Head - Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_chun_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chun_hua@moe.edu.sg</a>
+<p><a href="https://www.zhonghuasec.moe.edu.sg/about-us/our-people/form-teachers/leow_kai_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leow_kai_yin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-155</p>
+<p>65938-143</p>
 </td>
 </tr>
 <tr>
