@@ -473,11 +473,10 @@ variant: tiptap
 <p>2I5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Ang Guan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_ang_guan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_ang_guan@moe.edu.sg</a>
-</p>
+<p>wang_sichuan@</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-142</p>
