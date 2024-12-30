@@ -119,21 +119,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Brandon Choy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head - Data Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:brandon_choy_wai_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">brandon_choy_wai_keong@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-149</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Josephine Peh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -250,21 +235,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-137</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ezzy Chan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chan_weng_cheong_ezzy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_weng_cheong_ezzy@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-139</p>
 </td>
 </tr>
 <tr>
