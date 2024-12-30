@@ -796,14 +796,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Michelle Chai</p>
+<p>Ms Janice Loo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chai_hsueh_chi_michelle@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chai_hsueh_chi_michelle@moe.edu.sg</a>
+<p><a href="mailto:janice_loo_zhi_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">janice_loo_zhi_min@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-161</p>
+<p>65938-207</p>
 </td>
 </tr>
 <tr>
