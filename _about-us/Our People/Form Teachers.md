@@ -1058,14 +1058,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Brandon Choy</p>
+<p>Mr Goh Ching Poh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:brandon_choy_wai_keong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">brandon_choy_wai_keong@moe.edu.sg</a>
+<p><a href="mailto:goh_ching_poh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ching_poh@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-149</p>
+<p>65938-136</p>
 </td>
 </tr>
 <tr>
