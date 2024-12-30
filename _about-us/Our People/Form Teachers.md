@@ -998,14 +998,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vanessa Tan</p>
+<p>Mr Pang Hong Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_wen_li_vanessa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wen_li_vanessa@moe.edu.sg</a>
+<p><a href="mailto:pang_hong_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_hong_ming@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-203</p>
+<p>65938-125</p>
 </td>
 </tr>
 <tr>
