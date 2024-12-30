@@ -149,21 +149,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Bee Choo Janice</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_bee_choo_janice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_bee_choo_janice@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-168</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1C4</p>
 </td>
 <td rowspan="1" colspan="1">
