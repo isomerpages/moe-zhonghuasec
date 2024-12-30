@@ -108,14 +108,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Li Chun</p>
+<p>Ms Julian Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_li_chun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_chun@moe.edu.sg</a>
+<p><a href="mailto:loh_julian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_julian@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-131</p>
+<p>65938-165</p>
 </td>
 </tr>
 <tr>
