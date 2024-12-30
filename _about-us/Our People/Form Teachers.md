@@ -719,7 +719,8 @@ variant: tiptap
 <p>Mr Calvin Heng Siang Boon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="heng_siang_boon_calvin@moe.edu.sg" rel="noopener nofollow" target="_blank">heng_siang_boon_calvin@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-141</p>
