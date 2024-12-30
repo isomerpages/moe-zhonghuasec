@@ -776,7 +776,8 @@ variant: tiptap
 <p>Ms Leow Kai Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>leow_kai_yin@moe.edu.sg</p>
+<p><a href="leow_kai_yin@moe.edu.sg" rel="noopener nofollow" target="_blank">leow_kai_yin@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-143</p>
