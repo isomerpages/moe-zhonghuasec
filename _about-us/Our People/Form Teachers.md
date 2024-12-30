@@ -770,10 +770,11 @@ variant: tiptap
 <p>Ms Janice Loo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>leow_kai_yin@moe.edu.sg</p>
+<p><a href="mailto:janice_loo_zhi_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">janice_loo_zhi_min@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-186</p>
+<p>65938-207</p>
 </td>
 </tr>
 <tr>
