@@ -429,14 +429,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Gavin Swee</p>
+<p>Ms Tan Bee Choo Janice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">swee_wei_ming_gavin@moe.edu.sg</a>
+<p><a href="mailto:tan_bee_choo_janice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_bee_choo_janice@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-150</p>
+<p>65938-168</p>
 </td>
 </tr>
 <tr>
