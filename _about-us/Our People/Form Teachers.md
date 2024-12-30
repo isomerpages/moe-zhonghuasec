@@ -738,14 +738,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Isabelle Chua</p>
+<p>Ms Xiao Yue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_fang_yee_isabelle@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_fang_yee_isabelle@moe.edu.sg</a>
-</p>
+<p>xiao_yue@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-148</p>
+<p>65938-146</p>
 </td>
 </tr>
 <tr>
