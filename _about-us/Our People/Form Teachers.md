@@ -727,10 +727,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Xiao Yue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:xiao_yue@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xiao_yue@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-203</p>
@@ -738,16 +739,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3R4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Rozianna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:rozianna_mohammed_affendi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rozianna_mohammed_affendi@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-143</p>
+<p>65938-203</p>
 </td>
 </tr>
 </tbody>
