@@ -1207,7 +1207,8 @@ variant: tiptap
 <p>Mr Zafir Bin Said</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zafir_said@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zafir_said@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-172</p>
@@ -1216,4 +1217,5 @@ variant: tiptap
 </tbody>
 </table>
 <h4></h4>
-<p>mo</p>
+<p>mo<a href="mailto:zafir_said@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zafir_said@moe.edu.sg</a>
+</p>
