@@ -44,21 +44,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Subathra Shugumaran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:subathra_shugumaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">subathra_shugumaran@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-121</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Kheng Hwee Teng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,6 +70,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-126</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Subathra Shugumaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:subathra_shugumaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">subathra_shugumaran@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-121</p>
 </td>
 </tr>
 <tr>
