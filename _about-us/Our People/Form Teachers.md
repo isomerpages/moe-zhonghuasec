@@ -859,6 +859,36 @@ variant: tiptap
 <p>65938-203</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Xu Zhenyi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:xu_zhenyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>xu_zhenyi@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Tze Mian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.zhonghuasec.moe.edu.sg/about-us/our-people/form-teachers/goh_tze_mian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_tze_mian@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-189</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>3R5</p>
