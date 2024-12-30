@@ -596,4 +596,3 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>Secondary 3</strong></h4>
-<p>Secondary 3</p>
