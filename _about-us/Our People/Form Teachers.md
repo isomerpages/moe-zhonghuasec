@@ -883,7 +883,7 @@ variant: tiptap
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Christopher Lim</p>
+<p>Mr ChristopherLim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:christopher_lim_wei_chern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_lim_wei_chern@moe.edu.sg</a>
