@@ -301,7 +301,7 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Secondary 2</strong></h4>
-<h4><strong>Secondary 3</strong><br></h4><p></p><table style="minWidth: 100px">
+<table style="minWidth: 100px">
 <colgroup>
 <col>
 <col>
@@ -589,14 +589,13 @@ variant: tiptap
 <p><a href="yeong_whye_leong.moe.edu.sg" rel="noopener nofollow" target="_blank">yeong_whye_leong@moe.edu.sg</a>
 </p>
 </td>
-	
-
 <td rowspan="1" colspan="1">
 <p>65938-163</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4><strong>Secondary 3</strong><br></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -892,7 +891,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Secondary 3</strong><br></h4>
 <p></p>
 <h4><strong>Secondary 4</strong></h4>
 <p></p>
