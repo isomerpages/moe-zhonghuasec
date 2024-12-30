@@ -530,21 +530,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Poon Li Yi Sheryl</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:poon_li_yi_sheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poon_li_yi_sheryl@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-151</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2I7</p>
 </td>
 <td rowspan="1" colspan="1">
