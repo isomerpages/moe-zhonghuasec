@@ -568,10 +568,10 @@ variant: tiptap
 <p>2I8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Li'neng, Marie</p>
+<p>Mrs Song-Tan Jee Niang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lee_li_neng_marie@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_li_neng_marie@moe.edu.sg</a>
+<p><a href="tan_jee_niang_a@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_jee_niang_a@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
