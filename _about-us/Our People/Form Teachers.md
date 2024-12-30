@@ -400,11 +400,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lum Shu Wei</p>
+<p>Mr Tan Li Chun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lum_shu_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_shu_wei@moe.edu.sg</a>
-</p>
+<p>tan_li_chun@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-131</p>
