@@ -1043,10 +1043,10 @@ variant: tiptap
 <p>4E4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms June Leow Xin Yi</p>
+<p>Soh Bee Pheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:june_leow_xin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">june_leow_xin_yi@moe.edu.sg</a>
+<p><a href="soh_bee_pheng@moe.edu.sg" rel="noopener nofollow" target="_blank">soh_bee_pheng@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
