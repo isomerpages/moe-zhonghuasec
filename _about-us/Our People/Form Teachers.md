@@ -1162,7 +1162,7 @@ variant: tiptap
 <p>Mr Calvin Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:heng_siang_boon_calvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heng_siang_boon_calvin@moe.edu.sg</a>
+<p><a href="soh_sock_kheng@moe.edu.sg" rel="noopener nofollow" target="_blank">soh_sock_kheng@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
