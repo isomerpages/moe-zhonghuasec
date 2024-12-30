@@ -459,14 +459,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms June Yeo</p>
+<p>Ms Nur Nasyrah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_yah_hwee_june@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yah_hwee_june@moe.edu.sg</a>
-</p>
+<p>nur_nasyrah_ahmad@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-162</p>
+<p>65938-140</p>
 </td>
 </tr>
 <tr>
