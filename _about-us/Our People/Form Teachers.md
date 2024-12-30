@@ -736,7 +736,8 @@ variant: tiptap
 <p>Mrs Cheryl Chew Lim Pei Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_pei_chen_cheryl</p>
+<p><a href="lim_pei_chen_cheryl@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_pei_chen_cheryl@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
