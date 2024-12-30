@@ -1031,7 +1031,7 @@ variant: tiptap
 <p>Ms Isabelle Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_li_min_anna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_li_min_anna@moe.edu.sg</a>
+<p><a href="mailto:chua_fang_yee_isabelle@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_fang_yee_isabelle@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
