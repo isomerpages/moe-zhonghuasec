@@ -885,29 +885,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Vincent Loh</p>
+<p>Mr Goh Tze Mian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_guan_wee_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_guan_wee_vincent@moe.edu.sg</a>
-</p>
+<p>goh_tze_mian@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-150</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jonathan Chen Junhong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jonathan_chen_junhong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jonathan_chen_junhong@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-128</p>
+<p>65938-189</p>
 </td>
 </tr>
 </tbody>
