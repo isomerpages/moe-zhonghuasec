@@ -3,28 +3,330 @@ title: Mathematics
 permalink: /about-us/our-people/mathematics/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-| Name | Designation | Email Address | Contact |
-|---|---|---|---|
-| Mr Francis Tan | Head of Department – Mathematics | [tan_chih_siang_francis@moe.edu.sg](mailto:tan_chih_siang_francis@moe.edu.sg) | 65938-117 |
-| Ms June Yeo | Subject Head – Mathematics | [yeo_yah_hwee_june@moe.edu.sg](mailto:yeo_yah_hwee_june@moe.edu.sg) | 65938-162 |
-| Ms Seoh Bee Hua | Lead Teacher – Mathematics | [seoh_bee_hua@moe.edu.sg](mailto:seoh_bee_hua@moe.edu.sg) | 65938-152 |
-| Mr Low Kee Ley | Head of Department – ICT | [low_kee_ley@moe.edu.sg](mailto:low_kee_ley@moe.edu.sg) | 65938-115 |
-| Mr Ron Low | Head of Department - Student Management| [low_yao_ming@moe.edu.sg](mailto:low_yao_ming@moe.edu.sg) | 65938-156 |
-| Ms Estee Teo | Year Head – Upper Secondary | [teo_kexin_estee@moe.edu.sg](mailto:teo_kexin_estee@moe.edu.sg) | 65938-177 |
-| Mr Vincent Loh| Subject Head – Student Well-being | [loh_guan_wee_vincent@moe.edu.sg](mailto:loh_guan_wee_vincent@moe.edu.sg) | 65938-150 |
-| Mr Brandon Choy | Subject Head - Data Management | [brandon_choy_wai_keong@moe.edu.sg](mailto:brandon_choy_wai_keong@moe.edu.sg) | 65938-149 |
-| Ms Josephine Peh | Teacher  | [josephine_peh_meng_yin@moe.edu.sg](mailto:josephine_peh_meng_yin@moe.edu.sg) | 65938-185 |
-| Ms Lee Sock Kee | Teacher | [lee_sock_kee@moe.edu.sg](mailto:lee_sock_kee@moe.edu.sg) | 65938-163 |
-| Mr Lionel Ang | Teacher | [ang_lee_chun_lionel@moe.edu.sg](mailto:ang_lee_chun_lionel@moe.edu.sg) | 65938-186 |
-| Mr Goh Ching Poh | Teacher | [goh_ching_poh@moe.edu.sg](mailto:goh_ching_poh@moe.edu.sg) | 65938-136 |
-| Ms Lee Jie Li | Teacher | [lee_jie_li@moe.edu.sg](mailto:lee_jie_li@moe.edu.sg) | 65938-157 |
-| Ms Ratiporn Tasanawinyou | Teacher | [ratiporn_tasanawinyou@moe.edu.sg](mailto:ratiporn_tasanawinyou@moe.edu.sg) |  65938-206 |
-| Mr Pang Hong Ming | Teacher | [pang_hong_ming@moe.edu.sg](mailto:pang_hong_ming@moe.edu.sg) | 65938-125 |
-| Ms Tan Teing Im | Teacher | [tan_teing_im@moe.edu.sg](mailto:tan_teing_im@moe.edu.sg) | 65938-137 |
-| Mr Ezzy Chan | Teacher | [chan_weng_cheong_ezzy@moe.edu.sg](mailto:chan_weng_cheong_ezzy@moe.edu.sg) | 65938-139 |
-|Ms Chan Bao Chan| Teacher | [chan_bao_chan@moe.edu.sg](mailto:chan_bao_chan@moe.edu.sg) | 65938-207 |
-| Mdm Leong Pei Szu | Flexi-Adjunct Teacher | [leong_pei_szu@moe.edu.sg](mailto:leong_pei_szu@moe.edu.sg) | 65938-184 |
-| Ms Sng Mui Yong| Flexi-Adjunct Teacher | [sng_mui_yong_a@moe.edu.sg](mailto:Sng_Mui_Yong_A@moe.edu.sg) | 65938-187 |
-| Mrs Koh-Tan Siok Hoon | Flexi - Adjunct Teacher | [tan_siok_hoon_a@moe.edu.sg](mailto:tan_siok_hoon_a@moe.edu.sg) | 65938-167 |
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contact</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Francis Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department – Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_chih_siang_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chih_siang_francis@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-117</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Seoh Bee Hua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher – Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seoh_bee_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seoh_bee_hua@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-152</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Low Kee Ley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department – ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_kee_ley@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_kee_ley@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-115</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ron Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department - Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_yao_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_yao_ming@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-156</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Estee Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head – Upper Secondary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_kexin_estee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_kexin_estee@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-177</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Vincent Loh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head – Student Well-being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loh_guan_wee_vincent@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_guan_wee_vincent@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-150</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Brandon Choy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head - Data Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:brandon_choy_wai_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">brandon_choy_wai_keong@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-149</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Josephine Peh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:josephine_peh_meng_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">josephine_peh_meng_yin@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-185</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Sock Kee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_sock_kee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sock_kee@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-163</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lionel Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_lee_chun_lionel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_lee_chun_lionel@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-186</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Ching Poh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_ching_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ching_poh@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-136</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Jie Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_jie_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jie_li@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-157</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ratiporn Tasanawinyou</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ratiporn_tasanawinyou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ratiporn_tasanawinyou@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-206</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Pang Hong Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pang_hong_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_hong_ming@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-125</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Teing Im</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_teing_im@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teing_im@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-137</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ezzy Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_weng_cheong_ezzy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_weng_cheong_ezzy@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-139</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chan Bao Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_bao_chan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_bao_chan@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-207</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Leong Pei Szu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi-Adjunct Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leong_pei_szu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_pei_szu@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-184</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sng Mui Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi-Adjunct Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Sng_Mui_Yong_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_mui_yong_a@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-187</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Koh-Tan Siok Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi - Adjunct Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_siok_hoon_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siok_hoon_a@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-167</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
