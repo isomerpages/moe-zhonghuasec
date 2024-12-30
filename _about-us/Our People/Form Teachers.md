@@ -648,14 +648,13 @@ variant: tiptap
 <p>3R1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chong Yee Ming</p>
+<p>Ms Ang Hwee Qin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_yee_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_yee_ming@moe.edu.sg</a>
-</p>
+<p>ang_hwee_qin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-129</p>
+<p>65938-116</p>
 </td>
 </tr>
 <tr>
