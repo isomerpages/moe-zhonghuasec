@@ -448,10 +448,10 @@ variant: tiptap
 <p>2I4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Xu Zhenyi</p>
+<p>Ms Lena Teo Ying Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:xu_zhenyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_zhenyi@moe.edu.sg</a>
+<p><a href="lena_teo_ying_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">lena_teo_ying_hui@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -595,5 +595,102 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Secondary 5</strong></h4>
+<h4><strong>Secondary 3</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Year Head/Form Teacher</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contact</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ang Hwee Qin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.zhonghuasec.moe.edu.sg/about-us/our-people/form-teachers/ang_hwee_qin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_hwee_qin@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-116</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lin Jiaxuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:li_jiaxuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>li_jiaxuan@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-158</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chen Yit Chien</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
