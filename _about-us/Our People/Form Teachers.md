@@ -406,7 +406,8 @@ variant: tiptap
 <p>Mr Tan Li Chun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_li_chun@moe.edu.sg</p>
+<p><a href="tan_li_chun@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_li_chun@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-131</p>
