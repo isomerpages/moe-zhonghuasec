@@ -799,7 +799,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3R6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms June Leow Xin Yi</p>
@@ -809,7 +809,54 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>65938-157</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sitinur Azreen Bte Halil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sitinur_azreen_halil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sitinur_azreen_halil@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-126</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3R7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kok Heng Kwai John</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:john_kok_heng_kwai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">john_kok_heng_kwai@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>65938-153</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Vanessa Tan</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_wen_li_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wen_li_vanessa@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-203</p>
 </td>
 </tr>
 </tbody>
