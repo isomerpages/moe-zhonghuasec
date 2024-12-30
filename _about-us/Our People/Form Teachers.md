@@ -949,6 +949,51 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chong Yee Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chong_yee_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_yee_ming@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Josephine Peh Meng Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:josephine_peh_meng_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">josephine_peh_meng_yin@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Noorlizah Bte Suriyap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="noorlizah_suriyap@moe.edu.sg" rel="noopener nofollow" target="_blank">noorlizah_suriyap@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
