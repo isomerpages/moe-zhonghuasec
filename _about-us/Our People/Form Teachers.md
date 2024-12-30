@@ -1174,14 +1174,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul 'Ain Binte Sahat</p>
+<p>Mr Vincent Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurul_ain_sahat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_ain_sahat@moe.edu.sg</a>
+<p><a href="loh_guan_wee_vincent@moe.edu.sg" rel="noopener nofollow" target="_blank">loh_guan_wee_vincent@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-149</p>
+<p>65938-150</p>
 </td>
 </tr>
 <tr>
