@@ -226,14 +226,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tai Jia Hui</p>
+<p>Ms Tan Teing Im</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tai_jia_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tai_jia_hui@moe.edu.sg</a>
+<p><a href="mailto:tan_teing_im@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teing_im@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-134</p>
+<p>65938-137</p>
 </td>
 </tr>
 <tr>
