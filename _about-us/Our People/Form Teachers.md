@@ -983,14 +983,14 @@ variant: tiptap
 <p>4E2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Leow Kai Yin</p>
+<p>Ms Noorlizah Bte Suriyap</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leow_kai_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leow_kai_yin@moe.edu.sg</a>
+<p><a href="mailto:noorlizah_suriyap@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noorlizah_suriyap@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-143</p>
+<p>65938-130</p>
 </td>
 </tr>
 <tr>
