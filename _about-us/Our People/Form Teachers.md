@@ -466,7 +466,8 @@ variant: tiptap
 <p>Ms Nur Nasyrah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_nasyrah_ahmad@moe.edu.sg</p>
+<p><a href="nur_nasyrah_ahmad@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_nasyrah_ahmad@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-140</p>
