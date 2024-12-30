@@ -814,26 +814,10 @@ variant: tiptap
 <p>Ms June Leow Xin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sitinur_azreen_halil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sitinur_azreen_halil@moe.edu.sg</a>
-</p>
+<p>june_leow_xin_yi@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-126</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Yong Khern</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_yong_khern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yong_khern@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-126</p>
+<p>65938-157</p>
 </td>
 </tr>
 <tr>
@@ -841,14 +825,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ezzy Chan</p>
+<p>Ms Sitinur Azreen Bte Halil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_weng_cheong_ezzy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_weng_cheong_ezzy@moe.edu.sg</a>
+<p><a href="mailto:sitinur_azreen_halil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sitinur_azreen_halil@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-139</p>
+<p>65938-126</p>
 </td>
 </tr>
 <tr>
