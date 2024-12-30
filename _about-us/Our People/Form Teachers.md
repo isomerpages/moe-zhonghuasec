@@ -755,7 +755,8 @@ variant: tiptap
 <p>Ms Rozianna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:rozianna_mohammed_affendi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rozianna_mohammed_affendi@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-135</p>
