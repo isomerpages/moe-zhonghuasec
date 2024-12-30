@@ -858,7 +858,7 @@ variant: tiptap
 <p>Ms Vanessa Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_wen_li_vanessa@moe.edu.sg</a>
+<p><a href="mailto:tan_wen_li_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wen_li_vanessa@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
