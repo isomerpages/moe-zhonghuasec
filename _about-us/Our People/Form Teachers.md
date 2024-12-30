@@ -355,14 +355,14 @@ variant: tiptap
 <p>2I1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Xiao Yue</p>
+<p>Ms Lee Jie Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:xiao_yue@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xiao_yue@moe.edu.sg</a>
+<p><a href="mailto:lee_jie_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jie_li@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-146</p>
+<p>65938-157</p>
 </td>
 </tr>
 <tr>
