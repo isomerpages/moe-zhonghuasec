@@ -553,10 +553,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Yi Ern</p>
+<p>Ms Julia Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yi_ern_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yi_ern_lee@moe.edu.sg</a>
+<p><a href="yeo_yun_fang_julia@moe.edu.sg" rel="noopener nofollow" target="_blank">yeo_yun_fang_julia@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -568,11 +568,10 @@ variant: tiptap
 <p>2I8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Jee Niang</p>
+<p>Ms Lee Li'neng, Marie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_jee_niang_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jee_niang_a@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-160</p>
