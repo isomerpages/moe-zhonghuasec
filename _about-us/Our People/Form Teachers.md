@@ -123,14 +123,13 @@ variant: tiptap
 <p>1C3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amanda Tan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_si_hui_amanda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_si_hui_amanda@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-164</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -138,10 +137,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Magdalene Tan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_bee_yeng_magdalene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_bee_yeng_magdalene@moe.edu.sg</a>
+<p><a href="mailto:kheng_hwee_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kheng_hwee_teng@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
