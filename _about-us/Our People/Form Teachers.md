@@ -197,14 +197,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Soh Sichuan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wang_sichuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_sichuan@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>62824-204</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -212,14 +211,14 @@ variant: tiptap
 <p>1C6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Eswaran Ramachandran</p>
+<p>Ms Calista Chan Kai Wai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:eswaran_ramachandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eswaran_ramachandran@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chan_kai_wai_calista@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-141</p>
+<p>65938-135</p>
 </td>
 </tr>
 <tr>
