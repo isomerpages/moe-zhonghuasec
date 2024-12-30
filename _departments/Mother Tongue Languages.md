@@ -94,10 +94,11 @@ Malay Language in secondary school</p>
 <p><strong>Details</strong>
 <br>MSP Lesson is held once a week, 3 hours per lesson in the afternoon. The
 programme will prepare students for the MSP examination at GCE ‘O’ Level.</p>
-<p><strong>Class Schedule for Year 2024</strong>
+<p><strong>Class Schedule for Year 2025</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -113,16 +114,22 @@ programme will prepare students for the MSP examination at GCE ‘O’ Level.</p
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Commencement Date</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Sec 1 MSP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fridays</p>
+<p>Tuesdays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00pm – 6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 Jan 2025</p>
 </td>
 </tr>
 <tr>
@@ -135,16 +142,22 @@ programme will prepare students for the MSP examination at GCE ‘O’ Level.</p
 <td rowspan="1" colspan="1">
 <p>3.00pm – 6.00pm</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>17 Jan 2025</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Sec 3 MSP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays</p>
+<p>Fridays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00pm – 6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 Jan 2025</p>
 </td>
 </tr>
 <tr>
@@ -157,8 +170,14 @@ programme will prepare students for the MSP examination at GCE ‘O’ Level.</p
 <td rowspan="1" colspan="1">
 <p>3.00pm – 6.00pm</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>14 Jan 2025</p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
