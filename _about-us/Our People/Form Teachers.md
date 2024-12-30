@@ -767,7 +767,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Leow Kai Yin</p>
+<p>Ms Janice Loo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>leow_kai_yin@moe.edu.sg</p>
