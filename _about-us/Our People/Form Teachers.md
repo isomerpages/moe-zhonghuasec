@@ -821,7 +821,8 @@ variant: tiptap
 <p>Ms June Leow Xin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>june_leow_xin_yi@moe.edu.sg</p>
+<p><a href="june_leow_xin_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">june_leow_xin_yi@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-157</p>
