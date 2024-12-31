@@ -74,21 +74,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ratiporn Tasanawinyou</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ratiporn_tasanawinyou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ratiporn_tasanawinyou@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-141</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ng Yew Hong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -100,6 +85,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-149</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ratiporn Tasanawinyou</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ratiporn_tasanawinyou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ratiporn_tasanawinyou@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-141</p>
 </td>
 </tr>
 <tr>
