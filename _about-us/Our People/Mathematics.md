@@ -44,21 +44,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Seoh Bee Hua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher – Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:seoh_bee_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seoh_bee_hua@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-152</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Low Kee Ley</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -89,17 +74,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Estee Teo</p>
+<p>Ms Seoh Bee Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head – Upper Secondary</p>
+<p>Lead Teacher – Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_kexin_estee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_kexin_estee@moe.edu.sg</a>
+<p><a href="mailto:seoh_bee_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seoh_bee_hua@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-177</p>
+<p>65938-152</p>
 </td>
 </tr>
 <tr>
