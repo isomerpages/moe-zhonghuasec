@@ -73,18 +73,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Peh Ai Tee Patricia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operation Support Officer (Reception)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:patricia_peh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">patricia_peh@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Tan Pow Lee Elaine</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,6 +92,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:masreny_matnin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">masreny_matnin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Peh Ai Tee Patricia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Receptionist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:patricia_peh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">patricia_peh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
