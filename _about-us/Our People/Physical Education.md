@@ -44,21 +44,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Loke Choek Meng Shamen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head – CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loke_choek_meng_shamen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_choek_meng_shamen@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-149</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ron Low</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,17 +59,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr R. Eswaran</p>
+<p>Mr Loke Choek Meng Shamen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head – CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loke_choek_meng_shamen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_choek_meng_shamen@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-149</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jerome Ong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:eswaran_ramachandran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eswaran_ramachandran@moe.edu.sg</a>
+<p><a href="mailto:jerome_ong_lin_xiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jerome_ong_lin_xiong@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-141</p>
+<p>65938100-208</p>
 </td>
 </tr>
 <tr>
@@ -104,17 +104,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jerome Ong</p>
+<p>Mr R. Eswaran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jerome_ong_lin_xiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jerome_ong_lin_xiong@moe.edu.sg</a>
+<p><a href="mailto:eswaran_ramachandran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eswaran_ramachandran@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938100-208</p>
+<p>65938-141</p>
 </td>
 </tr>
 </tbody>
