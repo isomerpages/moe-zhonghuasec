@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -27,9 +26,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Contact</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -45,16 +41,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>65938-164</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Ang Hwee Qin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Senior Teacher - Art</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_hwee_qin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hwee_qin@moe.edu.sg</a>
@@ -62,81 +55,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-116</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Magdalene Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_bee_yeng_magdalene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_bee_yeng_magdalene@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-116</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tham Qi Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tham_qi_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_qi_ying@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-116</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Matthias Chan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:matthias_chan_yong_shun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">matthias_chan_yong_shun@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-116</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Teing Im</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_teing_im@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teing_im@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-137</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -153,8 +71,65 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>65938-164</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Magdalene Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_bee_yeng_magdalene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_bee_yeng_magdalene@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-116</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Matthias Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:matthias_chan_yong_shun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">matthias_chan_yong_shun@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-116</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Teing Im</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_teing_im@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teing_im@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-137</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tham Qi Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tham_qi_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_qi_ying@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-116</p>
 </td>
 </tr>
 <tr>
@@ -171,9 +146,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>65938-138</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -188,9 +160,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-116</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>

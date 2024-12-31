@@ -45,21 +45,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul' Ain Sahat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nurul_ain_sahat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_ain_sahat@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65838-149</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms K Saraswathi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -71,6 +56,21 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-145</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurul' Ain Sahat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurul_ain_sahat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_ain_sahat@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65838-145</p>
 </td>
 </tr>
 <tr>

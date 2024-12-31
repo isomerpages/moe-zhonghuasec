@@ -5,7 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Our People
 ---
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -38,6 +44,21 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Cindy Soh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soh_sock_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_sock_kheng@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-143</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr John Kok</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -49,21 +70,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-127</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Teo Jing Zhi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teo_jing_zhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_jing_zhi@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938100-205</p>
 </td>
 </tr>
 <tr>
@@ -83,17 +89,17 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cindy Soh</p>
+<p>Ms Teo Jing Zhi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:soh_sock_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_sock_kheng@moe.edu.sg</a>
+<p><a href="mailto:teo_jing_zhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_jing_zhi@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-143</p>
+<p>65938100-205</p>
 </td>
 </tr>
 </tbody>
