@@ -55,7 +55,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>65938-145</p>
 </td>
 </tr>
 <tr>
@@ -280,7 +280,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>65938-172</p>
 </td>
 </tr>
 </tbody>
