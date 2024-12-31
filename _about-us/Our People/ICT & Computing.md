@@ -44,6 +44,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Soh Wei Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head – ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soh_wei_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_wei_cheng@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Calvin Heng</p>
 </td>
 <td rowspan="1" colspan="1">
