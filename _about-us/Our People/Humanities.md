@@ -119,6 +119,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Alethea Goei Min Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:alethea_goei_min_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alethea_goei_min_yi@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-150</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms June Leow</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,21 +145,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-157</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Adam Ang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kah_chin_adam_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kah_chin_adam_ang@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-133</p>
 </td>
 </tr>
 <tr>
