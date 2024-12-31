@@ -29,21 +29,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Zafir Said</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zafir_said@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zafir_said@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-172</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Yeong Whye Leong Benjamin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,6 +40,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-163</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Zafir Said</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zafir_said@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zafir_said@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-172</p>
 </td>
 </tr>
 <tr>
