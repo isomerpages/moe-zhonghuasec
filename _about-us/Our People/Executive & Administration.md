@@ -52,7 +52,7 @@ variant: tiptap
 <p>Mdm Mages R.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
+<p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:magespathy_ramasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">magespathy_ramasamy@moe.edu.sg</a>
@@ -61,13 +61,50 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Masreny Binte Matnin</p>
+<p>Ms Judy Ong Meow Kheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:judy_ong_meow_kheng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">judy_ong_meow_kheng_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Peh Ai Tee Patricia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operation Support Officer (Reception)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:patricia_peh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">patricia_peh@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Pow Lee Elaine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer (Adjunct)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_pow_lee_elaine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_pow_lee_elaine@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Masreny Binte Matnin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer (Adjunct)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:masreny_matnin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">masreny_matnin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
