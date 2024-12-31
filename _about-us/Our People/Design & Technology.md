@@ -44,6 +44,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Yeong Whye Leong Benjamin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.zhonghuasec.moe.edu.sg/about-us/our-people/form-teachers/yeong_whye_leong.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeong_whye_leong.moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-163</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Tan Chian Huay</p>
 </td>
 <td rowspan="1" colspan="1">
