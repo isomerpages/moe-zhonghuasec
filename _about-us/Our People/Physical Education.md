@@ -59,7 +59,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Loke Choek Meng Shamen</p>
+<p>Mr Loke Cheok Meng Shamen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head – CCA</p>
