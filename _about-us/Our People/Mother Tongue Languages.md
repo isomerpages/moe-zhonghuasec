@@ -59,7 +59,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Leow Kai Yin</p>
+<p>Ms Leow Kai Yin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Head - Chinese</p>
