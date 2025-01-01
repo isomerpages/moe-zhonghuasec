@@ -59,7 +59,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Leow Kai Yin</p>
+<p>Ms Leow Kai Yin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Head - Chinese</p>
@@ -235,6 +235,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-165</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Norehda Binte Sold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi-Adjunct Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:norehda_sold_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norehda_sold_a@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-148</p>
 </td>
 </tr>
 </tbody>

@@ -104,13 +104,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Paul Lim</p>
+<p>Mr Glenn Chew Sui Jin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi-Adjunct Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew_sui_jin_glenn_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_sui_jin_glenn_b@moe.edu.sg</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-139</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Zahlan Bin Mohamed Yusop</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">lim_ching_shean_paul@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">zahlan_md_yusop@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
