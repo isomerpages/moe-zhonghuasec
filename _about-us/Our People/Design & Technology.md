@@ -29,13 +29,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Soh Wei Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head – ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soh_wei_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_wei_cheng@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-172</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Yeong Whye Leong Benjamin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.zhonghuasec.moe.edu.sg/about-us/our-people/form-teachers/yeong_whye_leong.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeong_whye_leong.moe.edu.sg</a>
+<p><a href="https://www.zhonghuasec.moe.edu.sg/about-us/our-people/form-teachers/yeong_whye_leong.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeong_whye_leong@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,21 +70,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-172</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Chian Huay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Flexi-Adjunct Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chian_huay_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chian_huay_a@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-133</p>
 </td>
 </tr>
 <tr>
