@@ -21,11 +21,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/admin%20form5.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Student GPA NTUC Insurance Claim Form</a>
-<br>
-</p>
-</li>
-<li>
 <p><a href="/files/loaform.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form for Leave of Absence</a>
 <br>
 </p>
