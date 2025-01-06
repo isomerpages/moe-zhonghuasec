@@ -72,35 +72,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C1_T3.pdf" rel="noopener noreferrer nofollow" target="_blank">1C1</a>
+<p><a href="/files/1C1_T1_2025.pdf" rel="noopener nofollow" target="_blank">1C1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C2_T3.pdf" rel="noopener noreferrer nofollow" target="_blank">1C2</a>
+<p><a href="/files/1C2_T1_2025.pdf" rel="noopener nofollow" target="_blank">1C2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C3_T3.pdf" rel="noopener noreferrer nofollow" target="_blank">1C3</a>
+<p><a href="/files/1C3_T1_2025.pdf" rel="noopener nofollow" target="_blank">1C3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C4_T3.pdf" rel="noopener noreferrer nofollow" target="_blank">1C4</a>
+<p><a href="/files/1C4_T1_2025.pdf" rel="noopener nofollow" target="_blank">1C4</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C5_T3.pdf" rel="noopener noreferrer nofollow" target="_blank">1C5</a>
+<p><a href="/files/1C5_T1_2025.pdf" rel="noopener nofollow" target="_blank">1C5</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C6_T3.pdf" rel="noopener noreferrer nofollow" target="_blank">1C6</a>
+<p><a href="/files/1C6_T1_2025.pdf" rel="noopener nofollow" target="_blank">1C6</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C7_T3.pdf" rel="noopener noreferrer nofollow" target="_blank">1C7</a>
+<p><a href="/files/1C7_T1_2025.pdf" rel="noopener nofollow" target="_blank">1C7</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C8_T3.pdf" rel="noopener noreferrer nofollow" target="_blank">1C8</a>
+<p><a href="/files/1C8_T1_2025.pdf" rel="noopener nofollow" target="_blank">1C8</a>
 </p>
 </td>
 </tr>
@@ -133,35 +133,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I1_T3.pdf" rel="noopener noreferrer nofollow" target="_blank">2I1</a>
+<p><a href="/files/2I1_T1_2025.pdf" rel="noopener nofollow" target="_blank">2I1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I2_T3.pdf" rel="noopener noreferrer nofollow" target="_blank">2I2</a>
+<p><a href="/files/2I2_T1_2025.pdf" rel="noopener nofollow" target="_blank">2I2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I3_T3.pdf" rel="noopener noreferrer nofollow" target="_blank">2I3</a>
+<p><a href="/files/2I3_T1_2025.pdf" rel="noopener nofollow" target="_blank">2I3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I4_T3.pdf" rel="noopener noreferrer nofollow" target="_blank">2I4</a>
+<p><a href="/files/2I4_T1_2025.pdf" rel="noopener nofollow" target="_blank">2I4</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I5_T3.pdf" rel="noopener noreferrer nofollow" target="_blank">2I5</a>
+<p><a href="/files/2I5_T1_2025.pdf" rel="noopener nofollow" target="_blank">2I5</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I6_T3.pdf" rel="noopener noreferrer nofollow" target="_blank">2I6</a>
+<p><a href="/files/2I6_T1_2025.pdf" rel="noopener nofollow" target="_blank">2I6</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I7_T3.pdf" rel="noopener noreferrer nofollow" target="_blank">2I7</a>
+<p><a href="/files/2I7_T1_2025.pdf" rel="noopener nofollow" target="_blank">2I7</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I8_T3.pdf" rel="noopener noreferrer nofollow" target="_blank">2I8</a>
+<p><a href="/files/2I8_T1_2025.pdf" rel="noopener nofollow" target="_blank">2I8</a>
 </p>
 </td>
 </tr>
