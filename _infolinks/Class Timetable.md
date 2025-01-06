@@ -279,10 +279,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/4E7_T1_2025.pdf" rel="noopener nofollow" target="_blank">4E7</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/4E8_T3.pdf" rel="noopener noreferrer nofollow" target="_blank">4E8</a>
+<p><a href="/files/4E8_T1_2025.pdf" rel="noopener nofollow" target="_blank">4E8</a>
 </p>
 </td>
 </tr>
@@ -315,7 +316,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/5E1_T3.pdf" rel="noopener noreferrer nofollow" target="_blank">5E1</a>
+<p><a href="/files/5E1_T1_2025.pdf" rel="noopener nofollow" target="_blank">5E1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -369,4 +370,5 @@ variant: tiptap
 </tbody>
 </table>
 <p><a href="/files/3R6_T1_2025.pdf" rel="noopener nofollow" target="_blank">3R6</a>
+<a href="/files/4E7_T1_2025.pdf" rel="noopener nofollow" target="_blank">4E7</a>
 </p>
