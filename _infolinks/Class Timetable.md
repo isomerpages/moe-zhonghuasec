@@ -369,6 +369,3 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p><a href="/files/3R6_T1_2025.pdf" rel="noopener nofollow" target="_blank">3R6</a>
-<a href="/files/4E7_T1_2025.pdf" rel="noopener nofollow" target="_blank">4E7</a>
-</p>
