@@ -283,6 +283,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Cher Huey Miin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi-Adjunct Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cher_huey_miin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cher_huey_miin@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-133</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Poh Li Pin</p>
 </td>
 <td rowspan="1" colspan="1">
