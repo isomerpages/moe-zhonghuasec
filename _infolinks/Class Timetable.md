@@ -4,7 +4,7 @@ permalink: /infolinks/class-timetable/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Class Timetable for 2024</strong></h3>
+<h3><strong>Class Timetable for 2025</strong></h3>
 <table style="minWidth: 200px">
 <colgroup>
 <col>
