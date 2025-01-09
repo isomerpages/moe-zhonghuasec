@@ -57,10 +57,8 @@ Div Badminton</p>
 <p>&nbsp; National School Games (NSG) Opening Ceremony 2024, representing
 Singapore Sports Council as&nbsp; Oath Taker (captain of Badminton team)</p>
 </li>
-<li>
-<p></p>
-</li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton.jpg">
 </div>
