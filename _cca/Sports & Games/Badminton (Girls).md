@@ -58,9 +58,9 @@ Div Badminton</p>
 Singapore Sports Council as&nbsp; Oath Taker (captain of Badminton team)</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton.jpg">
 </div>
+<p></p>
 <p>Please click on <a href="https://www.zhonghuasec.moe.edu.sg/cca/schedule/" rel="noopener noreferrer nofollow" target="_blank">this link</a> for
 CCA schedule and contact details of CCA teachers.</p>
