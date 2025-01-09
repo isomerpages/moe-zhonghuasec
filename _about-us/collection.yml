@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Canteen Advertisement.md
       - About Us.md
       - Principal's Message.md
       - Our Vision, Mission, Values.md
@@ -39,3 +38,4 @@ collections:
       - Rules & Regulations/Grooming and Attire.md
       - Getting Here.md
       - School Bookshop & Uniform Supplier.md
+      - School Canteen Advertisement.md
