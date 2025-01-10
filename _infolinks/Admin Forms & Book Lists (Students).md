@@ -22,12 +22,7 @@ variant: tiptap
 </li>
 <li>
 <p><a href="/files/loaform.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form for Leave of Absence</a>
-<br>
 </p>
-</li>
-<li>
-<p><a href="/files/STRAITS_TIMES_APPLICATION.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form for Straits Times School Pocket Money Fund (STSPMF) 2025</a> 
-<br>(Closing date: 21 August 2024, Wednesday)</p>
 </li>
 </ol>
 <h4><strong>Book Lists 2025</strong></h4>
