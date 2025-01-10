@@ -22,6 +22,11 @@ variant: tiptap
 </li>
 <li>
 <p><a href="/files/loaform.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form for Leave of Absence</a>
+<br>
+</p>
+</li>
+<li>
+<p><a href="/files/Application_Form_for_Straits_Times_School_Pocket_Money_Fund_2025__Cycle_2_.pdf" rel="noopener nofollow" target="_blank">Application Form for Straits Times School Pocket Money Fund 2025 (Cycle 2) </a>
 </p>
 </li>
 </ol>
