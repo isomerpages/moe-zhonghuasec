@@ -84,7 +84,10 @@ Office OR via email to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Application Form</p>
+<p>Application Form
+<br>Please click here to download the: <a href="/files/Application_for_Canteen_Stall_Form_BF7.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
+<br>
+</p>
 </li>
 <li>
 <p>Photocopy of the NRIC (front and back)</p>
