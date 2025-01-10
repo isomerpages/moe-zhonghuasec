@@ -26,8 +26,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Application_Form_for_Straits_Times_School_Pocket_Money_Fund_2025__Cycle_2_.pdf" rel="noopener nofollow" target="_blank">Application Form for Straits Times School Pocket Money Fund 2025 (Cycle 2) </a>
-</p>
+<p><a href="/files/Application_Form_for_Straits_Times_School_Pocket_Money_Fund_2025__Cycle_2_.pdf" rel="noopener nofollow" target="_blank">Application Form for Straits Times School Pocket Money Fund 2025 (Cycle 2)</a>
+<br>(Closing date : 31st January 2025)</p>
 </li>
 </ol>
 <h4><strong>Book Lists 2025</strong></h4>
