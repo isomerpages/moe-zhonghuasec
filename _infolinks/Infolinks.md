@@ -241,10 +241,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDF.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_ZHSS_Sec_1_CCA_Selection_Trials_Schedule__updated_.pdf" rel="noopener nofollow" target="_blank">Sec 1 Selection Trials Schedule 2025</a>
+<p><a href="/files/2025_ZHSS_Sec_1_CCA_Selection_Trials_Schedule_docx.pdf" rel="noopener nofollow" target="_blank">Sec 1 Selection Trials Schedule 2025</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
