@@ -83,6 +83,13 @@ in the school curriculum.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_Sexuality_Ed_Curriculum.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_Sexuality_Ed_Curriculum.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_Sexuality_Ed_Curriculum.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_Sexuality_Ed_Curriculum.jpg">
