@@ -77,8 +77,7 @@ which are of prime concern at this age.</p>
 <p></p>
 <p>Please scroll down for more information on the scope of Sexuality Education
 in the school curriculum.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <h4><strong>At Zhonghua Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2025:</strong></h4>
 <p><strong>Secondary 1</strong>
 </p>
@@ -168,12 +167,12 @@ education programmes by MOE-approved external providers.</p>
 out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
 of the year and is also downloadable <a href="/files/Annex_A___2025_SEd_Parent_Opt_Out_Form__Zhonghua_Sec_.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 27/01/2025.</p>
+The completed form is to be submitted by 03/02/2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
 the year and is also downloadable <a href="/files/Annex_B___2025_eTeens_Parents_Opt_out_Form__Sec__HPB_.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 27/01/2025.</p>
+The completed form is to be submitted by 03/02/2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
 <a rel="noopener noreferrer nofollow" target="_blank">zhonghua_ss@moe.edu.sg</a>for discussion or to seek clarification about
 the school’s Sexuality Education programme.</p>
