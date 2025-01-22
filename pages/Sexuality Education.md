@@ -79,6 +79,7 @@ which are of prime concern at this age.</p>
 in the school curriculum.</p>
 <p></p>
 <h4><strong>At Zhonghua Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2025:</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_Sexuality_Ed_Curriculum.jpg">
 </div>
