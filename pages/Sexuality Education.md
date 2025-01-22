@@ -92,6 +92,13 @@ in the school curriculum.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_Sexuality_Ed_Curriculum.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4_Sexuality_Ed_Curriculum.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_5_Sexuality_Ed_Curriculum.jpg">
+</div>
 <h5><strong><em>eTeens</em>&nbsp;Programme</strong>:</h5>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme
@@ -107,6 +114,7 @@ and negative peer pressure. They also learn that the impact of STIs/HIV
 extends beyond themselves and involves their family, and the importance
 of responsible decision-making and seeking help. Abstinence and upholding
 family values are the key messages.</p>
+<p></p>
 <h5><strong>At Zhonghua Secondary School, the eTeens programme will be implemented as follows in 2025:</strong></h5>
 <table style="minWidth: 75px">
 <colgroup>
@@ -174,12 +182,14 @@ education programmes by MOE-approved external providers.</p>
 out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
 of the year and is also downloadable <a href="/files/Annex_A___2025_SEd_Parent_Opt_Out_Form__Zhonghua_Sec_.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 03/02/2025.</p>
+The completed form is to be submitted by <strong>03/02/2025.</strong>
+</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
 the year and is also downloadable <a href="/files/Annex_B___2025_eTeens_Parents_Opt_out_Form__Sec__HPB_.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 03/02/2025.</p>
+The completed form is to be submitted by <strong>03/02/2025.</strong>
+</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
 <a rel="noopener noreferrer nofollow" target="_blank">zhonghua_ss@moe.edu.sg</a>for discussion or to seek clarification about
 the school’s Sexuality Education programme.</p>
