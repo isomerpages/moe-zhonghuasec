@@ -83,6 +83,11 @@ in the school curriculum.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_Sexuality_Ed_Curriculum.jpg">
 </div>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_Sexuality_Ed_Curriculum.jpg">
+</div>
+<p></p>
 <h5><strong><em>eTeens</em>&nbsp;Programme</strong>:</h5>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme
