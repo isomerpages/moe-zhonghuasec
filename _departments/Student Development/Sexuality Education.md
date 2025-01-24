@@ -133,9 +133,7 @@ family values are the key messages.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Time Period</strong>
-</p>
-<p><strong>(e.g. Term 3 Week 9)</strong>
+<p><strong>Time Period (e.g. Term 3 Week 9)</strong>
 </p>
 </td>
 </tr>
