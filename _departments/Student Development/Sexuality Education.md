@@ -3,6 +3,7 @@ title: Sexuality Education
 permalink: /infolinks/sex-edu/
 description: ""
 variant: tiptap
+third_nav_title: Student Development
 ---
 <h4><strong>Zhonghua Secondary School</strong></h4>
 <h5><strong>MOE Sexuality Education in Schools</strong></h5>
@@ -41,13 +42,13 @@ Make responsible decisions for yourself, your family and society; and</p>
 Abstinence before marriage is the best protection against STIs/HIV and
 unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p>You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> more
+<p>You may click&nbsp;<strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> more
 information on MOE Sexuality Education.</p>
 <h4><strong>Overview of Zhonghua Secondary School's Sexuality Education Programme for 2025</strong></h4>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
-Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
+Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and
 Law.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate
 topics on sexuality include:</p>
@@ -132,9 +133,7 @@ family values are the key messages.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Time Period</strong>
-</p>
-<p><strong>(e.g. Term 3 Week 9)</strong>
+<p><strong>Time Period (e.g. Term 3 Week 9)</strong>
 </p>
 </td>
 </tr>
