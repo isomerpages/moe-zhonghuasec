@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Departments.md
-      - Student Development/Sexuality Education.md
       - Student Development/.keep
       - Student Development/Student Development.md
       - Student Development/Character and Citizenship Education.md
+      - Student Development/Sexuality Education.md
       - Student Development/Counselling.md
       - Student Development/Discipline.md
       - Student Development/Education & Career Guidance.md
