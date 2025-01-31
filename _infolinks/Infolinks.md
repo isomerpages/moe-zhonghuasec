@@ -264,8 +264,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>MIMS
-<br>Portal</p>
+<p><a href="https://idp.mims.moe.gov.sg/" rel="noopener nofollow" target="_blank">MIMS Portal</a>
+</p>
 </td>
 </tr>
 <tr>
