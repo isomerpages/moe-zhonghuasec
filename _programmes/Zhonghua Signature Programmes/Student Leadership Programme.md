@@ -413,6 +413,36 @@ engagement</p>
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=Ui7PnsQuxvg" rel="noopener nofollow" target="_blank">Episode 10: Total Defence Special - Safeguarding Against Scams</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Episode_10__Total_Defence_Special___Safeguarding_Against_Scams_video_thumbnail.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=cOL1GjExnnY" rel="noopener nofollow" target="_blank">Episode 10: Total Defence Special - Together Against Terrorism</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Episode_10__Total_Defence_Special___Together_Against_Terrorism_Video_Thumbnail.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
