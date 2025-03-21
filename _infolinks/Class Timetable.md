@@ -125,24 +125,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I1.pdf" rel="noopener nofollow" target="_blank">2I1</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I2.pdf" rel="noopener nofollow" target="_blank">2I2</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I3.pdf" rel="noopener nofollow" target="_blank">2I3</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I4.pdf" rel="noopener nofollow" target="_blank">2I4</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I5.pdf" rel="noopener nofollow" target="_blank">2I5</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
