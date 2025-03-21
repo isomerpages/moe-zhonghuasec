@@ -72,25 +72,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/1C1_v1.pdf" rel="noopener nofollow" target="_blank">1C1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/1C2_v1.pdf" rel="noopener nofollow" target="_blank">1C2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/1C3_v1.pdf" rel="noopener nofollow" target="_blank">1C3</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/1C4_v1.pdf" rel="noopener nofollow" target="_blank">1C4</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/1C5_v1.pdf" rel="noopener nofollow" target="_blank">1C5</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/1C6_v1.pdf" rel="noopener nofollow" target="_blank">1C6</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/1C7_v1.pdf" rel="noopener nofollow" target="_blank">1C7</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
