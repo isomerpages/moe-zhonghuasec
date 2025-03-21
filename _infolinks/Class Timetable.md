@@ -81,24 +81,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C4.pdf" rel="noopener nofollow" target="_blank">1C4</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C5.pdf" rel="noopener nofollow" target="_blank">1C5</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C6.pdf" rel="noopener nofollow" target="_blank">1C6</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C7.pdf" rel="noopener nofollow" target="_blank">1C7</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C8.pdf" rel="noopener nofollow" target="_blank">1C8</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -150,16 +145,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I6.pdf" rel="noopener nofollow" target="_blank">2I6</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I7.pdf" rel="noopener nofollow" target="_blank">2I7</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I8.pdf" rel="noopener nofollow" target="_blank">2I8</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
