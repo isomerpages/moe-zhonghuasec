@@ -133,35 +133,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I1_T1_2025_updated_.pdf" rel="noopener nofollow" target="_blank">2I1</a>
+<p><a href="/files/2I1.pdf" rel="noopener nofollow" target="_blank">2I1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I2_T1_2025_updated_.pdf" rel="noopener nofollow" target="_blank">2I2</a>
+<p><a href="/files/2I2.pdf" rel="noopener nofollow" target="_blank">2I2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I3_T1_2025_updated_.pdf" rel="noopener nofollow" target="_blank">2I3</a>
+<p><a href="/files/2I3.pdf" rel="noopener nofollow" target="_blank">2I3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I4_T1_2025_updated_.pdf" rel="noopener nofollow" target="_blank">2I4</a>
+<p><a href="/files/2I4.pdf" rel="noopener nofollow" target="_blank">2I4</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I5_T1_2025_updated_.pdf" rel="noopener nofollow" target="_blank">2I5</a>
+<p><a href="/files/2I5.pdf" rel="noopener nofollow" target="_blank">2I5</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I6_T1_2025_updated_.pdf" rel="noopener nofollow" target="_blank">2I6</a>
+<p><a href="/files/2I6.pdf" rel="noopener nofollow" target="_blank">2I6</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I7_T1_2025_updated_.pdf" rel="noopener nofollow" target="_blank">2I7</a>
+<p><a href="/files/2I7.pdf" rel="noopener nofollow" target="_blank">2I7</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2I8_T1_2025_updated_.pdf" rel="noopener nofollow" target="_blank">2I8</a>
+<p><a href="/files/2I8.pdf" rel="noopener nofollow" target="_blank">2I8</a>
 </p>
 </td>
 </tr>
