@@ -59,6 +59,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Lee Li'neng Marie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department - Character &amp; Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_li_neng_marie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_li_neng_marie@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-177</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Tan Jun Hong</p>
 </td>
 <td rowspan="1" colspan="1">
