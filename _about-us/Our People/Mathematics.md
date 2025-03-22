@@ -284,6 +284,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Quek Beng Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi-Adjunct Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:quek_beng_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_beng_hong@moe.edu.sg</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-159</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Sng Mui Yong</p>
 </td>
 <td rowspan="1" colspan="1">
