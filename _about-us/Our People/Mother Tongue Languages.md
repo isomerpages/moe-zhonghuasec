@@ -200,7 +200,7 @@ variant: tiptap
 <p>Flexi-Adjunct Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_shi_yun_@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shi_yun_@moe.edu.sg</a> 
+<p><a href="mailto:lim_shi_yun_@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shi_yun_@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,7 +215,7 @@ variant: tiptap
 <p>Flexi-Adjunct Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_eng_keat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_eng_keat@moe.edu.sg</a> 
+<p><a href="mailto:lee_eng_keat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_eng_keat@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
