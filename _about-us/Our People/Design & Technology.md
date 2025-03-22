@@ -74,14 +74,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Andy Chang</p>
+<p>Mr Muhamma Danial Bin Kassim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STEM Instructor (Workshop)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chiang_hiang_see@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiang_hiang_see@moe.edu.sg</a>
-</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-172</p>
