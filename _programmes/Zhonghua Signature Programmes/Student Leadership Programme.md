@@ -301,12 +301,13 @@ engagement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.youtube.com/watch?v=9z3tveordQQ" rel="noopener noreferrer nofollow" target="_blank">Episode 2: Tray Return Initiative</a>
+<p><a href="https://www.youtube.com/watch?v=-XxIrMlGZIw" rel="noopener noreferrer nofollow" target="_blank">Episode 2: </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Episode 2: Tray Return Initiative" src="/images/SLD28.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnail_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
