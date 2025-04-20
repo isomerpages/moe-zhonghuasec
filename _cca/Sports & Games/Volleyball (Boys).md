@@ -38,16 +38,25 @@ working closely with the teachers in charge.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2021 South Zone B Division Volleyball Championship – 4th Position</p>
+<p>2024 NSG 'C' Division League 3 &amp; South Zone 'B' Division (Participation)</p>
 </li>
 <li>
-<p>2022 South Zone C Division Volleyball Championship – 4th Position</p>
+<p>2023 NSG South Zone ‘B’ Division &amp; 'C' Division (Participation)</p>
+</li>
+<li>
+<p>2022 NSG South Zone 'C' Division (4th Position)</p>
+</li>
+<li>
+<p>2022 NSG South Zone 'B' Division (Participation)</p>
+</li>
+<li>
+<p></p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Volleyball.jpg">
 </div>
 <p></p>
 <p>Please click on <a href="https://www.zhonghuasec.moe.edu.sg/cca/schedule/" rel="noopener noreferrer nofollow" target="_blank">this link</a> for
 CCA schedule and contact details of CCA teachers.</p>
+<p></p>
