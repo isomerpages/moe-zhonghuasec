@@ -52,30 +52,36 @@ development.</p>
 </p>
 <ul>
 <li>
-<p>&nbsp;&nbsp; Police Heritage Centre</p>
+<p>&nbsp;Police Heritage Centre</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp; Home Team Gallery</p>
+<p>&nbsp;Home Team Gallery</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; Neighbourhood Poilce Centre</p>
+<p>&nbsp;Neighbourhood Poilce Centre</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp; Criminal Investigation Department</p>
+<p>&nbsp;Criminal Investigation Department</p>
 </li>
 </ul>
 <p><strong>Recent Achievements:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Unit Overall Proficiency Award (2022-2024) Distinction</p>
+<p>Unit Overall Proficiency Award 2024 (Distinction)</p>
+</li>
+<li>
+<p>Unit Overall Proficiency Award 2023 (Distinction)</p>
+</li>
+<li>
+<p>Unit Overall Proficiency Award 2025 (Distinction)</p>
 </li>
 <li>
 <p>Recipients of SPF-NPCC award (2022 - 2025)</p>
 </li>
 <li>
-<p>SPF-NPCC 2024 Awardees – SI(NPCC)Sierra Chrisandra Canlas, SSGT(NPCC)Valene
-Tan Xin Yu and SSGT(NPCC)Rena Goh Rui Xin</p>
+<p>SPF-NPCC 2024 Awardees – SI(NPCC) Sierra Chrisandra Canlas, SSGT(NPCC)
+Valene Tan Xin Yu and SSGT(NPCC) Rena Goh Rui Xin</p>
 </li>
 <li>
 <p>Area Games Day Competition 2024 – Dodgeball Competition: 2nd Runner ,
@@ -86,8 +92,5 @@ Ultimate Frisbee Competition: 2nd runner up and Sphere Showdown Competition:
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC.png">
 </div>
-<p>
-<br>
-</p>
 <p>Please click on <a href="https://www.zhonghuasec.moe.edu.sg/cca/schedule/" rel="noopener noreferrer nofollow" target="_blank">this link</a> for
 CCA schedule and contact details of CCA teachers.</p>
