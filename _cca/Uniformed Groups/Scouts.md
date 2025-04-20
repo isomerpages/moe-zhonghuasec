@@ -48,13 +48,13 @@ for the National Pioneering competition. To date, our Scouts have attained
 </p>
 <ul>
 <li>
-<p>Frank Cooper Sands Award 2024 - Gold</p>
+<p>Frank Cooper Sands Award (2024) - Gold</p>
 </li>
 <li>
-<p>Frank Cooper Sands Award 2023 - Gold</p>
+<p>Frank Cooper Sands Award (2023) - Gold</p>
 </li>
 <li>
-<p>Frank Cooper Sands Award 2022 - Gold</p>
+<p>Frank Cooper Sands Award (2022) - Gold</p>
 </li>
 <li>
 <p>National Pioneering Competition – Silver (2022)</p>
