@@ -51,11 +51,12 @@ Div Badminton</p>
 </p>
 <ul>
 <li>
-<p>South Zone ‘B’ Division Badminton Competition (participation)</p>
+<p>2023 &amp; 2024 South Zone ‘B’ &amp; 'C' Division Badminton Competition
+(participation)</p>
 </li>
 <li>
-<p>&nbsp; National School Games (NSG) Opening Ceremony 2024, representing
-Singapore Sports Council as&nbsp; Oath Taker (captain of Badminton team)</p>
+<p>2024 National School Games (NSG) Opening Ceremony representing Singapore
+Sports Council as Oath Taker (captain of Badminton team)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
