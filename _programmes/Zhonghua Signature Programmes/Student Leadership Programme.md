@@ -301,12 +301,13 @@ engagement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.youtube.com/watch?v=9z3tveordQQ" rel="noopener noreferrer nofollow" target="_blank">Episode 2: Tray Return Initiative</a>
+<p><a href="https://www.youtube.com/watch?v=9z3tveordQQ" rel="noopener nofollow" target="_blank">Episode 2: Tray Return</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Episode 2: Tray Return Initiative" src="/images/SLD28.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_04_14_112225.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -437,6 +438,21 @@ engagement</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Episode_10__Total_Defence_Special___Together_Against_Terrorism_Video_Thumbnail.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=-XxIrMlGZIw" rel="noopener nofollow" target="_blank">Episode 11: International Friendship Day Special!</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnail_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
