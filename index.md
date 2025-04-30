@@ -11,7 +11,7 @@ sections:
       background: /images/hero1.gif
       url: /about-us/contact-us/
       key_highlights:
-        - title: Sec 1 2025 Microsite
+        - title: Direct School Admission (DSA)
           description: ""
           url: https://sites.google.com/moe.edu.sg/2025zhonghuasec1infoportal
         - title: Announcements
