@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Direct School Admission (DSA)
           description: ""
-          url: https://sites.google.com/moe.edu.sg/2025zhonghuasec1infoportal
+          url: https://sites.google.com/moe.edu.sg/zhonghuasec-dsa/
         - title: Announcements
           description: ""
           url: /announcements/
