@@ -36,6 +36,9 @@ for students to express themselves confidently and develop musicianship.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Singapore Youth Festival Arts Presentation 2025 - Certificate of Distinction</p>
+</li>
+<li>
 <p>Singapore Youth Festival Arts Presentation 2023 - Certificate of Accomplishment</p>
 </li>
 <li>
