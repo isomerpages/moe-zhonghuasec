@@ -37,7 +37,7 @@ community.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Youth Festival Arts Presentation 2025 – Certificate of Distinction</p>
+<p>Singapore Youth Festival Arts Presentation 2025 – Certificate of Accomplishment</p>
 </li>
 <li>
 <p>Singapore Youth Festival Arts Presentation 2023 – Certificate of Distinction</p>
