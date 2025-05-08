@@ -22,7 +22,7 @@ The Orchestra has performed consistently well in major music competitions since 
 * External Instrumental Grading Examination
 
 **Recent Achievements:**
-* Singapore Youth Festival Arts Presentation: Consecutive Certificate of Distinction from 2013 to 2023
+* Singapore Youth Festival Arts Presentation: Consecutive Certificate of Distinction from 2013 to 2025
 * Singapore Youth Festival Central Judging: Consecutive Gold/Gold with Honours from 2005 to 2011
 
 ![](/images/CO.jpg)
