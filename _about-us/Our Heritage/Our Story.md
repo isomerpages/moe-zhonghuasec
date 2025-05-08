@@ -74,7 +74,7 @@ to create a local pool of teachers to meet growing needs. In 1935, Chung
 Hwa introduced a simplified Normal Training Course, and these cadets graduated
 in 1941.
 <br>
-<br>In 1942, Classes were suspended with the outbreak of World War II and
+<br>In 1942, classes were suspended with the outbreak of World War II and
 the Japanese Occupation of Singapore.
 <br>
 <br>In 1947, Chung Hwa resumed classes with the reintroduction of two teacher
@@ -297,7 +297,7 @@ to enrich its pupils and stretch their potential.</p>
 <p>Zhonghua began the millennium on a momentous note with its move to a new
 campus in Serangoon Avenue 3 in 2000. Officially opened on 8 September
 2001 to the theme “Inheriting from our past, Nurturing the future”, Zhonghua
-sought to built upon its traditions, while preparing its students to rise
+sought to build upon its traditions, while preparing its students to rise
 to new challenges in the age of Information Technology.
 <br>
 <br>As Zhonghua eases into the second decade of the 21st century, it continues
