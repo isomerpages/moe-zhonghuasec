@@ -4,9 +4,18 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
-<p></p>
+<p><strong>Zhonghua Homecoming Festival 2025</strong>
+<br>Join us at our Zhonghua Homecoming Festival happening on 31 May 2025 (Sat),
+from 1pm to 5pm!
+<br>Scan the QR code on poster or click on the link in below to sign up!
+<br><a href="http://bit.ly/44LpZDo" rel="noopener noreferrer nofollow" target="_blank">http://bit.ly/44LpZDo</a>
+<br>See you at Zhonghua Sec on 31st May! 👋🏻</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zhonghua_Homecoming_Festival_2025_Poster.jpg">
+</div>
 <hr>
-<p><strong>2024 Sec 1-3 End Of Year Exam Timetable</strong>
+<p>
+<br><strong>2024 Sec 1-3 End Of Year Exam Timetable</strong>
 </p>
 <p><a href="/files/2024_Sec_1_EOY.pdf" rel="noopener nofollow" target="_blank">2024 Sec 1 EOY Timetable</a>
 </p>
