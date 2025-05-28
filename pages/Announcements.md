@@ -14,8 +14,11 @@ from 1pm to 5pm!
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zhonghua_Homecoming_Festival_2025_Poster.jpg">
 </div>
 <hr>
-<p>
-<br><strong>2024 Sec 1-3 End Of Year Exam Timetable</strong>
+<p><strong>2025 Sec 4N 4T Prelim</strong>
+</p>
+<p><a href="/files/2025_Sec_4N_4T_Prelim_timetable.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4N 4T Prelim</a>
+</p>
+<p><strong>2024 Sec 1-3 End Of Year Exam Timetable</strong>
 </p>
 <p><a href="/files/2024_Sec_1_EOY.pdf" rel="noopener nofollow" target="_blank">2024 Sec 1 EOY Timetable</a>
 </p>
