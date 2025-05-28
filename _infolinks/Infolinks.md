@@ -339,7 +339,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://adfs.schools.moe.edu.sg/adfs/ls/?SAMLRequest=jVJbT8IwFP4rS9%2FZpVxt2BKEGElQF5g%2B%2BFa6M2jStbOnm%2FrvHQMDPkB8Pf1u53ydIi8Vrdisdnu9ho8a0HlfpdLIji8xqa1mhqNEpnkJyJxgm9nTilE%2FZJU1zgijiDdDBOuk0XOjsS7BbsA2UsDrehWTvXMVsiBANED90oAPee3jLtC8qfgO%2FNwQb9FaS80PGmcGzwv0UeyNUXhJPMwDhQHxHowV0MWPScEVAvGWi5hsnudCjIfjkE76UPRHvMi3k0EhxpPBoKBiANBvgZhyRNnAmYpYw1Kj49rFhIaU9sK7Hh1lIWV0yKKRH0b0nXjpafF7qXOpd7evtD2CkD1mWdpLXzZZJ9DIHOxzi%2F7ngd7AYnecVpMk064f1gW2l5XdzsJ%2FeyLJNdNpcCl9MqrYIelykRolxbc3U8p8zi1w16Z3toauiJK76%2B6RH3UTmfeKDspqjRUIWUjISZCcbP%2F%2BxeQH&amp;RelayState=https%3A%2F%2Fssoe2.moe.edu.sg%2Fnavpage.do" rel="noopener noreferrer nofollow" target="_blank">SSOE 2 Portal</a>
+<p><a href="https://adfs.gcc.ssoe.moe.edu.sg/adfs/ls/?SAMLRequest=jVJdT8IwFP0rS9%2FpxoChDVsyIUYSxAWmD76V9g6abO3s7VD%2FvWNgwAeIb03v%2Beo9nSCvyrBmaeN2egUfDaDzvqpSIztOYtJYzQxHhUzzCpA5wdbp84KFNGC1Nc4IUxIvRQTrlNFTo7GpwK7B7pWA19UiJjvnamS%2Bj2ggpJUBCrKhuPU139d8C1Qa4s1aa6X5QePM4LJAuhWCHqiXzMPAL9En3qOxArr8MSl4iUC8%2BSwm6%2BVURgOIOBSj6H5cFNFouJHheAhStKeBhE0LxIwjqj2cqYgNzDU6rl1MwiAc9YJhrx%2FlQcjCMQvG9G50%2F0687PTyB6Wl0tvba9ocQcie8jzrZS%2FrvBPYKwl22aL%2FuaE3sNhtp9UkyaQriHWB7WVnt7Pw36JIcs104l9Kn4xqdkg6n2WmVOLbS8vSfE4tcNemd7aBroiKu%2BvufdrvbpTsFR2UNRprEKpQIImfnGz%2FfsbkBw%3D%3D&amp;RelayState=https%3A%2F%2Fssoe2.moe.edu.sg%2Fnavpage.do" rel="noopener noreferrer nofollow" target="_blank">SSOE 2 Portal</a>
 </p>
 </td>
 </tr>
