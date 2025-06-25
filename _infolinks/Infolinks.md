@@ -339,7 +339,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://adfs.gcc.ssoe.moe.edu.sg/adfs/ls/?SAMLRequest=jVJdT8IwFP0rS9%2FpxoChDVsyIUYSxAWmD76V9g6abO3s7VD%2FvWNgwAeIb03v%2Beo9nSCvyrBmaeN2egUfDaDzvqpSIztOYtJYzQxHhUzzCpA5wdbp84KFNGC1Nc4IUxIvRQTrlNFTo7GpwK7B7pWA19UiJjvnamS%2Bj2ggpJUBCrKhuPU139d8C1Qa4s1aa6X5QePM4LJAuhWCHqiXzMPAL9En3qOxArr8MSl4iUC8%2BSwm6%2BVURgOIOBSj6H5cFNFouJHheAhStKeBhE0LxIwjqj2cqYgNzDU6rl1MwiAc9YJhrx%2FlQcjCMQvG9G50%2F0687PTyB6Wl0tvba9ocQcie8jzrZS%2FrvBPYKwl22aL%2FuaE3sNhtp9UkyaQriHWB7WVnt7Pw36JIcs104l9Kn4xqdkg6n2WmVOLbS8vSfE4tcNemd7aBroiKu%2BvufdrvbpTsFR2UNRprEKpQIImfnGz%2FfsbkBw%3D%3D&amp;RelayState=https%3A%2F%2Fssoe2.moe.edu.sg%2Fnavpage.do" rel="noopener noreferrer nofollow" target="_blank">SSOE 2 Portal</a>
+<p><a href="https://shorturl.at/0CIqS" rel="noopener noreferrer nofollow" target="_blank">SSOE 2 Portal</a>
 </p>
 </td>
 </tr>
