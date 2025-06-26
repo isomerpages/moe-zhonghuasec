@@ -194,36 +194,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/3R1_v1.pdf" rel="noopener nofollow" target="_blank">3R1</a>
+<p><a href="/files/3R1_Sem_2_2025.pdf" rel="noopener nofollow" target="_blank">3R1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/3R2_v1.pdf" rel="noopener nofollow" target="_blank">3R2</a>
+<p><a href="/files/3R2_Sem_2_2025.pdf" rel="noopener nofollow" target="_blank">3R2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/3R3_v1.pdf" rel="noopener nofollow" target="_blank">3R3</a>
+<p><a href="/files/3R3_Sem_2_2025.pdf" rel="noopener nofollow" target="_blank">3R3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/3R4_v1.pdf" rel="noopener nofollow" target="_blank">3R4</a>
+<p><a href="/files/3R4_Sem_2_2025.pdf" rel="noopener nofollow" target="_blank">3R4</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/3R5_v1.pdf" rel="noopener nofollow" target="_blank">3R5</a>
+<p><a href="/files/3R5_Sem_2_2025.pdf" rel="noopener nofollow" target="_blank">3R5</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/3R6_v1.pdf" rel="noopener nofollow" target="_blank">3R6</a>
+<p><a href="/files/3R6_Sem_2_2025.pdf" rel="noopener nofollow" target="_blank">3R6</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/3R7_v1.pdf" rel="noopener nofollow" target="_blank">3R7</a>
+<p><a href="/files/3R7_Sem_2_2025.pdf" rel="noopener nofollow" target="_blank">3R7</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/3R8_v1.pdf" rel="noopener nofollow" target="_blank">3R8</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
