@@ -222,7 +222,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/3R8_Sem_2_2025.pdf" rel="noopener nofollow" target="_blank">3R8</a>
+</p>
 </td>
 </tr>
 <tr>
