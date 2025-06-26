@@ -119,21 +119,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Imaduddin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:imaduddin_ahmad_chevi_rafiudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">imaduddin_ahmad_chevi_rafiudin@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-153</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Amanda Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -220,21 +205,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-129</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Julian Loh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loh_julian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_julian@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-165</p>
 </td>
 </tr>
 <tr>
