@@ -59,21 +59,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Leow Kai Yin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head - Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.zhonghuasec.moe.edu.sg/about-us/our-people/form-teachers/leow_kai_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leow_kai_yin@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-143</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Jiang Ruifang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -235,21 +220,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-126</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Nasyrah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_nasyrah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_nasyrah_ahmad@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-140</p>
 </td>
 </tr>
 <tr>
