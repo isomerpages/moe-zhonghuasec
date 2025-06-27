@@ -146,7 +146,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Web-based Outlook</a>
+<p><a href="https://outlook.office365.com/owa/schools.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Web-based Outlook</a>
 </p>
 </td>
 </tr>
