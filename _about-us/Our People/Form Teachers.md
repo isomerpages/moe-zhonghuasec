@@ -719,7 +719,8 @@ variant: tiptap
 <p>Ms Huang Weiyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="huang_weiyu@moe.edu.sg" rel="noopener nofollow" target="_blank">huang_weiyu@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
