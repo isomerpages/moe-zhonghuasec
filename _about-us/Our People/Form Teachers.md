@@ -93,7 +93,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong Min Tzu, Sharilyn</p>
+<p>Ms Wong Min Tzu, Sharilyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:min_tzu_sharilyn_wong@moe.edu.sg" rel="noopener nofollow" target="_blank">min_tzu_sharilyn_wong@moe.edu.sg</a>
@@ -108,7 +108,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Xuan Zhen, Janelle</p>
+<p>Ms Tan Xuan Zhen, Janelle</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_xuan_zhen_janelle@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_xuan_zhen_janelle@moe.edu.sg</a>
