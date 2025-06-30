@@ -465,7 +465,8 @@ variant: tiptap
 <p>Mr Liu Jianqing Daniel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="liu_jianqing_daniel@moe.edu.sg" rel="noopener nofollow" target="_blank">liu_jianqing_daniel@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
