@@ -1047,14 +1047,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Yong Khern</p>
+<p>Ms Amanda Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_yong_khern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yong_khern@moe.edu.sg</a>
+<p><a href="tan_si_hui_amanda@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_si_hui_amanda@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-126</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
