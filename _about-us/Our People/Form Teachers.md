@@ -273,14 +273,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Soh Wei Cheng</p>
+<p>Ms Tan Wah Ling Nasyitah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:soh_wei_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_wei_cheng@moe.edu.sg</a>
-</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-172</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
