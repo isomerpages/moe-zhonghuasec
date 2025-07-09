@@ -16,7 +16,7 @@ from 1pm to 5pm!
 <hr>
 <p><strong>2025 Sec 4N 4T Prelim</strong>
 </p>
-<p><a href="/files/2025_Sec_4N_4T_Prelim_timetable.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4N 4T Prelim</a>
+<p><a href="/files/2025_Sec_4N_4T_Prelim_timetable__1_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4N 4T Prelim</a>
 </p>
 <p><strong>2024 Sec 1-3 End Of Year Exam Timetable</strong>
 </p>
