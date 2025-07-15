@@ -11,8 +11,9 @@ servant leaders committed to leading themselves and others. Customised
 and run by our student leaders, we believe in the approach of “leaders
 growing leaders”, empowering our student leaders in the training and mentoring
 of their juniors.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student Leadership Framework" src="/images/SLD_Framework.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ZHSS_SLD_Framework__upd_14_Jul_.png">
 </div>
 <h5>The Five Practices of Exemplary Leadership</h5>
 <p>Our school adopts the Kouzes and Posner’s Five Practices of Exemplary
