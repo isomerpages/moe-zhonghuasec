@@ -255,6 +255,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Wen Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_wen_jun_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wen_jun_a@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-125</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1C8</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -276,7 +291,8 @@ variant: tiptap
 <p>Ms Tan Wah Ling Nasyitah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="mailto:tan_wah_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wah_ling@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-116</p>
@@ -723,7 +739,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>65938-139</p>
 </td>
 </tr>
 <tr>
@@ -749,7 +765,8 @@ variant: tiptap
 <p>Ms Rahayu Ahmad Asi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="mailto:rahayu_ahmad_asi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahayu_ahmad_asi@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-207</p>
