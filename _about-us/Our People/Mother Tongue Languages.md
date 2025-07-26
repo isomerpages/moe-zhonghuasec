@@ -59,6 +59,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Huang Weiyu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:huang_weiyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_weiyu@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-139</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Jiang Ruifang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -205,6 +220,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-130</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Sherlyn Binte Mohamad Salim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_sherlyn_mohamad_salim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_sherlyn_mohamad_salim@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-138</p>
 </td>
 </tr>
 <tr>
