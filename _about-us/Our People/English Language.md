@@ -224,6 +224,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Wong Min Tzu, Sharilyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:min_tzu_sharilyn_wong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">min_tzu_sharilyn_wong@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-152</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Vanessa Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -235,6 +250,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938100-203</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>

@@ -102,6 +102,21 @@ third_nav_title: Our People
 <p>65938100-205</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chew Sui Jin Glenn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi-Adjunct Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew_sui_jin_glenn_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_sui_jin_glenn_b@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-139</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

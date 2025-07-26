@@ -254,6 +254,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Liu Jianqing Daniel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head - Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liu_jianqing_daniel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_jianqing_daniel@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Anna Yeo Li Min</p>
 </td>
 <td rowspan="1" colspan="1">
