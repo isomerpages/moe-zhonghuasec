@@ -357,24 +357,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sng Mui Yong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Flexi-Adjunct Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Sng_Mui_Yong_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_mui_yong_a@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-187</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Shriyln Low</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -389,6 +371,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-159</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sng Mui Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi-Adjunct Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Sng_Mui_Yong_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_mui_yong_a@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-187</p>
 </td>
 </tr>
 </tbody>
