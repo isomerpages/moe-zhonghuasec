@@ -275,7 +275,8 @@ variant: tiptap
 <p>STEM Instructor (Lab)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="mailto:khairunisa_mohd_hussin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khairunisa_mohd_hussin@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-172</p>
@@ -289,7 +290,8 @@ variant: tiptap
 <p>STEM Instructor (Lab)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="mailto:shamira_banu_abdul_bari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shamira_banu_abdul_bari@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-172</p>
