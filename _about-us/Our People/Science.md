@@ -267,6 +267,34 @@ variant: tiptap
 <p>65938-207</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Khairunisa binte Mohd Hussin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor (Lab)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-172</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Shamira Banu d/o Abdul Bari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor (Lab)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-172</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
