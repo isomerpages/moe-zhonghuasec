@@ -224,7 +224,7 @@ variant: tiptap
 <p>Lead Teacher – Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lawrence_tang_kok_onn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seoh_bee_hua@moe.edu.sg</a>
+<p><a href="mailto:seoh_bee_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seoh_bee_hua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
