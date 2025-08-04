@@ -4,6 +4,14 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<p><strong>Caring Teacher Award 2025</strong>
+<br>The Caring Teacher Awards (CTA) celebrates educators who exemplify care
+and compassion in their teaching, going beyond the call of duty to nurture
+the holistic development of their students. Nominate a caring teacher today!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CTA_2025__V2_.jpg">
+</div>
+<p></p>
 <p><strong>Zhonghua Homecoming Festival 2025</strong>
 <br>Join us at our Zhonghua Homecoming Festival happening on 31 May 2025 (Sat),
 from 1pm to 5pm!
