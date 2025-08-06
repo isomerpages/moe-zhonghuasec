@@ -22,6 +22,10 @@ from 1pm to 5pm!
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zhonghua_Homecoming_Festival_2025_Poster.jpg">
 </div>
 <hr>
+<p><strong>2025 Sec 4E 4N 5N O Level Prelim</strong>
+</p>
+<p><a href="/files/4E_4N_5N_O_Level_Prelim_Timetable.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4E 4N 5N O Level Prelim</a>
+</p>
 <p><strong>2025 Sec 4N 4T Prelim</strong>
 </p>
 <p><a href="/files/2025_Sec_4N_4T_Prelim_timetable__1_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4N 4T Prelim</a>
