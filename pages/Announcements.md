@@ -47,7 +47,7 @@ the holistic development of their students. Nominate a caring teacher today!</p>
 <br><a href="https://staging.d1ph2u5puaqsvh.amplifyapp.com/about-us/soh2023/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 <hr>
-<p><strong>Zhonghua Secondary School Open House 2024</strong> 
+<p><strong>Zhonghua Secondary School Open House 2024</strong>
 </p>
 <p></p>
 <p><strong>Zhonghua Homecoming Festival 2025</strong>
