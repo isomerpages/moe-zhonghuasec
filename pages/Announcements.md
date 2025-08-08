@@ -12,19 +12,10 @@ the holistic development of their students. Nominate a caring teacher today!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CTA_2025__V2_.jpg">
 </div>
 <p></p>
-<p><strong>Zhonghua Homecoming Festival 2025</strong>
-<br>Join us at our Zhonghua Homecoming Festival happening on 31 May 2025 (Sat),
-from 1pm to 5pm!
-<br>Scan the QR code on poster or click on the link in below to sign up!
-<br><a href="http://bit.ly/44LpZDo" rel="noopener noreferrer nofollow" target="_blank">http://bit.ly/44LpZDo</a>
-<br>See you at Zhonghua Sec on 31st May! 👋🏻</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zhonghua_Homecoming_Festival_2025_Poster.jpg">
-</div>
 <hr>
 <p><strong>2025 Sec 4E 4N 5N O Level Prelim</strong>
 </p>
-<p><a href="/files/4E_4N_5N_O_Level_Prelim_Timetable.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4E 4N 5N O Level Prelim</a>
+<p><a href="https://docs.google.com/spreadsheets/d/18ChfoL-7sXNx2ApmsxEs7TVxGcA9lMjSlrkgtv79fZI/edit?gid=0#gid=0" rel="noopener nofollow" target="_blank">2025 Sec 4E 4N 5N O Level Prelim</a>
 </p>
 <p><strong>2025 Sec 4N 4T Prelim</strong>
 </p>
@@ -57,5 +48,18 @@ from 1pm to 5pm!
 </p>
 <hr>
 <p><strong>Zhonghua Secondary School Open House 2024</strong> 
+</p>
+<p></p>
+<p><strong>Zhonghua Homecoming Festival 2025</strong>
+<br>Join us at our Zhonghua Homecoming Festival happening on 31 May 2025 (Sat),
+from 1pm to 5pm!
+<br>Scan the QR code on poster or click on the link in below to sign up!
+<br><a href="http://bit.ly/44LpZDo" rel="noopener noreferrer nofollow" target="_blank">http://bit.ly/44LpZDo</a>
+<br>See you at Zhonghua Sec on 31st May! 👋🏻</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zhonghua_Homecoming_Festival_2025_Poster.jpg">
+</div>
+<p></p>
+<p>
 <br><a href="https://www.zhonghuasec.moe.edu.sg/about-us/soh/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
