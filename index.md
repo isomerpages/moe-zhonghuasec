@@ -14,6 +14,9 @@ sections:
         - title: Highlights
           description: ""
           url: /achievements/school-achievements/
+        - title: Zhonghua Signature Programmes
+          description: ""
+          url: programmes/zhonghua-signature-programmes/
         - title: Scam Alert
           description: ""
           url: /scam-alert/
