@@ -20,7 +20,4 @@ sections:
         - title: Scam Alert
           description: ""
           url: /scam-alert/
-  - resources:
-      title: Announcements
-      id: resources
 ---
