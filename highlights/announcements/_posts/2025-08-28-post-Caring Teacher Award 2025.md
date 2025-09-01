@@ -1,0 +1,10 @@
+---
+title: Caring Teacher Award 2025
+date: 2025-08-28
+layout: post
+description: ""
+image: ""
+variant: tiptap
+external: https://www.zhonghuasec.moe.edu.sg/announcements/
+permalink: /resources/caring-teachers-award-2025/
+---
