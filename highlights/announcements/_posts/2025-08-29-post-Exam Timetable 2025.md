@@ -8,5 +8,13 @@ image: ""
 variant: tiptap
 ---
 <h4><strong>Prelim Exam Timetable</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/4E_4N_5N_O_Level_Prelim_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">4E_4N_5N_O_Level_Prelim_Timetable</a>
 </p>
+</li>
+<li>
+<p></p>
+</li>
+</ul>
+<p></p>
