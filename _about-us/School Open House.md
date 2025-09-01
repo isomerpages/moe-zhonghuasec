@@ -12,6 +12,9 @@ variant: tiptap
 <p>Experience our school campus, signature programmes, diverse curriculum
 and exciting CCAs offered at Zhonghua Sec! Don’t miss this opportunity
 to hear from our school leaders and staff!!</p>
-<p>Facebook:&nbsp;<a href="https://www.facebook.com/zhonghuasec" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/zhonghuasec<br></a>Instagram:
-<a href="https://www.instagram.com/zhonghuasec/" rel="noopener noreferrer nofollow" target="_blank">@zhonghuasec</a>
+<p>Do follow our social media pages as well to find out the latest happenings
+in our school and get the most up-to-date news about our Open House!</p>
+<p>Facebook:&nbsp;<a href="https://www.facebook.com/zhonghuasec" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/zhonghuasec</a>
 </p>
+<p>Instagram:&nbsp;@zhonghuasec</p>
+<p>See you then!</p>
