@@ -10,7 +10,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOTD_ZHSS_2025.jpg">
 </div>
-<h4><strong>Join us at our Open House on 15 Nov 2024 (Saturday) from 9 am to 1 pm!</strong></h4>
+<h4><strong>Join us at our Open House on 15 Nov 2025 (Saturday) from 9 am to 1 pm!</strong></h4>
 <p>Principal’s Address:&nbsp;10.30am - 11.15am</p>
 <p>Experience our school campus, signature programmes, diverse curriculum
 and exciting CCAs offered at Zhonghua Sec! Don’t miss this opportunity
