@@ -14,7 +14,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Sec_4N_4T_Prelim_timetable__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4N, 4T Prelim Exam Timetable</a>
+<p><a href="/files/2025_Sec_4N_4T_Prelim_timetable__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4N(A), 4N(T) Prelim Exam Timetable</a>
 </p>
 </li>
 </ul>
