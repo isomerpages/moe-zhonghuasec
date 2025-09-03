@@ -39,7 +39,7 @@ variant: markdown
 </a></p>	
 
 <p><a href="https://www.zhonghuasec.moe.edu.sg/cca/performing-arts/dance/">
-<img style="width:20%" src="" align="left">
+<img style="width:20%" src="/images/Chinese_Dance.jpg" align="left">
 </a></p>	
 
 
