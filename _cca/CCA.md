@@ -44,7 +44,7 @@ variant: markdown
 
 
 <p><a href="https://www.zhonghuasec.moe.edu.sg/cca/performing-arts/guzheng/">
-<img style="width:20%" src="/images/" align="left">
+<img style="width:20%" src="/images/Guzheng_Ensemble.jpg" align="left">
 </a></p>	
 
 <p><a href="https://www.zhonghuasec.moe.edu.sg/cca/performing-arts/band/">
