@@ -12,10 +12,15 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p>National Day Awards 2025</p>
+<p></p>
+<p></p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Koh Lee Keng (Commendation Medal)</p>
+<p>Mr Francis Tan (Long Service Medal)</p>
+<p>Mr Shahul Hameed Khuthubudeen (Long Service Medal)</p>
 </th>
 </tr>
 <tr>
