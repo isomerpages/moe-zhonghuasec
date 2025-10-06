@@ -62,8 +62,9 @@ Journey) 3rd place</p>
 <p>2023 - Global Robotics Games (Mobile Robotics 3 Category 1st Runner-up)</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocom.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/collage__1_.jpg">
 </div>
 <p>
 <br>
