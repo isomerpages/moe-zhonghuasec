@@ -52,10 +52,10 @@ them with the skill sets in Microsoft office applications, drawing skills
 (Corel Draw), Scratch programming for animation and game making, flowcharting
 and coding.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT_2024.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/collage.jpg">
+</div>
 <h5><strong>GCE O-level Food and Nutrition (Normal Academic students)</strong></h5>
 <p>This two-year GCE O-Level Food and Nutrition (F&amp;N) programme seeks
 to develop our students with an understanding of:</p>
