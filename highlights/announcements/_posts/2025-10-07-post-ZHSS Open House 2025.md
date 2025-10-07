@@ -27,6 +27,5 @@ us for the latest updates:
 <br>• Instagram: <a href="https://www.instagram.com/zhonghuasec" rel="noopener noreferrer nofollow" target="_new">@zhonghuasec</a>
 <br>
 </p>
-<p></p>
 <p>&nbsp;See you at Zhonghua Sec on 15<sup>th</sup> Nov! 👋</p>
 <p>See you then!</p>
