@@ -23,8 +23,10 @@ the latest happenings in our school and get the most up-to-date news about
 our Open House!</p>
 <p>&nbsp;💻 E-Open House microsite: <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/zhsseopenhouse<br>📱</a> Follow
 us for the latest updates:
-<br>• Facebook: <a rel="noopener noreferrer nofollow" target="_blank">facebook.com/zhonghuasec<br></a>•
-Instagram: <a href="https://www.instagram.com/zhonghuasec" rel="noopener noreferrer nofollow" target="_new">@zhonghuasec</a>
+<br>• Facebook: <a rel="noopener noreferrer nofollow" target="_blank">facebook.com/zhonghuasec</a>
+<br>• Instagram: <a href="https://www.instagram.com/zhonghuasec" rel="noopener noreferrer nofollow" target="_new">@zhonghuasec</a>
+<br>
 </p>
+<p></p>
 <p>&nbsp;See you at Zhonghua Sec on 15<sup>th</sup> Nov! 👋</p>
 <p>See you then!</p>
