@@ -25,7 +25,6 @@ our Open House!</p>
 us for the latest updates:
 <br>• Facebook: <a rel="noopener noreferrer nofollow" target="_blank">facebook.com/zhonghuasec</a>
 <br>• Instagram: <a href="https://www.instagram.com/zhonghuasec" rel="noopener noreferrer nofollow" target="_new">@zhonghuasec</a>
-<br>
 </p>
-<p>&nbsp;See you at Zhonghua Sec on 15<sup>th</sup> Nov! 👋</p>
+<p></p>
 <p>See you then!</p>
