@@ -24,12 +24,16 @@ our exciting CCA showcases!
 <br>Do visit our E-Open House microsite and social media pages to find out
 the latest happenings in our school and get the most up-to-date news about
 our Open House!&nbsp;</p>
-<p>💻 E-Open House microsite: <a href="http://go.gov.sg/zhsseopenhouse" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/zhsseopenhouse</a><a rel="noopener noreferrer nofollow" target="_blank"><br></a>📱 Follow us for the latest
-updates:
-<br>• Facebook: <a href="http://www.facebook.com/zhonghuasec" rel="noopener noreferrer nofollow" target="_blank">facebook.com/zhonghuasec</a>
-<a rel="noopener noreferrer nofollow" target="_blank">
-<br>
-</a>• Instagram: <a href="https://www.instagram.com/zhonghuasec" rel="noopener noreferrer nofollow" target="_new">@zhonghuasec</a>&nbsp;</p>
+<p>💻 E-Open House microsite: <a href="http://go.gov.sg/zhsseopenhouse" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/zhsseopenhouse</a><a rel="noopener noreferrer nofollow" target="_blank"><br></a> Follow us for the latest updates:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Facebook: <a href="http://www.facebook.com/zhonghuasec" rel="noopener noreferrer nofollow" target="_blank">facebook.com/zhonghuasec</a>
+</p>
+</li>
+<li>
+<p>Instagram: <a href="https://www.instagram.com/zhonghuasec" rel="noopener noreferrer nofollow" target="_new">@zhonghuasec</a>&nbsp;</p>
+</li>
+</ul>
 <p>See you at Zhonghua Sec on 15<sup>th</sup> Nov! 👋</p>
 <p></p>
 <p></p>
