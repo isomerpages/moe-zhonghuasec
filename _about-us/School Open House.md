@@ -21,8 +21,8 @@ our exciting CCA showcases!
 <br>Do visit our E-Open House microsite and social media pages to find out
 the latest happenings in our school and get the most up-to-date news about
 our Open House!&nbsp;</p>
-<p>💻 E-Open House microsite: <a href="http://go.gov.sg/zhsseopenhouse" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/zhsseopenhouse</u><br></a>📱
-Follow us for the latest updates:</p>
+<p>💻 E-Open House microsite: <a href="http://go.gov.sg/zhsseopenhouse" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/zhsseopenhouse</u></a>
+<br>📱 Follow us for the latest updates:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Facebook: <a href="http://go.gov.sg/zhsseopenhouse" rel="noopener noreferrer nofollow" target="_blank"><u>facebook.com/zhonghuasec</u></a>
