@@ -7,7 +7,7 @@ variant: tiptap
 <h4><strong>Admin Forms</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form (Updated Oct 2024)</a>
+<p>MOE Financial Assistance Online Application Form for 2026: <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
 </p>
 </li>
 <li>
