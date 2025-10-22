@@ -40,10 +40,19 @@ variant: tiptap
 </ol>
 </li>
 </ol>
-<h4><strong>Book Lists 2025</strong></h4>
-<p><a href="/files/BOOKLIST.pdf" rel="noopener nofollow" target="_blank">Sec 1 Book List </a>
-<br><a href="/files/ZHSS_2025_Booklst___Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Book List</a>
-<br><a href="/files/ZHSS_2025_Booklst___Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Book List</a>
-<br><a href="/files/ZHSS_2025_Booklst___Sec_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Book List</a>
-<br><a href="/files/ZHSS_2025_Booklst___Sec_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Book List</a>
+<h4><strong>Book Lists 2026</strong></h4>
+<p><a href="/files/ZHSS_2026_Sec1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Book List</a>
 </p>
+<p><a href="/files/ZHSS_2026_Sec2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Book List</a>
+</p>
+<p><a href="/files/ZHSS_2026_Sec3.pdf" rel="noopener nofollow" target="_blank">Sec 3 Book List</a>
+</p>
+<p><a href="/files/ZHSS_2026_Sec1_S4__EXP_.pdf" rel="noopener nofollow" target="_blank">Sec 4(Express) Book List</a>
+</p>
+<p><a href="/files/ZHSS_2026_Sec1_S4__NA_.pdf" rel="noopener nofollow" target="_blank">Sec 4(NA) Book List</a>
+</p>
+<p><a href="/files/ZHSS_2026_Sec1_S4__NT_.pdf" rel="noopener nofollow" target="_blank">Sec 4(NT) Book List</a>
+</p>
+<p><a href="/files/ZHSS_2026_Sec1_S5__NA_.pdf" rel="noopener nofollow" target="_blank">Sec 5(NA) Book List</a>
+</p>
+<p></p>
