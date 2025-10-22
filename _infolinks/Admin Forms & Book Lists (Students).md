@@ -44,6 +44,10 @@ variant: tiptap
 <p><a href="/files/ZHSS_2026_Sec1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Book List</a>
 <br><a href="/files/ZHSS_2026_Sec2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Book List</a>
 <br><a href="/files/ZHSS_2026_Sec3.pdf" rel="noopener nofollow" target="_blank">Sec 3 Book List</a>
-<br>
+<br><a href="/files/ZHSS_2026_Sec4__EXP_.pdf" rel="noopener nofollow" target="_blank">Sec 4(Express) Book List</a>
+<br><a href="/files/ZHSS_2026_Sec4__NA_.pdf" rel="noopener nofollow" target="_blank">Sec 4(NA) Book List</a>
+<br><a href="/files/ZHSS_2026_Sec4__NT_.pdf" rel="noopener nofollow" target="_blank">Sec 4(NT) Book List</a>
+<br><a href="/files/ZHSS_2026_Sec5__NA_.pdf" rel="noopener nofollow" target="_blank">Sec 5(NA) Book List</a>
 </p>
+<p></p>
 <p></p>
