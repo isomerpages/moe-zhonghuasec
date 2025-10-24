@@ -21,6 +21,118 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yap EE Chian Scholarship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Isaiah Ling Ying Zhe (2025)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sheng Peck Choo Scholarship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seah Le Tong, Nicole (2025)</p>
+<p>Pang Wei Yi (2025)</p>
+<p>Ang She En Khierstyn (2025)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yap EE Chian Scholarship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Xin Yi (2024)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sheng Peck Choo Scholarship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>See Yau (2024)</p>
+<p>Muhammad Naim Bin Muhammad Hasri (2024)</p>
+<p>Aden Chan Jun En (2024)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yap EE Chian Scholarship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loh Bei Hong (2023)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sheng Peck Choo Scholarship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loh Zi Yun Vanessa (2023)</p>
+<p>Yvette Tieu Kiu Lin (2023)</p>
+<p>Yeo Hui Wen Charlene (2023)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chuang Yong Eng Scholarship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maverick Toh (2016)</p>
+<p>Seah Shi Ying (2020)</p>
+<p>Foo Chuan Wei (2016)</p>
+<p>Joel Ko (2016)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yap EE Chian Scholarship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seah Le Yi, Shermaine (2022)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sheng Peck Choo Scholarship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gui Zhi Xuan, Khloe (2022)</p>
+<p>Ng Shi Ying (2022)</p>
+<p>Ong Ying En Beatrice (2022)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chuang Yong Eng Scholarship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joel Ko (2016)</p>
+<p>Lim Zhi Hao (2019)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>2021</p>
 </td>
 </tr>
