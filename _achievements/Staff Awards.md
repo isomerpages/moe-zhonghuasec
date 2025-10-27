@@ -11,17 +11,14 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>National Day Awards 2025</p>
-<p></p>
-<p></p>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Koh Lee Keng (Commendation Medal)</p>
 <p>Mr Francis Tan (Long Service Medal)</p>
 <p>Mr Shahul Hameed Khuthubudeen (Long Service Medal)</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
