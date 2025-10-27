@@ -17,7 +17,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Koh Lee Keng (Commendation Medal)</p>
 <p>Mr Francis Tan (Long Service Medal)</p>
-<p>Mr Shahul Hameed Khuthubudeen (Long Service Medal)</p>
+<p>Mr Shahul Hameed Kuthubudeen (Long Service Medal)</p>
 </td>
 </tr>
 <tr>
