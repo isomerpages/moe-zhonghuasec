@@ -73,7 +73,7 @@ variant: tiptap
 <br>(Sustained Excellence Honorary Award)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>2023 - 2024</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ variant: tiptap
 <p>School Green Awards 2023 (Yellow Flame)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>2023 - 2024</p>
 </td>
 </tr>
 </tbody>
