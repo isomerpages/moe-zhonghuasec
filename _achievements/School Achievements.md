@@ -108,6 +108,21 @@ variant: tiptap
 <p>Best Practice&nbsp; (Partnership)</p>
 </li>
 </ul>
+<h3><strong>2024 National Exam Results</strong></h3>
+<h4><strong>2024 GCE O-Level Results</strong></h4>
+<p>98.0% of Sec 4 Express students eligible for JC/MI
+<br>99.5% of Sec 4 Express students eligible for Polytechnic</p>
+<hr>
+<h4><strong>2024 GCE N-Level Results</strong></h4>
+<p><strong>Normal Academic</strong>
+</p>
+<p>72.0% eligible for Polytechnic Foundation Programme (PFP)
+<br>96.0% eligible for promotion to Direct-to-Polytechnic Programme (DPP)
+<br>96.0% eligible for promotion to Secondary 5</p>
+<p><strong>Normal Technical</strong>
+</p>
+<p>100% eligible for ITE</p>
+<hr>
 <h3><strong>2023 National Exam Results</strong></h3>
 <h4><strong>2023 GCE O-Level Results</strong>&nbsp;</h4>
 <p>97.5% of Sec 4 Express students eligible for JC/MI
