@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Zhonghua Signature Programmes
 variant: markdown
 ---
-##### **Zhonghua Secondary School Future-Ready Framework**
+#### **Zhonghua Secondary School Future-Ready Framework**
 
 **Empowering Minds and Hearts: A Holistic Approach to Education at Zhonghua Secondary School**
-![](/images/C3_2D_Future_Ready_Framework__Nov_2023_.png)
+![](/images/Picture1.png)
 
 ##### **Introduction**
 1.       In envisioning the Zhonghua Secondary School Future-Ready framework for education, we begin with the core, our RICE (Resilience, Integrity, Care, and Excellence) Values, which serve as the foundation upon which all else is built. They are the guiding principles that shape our approach to education, ensuring that students are not only prepared for the challenges of tomorrow but also equipped with a strong moral compass.
