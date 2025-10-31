@@ -7,7 +7,6 @@ variant: markdown
 ---
 ### **Zhonghua Secondary School Future-Ready Framework**
 
-**Empowering Minds and Hearts: A Holistic Approach to Education at Zhonghua Secondary School**
 ![](/images/Picture1.png)
 
 ##### **Introduction**
