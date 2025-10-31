@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><a href="/files/Bridging_and_ASP_Timetable___School.pdf" rel="noopener nofollow" target="_blank">Sec 1 and 2 Bridging Programme and Academic Support Programme Timetables</a>
+</p>
