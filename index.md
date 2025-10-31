@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Zhonghua Secondary School
-      background: /images/hero1.gif
+      background: /images/aapbmv.gif
       url: /about-us/contact-us/
       key_highlights:
         - title: Highlights
