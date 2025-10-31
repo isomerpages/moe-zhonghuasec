@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Zhonghua Signature Programmes
 variant: markdown
 ---
-### **Zhonghua Secondary School Future-Ready Framework**
+### **Future-Ready Framework**
 
 ![](/images/Picture1.png)
 
