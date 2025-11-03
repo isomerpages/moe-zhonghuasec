@@ -7,9 +7,9 @@ variant: markdown
 ---
 Zhonghua Talent Development Programme is a 4-year progressive curriculum for selected students who show great aptitude, strong interest and motivation in fostering holistic development. Riding on the national push for STEM education, curated programmes are tailored to stretch students for exposure to disciplines and areas of interest in alignment with Zhonghua’s vision of cultivating Scholars ● Leaders.
 
-<img src="/images/TDP_Framework.png" style="width:50%">
-<small><b>Fig. 1 Framework for Talent Development Programme</b></small>
+![](/images/Picture12.png)
 
+**Fig. 1 Framework for Talent Development Programme**
 ![](/images/TDP_table.png)
 
 **The Zhonghua TDP aims to:**<br>
@@ -41,7 +41,8 @@ The objectives for the STEAM Research Programme are to:<br>
 <br>3. Help our students understand how each discipline is connected and related in the real world
 <br>4. Equip our students with the necessary knowledge, skills and values to be the next generation of entrepreneurs, creative thinkers and inventors
 
-<img src="/images/tdp1.jpg" style="width:85%">
+![](/images/Picture1_v2_0.jpg)![](/images/Picture2.jpg)
+![](/images/Picture3.jpg)![](/images/Picture4.jpg)
 
 
 ##### Public Speaking workshop
@@ -60,16 +61,13 @@ Students also learn deeper about the potential dangers of an online profile and 
 
 ##### Other External Competitions, Workshops and Learning Journeys
 
-<img src="/images/tdp2.jpg" style="width:65%">
+![](/images/Picture5.jpg)
+![](/images/Picture6.jpg)
 
-<img src="/images/tdp3.jpg" style="width:65%">
+##### STEAM Festival
 
-##### Caring For Others
-TDP students are continuously encouraged to use and share knowledge learned to benefit others. TDP students will collaboratively&nbsp;plan and execute&nbsp;VIA projects to contribute to the larger community and show care to others.
+The STEAM Festival is a celebration of our students' creativity and innovation, showcasing their learning in sustainability and STEM/STEAM education. This event provides a platform for our students to showcase their projects, engage in hands-on activities, and learn from one another. It also aims to affirm the efforts of all participants while providing an opportunity to develop key E21CC such as communication, collaboration, adaptive thinking and inventive thinking.
 
-![](/images/tdp5.jpg)
-
-<br clear="left">
-
-<img src="/images/tdp6.jpg" style="width:49.5%" align="left">
-<img src="/images/tdp7.jpg" style="width:48%" align="right">
+![](/images/Picture7.jpg)![](/images/Picture8.jpg)
+![](/images/Picture9.jpg)![](/images/Picture10.jpg)
+![](/images/Picture11.jpg)
