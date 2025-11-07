@@ -7,26 +7,33 @@ variant: tiptap
 <h4><strong>Mission</strong></h4>
 <p>We seek to equip all Zhonghuarians with relevant ICT skills and learning
 abilities through our wide array of ICT programmes and experiences.</p>
-<h4><strong>PLD 2024</strong></h4>
+<h4><strong>PLD - Lenovo 300W</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LENOVO.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/5_1_e1733100250580.jpg">
 </div>
-<p><a href="https://sites.google.com/moe.edu.sg/zhssndlp/our-pld-bundle" rel="noopener noreferrer nofollow" target="_blank">PLD 2024 Site</a>
+<p><a href="https://sites.google.com/moe.edu.sg/zhssndlp/our-pld-bundle" rel="noopener noreferrer nofollow" target="_blank">PLD Microsite</a>
 </p>
 <h4><strong>ICT-integrated Learning Experiences @ ZHSS</strong></h4>
-<p>1. Code for fun for lower secondary 1E, 1NA, 2E, 2NA students learning
-animation and games programming
-<br>2. Student Learning Space (SLS)
-<br>3. Learning Management System (LMS)
-<br>4. Ace Learning Mathematics Portal (Mathematics)
-<br>5. Cyberwellness CE programme (Character Education)
-<br>6. Use of online discussion forums (Mother Tongue, English, Humanities
-and Science)
-<br>7. Creation of multi-media presentations
-<br>8. Designing using tablet PCs (Design and Technology)
-<br>9. iMTL portal (Mother Tongue)
-<br>10. English portal (English)</p>
-<h5><strong>GCE O-level Computing (for Express students)</strong></h5>
+<p>1. Code for fun for secondary 1 students learning coding and AI</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Computer Literacy for secondary 1 students</p>
+</li>
+<li>
+<p>Student Learning Space (SLS)</p>
+</li>
+<li>
+<p>Cyberwellness CE programme (Character Education)</p>
+</li>
+<li>
+<p>Use of online discussion forums (Mother Tongue, English, Humanities and
+Science)</p>
+</li>
+<li>
+<p>Creation of multi-media presentations</p>
+</li>
+</ol>
+<h5><strong>G3 Computing</strong></h5>
 <p>Aims to provide students with an education focusing on the followings:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -45,20 +52,17 @@ is used in daily life.</p>
 with the use of ICT.</p>
 </li>
 </ul>
-<h5><strong>GCE N(T)-level Computer Application (for Normal Technical students)</strong></h5>
-<p>Computer Application (CPA) focuses on equipping Normal Technical students
-with an exciting experience in computer concepts and applications. It equips
-them with the skill sets in Microsoft office applications, drawing skills
-(Corel Draw), Scratch programming for animation and game making, flowcharting
-and coding.</p>
-<p></p>
-<p></p>
+<h5><strong>G1 Computing</strong></h5>
+<p>G1 computing focuses on equipping students with an exciting experience
+in computer concepts and applications. It equips them with the skill sets
+in Microsoft office applications, drawing skills , Scratch programming
+for animation and game making, flowcharting and coding.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/collage.jpg">
 </div>
-<h5><strong>GCE O-level Food and Nutrition (Normal Academic students)</strong></h5>
-<p>This two-year GCE O-Level Food and Nutrition (F&amp;N) programme seeks
-to develop our students with an understanding of:</p>
+<h5><strong>Nutrition and Food Science</strong></h5>
+<p>Nutrition and Food Science programme seeks to develop our students with
+an understanding of:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The concepts of nutrition and meal planning</p>
@@ -78,7 +82,12 @@ emphasis of empowering them to be health-conscious and discerning consumers
 who can optimize their resources in terms of food, finance and time to
 meet physical, mental, social and economic needs to make informed food
 and consumer choices.</p>
-<h5><strong>GCE N(T)-level Element of Business Skills (for Normal Technical students)</strong></h5>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS_2024.jpg">
+</div>
+<h5><strong>Element of Business Skills</strong></h5>
 <p>This is an optional subject to train Normal Technical students in the
 services industries, namely retail, hospitality, and travel and tourism.
 Students will learn about:</p>
@@ -92,13 +101,12 @@ and services; and</p>
 </li>
 <li>
 <p>how businesses provide quality services to their customers.</p>
+<p></p>
 </li>
 </ul>
-<p>Students have the opportunity to do industrial attachment at 5-star hotels
-in Singapore as well as participate in the National Tourism Competition.</p>
-<h5><strong>GCE N(A)-level Principles of Accounts (for Normal Academic students)</strong></h5>
-<p>This is an optional subject to train Normal Academic students in the business
-industries. POA covers the following:</p>
+<h5><strong>Principles of Accounts (POA)</strong></h5>
+<p>This is an optional subject to train students in the business industries.
+POA covers the following:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The general environment that accounting operates in</p>
@@ -120,7 +128,4 @@ they convey</p>
 <p></p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS_2024.jpg">
-</div>
 <p></p>
