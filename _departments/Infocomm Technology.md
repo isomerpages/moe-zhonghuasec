@@ -87,7 +87,7 @@ and consumer choices.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS_2024.jpg">
 </div>
-<h5><strong> Element of Business Skills </strong></h5>
+<h5><strong>Element of Business Skills</strong></h5>
 <p>This is an optional subject to train Normal Technical students in the
 services industries, namely retail, hospitality, and travel and tourism.
 Students will learn about:</p>
