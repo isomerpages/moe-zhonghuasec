@@ -101,7 +101,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD – Science
-<br>(Covering)</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_kai_kun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kai_kun@moe.edu.sg</a>
@@ -197,7 +198,7 @@ variant: tiptap
 <p>Mr Tan Jun Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD – Student Leadership &amp; 21CC (Covering)</p>
+<p>HOD – Student Leadership &amp; 21CC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_jun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_hong@moe.edu.sg</a>
