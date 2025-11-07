@@ -36,7 +36,7 @@ Science)</p>
 </p>
 </li>
 </ol>
-<h5><strong>G3 Computing </strong></h5>
+<h5><strong>G3 Computing</strong></h5>
 <p>Aims to provide students with an education focusing on the followings:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -55,7 +55,7 @@ is used in daily life.</p>
 with the use of ICT.</p>
 </li>
 </ul>
-<h5><strong>G1 Computing </strong></h5>
+<h5><strong>G1 Computing</strong></h5>
 <p>G1 computing focuses on equipping students with an exciting experience
 in computer concepts and applications. It equips them with the skill sets
 in Microsoft office applications, drawing skills , Scratch programming
@@ -65,7 +65,7 @@ for animation and game making, flowcharting and coding.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/collage.jpg">
 </div>
-<h5><strong> Nutrition and Food Science</strong></h5>
+<h5><strong>Nutrition and Food Science</strong></h5>
 <p>Nutrition and Food Science programme seeks to develop our students with
 an understanding of:</p>
 <ul data-tight="true" class="tight">
