@@ -9,7 +9,7 @@ variant: tiptap
 abilities through our wide array of ICT programmes and experiences.</p>
 <h4><strong>PLD - Lenovo 300W</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_1_e1733100250580.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/5_1_e1733100250580.jpg">
 </div>
 <p><a href="https://sites.google.com/moe.edu.sg/zhssndlp/our-pld-bundle" rel="noopener noreferrer nofollow" target="_blank">PLD Microsite</a>
 </p>
