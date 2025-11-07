@@ -7,7 +7,7 @@ variant: tiptap
 <h4><strong>Mission</strong></h4>
 <p>We seek to equip all Zhonghuarians with relevant ICT skills and learning
 abilities through our wide array of ICT programmes and experiences.</p>
-<h4><strong>PLD - Lenovo 300W </strong></h4>
+<h4><strong>PLD - Lenovo 300W</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_1_e1733100250580.jpg">
 </div>
