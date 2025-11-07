@@ -30,10 +30,7 @@ abilities through our wide array of ICT programmes and experiences.</p>
 Science)</p>
 </li>
 <li>
-<p>Creation of multi-media presentations
-<br>
-<br>
-</p>
+<p>Creation of multi-media presentations</p>
 </li>
 </ol>
 <h5><strong>G3 Computing</strong></h5>
@@ -60,8 +57,6 @@ with the use of ICT.</p>
 in computer concepts and applications. It equips them with the skill sets
 in Microsoft office applications, drawing skills , Scratch programming
 for animation and game making, flowcharting and coding.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/collage.jpg">
 </div>
@@ -87,7 +82,12 @@ emphasis of empowering them to be health-conscious and discerning consumers
 who can optimize their resources in terms of food, finance and time to
 meet physical, mental, social and economic needs to make informed food
 and consumer choices.</p>
-<h5><strong>GCE N(T)-level Element of Business Skills (for Normal Technical students)</strong></h5>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS_2024.jpg">
+</div>
+<h5><strong> Element of Business Skills </strong></h5>
 <p>This is an optional subject to train Normal Technical students in the
 services industries, namely retail, hospitality, and travel and tourism.
 Students will learn about:</p>
@@ -101,13 +101,12 @@ and services; and</p>
 </li>
 <li>
 <p>how businesses provide quality services to their customers.</p>
+<p></p>
 </li>
 </ul>
-<p>Students have the opportunity to do industrial attachment at 5-star hotels
-in Singapore as well as participate in the National Tourism Competition.</p>
-<h5><strong>GCE N(A)-level Principles of Accounts (for Normal Academic students)</strong></h5>
-<p>This is an optional subject to train Normal Academic students in the business
-industries. POA covers the following:</p>
+<h5><strong>Principles of Accounts (POA)</strong></h5>
+<p>This is an optional subject to train students in the business industries.
+POA covers the following:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The general environment that accounting operates in</p>
@@ -129,7 +128,4 @@ they convey</p>
 <p></p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS_2024.jpg">
-</div>
 <p></p>
