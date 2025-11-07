@@ -23,7 +23,8 @@ different projects, our upper secondary D&amp;T students will get to learn
 special processes, such as using the lathe machine and milling machine,
 vacuum forming process and the blow moulding process with different resistant
 materials in our workshop.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D___T_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/collage1.jpg">
 </div>
 <p></p>
