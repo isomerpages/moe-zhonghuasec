@@ -62,7 +62,7 @@ variant: tiptap
 <p>Mr Tan Jun Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department - Student Leadership &amp; E21CC (covering)</p>
+<p>Head of Department - Student Leadership &amp; E21CC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_jun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_hong@moe.edu.sg</a>
@@ -250,21 +250,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-144</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Liang Kim Kee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Flexi-Adjunct Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:liang_kim_kee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liang_kim_kee@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-186</p>
 </td>
 </tr>
 </tbody>
