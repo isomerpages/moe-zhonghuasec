@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h4><strong>Secondary 1</strong></h4>
+<h4><strong>Sec 1 2026</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -17,6 +17,47 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Year Head</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contact</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Christopher Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:christopher_lim_wei_chern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_lim_wei_chern@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-135</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><strong>Secondary 1 2025</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Year Head/Form Teacher</p>
@@ -300,7 +341,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Secondary 2</strong></h4>
+<h4><strong>Secondary 2 2025</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -311,7 +352,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Name</p>
+<p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Year Head/Form Teacher</p>
@@ -580,7 +621,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Secondary 3</strong></h4>
+<h4><strong>Secondary 3 2025</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -865,8 +906,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Secondary 4</strong></h4>
-<p></p>
+<h4><strong>Secondary 4 2025</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
