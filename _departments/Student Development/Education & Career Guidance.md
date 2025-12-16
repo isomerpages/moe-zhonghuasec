@@ -19,13 +19,13 @@ Students learn to:
 
 Zhonghua Sec has an ECG Counsellor to provide support to students (individually or in small groups). Students who would like to explore more in areas such as subject choices, course options or to find out more about their strengths and interests can have a chat with our school’s ECG Counsellor.
 
-To make an appointment with Ms Tan Yi Ling (ECG Counsellor), please email her at&nbsp;[Tan_Yi_Ling_C@Schools.gov.sg](mailto:Tan_Yi_Ling_C@Schools.gov.sg).
+To make an appointment with Ms Tan Yi Ling (ECG Counsellor), please email her at&nbsp;[Tan_Yi_Ling_C@moe.edu.sg](mailto:Tan_Yi_Ling_C@moe.edu.sg).
 
 #### **Academic Pathways Exploration**
 
 | Title | Links | Stream |
 |---|---|---|
-| Joint Intake Exercise (JIE Admission Booklet) | [https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-and-course-information-brochure/admission-and-course-information-brochure-jan-2025.pdf?sfvrsn=25d380a3\_10](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-and-course-information-brochure/admission-and-course-information-brochure-jan-2025.pdf?sfvrsn=25d380a3_10) | 4 Normal (Academic)<br>4 Normal (Technical) |
+| Joint Intake Exercise (JIE) | [https://www.ite.edu.sg/secondary-school-students/admissions/entry-qualifications/gce-n-level/for-gce-n-and-gce-o-students-jie-n/](https://www.ite.edu.sg/secondary-school-students/admissions/entry-qualifications/gce-n-level/for-gce-n-and-gce-o-students-jie-n/) | 4 Normal (Academic)<br>4 Normal (Technical) |
 | Joint Admission Exercise (JAE information Booklet) | [https://www.moe.gov.sg/-/media/files/post-secondary/2025-jae/2025-jae-courses.pdf](https://www.moe.gov.sg/-/media/files/post-secondary/2025-jae/2025-jae-courses.pdf) | 4 Express<br>5 Normal (Academic) |
 | Poly Foundation Programme (PFP) | [https://pfp.polytechnic.edu.sg/PFP/pfp_introduction.html](https://pfp.polytechnic.edu.sg/PFP/pfp_introduction.html) | 4 Normal (Academic) |
 | Direct-entry-scheme to Polytechnic Programme (DPP) | [https://www.ite.edu.sg/courses/full-time-courses/higher-nitec-for-dpp](https://www.ite.edu.sg/courses/full-time-courses/higher-nitec-for-dpp) | 4 Normal (Academic) |
@@ -46,7 +46,7 @@ To make an appointment with Ms Tan Yi Ling (ECG Counsellor), please email her at
 | Title  | Links | Remarks<br>  |
 |---|---|---|
 | My-Skills-Future Portal (Secondary) | [https://go.gov.sg/mySFsec](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html) | ECG Portal to explore the world of work and plan education pathways |
-| Explore different industries  (videos) | [https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape.html](https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape.html)  <br> <br>[https://www.nyc.gov.sg/omw/home](https://www.nyc.gov.sg/omw/home)| An introduction to job roles in the various industries in Singapore |
+| Explore different industries  (videos) | [https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape.html](https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape.html)  <br> <br>[https://discover.nyc.gov.sg/omw/Day-in-the-Life](https://discover.nyc.gov.sg/omw/Day-in-the-Life)| An introduction to job roles in the various industries in Singapore |
 | ECG Resources | [https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview)| A collection of ECG Resources, from e-book to resource guide |
 | Parent Guide | [https://go.gov.sg/tips-for-parents](https://go.gov.sg/tips-for-parents) | A guide for parents/guardians in ECG |
 | What's Next? | For N Level Students: <br>  [https://go.gov.sg/whats-next-nlevel](https://go.gov.sg/whats-next-nlevel) <br><br> For O Level Students: <br>         [https://go.gov.sg/whats-next-olevel](https://go.gov.sg/whats-next-olevel) |           A resource to support students’ decision-making process at their key education stages | [https://www.moe.gov.sg/post-secondary](https://www.moe.gov.sg/post-secondary) <br>[https://www.moe.gov.sg/post-secondary/admissions](https://www.moe.gov.sg/post-secondary/admissions)| A list of post-secondary institutions |
