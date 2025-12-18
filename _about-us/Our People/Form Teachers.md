@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h4><strong>Sec 1 2026</strong></h4>
+<h4><strong>Secondary 1 2026</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -41,6 +41,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-135</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Fu Chee Sheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer (covering duties for AYH)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fu_chee_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fu_chee_sheng@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-114</p>
 </td>
 </tr>
 </tbody>
