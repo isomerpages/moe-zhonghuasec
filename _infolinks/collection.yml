@@ -2,6 +2,7 @@ collections:
   infolinks:
     output: true
     order:
+      - Scam Alert.md
       - Infolinks.md
       - Admin Forms & Book Lists (Students).md
       - Class Timetable.md
