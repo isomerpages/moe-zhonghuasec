@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h4><strong>Sec 1 2026</strong></h4>
+<h4><strong>Secondary 1 2026</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
