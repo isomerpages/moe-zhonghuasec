@@ -61,7 +61,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>For information about 2025 Sec 1 Posting, please click <a href="https://sites.google.com/moe.edu.sg/2025zhonghuasec1infoportal" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>For information about 2026 Sec 1 Posting, please click <a href="https://sites.google.com/moe.edu.sg/2026-zhss-s1-info-portal?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>For more information on Secondary One Admission, please visit MOE's website
 on Sec 1 Posting&nbsp;<a href="https://moe.gov.sg/secondary/s1-posting/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4><strong>Higher Mother Tongue Languages (HMTL)</strong></h4>

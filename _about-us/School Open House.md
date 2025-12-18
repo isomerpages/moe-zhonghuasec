@@ -25,7 +25,7 @@ our Open House!&nbsp;</p>
 <br>📱 Follow us for the latest updates:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Facebook: <a href="http://go.gov.sg/zhsseopenhouse" rel="noopener noreferrer nofollow" target="_blank"><u>facebook.com/zhonghuasec</u></a>
+<p>Facebook: <a href="https://www.facebook.com/zhonghuasec/" rel="noopener noreferrer nofollow" target="_blank"><u>facebook.com/zhonghuasec</u></a>
 </p>
 </li>
 <li>

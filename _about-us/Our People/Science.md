@@ -32,7 +32,7 @@ variant: tiptap
 <p>Mr Ong Kai Kun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department – Science (Covering)</p>
+<p>Head of Department – Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_kai_kun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kai_kun@moe.edu.sg</a>
