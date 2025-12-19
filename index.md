@@ -17,7 +17,7 @@ sections:
         - title: Zhonghua Signature Programmes
           description: ""
           url: programmes/zhonghua-signature-programmes/
-        - title: Sec 1 Posting 2026
+        - title: Sec 1 2026 Information Portal
           description: ""
           url: https://sites.google.com/moe.edu.sg/2026-zhss-s1-info-portal?usp=sharing
   - resources:
