@@ -4,7 +4,7 @@ permalink: /admissions/sec-1-posting/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Sec 1 AL Range for 2025</strong></h4>
+<h4><strong>Sec 1 AL Range for 2026</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -24,7 +24,7 @@ variant: tiptap
 <p>Posting Group</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025</p>
+<p>2026</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@ variant: tiptap
 <p>PG3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 - 12</p>
+<p>7 - 12</p>
 </td>
 </tr>
 <tr>
@@ -67,3 +67,4 @@ on Sec 1 Posting&nbsp;<a href="https://moe.gov.sg/secondary/s1-posting/" rel="no
 <h4><strong>Higher Mother Tongue Languages (HMTL)</strong></h4>
 <p>Zhonghua Secondary School offers Higher Mother Tongue Language (HMTL)
 to eligible students.</p>
+<p></p>
