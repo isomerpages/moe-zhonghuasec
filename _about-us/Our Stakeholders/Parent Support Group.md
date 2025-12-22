@@ -11,7 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/PSG_2023.jpg">
 </div>
-<p><strong> PSG organising Traditional Games on Racial Harmony cum Youth Day Celebrations</strong>
+<p><strong>PSG organising Traditional Games on Racial Harmony cum Youth Day Celebrations</strong>
 </p>
 <h4><strong>Vision</strong></h4>
 <p>School and parents working in partnership to support our students’ learning
