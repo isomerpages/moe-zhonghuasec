@@ -37,7 +37,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Shahul Hameed Kuthubudeen</p>
+<p>Mr Shahul Hameed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
