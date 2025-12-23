@@ -32,7 +32,7 @@ variant: tiptap
 <p>Ms Destiny See</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head - Aesthetics</p>
+<p>Subject Head - Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:see_yeo_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_yeo_sin@moe.edu.sg</a>
@@ -119,14 +119,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hew Soo Hun</p>
+<p>Ms Leong Li Qing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Flexi-Adjunct Teacher</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hew_soo_hun_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hew_soo_hun_a@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-116</p>
