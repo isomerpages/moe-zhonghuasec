@@ -164,17 +164,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Crystal Tan</p>
+<p>Ms Destiny See</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head - Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:crystal_ling_yuet_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">crystal_ling_yuet_ping@moe.edu.sg</a>
+<p><a href="mailto:see_yeo_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_yeo_sin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-133</p>
+<p>65938-164</p>
 </td>
 </tr>
 <tr>
@@ -220,6 +220,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-146</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Gao Shuqing Jane</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jane_gao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jane_gao@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-154</p>
 </td>
 </tr>
 <tr>
