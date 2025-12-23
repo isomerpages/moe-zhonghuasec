@@ -33,7 +33,7 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Christopher Lim</p>
+<p>Mr Christoph er Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:christopher_lim_wei_chern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_lim_wei_chern@moe.edu.sg</a>
@@ -48,7 +48,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Fu Chee Sheng</p>
+<p>Mr Fu Chee Sheng -Year Head (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fu_chee_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fu_chee_sheng@moe.edu.sg</a>
