@@ -89,21 +89,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rozianna Mohammed Affandi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head - Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:rozianna_mohammed_affendi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rozianna_mohammed_affendi@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938100-203</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Christopher Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -119,13 +104,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Lay Hong</p>
+<p>Miss Yeo Ai Chin (Yang Aizhen)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher - Chemistry</p>
+<p>Subject Head - Physics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_lay_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_lay_hong@moe.edu.sg</a>
+<p><a href="mailto:yeo_ai_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_ai_chin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -224,21 +209,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Li Chun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_li_chun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_chun@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-131</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Wong Shwo Mun</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -254,6 +224,51 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Timothy Leong Tze Ian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:timothy_leong_tze_ian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">timothy_leong_tze_ian@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-204</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Min Jie, Kitty</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_min_jie_kitty@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_min_jie_kitty@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-204</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chester Yap Jie Ren</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chester_yap_jie_ren@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chester_yap_jie_ren@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-153</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Rahayu Ahmad Asi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -265,6 +280,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-207</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Sze Shien, Melissa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi- Adjunct Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-128</p>
 </td>
 </tr>
 <tr>
