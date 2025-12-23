@@ -74,21 +74,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Soh Sichuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wang_sichuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_sichuan@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938100-204</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Teo Jing Zhi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -100,21 +85,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>65938100-205</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chew Sui Jin Glenn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Flexi-Adjunct Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chew_sui_jin_glenn_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_sui_jin_glenn_b@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-139</p>
 </td>
 </tr>
 </tbody>
