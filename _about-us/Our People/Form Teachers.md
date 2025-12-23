@@ -16,62 +16,6 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Year Head</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email Address</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Contact</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Christopher Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:christopher_lim_wei_chern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_lim_wei_chern@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-135</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Fu Chee Sheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer (covering duties for AYH)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fu_chee_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fu_chee_sheng@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-114</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<h4><strong>Secondary 1 2026</strong></h4>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -89,14 +33,29 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Subathra Shugumaran</p>
+<p>Mr Christopher Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">subathra_shugumaran@moe.edu.sg</a>
+<p><a href="mailto:christopher_lim_wei_chern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_lim_wei_chern@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-121</p>
+<p>65938-135</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Fu Chee Sheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fu_chee_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fu_chee_sheng@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-114</p>
 </td>
 </tr>
 <tr>
