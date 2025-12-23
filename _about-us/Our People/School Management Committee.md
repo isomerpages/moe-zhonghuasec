@@ -61,6 +61,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Poh Leong Berg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal Administration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:poh_leong_berg@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">POH_leong_berg@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Ng Kiat Bee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -243,13 +255,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rozianna Mohammed Affendi</p>
+<p>Ms Chua Shi Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head – Science</p>
+<p>Level Head - Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rozianna_mohammed_affendi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rozianna_mohammed_affendi@moe.edu.sg</a>
+<p><a href="mailto:chua_shi_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_shi_yan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -282,11 +294,34 @@ variant: tiptap
 <p>Ms Destiny See</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head – Aesthetics</p>
+<p>Subject Head – Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:see_yeo_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_yeo_sin@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Yeo Ai Chin (Yang Aizhen)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head - Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_ai_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_ai_chin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Brandon Albert Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head - History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -310,18 +345,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:christopher_lim_wei_chern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_lim_wei_chern@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Crystal Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head – Character &amp; Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:crystal_ling_yuet_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">crystal_ling_yuet_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -370,6 +393,29 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:soh_wei_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_wei_cheng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Madeleine Tan Lai Mun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head - Data Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Fang Yee Isabelle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Covering Subject Head - Special Educational Needs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_fang_yee_isabelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_fang_yee_isabelle@moe.edu.sg</a>
 </p>
 </td>
 </tr>

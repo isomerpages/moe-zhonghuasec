@@ -303,6 +303,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Wong Chiu Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_chiu_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_chiu_min@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-153</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Brian Pang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -335,42 +353,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-184</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Quek Beng Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Flexi-Adjunct Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:quek_beng_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_beng_hong@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-159</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Shriyln Low</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Flexi-Adjunct Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:low_shu_jun_shirlyn_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_shu_jun_shirlyn_a@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-159</p>
 </td>
 </tr>
 <tr>
