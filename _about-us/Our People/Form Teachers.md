@@ -966,17 +966,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr ChristopherLim</p>
+<p>Ms Lum Shu Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:christopher_lim_wei_chern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_lim_wei_chern@moe.edu.sg</a>
+<p><a href="mailto:lum_shu_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_shu_wei@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-135</p>
+<p>65938-131</p>
 </td>
 </tr>
 <tr>
