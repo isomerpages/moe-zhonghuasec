@@ -89,13 +89,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Glenn Chew Sui Jin</p>
+<p>Mdm Tan Lay Lay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Flexi-Adjunct Teacher</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_sui_jin_glenn_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_sui_jin_glenn_b@moe.edu.sg</a>
+<p><a href="mailto:tan_lay_lay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lay_lay@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
