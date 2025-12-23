@@ -681,17 +681,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lum Shu Wei</p>
+<p>Mr Ang Chun Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lum_shu_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_shu_wei@moe.edu.sg</a>
+<p><a href="mailto:ang_chun_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chun_hua@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-131</p>
+<p>65938-155</p>
 </td>
 </tr>
 <tr>
