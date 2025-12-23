@@ -74,6 +74,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Brandon Albert Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head - History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-151</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Alethea Goei Min Yi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -194,21 +208,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurliza Bte Yusof</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nurliza_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurliza_yusof@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-165</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Noorlizah Suriyap</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -239,21 +238,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Soh Sichuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wang_sichuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_sichuan@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938100-204</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Teo Ang Guan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -265,6 +249,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-142</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yuan Poh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-151</p>
 </td>
 </tr>
 <tr>
