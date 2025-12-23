@@ -59,6 +59,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Chua Shi Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head - Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_shi_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_shi_yan@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-143</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Huang Weiyu</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,21 +145,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-161</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Thiam Seng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_thiam_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_thiam_seng@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-153</p>
 </td>
 </tr>
 <tr>
@@ -254,32 +254,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurliza Bte Yusof</p>
+<p>Mdm Sunita Binte Said</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Flexi- Adjunct Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurliza_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurliza_yusof@moe.edu.sg</a>
+<p><a href="mailto:sunita_said@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sunita_said@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-165</p>
+<p>65938-148</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Norehda Binte Sold</p>
+<p>Ms Katijah Binte Juni</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi-Adjunct Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norehda_sold_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norehda_sold_a@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-148</p>
+<p>65938-147</p>
 </td>
 </tr>
 </tbody>
