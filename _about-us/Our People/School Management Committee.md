@@ -159,6 +159,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ron Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD - Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_yao_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_yao_ming@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Jun Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD - Student Leadership &amp; 21CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_jun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_hong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Lee Li'Neng Marie</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -166,6 +190,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_li_neng_marie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_li_neng_marie@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Fu Chee Sheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fu_chee_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fu_chee_sheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -195,49 +231,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ron Low</p>
+<p>Ms Lum Shu Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD – Student Management</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_yao_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_yao_ming@moe.edu.sg</a>
+<p><a href="mailto:lum_shu_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_shu_wei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Jun Hong</p>
+<p>Mr Christopher Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD – Student Leadership &amp; 21CC</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_jun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_hong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Fu Chee Sheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fu_chee_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fu_chee_sheng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Seoh Bee Hua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher – Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:seoh_bee_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seoh_bee_hua@moe.edu.sg</a>
+<p><a href="mailto:christopher_lim_wei_chern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_lim_wei_chern@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -246,10 +258,10 @@ variant: tiptap
 <p>Ms Kheng Hwee Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head – English</p>
+<p>Level Head - English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kheng_hwee_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kheng_hwee_teng@moe.edu.sg</a>
+<p><a href="mailto:kheng_hwee_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kheng_hwee_teng@moe.edu.s</a>
 </p>
 </td>
 </tr>
@@ -279,30 +291,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Anna Yeo Li Min</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head – Geography</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_li_min_anna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_li_min_anna@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Destiny See</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head – Character and Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:see_yeo_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_yeo_sin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Miss Yeo Ai Chin (Yang Aizhen)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -310,6 +298,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_ai_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_ai_chin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Anna Yeo Li Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head - Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_li_min_anna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_li_min_anna@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -327,25 +327,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lum Shu Wei</p>
+<p>Mr Soh Wei Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Subject Head - ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lum_shu_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_shu_wei@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Christopher Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:christopher_lim_wei_chern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_lim_wei_chern@moe.edu.sg</a>
+<p><a href="mailto:soh_wei_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_wei_cheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -354,7 +342,7 @@ variant: tiptap
 <p>Ms Lena Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head – Student Leadership</p>
+<p>Subject Head - Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lena_teo_ying_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lena_teo_ying_hui@moe.edu.sg</a>
@@ -366,7 +354,7 @@ variant: tiptap
 <p>Mr Vincent Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head – Student Well-being</p>
+<p>Subject Head - Student Well-being</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loh_guan_wee_vincent@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_guan_wee_vincent@moe.edu.sg</a>
@@ -378,7 +366,7 @@ variant: tiptap
 <p>Mr Loke Cheok Meng Shamen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head – CCA</p>
+<p>Subject Head - CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loke_choek_meng_shamen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_choek_meng_shamen@moe.edu.sg</a>
@@ -387,13 +375,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Soh Wei Cheng</p>
+<p>Ms Destiny See</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head – ICT</p>
+<p>Subject Head - Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:soh_wei_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_wei_cheng@moe.edu.sg</a>
+<p><a href="mailto:see_yeo_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_yeo_sin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Fang Yee Isabelle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head - Special Educational Needs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_fang_yee_isabelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_fang_yee_isabelle@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -411,13 +411,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Fang Yee Isabelle</p>
+<p>Mdm Seoh Bee Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Covering Subject Head - Special Educational Needs</p>
+<p>Lead Teacher – Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_fang_yee_isabelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_fang_yee_isabelle@moe.edu.sg</a>
+<p><a href="mailto:seoh_bee_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seoh_bee_hua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
