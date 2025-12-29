@@ -138,7 +138,7 @@ variant: tiptap
 <p>Ms Teresa Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD – PE &amp; CCA</p>
+<p>HOD – PE &amp; Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lin_xianwan_teresa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_xianwan_teresa@moe.edu.sg</a>
