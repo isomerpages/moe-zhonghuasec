@@ -321,7 +321,8 @@ variant: tiptap
 <p>Subject Head - History</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:brandon_albert_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">brandon_albert_lim@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
