@@ -67,8 +67,8 @@ Scholars and Leaders.</p>
 <p>May 2026 be a year of learning and growth for all of us! Wishing all good
 health, joy and fulfilment.</p>
 <p></p>
-<p>Mr Tan Kim Koon</p>
-<p>Principal</p>
+<p>Mr Tan Kim Koon
+<br>Principal</p>
 <p></p>
 <p></p>
 <p></p>
