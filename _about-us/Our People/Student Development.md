@@ -62,7 +62,7 @@ variant: tiptap
 <p>Mr Tan Jun Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department - Student Leadership &amp; E21CC</p>
+<p>Head of Department / Student Leadership &amp; 21CC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_jun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_hong@moe.edu.sg</a>
