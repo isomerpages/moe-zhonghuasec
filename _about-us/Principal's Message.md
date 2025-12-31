@@ -42,7 +42,7 @@ our roots, and reignite the spirit that defines us.</p>
 <p>We remain committed to strengthening what matters most and these are:
 teaching and learning, student well-being, and a caring and enabling school
 environment. In 2026, we will sharpen our strategic approach through the
-4L framework: <strong>Life-long Learning, Life-wide Learning, Life-wise Learning, and Life-Strong Learning</strong>.</p>
+4L framework: <strong>Life-long Learning, Life-wide Learning, Life-wise Learning, and Life-strong Learning</strong>.</p>
 <p></p>
 <p>Through this framework, we aim to develop the dispositions, mindset, and
 agency for continuous growth; to cultivate curiosity and the ability to
@@ -67,8 +67,8 @@ Scholars and Leaders.</p>
 <p>May 2026 be a year of learning and growth for all of us! Wishing all good
 health, joy and fulfilment.</p>
 <p></p>
-<p>Mr Tan Kim Koon</p>
-<p>Principal</p>
+<p>Mr Tan Kim Koon
+<br>Principal</p>
 <p></p>
 <p></p>
 <p></p>
