@@ -107,7 +107,7 @@ variant: tiptap
 <p>Ms Chua Fang Yee Isabelle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Covering Subject Head - Special Educational Needs</p>
+<p>Subject Head - Special Educational Needs (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_fang_yee_isabelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_fang_yee_isabelle@moe.edu.sg</a>
