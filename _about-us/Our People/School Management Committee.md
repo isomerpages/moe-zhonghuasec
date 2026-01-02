@@ -387,18 +387,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Fang Yee Isabelle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head - Special Educational Needs (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_fang_yee_isabelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_fang_yee_isabelle@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Madeleine Tan Lai Mun</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -406,6 +394,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:madeleine_tan_lai_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">madeleine_tan_lai_mun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Fang Yee Isabelle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head - Special Educational Needs (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_fang_yee_isabelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_fang_yee_isabelle@moe.edu.sg</a>
 </p>
 </td>
 </tr>
