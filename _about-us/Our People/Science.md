@@ -290,7 +290,8 @@ variant: tiptap
 <p>Flexi- Adjunct Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_sze_shien_melissa_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_sze_shien_melissa_b@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-128</p>
