@@ -119,7 +119,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Leong Li Qing</p>
+<p>Ms Leong Li Qing Skye</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>

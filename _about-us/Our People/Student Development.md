@@ -29,21 +29,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Li'Neng Marie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department - Character and Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_li_neng_marie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_li_neng_marie@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-177</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ron Low</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,6 +40,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-135</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Li'Neng Marie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department - Character and Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_li_neng_marie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_li_neng_marie@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-177</p>
 </td>
 </tr>
 <tr>
@@ -149,21 +149,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lena Teo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head - Student Leadership</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lena_teo_ying_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lena_teo_ying_hui@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-140</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Destiny See</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,6 +160,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-164</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lena Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head - Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lena_teo_ying_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lena_teo_ying_hui@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-140</p>
 </td>
 </tr>
 <tr>
