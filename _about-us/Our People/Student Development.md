@@ -29,21 +29,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ron Low</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department - Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:low_yao_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_yao_ming@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-135</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lee Li'Neng Marie</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,21 +40,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-177</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Jun Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department / Student Leadership &amp; 21CC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_jun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_hong@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-121</p>
 </td>
 </tr>
 <tr>
@@ -100,6 +70,36 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-178</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ron Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department - Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_yao_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_yao_ming@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-135</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Jun Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department / Student Leadership &amp; 21CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_jun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_hong@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-121</p>
 </td>
 </tr>
 <tr>
