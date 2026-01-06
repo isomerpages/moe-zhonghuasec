@@ -81,7 +81,8 @@ variant: tiptap
 <p>Ms Leong Li Qing Skye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:leong_li_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_li_qing@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-116</p>
