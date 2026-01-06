@@ -59,21 +59,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lena Teo Ying Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head – Student Leadership</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lena_teo_ying_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lena_teo_ying_hui@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-140</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Brandon Albert Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,6 +70,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-151</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lena Teo Ying Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head - Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lena_teo_ying_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lena_teo_ying_hui@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-140</p>
 </td>
 </tr>
 <tr>
