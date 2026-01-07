@@ -4,7 +4,7 @@ permalink: /infolinks/class-timetable/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Class Timetable for 2025</strong></h3>
+<h3><strong>Class Timetable for 2026</strong></h3>
 <table style="minWidth: 200px">
 <colgroup>
 <col>
@@ -72,35 +72,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C1_Sem_2_2025.pdf" rel="noopener nofollow" target="_blank">1C1</a>
+<p><a href="/files/1C1_2026.pdf" rel="noopener nofollow" target="_blank">1C1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C2_Sem_2_2025.pdf" rel="noopener nofollow" target="_blank">1C2</a>
+<p><a href="/files/1C2_2026.pdf" rel="noopener nofollow" target="_blank">1C2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C3_Sem_2_2025.pdf" rel="noopener nofollow" target="_blank">1C3</a>
+<p><a href="/files/1C3_2026.pdf" rel="noopener nofollow" target="_blank">1C3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C4_Sem_2_2025.pdf" rel="noopener nofollow" target="_blank">1C4</a>
+<p><a href="/files/1C4_2026.pdf" rel="noopener nofollow" target="_blank">1C4</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C5_Sem_2_2025.pdf" rel="noopener nofollow" target="_blank">1C5</a>
+<p><a href="/files/1C5_2026.pdf" rel="noopener nofollow" target="_blank">1C5</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C6_Sem_2_2025.pdf" rel="noopener nofollow" target="_blank">1C6</a>
+<p><a href="/files/1C6_2026.pdf" rel="noopener nofollow" target="_blank">1C6</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C7_Sem_2_2025.pdf" rel="noopener nofollow" target="_blank">1C7</a>
+<p><a href="/files/1C7_2026.pdf" rel="noopener nofollow" target="_blank">1C7</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C8_Sem_2_2025.pdf" rel="noopener nofollow" target="_blank">1C8</a>
+<p><a href="/files/1C8_2026.pdf" rel="noopener nofollow" target="_blank">1C8</a>
 </p>
 </td>
 </tr>
