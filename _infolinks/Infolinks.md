@@ -246,7 +246,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026_ZHSS_Sec_1_CCA_Selection_Trials_Schedule__updated_.pdf" rel="noopener nofollow" target="_blank">Sec 1 Selection Trials Schedule 2026</a>
+<p><a href="/files/2026_ZHSS_Sec_1_CCA_Selection_Trials_Schedule__v01_.pdf" rel="noopener nofollow" target="_blank">Sec 1 Selection Trials Schedule 2026</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
