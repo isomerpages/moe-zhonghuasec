@@ -460,6 +460,21 @@ engagement</p>
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://youtu.be/Z25ZWsmlxVQ" rel="noopener noreferrer nofollow" target="_blank">Episode 12: National Day Special</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnail.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
