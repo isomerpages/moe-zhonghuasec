@@ -89,8 +89,32 @@ in the school curriculum.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_Sexuality_Ed_Curriculum.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education_Sec_3__Pg_1__2026.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education_Sec_3__Pg_2__2026.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education_Sec_4__Pg_1__2026.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education_Sec_4__Pg_2__2026.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education_Sec_4__Pg_1__2026.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education_Sec_4__Pg_2__2026.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education_Sec_4__Pg_3__2026.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education_Sec_5__Pg_1__2026.jpg">
+</div>
 <h5><strong><em>eTeens</em>&nbsp;Programme</strong>:</h5>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme
