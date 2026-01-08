@@ -210,7 +210,7 @@ The completed form is to be submitted by <strong>23/01/2026.</strong>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
 <a rel="noopener noreferrer nofollow" target="_blank">zhonghua_ss@moe.edu.sg</a>for discussion or to seek clarification about
 the school’s Sexuality Education programme.</p>
-<p>(Updated: 22 Jan 2025)</p>
+<p>(Updated: 8 Jan 2026)</p>
 <p>
 <br>
 </p>
