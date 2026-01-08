@@ -94,7 +94,7 @@ Malay Language in secondary school</p>
 <p><strong>Details</strong>
 <br>MSP Lesson is held once a week, 3 hours per lesson in the afternoon. The
 programme will prepare students for the MSP examination at GCE ‘O’ Level.</p>
-<p><strong>Class Schedule for Year 2025</strong>
+<p><strong>Class Schedule for Year 2026</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -129,7 +129,7 @@ programme will prepare students for the MSP examination at GCE ‘O’ Level.</p
 <p>3.00pm – 6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 Jan 2025</p>
+<p>20th Jan 2026 (T1W3)</p>
 </td>
 </tr>
 <tr>
@@ -137,13 +137,13 @@ programme will prepare students for the MSP examination at GCE ‘O’ Level.</p
 <p>Sec 2 MSP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fridays</p>
+<p>Tuesdays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00pm – 6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 Jan 2025</p>
+<p>20th Jan 2026 (T1W3)</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +157,7 @@ programme will prepare students for the MSP examination at GCE ‘O’ Level.</p
 <p>3.00pm – 6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 Jan 2025</p>
+<p>23rd Jan 2026 (T1W3)</p>
 </td>
 </tr>
 <tr>
@@ -165,13 +165,13 @@ programme will prepare students for the MSP examination at GCE ‘O’ Level.</p
 <p>Sec 4 MSP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays</p>
+<p>Fridays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00pm – 6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 Jan 2025</p>
+<p>23rd Jan 2026 (T1W3)</p>
 </td>
 </tr>
 <tr>
