@@ -42,8 +42,8 @@ Make responsible decisions for yourself, your family and society; and</p>
 Abstinence before marriage is the best protection against STIs/HIV and
 unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p>You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> more
-information on MOE Sexuality Education.</p>
+<p>You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
+more information on MOE Sexuality Education.</p>
 <h4><strong>Overview of Zhonghua Secondary School's Sexuality Education Programme for 2026</strong></h4>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
@@ -76,10 +76,7 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p>Please scroll down for more information on the scope of Sexuality Education
-in the school curriculum.</p>
-<p></p>
-<h4><strong>At Zhonghua Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2025:</strong></h4>
+<h4><strong>At Zhonghua Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2026:</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_Sexuality_Ed_Curriculum.jpg">
