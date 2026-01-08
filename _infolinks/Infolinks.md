@@ -215,7 +215,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026_ZHSS_Sec_1_CCA_Selection_Trials_Schedule__v02_.pdf" rel="noopener nofollow" target="_blank">Sec 1 Selection Trials Schedule 2026</a>
+<p><a href="/files/Zhonghua_Secondary_School_CCA_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">CCA Schedule &amp; Teachers' Emails 2026</a>
 </p>
 <p></p>
 </td>
