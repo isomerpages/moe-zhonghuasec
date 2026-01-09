@@ -88,19 +88,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C5_2026.pdf" rel="noopener nofollow" target="_blank">1C5</a>
+<p><a href="/files/1C5_2026_v1_.pdf" rel="noopener nofollow" target="_blank">1C5</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C6_2026.pdf" rel="noopener nofollow" target="_blank">1C6</a>
+<p><a href="/files/1C6_2026_v1_.pdf" rel="noopener nofollow" target="_blank">1C6</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C7_2026.pdf" rel="noopener nofollow" target="_blank">1C7</a>
+<p><a href="/files/1C7_2026_v1_.pdf" rel="noopener nofollow" target="_blank">1C7</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1C8_2026.pdf" rel="noopener nofollow" target="_blank">1C8</a>
+<p><a href="/files/1C8_2026_v1_.pdf" rel="noopener nofollow" target="_blank">1C8</a>
 </p>
 </td>
 </tr>
