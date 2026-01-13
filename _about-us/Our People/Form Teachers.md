@@ -321,7 +321,8 @@ variant: tiptap
 <p>Mr Hay Yong Sheng Benton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:hay_yong_sheng_benton@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hay_yong_sheng_benton@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-144</p>
