@@ -13,62 +13,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Quality Class (SQC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Validity period: 28 Feb 17 – 28 Feb 2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>People Developer Standard (PDS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Validity period: 28 Feb 17 – 28 Feb 2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Quality Class (SQC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>People Developer Standard (PDS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sustained Excellence Honorary Award 2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NS Mark (Gold)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022 - 2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>BCA Green Mark Award (Gold)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022 - 2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Green Schools @ South East
 <br>(Sustained Excellence Honorary Award)</p>
 </td>
@@ -87,27 +31,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4><strong>Ministry of Education Awards (2015 - 2020)</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>School Distinction Award</p>
-</li>
-<li>
-<p>Best Practice&nbsp; (Teaching &amp; Learning)</p>
-</li>
-<li>
-<p>Best Practice&nbsp; (Student All-Round Development)</p>
-</li>
-<li>
-<p>Best Practice&nbsp; (Character and Citizenship Education)</p>
-</li>
-<li>
-<p>Best Practice&nbsp; (Staff Well-Being and Development)</p>
-</li>
-<li>
-<p>Best Practice&nbsp; (Partnership)</p>
-</li>
-</ul>
 <h3><strong>2024 National Exam Results</strong></h3>
 <h4><strong>2024 GCE O-Level Results</strong></h4>
 <p>98.0% of Sec 4 Express students eligible for JC/MI
