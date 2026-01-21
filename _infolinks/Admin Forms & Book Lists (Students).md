@@ -27,14 +27,14 @@ variant: tiptap
 </li>
 <li>
 <p>Application Form for Straits Times School Pocket Money Fund 2026
-<br>(<strong>Closing date : 25th August 2025</strong>)</p>
+<br>(<strong>Closing date : 9th February 2026</strong>)</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Annex_A___2026_STSPMF_Application_Form_for_schools.pdf" rel="noopener nofollow" target="_blank">Annex A - 2026 STSPMF Application Form for schools</a>
+<p><a href="/files/Annex_A___2026_STSPMF_Application_Form_for_schools_v1_.pdf" rel="noopener nofollow" target="_blank">Annex A - 2026 STSPMF Application Form for schools</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Annex_B___Income_declaration_form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B - Income declaration form 2026</a>
+<p><a href="/files/Annex_B___Income_declaration_form__2026__v1.pdf" rel="noopener nofollow" target="_blank">Annex B - Income declaration form 2026</a>
 </p>
 </li>
 </ol>
