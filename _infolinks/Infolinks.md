@@ -304,8 +304,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/wecareonlineform" rel="noopener noreferrer nofollow" target="_blank">WeCare Online Form</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
