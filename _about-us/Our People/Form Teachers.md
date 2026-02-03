@@ -821,7 +821,7 @@ variant: tiptap
 <p>3R5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Chiu Min</p>
+<p>Mr Wong Chiu Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_chiu_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_chiu_min@moe.edu.sg</a>
