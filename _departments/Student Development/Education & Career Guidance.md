@@ -26,7 +26,7 @@ To make an appointment with Ms Tan Yi Ling (ECG Counsellor), please email her at
 | Title | Links | Stream |
 |---|---|---|
 | Joint Intake Exercise (JIE) | [https://www.ite.edu.sg/secondary-school-students/admissions/entry-qualifications/gce-n-level/for-gce-n-and-gce-o-students-jie-n/](https://www.ite.edu.sg/secondary-school-students/admissions/entry-qualifications/gce-n-level/for-gce-n-and-gce-o-students-jie-n/) | 4 Normal (Academic)<br>4 Normal (Technical) |
-| Joint Admission Exercise (JAE information Booklet) | [https://www.moe.gov.sg/-/media/files/post-secondary/2025-jae/2025-jae-courses.pdf](https://www.moe.gov.sg/-/media/files/post-secondary/2025-jae/2025-jae-courses.pdf) | 4 Express<br>5 Normal (Academic) |
+| Joint Admission Exercise (JAE information Booklet) | https://www.moe.gov.sg/api/media/c5d92104-5e87-4b87-a989-df661c3aa57b/2026-JAE-Courses.pdf]( | 4 Express<br>5 Normal (Academic) |
 | Poly Foundation Programme (PFP) | [https://pfp.polytechnic.edu.sg/PFP/pfp_introduction.html](https://pfp.polytechnic.edu.sg/PFP/pfp_introduction.html) | 4 Normal (Academic) |
 | Direct-entry-scheme to Polytechnic Programme (DPP) | [https://www.ite.edu.sg/courses/full-time-courses/higher-nitec-for-dpp](https://www.ite.edu.sg/courses/full-time-courses/higher-nitec-for-dpp) | 4 Normal (Academic) |
 | Nanyang Academic of Fine Arts (NAFA) Foundation Programme   |  [https://www.nafa.edu.sg/programmes/foundation](https://www.nafa.edu.sg/programmes/foundation) | 4 Normal (Academic) |
