@@ -115,4 +115,3 @@ interests and learning needs.</p>
 <p>Students can also better manage their overall curriculum load in secondary
 school without compromising their access to polytechnic education.</p>
 <p>For more information on Full SBB, visit&nbsp;<a href="http://www.moe.gov.sg/microsites/psle-fsbb" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/microsites/psle-fsbb</a>.</p>
-<p></p>
