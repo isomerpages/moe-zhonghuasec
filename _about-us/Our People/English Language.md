@@ -269,6 +269,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Hay Yong Sheng Benton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hay_yong_sheng_benton@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hay_yong_sheng_benton@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-144</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Poh Li Pin</p>
 </td>
 <td rowspan="1" colspan="1">
