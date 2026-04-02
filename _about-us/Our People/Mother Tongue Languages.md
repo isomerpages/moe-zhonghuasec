@@ -194,6 +194,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Koh Zhi Hong, Jason</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="koh_zhi_hong_jason@moe.edu.sg" rel="noopener nofollow" target="_blank">koh_zhi_hong_jason@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-132</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Lee Eng Keat</p>
 </td>
 <td rowspan="1" colspan="1">
