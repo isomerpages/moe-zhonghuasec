@@ -23,7 +23,7 @@ you can view the items and place your orders here:
 <br><a href="https://go.gov.sg/zhss115-merchandise-order" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/zhss115-merchandise-order</a>
 </p>
 <p>You may also visit our social media pages for more details on the merchandise:</p>
-<p>Facebook: <a href="" rel="noopener nofollow" target="_blank">facebook.com/zhonghuasec</a> 
+<p>Facebook: facebook.com/zhonghuasec
 <br>Instagram: @zhonghuasec</p>
 <p>⏰ Orders close on 15 April (Wednesday)</p>
 <p>Thank you so much for your support! ❤️</p>
