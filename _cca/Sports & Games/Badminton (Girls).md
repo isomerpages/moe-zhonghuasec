@@ -30,21 +30,19 @@ coaches, who closely with the teachers in charge.</p>
 <p>Mid-Year &amp; Year-end Holiday intensive trainings</p>
 </li>
 <li>
-<p>&nbsp; National School Games ‘B’ Division &amp; ‘C’ Division Badminton
-Competition</p>
+<p>National School Games ‘B’ Division &amp; ‘C’ Division Badminton Competition</p>
 </li>
 <li>
-<p>&nbsp; Student Helpers’ Duty @ Zhonghua Sec (Hosting venue) for SZ ‘B’
-Div Badminton</p>
+<p>Student Helpers’ Duty @ Zhonghua Sec (Hosting venue) for SZ ‘B’ Div Badminton</p>
 </li>
 <li>
-<p>&nbsp; Open Badminton Competition (if available)</p>
+<p>Open Badminton Competition (if available)</p>
 </li>
 <li>
 <p>Friendly matches with other schools</p>
 </li>
 <li>
-<p>&nbsp;&nbsp; Mid-Year &amp; Year-end Bonding Activities</p>
+<p>Mid-Year &amp; Year-end Bonding Activities</p>
 </li>
 </ul>
 <p><strong>Recent Achievements:</strong>
@@ -59,9 +57,9 @@ Div Badminton</p>
 Sports Council as Oath Taker (captain of Badminton team)</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton__updated_2026_.jpg">
+</div>
 <p>Please click on <a href="https://www.zhonghuasec.moe.edu.sg/cca/schedule/" rel="noopener noreferrer nofollow" target="_blank">this link</a> for
 CCA schedule and contact details of CCA teachers.</p>
