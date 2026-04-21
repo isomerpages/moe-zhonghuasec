@@ -47,25 +47,25 @@ peers and work effectively together.</p>
 </p>
 <ul>
 <li>
-<p>&nbsp; Character Building</p>
+<p>Character Building</p>
 </li>
 <li>
-<p>&nbsp;&nbsp; Recruits Camp</p>
+<p>Recruits Camp</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp; Year-End Camp</p>
+<p>Year-End Camp</p>
 </li>
 <li>
-<p>&nbsp;&nbsp; Dr Low Guat Tin Challenge</p>
+<p>Dr Low Guat Tin Challenge</p>
 </li>
 <li>
-<p>&nbsp;&nbsp; National Drill Competition</p>
+<p>National Drill Competition</p>
 </li>
 <li>
-<p>&nbsp;&nbsp; GB Friend-in-Deed (GBFD)</p>
+<p>GB Friend-in-Deed (GBFD)</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp; Leadership Conference</p>
+<p>Leadership Conference</p>
 </li>
 </ul>
 <p><strong>Recent Achievements:</strong>
@@ -86,13 +86,10 @@ peers and work effectively together.</p>
 <li>
 <p>Dr Low Guat Tin Challenge 2022 (Gold)</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girls_Brigade__updated_2026_.jpg">
+</div>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB.png">
-</div>
-<p>
-<br>
-</p>
 <p>Please click on <a href="https://www.zhonghuasec.moe.edu.sg/cca/schedule/" rel="noopener noreferrer nofollow" target="_blank">this link</a> for
 CCA schedule and contact details of CCA teachers.</p>
