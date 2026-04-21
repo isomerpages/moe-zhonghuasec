@@ -5,12 +5,12 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<p>Zhonghua Secondary NPCC Unit believes in developing our cadet’s character,
-leadership and resilience. Hence, our unit NPCC’s vision is for our cadets
-to graduate as Caring and Responsible Citizens. We provide numerous opportunities
-for our cadets to grow in a challenging environment, which in turn imbues
-them with leadership qualities, strong character, and civic, social, and
-moral values.</p>
+<p>Zhonghua Secondary School's NPCC Unit believes in developing our cadet’s
+character, leadership and resilience. Hence, our unit NPCC’s vision is
+for our cadets to graduate as Caring and Responsible Citizens. We provide
+numerous opportunities for our cadets to grow in a challenging environment,
+which in turn imbues them with leadership qualities, strong character,
+and civic, social, and moral values.</p>
 <p>The unit’s motto, “<strong>Together, Excellence</strong>,” serves as the
 foundation upon which we build each cadet’s character, and this motto also
 motivates them to work towards their best.</p>
@@ -89,8 +89,9 @@ Ultimate Frisbee Competition: 2nd runner up and Sphere Showdown Competition:
 1st Runner up</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC__updated_2026_.jpg">
 </div>
 <p>Please click on <a href="https://www.zhonghuasec.moe.edu.sg/cca/schedule/" rel="noopener noreferrer nofollow" target="_blank">this link</a> for
 CCA schedule and contact details of CCA teachers.</p>
