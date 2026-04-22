@@ -48,34 +48,32 @@ to grow into women of moral integrity.</p>
 to NSG</p>
 </li>
 <li>
-<p>&nbsp;&nbsp; Year end BBQ cum homecoming for alumni</p>
+<p>Year-end BBQ cum homecoming for alumni</p>
 </li>
 </ul>
 <p><strong>Recent Achievements:</strong>
 </p>
 <ul>
 <li>
-<p>&nbsp; BM U16 Boys’ and Girls’ Basketball Invitational Championship 2022
-– 3rd Position</p>
-</li>
-<li>
-<p>&nbsp;&nbsp; South Zone C Division Basketball Championship 2022 – 4th
+<p>BM U16 Boys’ and Girls’ Basketball Invitational Championship 2022 – 3rd
 Position</p>
 </li>
 <li>
-<p>&nbsp; South Zone C Division Basketball Championship 2019 – 3rd Position</p>
+<p>South Zone 'C' Division Basketball Championship 2022 – 4th Position</p>
 </li>
 <li>
-<p>&nbsp;&nbsp; South Zone B Division Basketball Championship 2019 – 2nd
-Position</p>
+<p>South Zone 'C' Division Basketball Championship 2019 – 3rd Position</p>
 </li>
 <li>
-<p>&nbsp;&nbsp; South Zone C Division Basketball Championship 2018 – 2nd
-Position</p>
+<p>South Zone 'B' Division Basketball Championship 2019 – 2nd Position</p>
+</li>
+<li>
+<p>South Zone 'C' Division Basketball Championship 2018 – 2nd Position</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball__updated_2026_.jpg">
 </div>
 <p>Please click on <a href="https://www.zhonghuasec.moe.edu.sg/cca/schedule/" rel="noopener noreferrer nofollow" target="_blank">this link</a> for
 CCA schedule and contact details of CCA teachers.</p>
