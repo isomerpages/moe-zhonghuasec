@@ -146,17 +146,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>
-<br>
-</p>
-<p></p>
-<p>
-<br>
-</p>
 <h4><strong>CCA Guidelines</strong></h4>
 <p>CCAs are a key component of students’ holistic education.&nbsp;<strong>CCA participation is compulsory at the secondary school level</strong>,
 and every student is expected to participate in a&nbsp;<strong>school-based CCA</strong>.&nbsp;Secondary
