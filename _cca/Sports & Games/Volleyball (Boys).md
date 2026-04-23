@@ -19,19 +19,16 @@ working closely with the teachers in charge.</p>
 </p>
 <ul>
 <li>
-<p>Weekly Trainings</p>
+<p>Mid-Year &amp; Yead-end Holiday intensive trainings</p>
 </li>
 <li>
-<p>&nbsp; Mid-Year &amp; Yead-end Holiday intensive trainings</p>
+<p>South Zone ‘C’ Division &amp; ‘B’ Division Volleyball Competitions</p>
 </li>
 <li>
-<p>&nbsp; South Zone ‘C’ Division &amp; ‘B’ Division Volleyball Competitions</p>
+<p>Friendly competitions with other schools during school holidays</p>
 </li>
 <li>
-<p>&nbsp;&nbsp; Friendly competitions with other schools during school holidays</p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp; Mid-Year &amp; Year-End Bonding activities</p>
+<p>Mid-Year &amp; Year-End Bonding activities</p>
 </li>
 </ul>
 <p><strong>Recent Achievements:</strong>
@@ -48,15 +45,12 @@ working closely with the teachers in charge.</p>
 </li>
 <li>
 <p>2022 NSG South Zone 'B' Division (Participation)</p>
-</li>
-<li>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Volleyball__updated_2026_.jpg">
+</div>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Volleyball.jpg">
-</div>
-<p></p>
 <p>Please click on <a href="https://www.zhonghuasec.moe.edu.sg/cca/schedule/" rel="noopener noreferrer nofollow" target="_blank">this link</a> for
 CCA schedule and contact details of CCA teachers.</p>
 <p></p>
