@@ -62,7 +62,7 @@ the following personnel:</p>
 <p>Mr Leow Kim Siang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Treasurer</p>
+<p>Member</p>
 </td>
 </tr>
 <tr>
@@ -107,7 +107,15 @@ the following personnel:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Edmund Chong</p>
+<p>Mr Lim Chong Huat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Joseph Ang Choon Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
