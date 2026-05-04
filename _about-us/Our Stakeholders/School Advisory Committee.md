@@ -5,26 +5,18 @@ description: ""
 third_nav_title: Our Stakeholders
 variant: tiptap
 ---
-<p>The School Advisory Committee plays an active role in providing guidance
-to the school through the collective wealth of experience of its members
-with diverse backgrounds such as professionals, businessmen and grassroots
-leaders. Needy students also benefit from financial assistance provided
-by the School Advisory Committee. Our School Advisory Committee comprises
-the following personnel:</p>
+<p>The School Advisory Committee (SAC) plays an active role in providing
+guidance to the school through the collective wealth of experience of its
+members with diverse backgrounds such as professionals, businessmen and
+grassroots leaders. Needy students also benefit from financial assistance
+provided by the SAC.</p>
+<p>Our SAC comprises the following members:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Chuang Yong Eng</p>
