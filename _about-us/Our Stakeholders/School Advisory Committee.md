@@ -5,12 +5,12 @@ description: ""
 third_nav_title: Our Stakeholders
 variant: tiptap
 ---
-<p>The School Advisory Committee plays an active role in providing guidance
-to the school through the collective wealth of experience of its members
-with diverse backgrounds such as professionals, businessmen and grassroots
-leaders. Needy students also benefit from financial assistance provided
-by the School Advisory Committee. Our School Advisory Committee comprises
-the following personnel:</p>
+<p>The School Advisory Committee (SAC) plays an active role in providing
+guidance to the school through the collective wealth of experience of its
+members with diverse backgrounds such as professionals, businessmen and
+grassroots leaders. Needy students also benefit from financial assistance
+provided by the SAC.</p>
+<p>Our SAC comprises the following members:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -18,19 +18,11 @@ the following personnel:</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Chuang Yong Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Honorary Chairman</p>
+<p>Honorary Chairperson</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +30,7 @@ the following personnel:</p>
 <p>Mr Lim Guan Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Honorary Chairman</p>
+<p>Honorary Chairperson</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +38,7 @@ the following personnel:</p>
 <p>Mr Low Theng Whee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chairman</p>
+<p>Chairperson</p>
 </td>
 </tr>
 <tr>
@@ -59,10 +51,26 @@ the following personnel:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Joseph Ang Choon Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Leow Kim Siang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Treasurer</p>
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Chong Huat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
 </td>
 </tr>
 <tr>
@@ -100,14 +108,6 @@ the following personnel:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Zheng Huang Fang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Edmund Chong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
