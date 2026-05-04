@@ -22,7 +22,7 @@ provided by the SAC.</p>
 <p>Mdm Chuang Yong Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Honorary Chairman</p>
+<p>Honorary Chairperson</p>
 </td>
 </tr>
 <tr>
@@ -30,7 +30,7 @@ provided by the SAC.</p>
 <p>Mr Lim Guan Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Honorary Chairman</p>
+<p>Honorary Chairperson</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ provided by the SAC.</p>
 <p>Mr Low Theng Whee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chairman</p>
+<p>Chairperson</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +51,23 @@ provided by the SAC.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Joseph Ang Choon Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Leow Kim Siang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Chong Huat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -92,22 +108,6 @@ provided by the SAC.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Zheng Huang Fang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Chong Huat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Joseph Ang Choon Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
