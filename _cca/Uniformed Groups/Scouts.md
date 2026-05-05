@@ -14,47 +14,38 @@ wooden poles and with their knowledge of knots and lashings. Orienteering
 and backwoodsman cooking are other skills that our Scouts learn over the
 course of their scouting journey. Besides these core skills, our Scouts
 are also exposed to sports like kayaking, archery, bowling, and rock climbing.</p>
-<p>Besides annual camps, the Zhonghua Scout Group regularly visits neighboring
-countries to interact with and learn from Scouts there. We have held exchanges
-with Scout troops in countries such as Malaysia, Cambodia, Thailand, Vietnam,
-and Taiwan.</p>
 <p>Our Scout Group has performed well in national competitions over the years.
 We have achieved Silver and Gold Awards for National Patrol Camps and Silver
 for the National Pioneering competition. To date, our Scouts have attained
-16 Gold and 3 Silver awards in the prestigious Frank Cooper Sands Award.</p>
+16 Gold and 3 Silver awards in the prestigious Frank Cooper Sands Award
+prior to 2024 and Frank Cooper Sands Award (2024 to 2025).</p>
 <p><strong>Key Programmes:</strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>&nbsp; Founder’s Day</p>
+<p>Founder’s Day</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;Bonding Camps</p>
+<p>Annual Camp / Scout Leadership Camp</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;Leadership Camps</p>
+<p>Orienteering</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;Orienteering</p>
+<p>Bowling / Rockclimbing</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;Bowling / Rock climbing</p>
+<p>Basic First Aid Course / SANA Course / Civil Defence course</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;Basic First Aid course</p>
+<p>Aviation programme</p>
 </li>
 </ul>
 <p><strong>Recent Achievements:</strong>
 </p>
 <ul>
 <li>
-<p>Frank Cooper Sands Award (2024) - Gold</p>
-</li>
-<li>
-<p>Frank Cooper Sands Award (2023) - Gold</p>
-</li>
-<li>
-<p>Frank Cooper Sands Award (2022) - Gold</p>
+<p>Frank Cooper Sands Award - 2024 and 2025</p>
 </li>
 <li>
 <p>National Pioneering Competition – Silver (2022)</p>
