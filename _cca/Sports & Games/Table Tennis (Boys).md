@@ -19,28 +19,26 @@ and pursue&nbsp;<strong>Excellence</strong>&nbsp;by giving their all.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2024 NSG National 'C' Division League 2 (South Zone 'B' Division - Participation)</p>
+<p>2026 National School Games, South Zone 'B' Division - Participation</p>
 </li>
 <li>
-<p>2024 National School Games ‘B’ Division Competition (4th position in Preliminary
-Round)</p>
+<p>2025 National School Games - South Zone 'B' Division - 4th Place</p>
 </li>
 <li>
-<p>2024 National School Games ‘C’ Division Competition (4th position in South
-Zone)</p>
+<p>2025 National School Games - National 'B' Division - Participation</p>
 </li>
 <li>
-<p>2023 NSG South Zone 'C' Division 4th Position ('B' Division - Participation)</p>
+<p>2024 National School Games - South Zone 'B' Division - Participation</p>
+<p></p>
 </li>
 <li>
-<p>2023 National School Games ‘B’ Division Competition (4th position in Preliminary
-Round)</p>
+<p>2025 National School Games - National 'C' Division League 1 - Participation</p>
 </li>
 <li>
-<p>2022 NSG South Zone 'C' Division and 'B' Division Participation</p>
+<p>2024 National School Games - National 'C' Division League 2 - Participation</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Table_Tennis__updated_2026_.jpg">
 </div>
