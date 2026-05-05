@@ -52,19 +52,11 @@ of lifesavers and leaders.</p>
 <h4><strong>Recent Achievements:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>UOPA 2024 (Distinction)</p>
+<p>Unit Overall Proficiency Award (UOPA) - 2024 and 2025 (Distinction)</p>
 </li>
 <li>
-<p>NCDCC 20th Anniversary Logo Design Competition 2024 (Winner)</p>
-</li>
-<li>
-<p>UACDC 2024 (2nd Runner-up)</p>
-</li>
-<li>
-<p>UACDC 2023 (Champion)</p>
-</li>
-<li>
-<p>Urban Adventure Civil Defence Skills Challenge – National Champion (2023)</p>
+<p>Urban Adventure Civil Defence Skills Challenge (UACDC) - 2023 (Champion),
+2024 (2nd Runner-up), 2025 (1st Runner-up)</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC__updated_2026_.jpg">
