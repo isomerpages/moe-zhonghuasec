@@ -7,18 +7,16 @@ variant: tiptap
 ---
 <p>Zhonghua Secondary School National Cadet Corps (NCC) has been recognised
 for achieving the Distinction award for Unit Recognition excellence for
-28 years consecutively. This is a testament to the dedication and hard
+29 years consecutively. This is a testament to the dedication and hard
 work of our cadets and teacher officers.</p>
 <p>Our unit focuses on nurturing our cadets to become leaders with a resilient
-mind, fit body and committed heart. Our programmes build our cadets’ confidence
-and social skills. Activities such as airsoft rifle firing, dragonboat,
-high-elements at Forest Adventure, orienteering games, camouflage hide-and-seek,
-outfield cooking, and reconnaissance and surveillance keep our cadets active
-and engaged.</p>
-<p>On top of this, our cadets have been participating actively in fitness
-events organised by HQ NCC, such as the Fitness Challenge and NCC Sports
-and Games day. Through these activities, the cadets built a sense of camaraderie
-and teamwork on top of pushing their fitness limits.</p>
+mind, fit body and committed heart. Our programmes put our cadets to the
+limits and build their confidence and social skills. Our focus on leadership
+development meant that opportunities are curated to intentionally develop
+their leadership skills and 21 Century Competency skills.</p>
+<p>On top of this, our cadets have been participating actively in competitions
+organised by HQ NCC. These built a sense of camaraderie and teamwork on
+top of pushing their fitness limits.</p>
 <p><strong>Key Programmes:</strong>
 </p>
 <ul>
@@ -28,21 +26,21 @@ build the character and confidence of junior cadets.</p>
 </li>
 <li>
 <p>CAMP STEEL – To instill leadership skills as well as to build the character
-and confidence of Senior Cadets through military-related activities.</p>
+and confidence of Senior Cadets through military-related and high element
+activities.</p>
 </li>
 <li>
-<p>Specialist Course – To allow Cadet Leaders to enhance their instructional
-abilities in organising, conducting and executing Individual Field Craft,
-Technical Handling of SAR21 Weapon and Physical Fitness.</p>
+<p>Senior Specialist Leadership Course – To allow Cadet Leaders to enhance
+their instructional abilities in organising, conducting and executing Individual
+Field Craft, Technical Handling of SAR21 Weapon and Physical Fitness.</p>
 </li>
 <li>
-<p>Senior Specialist Course- To allow cadet leaders to enhance their instructional
-abilities in organising, conducting and executing some form of parades
-and ceremonies at their School Units.</p>
+<p>Freestyle Drill Squad – To allow cadets to exercise their creativity through
+choreography of freestyle drills for performances.</p>
 </li>
 <li>
-<p>Total Defence Bronze, Silver and Gold – To instill a sense of awareness
-of the importance in defending Singapore from external threats.</p>
+<p>Air Rifle Range - To allow cadets the opportunity to experience air rifle
+at a range</p>
 </li>
 <li>
 <p>Basic Train Fire Package – To allow cadets the opportunity to fire the
@@ -54,16 +52,21 @@ range.</p>
 </p>
 <ul>
 <li>
-<p>&nbsp;Unit Recognition Award (2024) - Distinction</p>
+<p>Unit Recognition Award – Distinction (since 1996)</p>
 </li>
 <li>
-<p>&nbsp;Unit Recognition Award (2023) – Distinction</p>
+<p>16th Freestyle Drill Competition (2026) – 4th in East District</p>
 </li>
 <li>
-<p>&nbsp;Unit Recognition Award (2022) – Distinction</p>
+<p>42nd Orienteering Competition (2025) – 2nd in East District</p>
+</li>
+<li>
+<p>NCC Sports Championship 2024 (Football) – 1st in East District</p>
+</li>
+<li>
+<p>40th Orienteering Competition (2023) - 1st</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC__updated_2026_.jpg">
 </div>
