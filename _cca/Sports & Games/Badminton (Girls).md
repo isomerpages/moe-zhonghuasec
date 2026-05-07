@@ -8,23 +8,25 @@ variant: tiptap
 <p>In Zhonghua Secondary School’s Badminton, we believe in giving every member
 an opportunity to give her best and display her competitive spirit, even
 if they have little or no experience in sports at all. The team is made
-up of a relatively small group of 45 girls and most of the girls were selected
-through yearly Sec 1 trials. We also welcome Primary 6 girls, who had represented
-their primary schools for zonal Badminton competitions and shared our school
-values to be part of our school team, once they have successfully cleared
-the DSA interviews for Primary 6 students. We witness with pride the development
-of the girls in agility, confidence and resilience during the competitions
-pitting against stronger contenders from other schools during the National
-School Games in B and C Divisions.</p>
+up of a relatively small group of about 45 girls and most of the girls
+were selected through yearly Sec 1 trials.</p>
+<p>We also welcome Primary 6 girls, who had represented their primary schools
+for zonal Badminton competitions and shared our school values to be part
+of our school team, once they have successfully cleared the DSA interviews
+for Primary 6 students.</p>
+<p>We witness with pride the development of the girls in agility, confidence
+and resilience during the competitions pitting against stronger contenders
+from other schools during the National School Games in the 'B' and 'C'
+Divisions.</p>
 <p>Trainings are usually held on Mondays and Thursdays after lessons whereas
 game sessions during holiday trainings occasionally include few friendly
 matches with other schools. Weekly trainings are conducted by experienced
-coaches, who closely with the teachers in charge.</p>
+coaches, who work closely with the teachers-in-charge.</p>
 <p><strong>Key Programmes:</strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Weekly trainings &nbsp;</p>
+<p>Weekly trainings</p>
 </li>
 <li>
 <p>Mid-Year &amp; Year-end Holiday intensive trainings</p>
@@ -33,24 +35,25 @@ coaches, who closely with the teachers in charge.</p>
 <p>National School Games ‘B’ Division &amp; ‘C’ Division Badminton Competition</p>
 </li>
 <li>
-<p>Student Helpers’ Duty @ Zhonghua Sec (Hosting venue) for SZ ‘B’ Div Badminton</p>
-</li>
-<li>
-<p>Open Badminton Competition (if available)</p>
-</li>
-<li>
 <p>Friendly matches with other schools</p>
 </li>
 <li>
-<p>Mid-Year &amp; Year-end Bonding Activities</p>
+<p>Bonding Day Activities in March</p>
+</li>
+<li>
+<p>Open Badminton Competition (if available)</p>
 </li>
 </ul>
 <p><strong>Recent Achievements:</strong>
 </p>
 <ul>
 <li>
-<p>2023 &amp; 2024 South Zone ‘B’ &amp; 'C' Division Badminton Competition
-(participation)</p>
+<p>NSG 'C' Division League 2 Badminton Competition (Participation) - 2024
+and 2025</p>
+</li>
+<li>
+<p>NSG South Zone ‘B’ Division Badminton Competition (Participation) - 2024
+and 2025</p>
 </li>
 <li>
 <p>2024 National School Games (NSG) Opening Ceremony representing Singapore

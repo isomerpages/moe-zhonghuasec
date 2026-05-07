@@ -72,19 +72,13 @@ peers and work effectively together.</p>
 </p>
 <ul>
 <li>
-<p>Company Award– Gold (2022-2025)</p>
+<p>Company Award – Gold (2022-2025)</p>
 </li>
 <li>
-<p>National Drill Competition 2025 (Gold)</p>
+<p>National Drill Competition - 2023 (Gold &amp; Silver); 2025 (Gold)</p>
 </li>
 <li>
-<p>Dr Low Guat Tin Challenge 2024 (Silver)</p>
-</li>
-<li>
-<p>National Drill Competition 2023 - Team 1 (Gold) &amp; Team 2 (Silver)</p>
-</li>
-<li>
-<p>Dr Low Guat Tin Challenge 2022 (Gold)</p>
+<p>Dr Low Guat Tin Challenge - 2022 (Gold); 2024 (Silver)</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girls_Brigade__updated_2026_.jpg">

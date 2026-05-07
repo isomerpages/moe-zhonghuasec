@@ -32,43 +32,31 @@ to grow into women of moral integrity.</p>
 </p>
 <ul>
 <li>
-<p>Bonding camp in March holiday</p>
+<p>Bonding Day in March</p>
 </li>
 <li>
 <p>Mental skills training for peak performance</p>
 </li>
 <li>
-<p>Teambuilding activities during off-season</p>
+<p>Teambuilding activities during off-peak season</p>
 </li>
 <li>
 <p>National School Games (NSG) Basketball Championship</p>
 </li>
 <li>
-<p>Friendly games with schools across the four different zones leading up
-to NSG</p>
-</li>
-<li>
-<p>Year-end BBQ cum homecoming for alumni</p>
+<p>Friendly games with other schools</p>
 </li>
 </ul>
 <p><strong>Recent Achievements:</strong>
 </p>
 <ul>
 <li>
-<p>BM U16 Boys’ and Girls’ Basketball Invitational Championship 2022 – 3rd
-Position</p>
+<p>2026 B Division Basketball Association of Singapore (BAS) Development
+League (Top 8)</p>
 </li>
 <li>
-<p>South Zone 'C' Division Basketball Championship 2022 – 4th Position</p>
-</li>
-<li>
-<p>South Zone 'C' Division Basketball Championship 2019 – 3rd Position</p>
-</li>
-<li>
-<p>South Zone 'B' Division Basketball Championship 2019 – 2nd Position</p>
-</li>
-<li>
-<p>South Zone 'C' Division Basketball Championship 2018 – 2nd Position</p>
+<p>2025 Bukit Merah U16 Boys’ &amp; Girls’ Invitational Basketball Championship
+Group 3 (2nd Position)</p>
 </li>
 </ul>
 <p></p>
