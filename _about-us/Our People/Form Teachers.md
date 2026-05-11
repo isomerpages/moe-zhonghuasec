@@ -45,21 +45,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Fu Chee Sheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fu_chee_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fu_chee_sheng@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-114</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1C1</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -426,20 +411,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-152</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Yuan Poh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-151</p>
 </td>
 </tr>
 <tr>
