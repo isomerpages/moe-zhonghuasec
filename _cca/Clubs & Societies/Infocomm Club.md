@@ -5,14 +5,19 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
-<p>The role that technology plays in our lives is ever increasing. It is
-therefore crucial for our youth to gain skills to harness and manage the
-use of technology. The InfoComm Club (ICC) seeks to stretch and deepen
-students’ knowledge in tech and media through various learning programmes
-in such areas as Videography, Game Design and Programming, Makers and Artificial
-Intelligence. With curated programmes and activities, members of ICC will
-be able to ignite their passion and develop computational thinking and
-other 21st Century Competencies. &nbsp;</p>
+<p>Technology plays an increasingly important role in our daily lives. At
+the InfoComm Club (ICC), students develop the skills and confidence to
+harness technology effectively and responsibly.</p>
+<p>Through a range of structured and hands-on programmes, students deepen
+their knowledge in areas such as Artificial Intelligence, Robotics and
+Web Application Development through Design Thinking. Members also receive
+AVA training and play a key role in supporting school events, gaining valuable
+experience in managing sound, lighting and multimedia systems.</p>
+<p>These authentic learning opportunities enable students to develop computational
+thinking, teamwork, and problem-solving skills, while nurturing creativity
+and innovation. With curated programmes and activities, members of ICC
+will be able to ignite their passion and develop computational thinking
+and other 21st Century Competencies.</p>
 <p>Get ready to solve the world’s greatest problems and showcase your skills!
 Along the way, learn to work effectively in teams, sharpen your mind and
 express your inner creativity.</p>
@@ -20,7 +25,7 @@ express your inner creativity.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Videography</p>
+<p>AVA training</p>
 </li>
 <li>
 <p>Artificial Intelligence</p>
@@ -29,23 +34,25 @@ express your inner creativity.</p>
 <p>Robotics</p>
 </li>
 <li>
-<p>App/Game Design</p>
-</li>
-<li>
-<p>VR/AR Design</p>
-</li>
-<li>
-<p>Python Programming</p>
-</li>
-<li>
-<p>Drones Programming</p>
+<p>Web Application Development through Design Thinking</p>
 </li>
 </ul>
 <p><strong>Recent Achievements:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>2026 - BEBRAS Competition (9 Golds, 3 Silvers, 9 Bronzes)</p>
+</li>
+<li>
+<p>2025 - National Robotics Competition - Regular Category (Best Robot Performance)
+3rd Place</p>
+</li>
+<li>
 <p>2025 - BEBRAS Competition (5 Golds, 3 Silvers, 6 Bronzes)</p>
+</li>
+<li>
+<p>2025 - National Junior Informatics Olympiad (NJIO) (5 Gold, 9 Silver,
+4 Bronze)</p>
 </li>
 <li>
 <p>2024 - Design Thinking with Robotics and Computational Thinking (5 Golds,
@@ -55,19 +62,10 @@ express your inner creativity.</p>
 <p>2024 - National Robotics Competition - Regular Category (Best learning
 Journey) 3rd place</p>
 </li>
-<li>
-<p>2023 - National Robotics Competition - Regular Category Champion</p>
-</li>
-<li>
-<p>2023 - Global Robotics Games (Mobile Robotics 3 Category 1st Runner-up)</p>
-</li>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/collage__1_.jpg">
 </div>
-<p>
-<br>
-</p>
 <p>Please click on <a href="https://www.zhonghuasec.moe.edu.sg/cca/schedule/" rel="noopener noreferrer nofollow" target="_blank">this link</a> for
 CCA schedule and contact details of CCA teachers.</p>
