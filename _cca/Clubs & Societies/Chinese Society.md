@@ -32,7 +32,7 @@ community.</p>
 </li>
 </ul>
 <p><strong>Recent Achievements:</strong>
-<br><strong>Drama</strong> 
+<br><strong>Drama</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -61,11 +61,9 @@ community.</p>
 Group Encouragement Award</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_Society.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_Society__Updated_.jpg">
 </div>
-<p>
-<br>
-</p>
 <p>Please click on <a href="https://www.zhonghuasec.moe.edu.sg/cca/schedule/" rel="noopener noreferrer nofollow" target="_blank">this link</a> for
 CCA schedule and contact details of CCA teachers.</p>
