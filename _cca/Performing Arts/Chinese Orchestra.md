@@ -51,8 +51,9 @@ and to share the joy of Chinese music with others.</p>
 Distinction from 2013 to 2025</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO__Updated_.jpg">
 </div>
 <p>Please click on <a href="https://www.zhonghuasec.moe.edu.sg/cca/schedule/" rel="noopener noreferrer nofollow" target="_blank">this link</a> for
 CCA schedule and contact details of CCA teachers.</p>
