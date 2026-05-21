@@ -33,7 +33,6 @@ community.</p>
 </ul>
 <p><strong>Recent Achievements:</strong>
 <br><strong>Drama</strong> 
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -55,18 +54,11 @@ community.</p>
 </li>
 <li>
 <p>Zhang Shou Shi National Calligraphy and Chinese Painting Competition 2022
-–&nbsp; Merit Award</p>
+– Merit Award</p>
 </li>
 <li>
 <p>Chou Sing Chu Foundation Chinese Calligraphy Competition 2022 - Interschool
 Group Encouragement Award</p>
-</li>
-<li>
-<p>10th National Primary and Secondary School Chinese Calligraphy Competition
-2021 – Merit Award</p>
-</li>
-<li>
-<p>9th National Chinese Calligraphy Competition 2020 – Merit Award</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
