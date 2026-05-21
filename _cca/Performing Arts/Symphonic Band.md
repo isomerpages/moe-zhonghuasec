@@ -48,7 +48,7 @@ tutors</p>
 (Concert Band)</p>
 </li>
 <li>
-<p>2024 - Asia Pacific Band Festival 2024 (Gold Award)</p>
+<p>2024 Asia Pacific Band Festival 2024 (Gold Award)</p>
 </li>
 <li>
 <p>2023 Singapore Youth Festival Arts Presentation – Certificate of Accomplishment
@@ -57,13 +57,10 @@ tutors</p>
 <li>
 <p>2022 Singapore International Band Festival – Silver</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band__Updated_.jpg">
+</div>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band.jpg">
-</div>
-<p>
-<br>
-</p>
 <p>Please click on <a href="https://www.zhonghuasec.moe.edu.sg/cca/schedule/" rel="noopener noreferrer nofollow" target="_blank">this link</a> for
 CCA schedule and contact details of CCA teachers.</p>
