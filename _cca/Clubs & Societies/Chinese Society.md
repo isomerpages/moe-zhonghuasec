@@ -32,8 +32,7 @@ community.</p>
 </li>
 </ul>
 <p><strong>Recent Achievements:</strong>
-<br><strong>Drama</strong> 
-<br>
+<br><strong>Drama</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -55,25 +54,16 @@ community.</p>
 </li>
 <li>
 <p>Zhang Shou Shi National Calligraphy and Chinese Painting Competition 2022
-–&nbsp; Merit Award</p>
+– Merit Award</p>
 </li>
 <li>
 <p>Chou Sing Chu Foundation Chinese Calligraphy Competition 2022 - Interschool
 Group Encouragement Award</p>
 </li>
-<li>
-<p>10th National Primary and Secondary School Chinese Calligraphy Competition
-2021 – Merit Award</p>
-</li>
-<li>
-<p>9th National Chinese Calligraphy Competition 2020 – Merit Award</p>
-</li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_Society.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_Society__Updated_.jpg">
 </div>
-<p>
-<br>
-</p>
 <p>Please click on <a href="https://www.zhonghuasec.moe.edu.sg/cca/schedule/" rel="noopener noreferrer nofollow" target="_blank">this link</a> for
 CCA schedule and contact details of CCA teachers.</p>

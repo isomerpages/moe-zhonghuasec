@@ -23,13 +23,13 @@ discipline, communication, and teamwork.</p>
 <p>Enrichment dance lessons</p>
 </li>
 <li>
-<p>Team Bonding Camps</p>
+<p>Dance workshops by MOE Arts Education Branch</p>
 </li>
 <li>
 <p>Cross-CCA experience</p>
 </li>
 <li>
-<p>Reflect and Recharge (R&amp;R) Camp</p>
+<p>Dance Bonding Day</p>
 </li>
 </ul>
 <p><strong>Recent Achievements:</strong>
@@ -41,16 +41,10 @@ discipline, communication, and teamwork.</p>
 <li>
 <p>Singapore Youth Festival Arts Presentation 2023: Certificate of Distinction</p>
 </li>
-<li>
-<p>Singapore Youth Festival Arts Presentation 2021: Certificate of Accomplishment</p>
-<p></p>
-</li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance__Updated_.jpg">
 </div>
-<p>
-<br>
-</p>
 <p>Please click on <a href="https://www.zhonghuasec.moe.edu.sg/cca/schedule/" rel="noopener noreferrer nofollow" target="_blank">this link</a> for
 CCA schedule and contact details of CCA teachers.</p>
