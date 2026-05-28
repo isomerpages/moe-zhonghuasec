@@ -29,9 +29,5 @@ in one or more of the following:</p>
 <p>Student Leadership</p>
 </li>
 </ul>
-<p>To find out more, visit our DSA Information portal at:
-<br>
-</p>
-<p></p>
-<p>at:&nbsp;&nbsp;<a href="https://go.gov.sg/zhonghuasec-dsa" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/zhonghuasec-dsa</u></a>
+<p>To find out more, visit our DSA Information portal at:&nbsp;&nbsp;<a href="https://go.gov.sg/zhonghuasec-dsa" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/zhonghuasec-dsa</u></a>
 </p>
