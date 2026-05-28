@@ -6,7 +6,7 @@ description: ""
 image: ""
 variant: tiptap
 external: sites.google.com/moe.edu.sg/zhsssubjcombi2027
-permalink: /highlights/announcements/permalink/
+permalink: /sec2-subject-combination-2026/
 ---
 <p>Dear parents/guardians of Secondary 2 (2026) students,</p>
 <p>Please refer to this microsite (<a href="https://sites.google.com/moe.edu.sg/zhsssubjcombi2027/home?authuser=0" rel="noopener nofollow" target="_blank">link</a>)
