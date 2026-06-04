@@ -7,3 +7,14 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2026_O_level_Prelim_timetable.pdf" rel="noopener nofollow" target="_blank">2026 O Level Prelim timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026_N_level_Prelim_timetable.pdf" rel="noopener nofollow" target="_blank">2026 N Level Prelim timetable</a>
+</p>
+</li>
+</ul>
+<p></p>
