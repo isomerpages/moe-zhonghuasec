@@ -206,7 +206,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/3R4__Term_3_.pdf" rel="noopener nofollow" target="_blank">3R4</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/3R5__Term_3_.pdf" rel="noopener nofollow" target="_blank">3R5</a>
