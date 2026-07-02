@@ -157,10 +157,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2I7__6_July_2026_.pdf" rel="noopener nofollow" target="_blank">2I7</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2I8__6_July_2026_.pdf" rel="noopener nofollow" target="_blank">2I8</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -192,28 +194,36 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/3R1__6_July_2026_.pdf" rel="noopener nofollow" target="_blank">3R1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/3R2__6_July_2026_.pdf" rel="noopener nofollow" target="_blank">3R2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/3R3__6_July_2026_.pdf" rel="noopener nofollow" target="_blank">3R3</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/3R4__6_July_2026_.pdf" rel="noopener nofollow" target="_blank">3R4</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/3R5__6_July_2026_.pdf" rel="noopener nofollow" target="_blank">3R5</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/3R6__6_July_2026_.pdf" rel="noopener nofollow" target="_blank">3R6</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/3R7__6_July_2026_.pdf" rel="noopener nofollow" target="_blank">3R7</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/3R8__6_July_2026_.pdf" rel="noopener nofollow" target="_blank">3R8</a>
+</p>
 </td>
 </tr>
 <tr>
