@@ -255,7 +255,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/4E1__6_July_2026_.pdf" rel="noopener nofollow" target="_blank">4E1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
