@@ -59,7 +59,7 @@ of lifesavers and leaders.</p>
 2024 (2nd Runner-up), 2025 (1st Runner-up)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC__updated_2026_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_1__updated_2026_.jpg">
 </div>
 </li>
 </ul>
