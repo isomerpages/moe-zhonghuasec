@@ -893,6 +893,21 @@ variant: tiptap
 <p>65938-143</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Christopher Teo Ming Jian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:christopher_teo_ming_jian@moe.edu.sg" rel="noopener nofollow" target="_blank">christopher_teo_ming_jian@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Secondary 4 2026</strong></h4>
