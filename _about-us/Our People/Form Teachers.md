@@ -228,21 +228,6 @@ variant: tiptap
 <p>1C7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Yit Chien</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chen_yit_chien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_yit_chien@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-125</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Tan Bee Yeng Magdalene</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -448,21 +433,6 @@ variant: tiptap
 <p>2I4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Noraini Bte Mohamed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:noraini_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noraini_mohamed@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-166</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Loh Guan Wee Vincent</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -486,6 +456,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-164</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Noraini Bte Mohamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:noraini_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>noraini_mohamed@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -807,6 +792,21 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr ChristopherTeo Ming Jian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:christopher_teo_ming_jian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>christopher_teo_ming_jian@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-164</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Tan Si Hui Amanda</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -814,7 +814,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-164</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -845,6 +845,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-160</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Edwin Teo Wee Luen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>edwin_teo_ wee_luen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
