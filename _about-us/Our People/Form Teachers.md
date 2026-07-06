@@ -777,14 +777,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr ChristopherTeo Ming Jian</p>
+<p>Mr Timothy Leong Tze Ian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:christopher_teo_ming_jian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>christopher_teo_ming_jian@moe.edu.sg</u></a>
+<p><a href="mailto:timothy_leong_tze_ian@moe.edu.sg" rel="noopener nofollow" target="_blank">timothy_leong_tze_ian@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-164</p>
+<p>65938-204</p>
 </td>
 </tr>
 <tr>
