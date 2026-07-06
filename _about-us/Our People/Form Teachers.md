@@ -463,10 +463,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Destiny See Yeo Sin</p>
+<p>Mdm Joyce Tan Hong Lan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:see_yeo_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_yeo_sin@moe.edu.sg</a>
+<p><a href="mailto:joyce_tan_hong_lan@moe.edu.sg" rel="noopener nofollow" target="_blank">joyce_tan_hong_lan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
