@@ -470,7 +470,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>65938-166</p>
 </td>
 </tr>
 <tr>
@@ -576,21 +576,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>65938-163</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Timothy Leong Tze Ian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:timothy_leong_tze_ian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">timothy_leong_tze_ian@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-204</p>
 </td>
 </tr>
 <tr>
@@ -855,10 +840,11 @@ variant: tiptap
 <p>Mr Edwin Teo Wee Luen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>edwin_teo_ wee_luen</p>
+<p><a href="edwin_teo_wee_luen@moe.edu.sg" rel="noopener nofollow" target="_blank">edwin_teo_ wee_luen@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -912,7 +898,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Christopher Teo Ming Jian</p>
+<p>Mr ChristopherTeo Ming Jian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:christopher_teo_ming_jian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_teo_ming_jian@moe.edu.sg</a>
