@@ -403,6 +403,21 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Salim Bin Abdul Rashid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:salim_abdul_rashid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">salim_abdul_rashid@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Wong Min Tzu, Sharilyn</p>
 </td>
 <td rowspan="1" colspan="1">
