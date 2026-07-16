@@ -403,6 +403,21 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Salim Bin Abdul Rashid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:salim_abdul_rashid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">salim_abdul_rashid@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65938-149</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Wong Min Tzu, Sharilyn</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -448,14 +463,14 @@ variant: tiptap
 <p>2I4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Guan Wee Vincent</p>
+<p>Ms Calista Chan Kai Wai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_guan_wee_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_guan_wee_vincent@moe.edu.sg</a>
+<p><a href="mailto:chan_kai_wai_calista@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_kai_wai_calista@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-150</p>
+<p>65938-135</p>
 </td>
 </tr>
 <tr>
@@ -478,14 +493,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Noraini Bte Mohamed</p>
+<p>Mr Loh Guan Wee Vincent</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noraini_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>noraini_mohamed@moe.edu.sg</u></a>
+<p><a href="mailto:loh_guan_wee_vincent@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_guan_wee_vincent@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65938-166</p>
+<p>65938-150</p>
 </td>
 </tr>
 <tr>
@@ -521,21 +536,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>2I6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Calista Chan Kai Wai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chan_kai_wai_calista@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_kai_wai_calista@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65938-135</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Teing Im</p>
