@@ -12,6 +12,23 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Outstanding Youth in Education Award (OYEA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lena Teo Ying Hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Public Service Transformation (PST) Exemplary Service Excellence Award
+(ESEA) 2025 Finalist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Jun Hong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>National Day Awards 2025</p>
 </td>
 <td rowspan="1" colspan="1">
