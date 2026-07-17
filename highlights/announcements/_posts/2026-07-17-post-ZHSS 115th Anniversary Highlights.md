@@ -7,7 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zsBu-1FBa_8?si=KL_2XJcTbZAUSHBj"></iframe>
 </div>
