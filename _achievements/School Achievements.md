@@ -4,32 +4,19 @@ permalink: /achievements/school-achievements/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Organisational Excellence</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Green Schools @ South East
-<br>(Sustained Excellence Honorary Award)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023 - 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Green Awards 2023 (Yellow Flame)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023 - 2024</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4><strong>2025 National Exam Results at the top</strong></h4>
+<p><u>2025 GCE O-Level Results</u>
+</p>
+<p>99.01% of Sec 4 Express students eligible for JC/MI and</p>
+<p>100% of Sec 4 Express students eligible for Polytechnic.</p>
+<h4><strong><u>2025 GCE N-Level Results</u></strong></h4>
+<p>Normal Academic</p>
+<p>60.0% eligible for Polytechnic Foundation Programme (PFP)
+<br>88.6% eligible for promotion to Direct-to-Polytechnic Programme (DPP)
+<br>97.1% eligible for promotion to Secondary 5</p>
+<p>&nbsp;</p>
+<p>Normal Technical
+<br>100% eligible for ITE</p>
 <p></p>
 <h3><strong>2024 National Exam Results</strong></h3>
 <h4><strong>2024 GCE O-Level Results</strong></h4>
@@ -99,5 +86,34 @@ variant: tiptap
 <br>96.1% eligible for promotion to Secondary 5</p>
 <p><strong>Normal Technical</strong>
 <br>100% eligible for ITE</p>
+<p></p>
+<h4><strong>Organisational Excellence</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Green Schools @ South East
+<br>(Sustained Excellence</p>
+<p>Honorary Award)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023 - 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Green Awards (Yellow Flame)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023 - 2024</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <hr>
 <p></p>
