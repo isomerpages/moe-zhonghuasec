@@ -14,10 +14,8 @@ variant: tiptap
 <p>60.0% eligible for Polytechnic Foundation Programme (PFP)
 <br>88.6% eligible for promotion to Direct-to-Polytechnic Programme (DPP)
 <br>97.1% eligible for promotion to Secondary 5</p>
-<p>&nbsp;</p>
-<p>Normal Technical
+<p>&nbsp;Normal Technical
 <br>100% eligible for ITE</p>
-<p></p>
 <h3><strong>2024 National Exam Results</strong></h3>
 <h4><strong>2024 GCE O-Level Results</strong></h4>
 <p>98.0% of Sec 4 Express students eligible for JC/MI
