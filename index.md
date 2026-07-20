@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Highlights
           description: ""
-          url: /achievements/school-achievements/
+          url: zhss-115th-anniversary-merchandise/
         - title: Zhonghua Signature Programmes
           description: ""
           url: programmes/zhonghua-signature-programmes/
