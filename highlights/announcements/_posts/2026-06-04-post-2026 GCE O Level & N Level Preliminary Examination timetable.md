@@ -13,7 +13,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2026_N_level_Prelim_timetable.pdf" rel="noopener nofollow" target="_blank">2026 N Level Prelim timetable</a>
+<p><a href="/files/2026_N_level_Prelim_timetable__01_.pdf" rel="noopener nofollow" target="_blank">2026 N Level Prelim timetable</a>
 </p>
 </li>
 </ul>
