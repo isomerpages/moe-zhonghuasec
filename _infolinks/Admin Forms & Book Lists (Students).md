@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Application Form for Straits Times School Pocket Money Fund 2026
+<p>Application Form for Straits Times School Pocket Money Fund 2027
 <br>(<strong>Closing date : 31st August 2026</strong>)</p>
 <ol data-tight="true" class="tight">
 <li>
