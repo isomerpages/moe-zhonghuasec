@@ -75,7 +75,7 @@ provided by the SAC.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Lay Choo</p>
+<p>Ms Lim Lay Choo Jennifer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
