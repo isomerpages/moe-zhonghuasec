@@ -13,6 +13,10 @@ the holistic development of their students. Nominate a caring teacher today!</p>
 </div>
 <p></p>
 <hr>
+<p><strong>2026 Sec 1-3 End-Of-Year Exam</strong>
+</p>
+<p><a href="2026 Sec 1-3 EOY Exam Timetable - Google Sheets" rel="noopener nofollow" target="_blank">2026 Sec 1-3 End-Of-Year Exam</a>
+</p>
 <p><strong>2025 Sec 1-3 End-Of-Year Exam</strong>
 </p>
 <p><a href="https://docs.google.com/spreadsheets/d/1NURGuwdi8AImbiqfLx4Ietwk5E4GIbkTxJE_lzreWFQ/edit?pli=1&amp;gid=665736976#gid=665736976" rel="noopener nofollow" target="_blank">2025 Sec 1-3 End-Of-Year Exam</a>
@@ -26,4 +30,5 @@ the holistic development of their students. Nominate a caring teacher today!</p>
 <p><a href="/files/2025_Sec_4N_4T_Prelim_timetable__1_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4N 4T Prelim</a>
 </p>
 <hr>
+<p></p>
 <p></p>
